@@ -2,12 +2,13 @@
 
 # Achats
 
-<sub>12 actus · priorité haute</sub>
+<sub>13 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Octobre 2026
 
+- **dim. 11 oct.** · [Commande publique : notation, sous-critères et exécution, les leçons de septembre 2026](../veille/2026-10/2026-10-11/commande-publique-notation-sous-criteres-et-execution-les-le.md) <sub>· Jurisprudence · **Utile CPAM** · 7.3/10</sub>
 - **ven. 9 oct.** · [Clause de révision absente : marché valide, pénalités réduites de 50 %](../veille/2026-10/2026-10-09/clause-de-revision-absente-marche-valide-penalites-reduites.md) <sub>· Exécution des marchés · **Utile CPAM** · 8/10</sub>
 - **ven. 9 oct.** · [Fuite d'informations confidentielles : pas d'annulation automatique de la procédure](../veille/2026-10/2026-10-09/fuite-d-informations-confidentielles-pas-d-annulation-automa.md) <sub>· Procédures · 7/10</sub>
 - **ven. 9 oct.** · [FDES et marchés publics : comment intégrer ces fiches dans vos consultations](../veille/2026-10/2026-10-09/fdes-et-marches-publics-comment-integrer-ces-fiches-dans-vos.md) <sub>· Achat durable · 7/10</sub>

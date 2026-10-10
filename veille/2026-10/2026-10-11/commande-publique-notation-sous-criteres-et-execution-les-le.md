@@ -1,0 +1,104 @@
+<sub>[Accueil](../../../README.md) › [Veille](../../README.md) › [Octobre 2026](../README.md) › [Dimanche 11 octobre 2026](../2026-10-11.md)</sub>
+
+# Commande publique : notation, sous-critères et exécution, les leçons de septembre 2026
+
+<sub>`Achats` `Droit (perso)` · Jurisprudence · **Utile CPAM** · Blog de Me André Icard · 7.3/10 · VP, art. L. 2142-1, R. 2142-14, L. 2152-2, L. 2152-7, L. 6 et R. 2185-1 ; L. 2512-5 ; CJA, art. L. 551-1 · 1 min</sub>
+
+> Une chronique de jurisprudence recense quatorze décisions de septembre 2026 sur la passation et l'exécution des contrats. Le juge y sanctionne les méthodes de notation faussées, les exigences techniques floues et les exclusions mal motivées.
+
+**À retenir**
+
+- Défaillances passées : pas de motif automatique d'écarter un candidat
+- Notation qui neutralise le prix et sous-critères non publiés : irrégulières
+- Annoncez vos sous-critères et vérifiez que la notation départage les offres
+
+La chronique de jurisprudence de septembre 2026 recense quatorze décisions de la commande publique. Elle ne crée aucune règle nouvelle : elle montre comment le juge applique les textes existants. Trois tendances se dégagent, selon l'auteur : un contrôle exigeant des opérations de sélection, une appréciation concrète de l'exécution du contrat, et une vigilance procédurale sur les délais et la signature.
+
+Côté passation, plusieurs pratiques sont sanctionnées. Un acheteur ne peut écarter un candidat au seul motif de défaillances passées : il doit examiner les effectifs, les références et les expériences présentés. Une offre ne peut être rejetée pour l'absence d'une exigence technique qui n'était pas clairement imposée dans les documents de consultation. Une méthode de notation qui neutralise une partie du critère du prix fausse la comparaison des offres. Des sous-critères importants non annoncés posent aussi problème.
+
+Côté exécution, la gravité d'une faute s'apprécie aussi par la répétition des manquements. Un surcoût inférieur à 3 % de la rémunération globale n'a pas suffi à caractériser l'imprévision dans une espèce. Enfin, si l'acheteur résilie sans établir le décompte de liquidation, il ne peut opposer les délais de réclamation dans les conditions ordinaires. En pratique : annoncez vos sous-critères et vérifiez que votre notation départage réellement les offres.
+
+<details>
+<summary><b>Version détaillée</b> · 5 min</summary>
+
+#### Une chronique, pas un texte nouveau
+
+La source est une chronique de jurisprudence publiée sur le blog de Me André Icard, consacrée au mois de septembre 2026. Elle rassemble quatorze décisions classées par thème et par date, rendues par des tribunaux administratifs et des cours administratives d'appel.
+
+L'auteur le précise lui-même : la sélection ne prétend pas recenser toutes les décisions du mois. Elle retient les principales et leurs enseignements contentieux.
+
+Aucune règle nouvelle n'est créée. Ces décisions illustrent l'application des textes existants : égalité de traitement entre candidats, transparence des méthodes de notation, obligation de justifier les exclusions, nécessité d'établir précisément les manquements reprochés au titulaire.
+
+Trois tendances se dégagent : un contrôle exigeant des opérations de sélection, une appréciation concrète de l'exécution contractuelle, et une vigilance procédurale sur les délais et la signature du contrat.
+
+#### Passation : transparence, notation et candidatures
+
+Le TA Grenoble (7 septembre 2026, n° 2608808) juge que des difficultés rencontrées dans l'exécution de contrats antérieurs ne suffisent pas à écarter une candidature. L'acheteur doit aussi examiner les effectifs, les références et les autres expériences du soumissionnaire. En l'espèce, il ne l'avait pas fait. Les textes visés sont les articles L. 2142-1 et R. 2142-14 du code de la commande publique.
+
+Le TA Nancy (10 septembre 2026, n° 2603018) annule le rejet d'une offre dans un marché de transport d'élèves et d'étudiants en situation de handicap. L'acheteur reprochait l'absence d'un dispositif anti-endormissement du conducteur. Mais les documents de consultation ne rendaient pas cette exigence clairement obligatoire. Une offre s'apprécie au regard des prescriptions réellement imposées, pas d'exigences implicites reconstruites après coup.
+
+Le TA Lille (16 septembre 2026, n° 2609169) censure une méthode de notation du prix sur 40 points. Comme un candidat avait proposé un taux nul, la formule attribuait zéro point à tous sur certains postes. Cette neutralisation artificielle pouvait empêcher la sélection de l'offre économiquement la plus avantageuse. Le juge vise les articles L. 3 et L. 2152-7 du CCP.
+
+Le TA Nîmes (17 septembre 2026, n° 2603912) rappelle que la transparence ne s'arrête pas aux critères principaux. La valeur technique pesait 55 % de la note, et l'analyse reposait sur sept sous-critères pondérés jamais annoncés aux candidats. Compte tenu de leur importance, ils auraient dû figurer dans les documents de consultation.
+
+Le TA Montpellier (23 septembre 2026, n° 2607006) ajoute qu'une analyse dénaturant les moyens réellement proposés dans une offre peut entraîner l'annulation de la procédure.
+
+#### Exécution : prouver les manquements, mesurer le bouleversement
+
+La CAA Toulouse (10 septembre 2026, n° 24TL02351) confirme la résiliation d'un marché de surveillance et de gardiennage d'installations affectées au service public des transports. Le titulaire avait commis des manquements répétés à ses obligations de surveillance et de sécurité.
+
+L'enseignement est utile : la gravité de la faute ne se mesure pas seulement incident par incident. La répétition des défaillances, leur nature et les risques qu'elles font peser sur le service comptent aussi.
+
+La CAA Marseille (14 septembre 2026, n° 25MA01781) rejette une demande d'indemnisation pour imprévision fondée sur l'article L. 6 du CCP. Le surcoût allégué représentait moins de 3 % de la rémunération globale du titulaire. L'auteur souligne que cet arrêt ne fixe pas un seuil général de 3 % : il illustre une appréciation concrète, sur des données financières documentées.
+
+Toujours à la CAA Marseille, une décision du 14 septembre 2026 (n° 25MA01034) rappelle que l'assistant à maîtrise d'ouvrage doit effectuer les vérifications et calculs relevant de sa mission. Une autre, du 28 septembre 2026 (n° 25MA03490), rappelle en matière de responsabilité contractuelle que l'acheteur doit établir les fautes invoquées, le préjudice et le lien de causalité.
+
+La CAA Versailles (15 septembre 2026, n° 24VE01217) traite de la résiliation suivie de l'absence de décompte de liquidation. Elle s'inscrit dans la jurisprudence du Conseil d'État du 27 novembre 2019, Société SMA Propreté, n° 422600. Si l'acheteur résilie sans établir ce décompte dans le délai contractuel, il ne peut opposer au titulaire les délais de réclamation dans les conditions ordinaires. Le titulaire doit toutefois accomplir les démarches pour lier le contentieux.
+
+#### Référé précontractuel : le calendrier décide
+
+Le Conseil d'État du 16 septembre 2026 (n° 515301, Société Somei) constate que l'abandon d'une consultation contestée prive d'objet le litige de référé précontractuel. L'acheteur peut renoncer à la procédure pour un motif d'intérêt général, sur le fondement de l'article R. 2185-1 du CCP.
+
+Cette renonciation n'est pas une immunité générale : sa légalité peut être discutée par les voies de droit appropriées, indépendamment du non-lieu constaté dans le référé.
+
+Le Conseil d'État du 17 septembre 2026 (n° 518028, Société Culturespaces) juge que le pourvoi contre l'ordonnance de référé précontractuel est devenu sans objet. La concession portant sur la gestion et l'animation d'un site culturel et touristique aux Baux-de-Provence avait été signée le 9 juillet 2026. La date de signature est donc décisive.
+
+Après la signature, il faut vérifier si un référé contractuel est recevable ou si les conditions d'un recours en contestation de la validité du contrat sont réunies.
+
+#### Représentation légale : ce qui compte, c'est l'exécution réelle
+
+Le Conseil d'État du 17 juillet 2026 (n° 515310, Ville de Paris et société NNG Avocats), commenté par la Direction des affaires juridiques de Bercy le 4 septembre 2026, porte sur les marchés de représentation légale.
+
+Il s'agissait de l'exclusion de certaines prestations de représentation légale des obligations de publicité et de mise en concurrence, prévue à l'article L. 2512-5 du CCP.
+
+Un marché de services juridiques avait été confié à un cabinet d'avocats, mais une part essentielle des prestations était sous-traitée à une société ne comptant aucun avocat. Le Conseil d'État a annulé le contrat.
+
+Autrement dit, prendre un cabinet d'avocats comme titulaire ne suffit pas à bénéficier de cette exclusion. Ce sont les conditions effectives d'exécution qui sont examinées.
+
+#### Ce qu'un acheteur, dont une CPAM, peut retenir
+
+Sur la préparation : annoncez dans les documents de consultation les sous-critères suffisamment importants pour influencer la préparation des offres. Vérifiez aussi que votre formule de notation départage réellement les offres, y compris sur les postes secondaires.
+
+Sur les candidatures : ne transformez pas une mauvaise expérience antérieure en motif automatique d'élimination. Examinez et tracez l'analyse des effectifs, des références et des autres garanties professionnelles.
+
+Sur la rédaction : une fonctionnalité exigée doit apparaître clairement comme obligatoire. Une exclusion fondée sur une exigence implicite est fragile.
+
+Sur l'exécution : documentez la matérialité des manquements, leur imputabilité, la procédure suivie et les mises en demeure, car la répétition peut justifier une résiliation. Après une résiliation, établissez le décompte de liquidation dans les délais, sous peine de ne plus pouvoir opposer les délais de réclamation dans les conditions ordinaires.
+
+Point de vigilance pour l'Assurance Maladie : la chronique ne recense aucune décision propre aux achats d'une CPAM. Les enseignements sont généraux. À noter tout de même le TA Lyon du 7 septembre 2026 (n° 2611224) : il applique l'instrument européen relatif aux marchés publics internationaux à des offres portant sur des dispositifs médicaux chinois, avec un contrôle de l'égalité de traitement.
+
+</details>
+
+#### Sources
+
+| Source | Article | Date |
+| --- | --- | --- |
+| **Blog de Me André Icard** | [Lire l'original](<https://blog.andreicard.fr/chronique-de-jurisprudence-des-contrats-de-la-commande-publique-septembre-2026-controle-des-candidatures-notation-des-offres-resiliation-et-equilibre-economique-du-contrat/>) | 10 oct. |
+
+<sub>Source unique · 1 source</sub>
+
+<sub>Mots-clés : commande publique, notation offres, résiliation, imprévision, référé précontractuel</sub>
+
+---
+
+<sub>[Toute l'édition du dim. 11 oct.](../2026-10-11.md)</sub>

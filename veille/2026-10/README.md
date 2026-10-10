@@ -2,7 +2,11 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 10 éditions · 38 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 11 éditions · 39 actus</sub>
+
+## [Dimanche 11 octobre 2026](2026-10-11.md)
+
+- [Commande publique : notation, sous-critères et exécution, les leçons de septembre 2026](2026-10-11/commande-publique-notation-sous-criteres-et-execution-les-le.md) <sub>· `Achats` `Droit (perso)` · Jurisprudence · **Utile CPAM** · Blog de Me André Icard · 7.3/10</sub>
 
 ## [Samedi 10 octobre 2026](2026-10-10.md)
 

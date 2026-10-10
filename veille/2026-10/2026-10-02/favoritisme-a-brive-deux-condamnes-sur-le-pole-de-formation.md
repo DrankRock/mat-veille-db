@@ -68,6 +68,9 @@ Il faudra donc suivre la décision d'appel pour savoir ce qui est définitivemen
 | Source | Article | Date |
 | --- | --- | --- |
 | **Presse (Google News)** | [Lire l'original](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQVpwXzFkYWFVVGhmOFhVTk5JZkNQdzBfSU5XcTB6TzVkck9wWl9VNmZpZ003NVJzOHUwdmxZOW1ELVQ1YVJac1VPMkRabTRuMEVpYmI0NFFqNndFNTFXeGNVN3pXX19BMUVrNzNZbXNVYWU2Z3dIQkdadTJkRHZVUzVQTGlyemx0RUNlNWtIYk5WNGZOc0hleUtaTW51LTR3TmlwRklEaDRoZVdoNGdRRUx5Nm4zWVNLajZ0cGJlZmpSTl9Za3RMdWptRF90TGZJdUFzRnhNdE04bWRrT3ZGcFZvaWZxa2dvX3VXQlM0d3BTazJhN2c?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 25 sept. |
+| France 3 Régions | [Attribution de marché public, deux anciens responsables des services de l'agglomération de Brive condamnés pour favoritisme dans l'affaire du chantier de l’IFSI](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMi4AJBVV95cUxPWVh2VXA1V04wS3ZPZkZ5QkdOc3d5TENfV1pPazlDMnF3UkU4amNuMll0aGZGTVdMQmRjakpnMDQ2OUx4dXR3RzE2ZzBIOHhnQ2R5NEgzRVVZNWdLWDV1a0xVYmJCQ2Q3YWdjcG9ZaG1Sd1VkcHRDa2wzZlRJRWZJOGQxaE9zYWNOVk1VLXFlWkdnVDJXeC1CR3laOWZaUHdDNFJ0ZlZrRFNOUmNDWW94aGtvRk5uNFR6Wm1ReWNTTFJCcmdpOXpiQTVuUFItS1NCcGdOa0dob0R0aUwxQ0Nkb0ZCSW0yaVhZVGg4SVhZX1FkS3U5ZFFPWW9ESWd0ekNlLW54RXY2SnJieHhzNlh1RWI3VXdlZXB4Yi1mV2FNZHdzeFpCSHhHczc2YzFnbGF5dVJJckFQMlpuaEdobkxDTm5teUx2NmNLX0tBU2k4dDRNb2ZEUlR6SzFIRkF2Umdv?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 9 oct. |
+
+<sub>Recoupé · 2 sources</sub>
 
 ---
 

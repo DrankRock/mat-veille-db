@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>12 éditions · 39 actus depuis le 28 septembre 2026</sub>
+<sub>13 éditions · 40 actus depuis le 28 septembre 2026</sub>
 
 ## [Octobre 2026](2026-10/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [dim. 11 oct.](2026-10/2026-10-11.md) | 1 | [Commande publique : notation, sous-critères et exécution, les leçons de septembre 2026](2026-10/2026-10-11/commande-publique-notation-sous-criteres-et-execution-les-le.md) |
 | [sam. 10 oct.](2026-10/2026-10-10.md) | — | <sub>Rien de nouveau</sub> |
 | [ven. 9 oct.](2026-10/2026-10-09.md) | 5 | [Clause de révision absente : marché valide, pénalités réduites de 50 %](2026-10/2026-10-09/clause-de-revision-absente-marche-valide-penalites-reduites.md) |
 | [jeu. 8 oct.](2026-10/2026-10-08.md) | 2 | [Ouverture des marchés publics aux PME : le contenu de la source n'est pas exploitable](2026-10/2026-10-08/ouverture-des-marches-publics-aux-pme-le-contenu-de-la-sourc.md) |
