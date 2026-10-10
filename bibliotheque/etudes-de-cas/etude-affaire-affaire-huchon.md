@@ -1,0 +1,302 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# L'affaire Huchon : favoritisme ou prise illégale d'intérêts dans les marchés publics de la région Île-de-France ?
+
+<sub>`Étude de cas` · Probité et droit pénal · Pratique · 13 min · Affaire Huchon, Île-de-France, 2015 · 6.6/10 au jury</sub>
+
+> Jean-Paul Huchon, président du conseil régional d'Île-de-France de 1998 à 2015, est poursuivi après un courrier anonyme dénonçant des marchés de communication attribués en 2002 et 2003 à trois sociétés qui employaient son épouse. Le tribunal correctionnel de Paris le condamne en 2007 pour prise illégale d'intérêts et le relaxe du chef de l'embauche de son épouse à son cabinet, ce qui oblige à distinguer ce délit du favoritisme de l'article 432-14 du code pénal.
+
+> [!TIP]
+> Un conflit d'intérêts ne fait pas automatiquement un favoritisme : encore faut-il un acte contraire aux règles d'accès et d'égalité des candidats, commis pour procurer un avantage injustifié.
+
+**À retenir**
+
+- Dans l'affaire Huchon, la qualification retenue est la prise illégale d'intérêts, pas le favoritisme : les poursuites portaient sur le recrutement de l'épouse de l'élu par des entreprises attributaires de marchés régionaux.
+- Le favoritisme de l'article 432-14 du code pénal exige la qualité de l'auteur, un acte contraire aux règles garantissant la liberté d'accès et l'égalité des candidats, et l'intention de procurer un avantage injustifié.
+- Le tribunal a relaxé Jean-Paul Huchon du chef de l'embauche de son épouse à son cabinet, car une loi du 26 janvier 1984 autorise le libre choix des collaborateurs et que le travail fourni n'était pas fictif.
+
+<details>
+<summary><b>Version rapide</b> · 2 min</summary>
+
+#### Le contexte et les faits
+
+Jean-Paul Huchon préside la région Île-de-France de 1998 à 2015. En octobre 2004, un courrier anonyme dénonce l'attribution de marchés de communication en 2002 et 2003 à trois sociétés employant son épouse, intermittente du spectacle, comme régisseur général. Un second volet concerne l'embauche de celle-ci au cabinet du président à compter de 2004.
+
+Les poursuites visent la prise illégale d'intérêts, et non le favoritisme. Deux reproches sont adressés à l'élu : avoir facilité le recrutement de son épouse par des entreprises attributaires de marchés publics, et l'avoir embauchée à son cabinet.
+
+#### Les décisions
+
+Le 20 février 2007, le tribunal correctionnel de Paris condamne Jean-Paul Huchon à six mois d'emprisonnement avec sursis, 60 000 € d'amende et un an d'inéligibilité pour le premier reproche. Il est relaxé du second, le travail de son épouse et ses compétences n'ayant jamais été contestés et la loi du 26 janvier 1984 autorisant le libre choix des collaborateurs.
+
+Dominique Le Texier est condamnée à quatre mois avec sursis et 20 000 € d'amende. Les autres prévenus sont relaxés. En appel, Jean-Paul Huchon reconnaît ne pas avoir vu l'illégalité des faits.
+
+En parallèle, le Conseil d'État, dans un arrêt du 4 juillet 2011, juge que la campagne d'affichage de 2009 a valorisé l'action du conseil régional et violé l'article L. 52-1 du code électoral. Il prive Jean-Paul Huchon du remboursement de ses frais de campagne, soit 1,6 million d'euros, sans prononcer son inéligibilité.
+
+Une seconde procédure pénale, pour une subvention de 60 000 € versée en 2014 à l'association Green Lotus, aboutit le 26 juin 2024 à une condamnation à huit mois avec sursis, 10 000 € d'amende et un an d'inéligibilité, peine qualifiée de symbolique.
+
+#### À retenir
+
+L'affaire Huchon est une affaire de prise illégale d'intérêts, pas de favoritisme. Le favoritisme sanctionne une atteinte à la liberté d'accès et à l'égalité des candidats devant un marché public ; la prise illégale d'intérêts vise la position personnelle de l'élu dans une affaire dont il a la charge.
+
+Un lien de parenté entre un président de région et un membre de son cabinet ne suffit pas à constituer le délit si le travail fourni est réel. Les sanctions peuvent s'empiler : peine pénale, perte du remboursement des frais électoraux et action de la collectivité en tant que partie civile.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 5 min</summary>
+
+#### Le contexte : une région et un président
+
+La région Île-de-France est une collectivité territoriale qui passe des marchés publics. Jean-Paul Huchon, haut fonctionnaire et homme politique né en 1946, la préside de 1998 à 2015. Le conseil régional est l'acheteur public au cœur du dossier.
+
+Avant cette affaire, la région a connu un dossier plus vaste sur la rénovation des lycées entre 1990 et 1995, avec un « pacte de corruption » entre quatre partis et 200 millions de francs détournés selon l'accusation. Jean-Paul Huchon y était partie civile au nom de la collectivité, avant de devenir prévenu dans la même salle des Criées deux ans plus tard.
+
+#### Les faits : des marchés de communication et une épouse salariée
+
+Tout commence par une dénonciation anonyme en octobre 2004. Elle vise l'attribution de marchés de communication par la région en 2002 et 2003 à trois sociétés employant l'épouse de Jean-Paul Huchon, Dominique Le Texier, intermittente du spectacle, comme régisseur général. Ces contrats à durée déterminée lui permettaient de conserver ses droits au chômage.
+
+Selon l'accusation, Jean-Paul Huchon aurait poussé le conseil régional à contracter avec ces sociétés. Il n'est pas reproché à l'élu d'avoir fait payer un travail inexistant, mais le lien entre l'attribution du marché et l'embauche de la conjointe. Un second volet concerne l'embauche de Mme Le Texier au cabinet du président à compter de 2004.
+
+Un autre épisode survient en 2014 : la région accorde 60 000 € à l'association Green Lotus, dirigée par Jean-Marc Brûlé, élu Europe Écologie-Les Verts, pour des formations sur le développement durable. La justice est saisie par une plainte de l'Union des contribuables franciliens.
+
+#### Les qualifications juridiques
+
+L'article 432-14 du code pénal définit le favoritisme. Il vise une personne dépositaire de l'autorité publique, investie d'un mandat électif public, ou représentant une collectivité territoriale. Un président de conseil régional est investi d'un mandat électif public, la première condition est donc remplie. Le texte exige aussi un acte contraire à des dispositions garantissant la liberté d'accès et l'égalité des candidats dans les marchés publics, et l'intention de procurer un avantage injustifié. La peine est de deux ans d'emprisonnement et 200 000 € d'amende, portée au double du produit tiré de l'infraction.
+
+Dans l'affaire Huchon, les poursuites n'ont pas visé le favoritisme mais la prise illégale d'intérêts, qui punit l'élu prenant ou conservant un intérêt dans une affaire qu'il administre ou surveille. Deux reproches distincts lui étaient adressés : avoir facilité le recrutement de son épouse par des entreprises attributaires de marchés publics, et l'avoir embauchée à son cabinet à compter de 2004.
+
+#### Les procédures et les décisions
+
+Le procès s'ouvre le 8 janvier 2007 devant la 11e chambre du tribunal correctionnel de Paris. Jean-Paul Huchon comparaît aux côtés de son épouse, de Dominique Merchez, ancien responsable des marchés, et de Michel Sajn, chef d'entreprise. Le 20 février 2007, il est condamné à six mois d'emprisonnement avec sursis, 60 000 € d'amende et un an d'inéligibilité pour le premier reproche. Il est relaxé du second : la loi du 26 janvier 1984 permet à l'autorité territoriale de s'entourer librement de collaborateurs, et la réalité du travail de son épouse n'a jamais été contestée. Le tribunal relève seulement qu'il a vraisemblablement attendu une majorité stable pour mettre fin à la précarité de son emploi.
+
+Dominique Le Texier est condamnée en première instance à quatre mois avec sursis et 20 000 € d'amende. Dominique Merchez et Michel Sajn sont relaxés. Le parquet fait appel. Devant la cour d'appel, Jean-Paul Huchon change de ligne de défense : il reconnaît ne pas avoir vu l'illégalité des faits et avoir adopté une attitude de déni, affirmant que son épouse avait fait le travail, payé au tarif syndical, et qu'il n'y avait eu aucun préjudice pour la collectivité.
+
+En parallèle, un contentieux électoral est porté devant le Conseil d'État à propos d'une campagne d'affichage de 2009 vantant les transports régionaux six mois avant les élections de mars 2010. Le 4 juillet 2011, le Conseil d'État juge que cette campagne a valorisé l'action du conseil régional par des messages promotionnels et violé l'article L. 52-1 du code électoral. Il prive Jean-Paul Huchon de tout remboursement de ses dépenses électorales, soit 1,6 million d'euros, sans prononcer son inéligibilité, et annule l'élection du dernier conseiller régional élu en mars 2010.
+
+Une seconde procédure pénale vise plus tard la subvention de 60 000 € à Green Lotus. Le 26 juin 2024, le tribunal correctionnel de Paris condamne Jean-Paul Huchon à huit mois d'emprisonnement avec sursis, 10 000 € d'amende et un an d'inéligibilité, une peine qualifiée de symbolique. Le tribunal acte l'extinction de l'action publique à l'égard de Jean-Marc Brûlé, décédé en novembre 2023, et juge que l'ancien président a accompli sciemment l'acte caractéristique de la prise illégale d'intérêts.
+
+#### L'analyse et ce qu'on en retient
+
+Favoritisme et prise illégale d'intérêts ne se confondent pas. Le favoritisme exige un acte contraire aux règles garantissant la liberté d'accès et l'égalité des candidats, commis pour procurer un avantage injustifié. La prise illégale d'intérêts vise la position personnelle de l'élu dans une affaire dont il a la charge. Dans l'affaire Huchon, c'est la seconde qualification qui a été retenue pour le recrutement de l'épouse par les entreprises attributaires.
+
+L'élément d'« avantage injustifié » ne se confond pas avec le préjudice pour la collectivité. Jean-Paul Huchon a soutenu en appel qu'il n'y avait eu aucun préjudice et que son épouse avait fait le travail au tarif syndical. Or l'article 432-14 vise un avantage injustifié procuré ou tenté au profit d'autrui, ce qui explique qu'un marché payé au prix du marché peut tout de même être fautif.
+
+La relaxe de 2007 trace une limite nette : un lien de parenté entre un président de région et un membre de son cabinet ne suffit pas à constituer le délit, dès lors que la loi du 26 janvier 1984 autorise le libre choix des collaborateurs et que le travail fourni est réel. L'élément matériel du délit doit être établi, pas seulement supposé.
+
+Enfin, l'affaire montre l'empilement des sanctions possibles. Le juge pénal prononce le sursis, l'amende et l'inéligibilité. Le juge électoral peut priver le candidat du remboursement de ses dépenses de campagne, un montant de 1,6 million d'euros dans ce dossier. La collectivité peut réclamer réparation en se constituant partie civile.
+
+</details>
+
+## 1. Le contexte : une région, un président, un précédent lourd
+
+La région Île-de-France est une collectivité territoriale. Elle passe des marchés publics, c'est-à-dire des contrats d'achat de travaux, de fournitures ou de services. Jean-Paul Huchon, né en 1946, haut fonctionnaire et homme politique, la préside de 1998 à 2015. Il a été maire de Conflans-Sainte-Honorine de 1994 à 2001. Le conseil régional est donc l'acheteur public au cœur du dossier.
+
+Avant l'affaire Huchon, la région a connu un dossier de marchés publics beaucoup plus vaste. Il porte sur la rénovation des lycées entre 1990 et 1995. L'ordonnance de renvoi parle d'un « pacte de corruption » entre quatre partis. Selon l'accusation, 200 millions de francs, soit environ 30 millions d'euros, auraient été détournés au profit du RPR, du Parti socialiste, du Parti républicain et du Parti communiste. Le « pactole » était constitué de 12 milliards de francs de marchés conclus pour 471 lycées de la région parisienne.
+
+Le procès de ce dossier s'ouvre le 21 mars 2005 devant la 11e chambre du tribunal correctionnel de Paris, présidée par Jean-Louis Kantor, pour quatre mois d'audience. Quarante-sept personnes sont renvoyées devant le tribunal. On y trouve des responsables de grandes entreprises du bâtiment et des représentants des principaux partis nationaux. Michel Giraud, prédécesseur RPR de Jean-Paul Huchon à la présidence de la région, est condamné dans cette affaire à quatre ans de prison avec sursis.
+
+Jean-Paul Huchon est présent dans ce dossier, mais dans un autre rôle : il est partie civile au nom de la collectivité qu'il préside. Deux ans plus tard, il occupe la place de prévenu dans la même salle des Criées, devant la même 11e chambre. Le symbole est jugé dérangeant par la presse de l'époque. Sa situation familiale est alors exposée : son épouse, Dominique Le Texier, est intermittente du spectacle spécialisée dans le cinéma. L'intermittence désigne un statut de salarié du spectacle dont l'indemnisation chômage dépend du nombre d'heures travaillées.
+
+Autour du président, le cabinet régional est composé librement. Stéphane Séjourné y entre après la victoire de François Hollande à l'élection présidentielle. La région intervient aussi sur la formation professionnelle, l'apprentissage et l'alternance, des compétences confiées à un vice-président, Emmanuel Maurel, de 2010 à 2014. Ce détail compte : c'est par le canal des collaborateurs de cabinet et par celui des subventions que reviendront plus tard les ennuis judiciaires de l'ancien président.
+
+## 2. Les faits : des marchés de communication, une épouse salariée
+
+Tout commence par une dénonciation. En octobre 2004, un courrier anonyme est adressé aux autorités. Il dénonce l'attribution de marchés publics de communication par la région, en 2002 et 2003, à trois sociétés. Le point commun de ces sociétés est d'employer, pour l'exécution de ce marché, l'épouse de Jean-Paul Huchon en qualité de régisseur général. Le courrier souligne que ces contrats à durée déterminée lui permettent de conserver ses droits auprès de l'assurance chômage.
+
+Selon la présentation faite de l'accusation, Jean-Paul Huchon aurait poussé le conseil régional à passer contrat avec trois sociétés de communication en 2002 et 2003. À chaque fois, son épouse, intermittente du spectacle, était salariée de ces sociétés. Il n'est pas reproché à l'élu d'avoir fait payer un travail inexistant à la région. Le reproche porte sur le lien entre l'attribution du marché et l'embauche de la conjointe.
+
+Le procès s'ouvre le lundi 8 janvier 2007 devant la 11e chambre du tribunal correctionnel de Paris. Jean-Paul Huchon y comparaît aux côtés de trois autres prévenus, dont son épouse, Dominique Le Texier. Les deux autres sont Dominique Merchez, ancien responsable des marchés à la région, et Michel Sajn, chef d'entreprise en contrat avec le conseil régional. Le second volet du dossier concerne l'embauche de Mme Le Texier au cabinet du président à compter de 2004.
+
+Un autre épisode se déroule quelques mois avant les élections régionales de mars 2010. Fin septembre 2009, la région mène une campagne de communication sur les transports. En novembre 2009, elle en mène une autre sur l'emploi et la formation. Ces campagnes prennent la forme d'affiches de quatre mètres sur trois dans les stations de métro et de RER, portant le nom et le logo de la seule région Île-de-France. Les messages annoncent « Décembre 2009 : lancement du Francilien, votre nouveau train », « 2011 : modernisation des RER A et B », « 2013 : 5 nouvelles lignes de tramway », ou encore « La Région se mobilise pour attirer l'emploi ».
+
+Un dernier épisode survient en 2014, sur un autre terrain : celui des subventions. La région accorde 60 000 € à l'association Green Lotus. L'association doit dispenser des formations à des élus et à des représentants de la société civile birmane sur le développement durable. Elle est en fait dirigée par Jean-Marc Brûlé, alors élu Europe Écologie-Les Verts au conseil régional. Son nom avait été effacé de la fiche de projet. La justice est saisie par une plainte de l'Union des contribuables franciliens.
+
+## 3. Les questions juridiques : qui, de quoi, devant quel juge, sur quel fondement
+
+L'article 432-14 du code pénal définit le favoritisme. Il vise une personne dépositaire de l'autorité publique, chargée d'une mission de service public, investie d'un mandat électif public, ou encore représentant, administrateur ou agent de l'État, d'une collectivité territoriale, d'un établissement public ou d'une société d'économie mixte. Un président de conseil régional est investi d'un mandat électif public. La première condition, la qualité de l'auteur, est donc remplie dans l'affaire Huchon. Le texte vise aussi toute personne agissant pour le compte de ces personnes.
+
+Le deuxième élément est un acte contraire à des dispositions législatives ou réglementaires. Ces dispositions doivent avoir pour objet de garantir la liberté d'accès et l'égalité des candidats dans les marchés publics et les contrats de concession. Un contrat de concession confie l'exploitation d'un service public à un opérateur, par exemple sous forme de délégation de service public. Le troisième élément est l'intention : procurer ou tenter de procurer à autrui un avantage injustifié. La peine est de deux ans d'emprisonnement et de 200 000 € d'amende, dont le montant peut être porté au double du produit tiré de l'infraction.
+
+Dans l'affaire Huchon, les poursuites n'ont pas visé le favoritisme. Elles ont visé la prise illégale d'intérêts, un autre délit, qui punit l'élu ou l'agent prenant ou conservant un intérêt dans une affaire qu'il administre ou surveille. Deux reproches distincts lui étaient adressés. Le premier : avoir facilité le recrutement de son épouse par des entreprises attributaires de marchés publics de la région. Le second : avoir embauché son épouse à son cabinet à compter de 2004.
+
+Le juge compétent est le juge pénal. L'affaire passe devant le tribunal correctionnel de Paris, 11e chambre, puis devant la cour d'appel de Paris, 9e chambre. La région, personne publique, peut se joindre à la procédure comme partie civile, c'est-à-dire comme victime réclamant réparation. Un contentieux très différent se développe en parallèle. Il porte sur les comptes de campagne et se tranche devant le Conseil d'État, juge de l'élection.
+
+## 4. Les procédures, étape par étape
+
+La procédure naît du courrier anonyme d'octobre 2004. Ce courrier dénonce des marchés de communication attribués par la région en 2002 et 2003 à trois sociétés employant l'épouse du président. Jean-Paul Huchon décrira plus tard des perquisitions très médiatisées et une « dénonciation anonyme très agressive ». Il n'existe pas de seuil de montant dans le délit de favoritisme tel que le définit l'article 432-14 du code pénal : ce qui compte est l'acte contraire aux règles d'accès et d'égalité des candidats.
+
+Le jugement est rendu le 20 février 2007 par la 11e chambre correctionnelle de Paris, présidée par Olivier Leurent. Jean-Paul Huchon est condamné à six mois d'emprisonnement avec sursis, 60 000 € d'amende et un an d'inéligibilité. L'inéligibilité est l'interdiction d'être candidat à une élection. Seule la première poursuite, celle du recrutement par les entreprises attributaires, entraîne une condamnation. Sur le second chef, l'embauche au cabinet, il est relaxé.
+
+Le motif de cette relaxe est instructif. Une loi du 26 janvier 1984 permet à l'autorité territoriale de s'entourer librement de collaborateurs de son choix. Cette liberté ne vaut que si l'emploi n'est pas fictif. Or la réalité du travail fourni par Dominique Le Texier et ses compétences professionnelles n'ont jamais été contestées. Le tribunal relève seulement que Jean-Paul Huchon a « vraisemblablement attendu de disposer d'une majorité stable au sein du conseil régional » pour mettre fin à la précarité de l'emploi de son épouse. Le lien de parenté, à lui seul, n'emporte donc pas la condamnation.
+
+Les autres prévenus connaissent des sorts différents. Dominique Le Texier est condamnée en première instance à quatre mois d'emprisonnement avec sursis et 20 000 € d'amende. Dominique Merchez et Michel Sajn sont relaxés. Le parquet fait appel de ces relaxes. Le procès en appel s'ouvre devant la 9e chambre de la cour d'appel de Paris, au premier jour d'un mercredi 8 octobre.
+
+Devant la cour d'appel, Jean-Paul Huchon change de ligne de défense. Il reconnaît n'avoir « pas vu l'illégalité des faits » et avoir adopté en première instance « une attitude de déni ». Il affirme que son épouse « a fait le travail, payé au tarif syndical » et qu'« il n'y avait eu aucun préjudice pour la collectivité, aucun favoritisme ». Il estime la peine d'inéligibilité « disproportionnée », le bruit médiatique ayant déjà fait son œuvre. Le procès dure trois jours et la décision est mise en délibéré.
+
+En parallèle, un contentieux électoral est porté devant le Conseil d'État. Il est déclenché par la saisine d'un militant UMP, Paul Midy, à propos d'une campagne vantant les transports régionaux six mois avant les élections régionales de mars 2010. Le rapporteur public ne réclame pas l'inéligibilité du président de région. L'enjeu financier est chiffré : la perte du remboursement des frais de campagne, soit 1,6 million d'euros.
+
+Le 4 juillet 2011, le Conseil d'État rend l'arrêt « Élections régionales d'Île-de-France ». Il juge que la campagne d'affichage a « eu pour effet non de diffuser de simples informations, mais de valoriser, par des messages à caractère promotionnel, l'action du conseil régional ». L'article L. 52-1 du code électoral a donc été violé. Le Conseil d'État prive Jean-Paul Huchon de tout droit au remboursement de ses dépenses électorales, sans prononcer son inéligibilité. Il annule en outre l'élection du 209e et dernier conseiller régional élu en mars 2010.
+
+Une seconde procédure pénale vise plus tard le même élu, pour des faits de 2014. Elle porte sur la subvention de 60 000 € versée à l'association Green Lotus. Jean-Paul Huchon assure ne pas avoir pris part au processus de sélection des subventions. Le 26 juin 2024, le tribunal correctionnel de Paris le condamne à huit mois d'emprisonnement avec sursis, 10 000 € d'amende et un an d'inéligibilité. Le tribunal qualifie cette peine de « symbolique », l'intéressé n'étant plus élu.
+
+## 5. L'analyse : ce que l'affaire dit des éléments constitutifs
+
+Favoritisme et prise illégale d'intérêts ne se confondent pas. Le favoritisme exige un acte contraire aux règles qui garantissent la liberté d'accès et l'égalité des candidats, commis pour procurer un avantage injustifié. La prise illégale d'intérêts vise la position personnelle de l'élu ou de l'agent dans une affaire dont il a la charge. Dans l'affaire Huchon, c'est la seconde qualification qui a été retenue, à propos du recrutement de l'épouse par les entreprises attributaires. Il n'est pas condamné pour favoritisme dans cette affaire.
+
+L'élément le plus délicat du favoritisme est l'« acte contraire ». La chambre criminelle de la Cour de cassation s'est prononcée sur ce point dans un arrêt du 3 juin 2026. Des prévenus condamnés pour recel de favoritisme soutenaient que les juges doivent identifier la disposition législative ou réglementaire précise qui a été violée. L'arrêt attaqué jugeait au contraire suffisante la seule violation des principes de liberté d'accès et d'égalité de traitement des candidats. La Cour de cassation a rejeté leur pourvoi.
+
+Cette autre affaire montre le mécanisme complet, du côté de l'acheteur comme du côté de l'entreprise. Une délégation de service public de dix ans est attribuée par convention du 12 avril 2010, puis prolongée de cinq ans par un avenant du 5 juin 2012. Un concurrent évincé conteste son éviction et déclenche une enquête. Le maire de la commune est condamné pour favoritisme, et l'exploitant avec sa société pour recel de favoritisme. Le recel consiste à profiter en connaissance de cause du produit d'une infraction. Les peines sont de six mois d'emprisonnement avec sursis et 60 000 € d'amende pour le dirigeant, et de 100 000 € d'amende pour la société.
+
+La question de l'« avantage injustifié » mérite aussi d'être isolée. Jean-Paul Huchon a soutenu en appel qu'il n'y avait eu « aucun préjudice pour la collectivité » et que son épouse avait « fait le travail, payé au tarif syndical ». Le texte de l'article 432-14 ne place pas le préjudice au premier plan : il parle d'un avantage injustifié procuré ou tenté au profit d'autrui. Le regard se porte donc sur ce que le candidat ou le cocontractant retire de l'opération, et pas seulement sur le coût supporté par la collectivité. Cette distinction explique pourquoi un marché payé au prix du marché peut tout de même être fautif.
+
+Le champ des personnes concernées est plus large qu'on ne le croit. L'article 432-14 vise les sociétés d'économie mixte et toute personne agissant pour le compte des personnes publiques citées. Un prestataire privé peut donc être poursuivi, non comme auteur principal, mais comme bénéficiaire : c'est le recel de favoritisme, retenu dans l'affaire jugée en 2026. En 2014, l'épisode de la subvention Green Lotus montre par ailleurs qu'un élu régional demeure exposé, y compris pour une subvention et non pour un marché.
+
+Trois responsabilités coexistent dans ce dossier, et il ne faut pas les mélanger. La responsabilité pénale est personnelle : elle vise Jean-Paul Huchon, son épouse et, dans l'autre affaire, l'entreprise bénéficiaire, avec des peines de prison avec sursis, des amendes et une inéligibilité. La responsabilité électorale et financière est tranchée par le Conseil d'État sur les comptes de campagne, avec la perte du remboursement des frais. La collectivité agit de son côté comme partie civile pour défendre ses intérêts propres.
+
+## 6. Les suites : ce que les décisions ont clarifié
+
+L'arrêt du 4 juillet 2011 a précisé une règle directement utile aux collectivités. Pendant la période d'interdiction, la collectivité peut « faire savoir », mais pas « faire valoir ». Cette période court à compter du premier jour du sixième mois précédant le mois de l'élection. Le fait que des campagnes similaires aient eu lieu les années précédentes ne rend pas la campagne litigieuse licite. L'absence de mention de l'élection dans les affiches est également indifférente.
+
+La décision montre aussi qu'une campagne de communication d'une collectivité peut être traitée comme un don fait à la campagne d'un candidat. Les conséquences sont lourdes pour l'intéressé : la perte du remboursement public de ses dépenses électorales, soit 1,6 million d'euros. Le Conseil d'État ne l'a pas déclaré inéligible et n'a pas annulé son élection. Le contentieux électoral fonctionne donc avec ses propres outils, distincts de l'amende pénale.
+
+Sur le terrain pénal, la condamnation de 2024 s'inscrit dans un mouvement ancien. Les faits jugés remontent à 2014, dix ans plus tôt. Le tribunal a acté l'extinction de l'action publique à l'égard de Jean-Marc Brûlé, l'élu écologiste dirigeant l'association, décédé en novembre 2023. Le tribunal a jugé que Jean-Paul Huchon « a accompli sciemment l'acte caractéristique de la prise illégale d'intérêts », dont il avait « forcément connaissance » du fait de sa « grande expérience politique » et au sein de la région.
+
+Le contexte régional de ces années éclaire aussi la question du contrôle. Entre 1998 et 2012, Jean-Paul Huchon a doublé le nombre d'organismes parapublics du conseil régional, une évolution critiquée par l'opposition et jusque dans sa propre majorité. En 2014, Valérie Pécresse, présidente du groupe UMP, l'attaque sur la fin du contrôle a priori des subventions inférieures à 50 000 €. Elle cite notamment 8 000 € pour la visibilité d'artistes tunisiens, 8 438 € pour une association, ou 22 820 € pour un projet d'envoi de jeunes en Belgique. Ces exemples portent sur des montants bien inférieurs à la subvention de 60 000 € jugée en 2024.
+
+## 7. À retenir
+
+L'affaire Huchon est d'abord une affaire de prise illégale d'intérêts, pas de favoritisme. Les deux délits ne protègent pas la même chose. Le favoritisme sanctionne une atteinte à la liberté d'accès et à l'égalité des candidats devant un marché public ou une concession. La prise illégale d'intérêts sanctionne la position personnelle de l'élu dans une affaire dont il a la charge.
+
+Le favoritisme suppose trois briques : la qualité de l'auteur, un acte contraire aux règles d'accès et d'égalité, et l'intention de procurer un avantage injustifié. La peine encourue est de deux ans d'emprisonnement et de 200 000 € d'amende, portée au double du produit tiré de l'infraction. Un prestataire qui profite sciemment de l'opération peut être poursuivi pour recel, comme le montre une affaire jugée en 2026.
+
+La relaxe de 2007 trace une limite nette. Un lien de parenté entre un président de région et un membre de son cabinet ne suffit pas à constituer le délit, dès lors que la loi du 26 janvier 1984 autorise le libre choix des collaborateurs et que le travail fourni est réel. C'est la démonstration concrète que l'élément matériel du délit doit être établi, et pas seulement supposé.
+
+Enfin, l'affaire montre l'empilement des sanctions possibles. Le juge pénal prononce le sursis, l'amende et l'inéligibilité. Le juge électoral peut priver le candidat du remboursement de ses dépenses de campagne, un montant de 1,6 million d'euros dans ce dossier. Et la collectivité peut réclamer réparation en se constituant partie civile.
+
+## Chronologie
+
+| Date | Fait |
+| --- | --- |
+| 1990-1995 | Période couverte par le dossier des marchés de rénovation des lycées d'Île-de-France, où un « pacte de corruption » est allégué. |
+| 1998 | Jean-Paul Huchon devient président du conseil régional d'Île-de-France. |
+| 2002-2003 | La région attribue des marchés publics de communication à trois sociétés qui emploient l'épouse du président. |
+| octobre 2004 | Un courrier anonyme dénonce ces marchés et l'emploi de Dominique Le Texier comme régisseur général. |
+| 21 mars 2005 | Ouverture du procès des marchés publics d'Île-de-France devant la 11e chambre du tribunal correctionnel de Paris. |
+| 8 janvier 2007 | Ouverture du procès de Jean-Paul Huchon pour prise illégale d'intérêts devant la même 11e chambre. |
+| 20 février 2007 | Condamnation à six mois de prison avec sursis, 60 000 € d'amende et un an d'inéligibilité, avec relaxe sur le second chef. |
+| 8 octobre (année non précisée par la source) | Premier jour du procès en appel : Jean-Paul Huchon reconnaît ne pas avoir vu l'illégalité des faits. |
+| 1er septembre 2009 | Début de la période d'interdiction des campagnes de promotion publicitaire avant les élections régionales. |
+| fin septembre et novembre 2009 | Campagnes d'affichage de la région sur les transports, puis sur l'emploi et la formation. |
+| 14 et 21 mars 2010 | Élections régionales en Île-de-France. |
+| 1er juillet 2011 | Audience devant l'assemblée du contentieux du Conseil d'État sur les comptes de campagne. |
+| 4 juillet 2011 | Arrêt privant Jean-Paul Huchon du remboursement de ses dépenses électorales et annulant l'élection du 209e conseiller régional. |
+| 2014 | Subvention de 60 000 € de la région à l'association Green Lotus. |
+| mai 2024 | Jean-Paul Huchon comparaît devant le tribunal correctionnel de Paris pour la subvention Green Lotus. |
+| 26 juin 2024 | Condamnation à huit mois de prison avec sursis, 10 000 € d'amende et un an d'inéligibilité. |
+
+## Acteurs
+
+| Qui | Rôle |
+| --- | --- |
+| Jean-Paul Huchon | Président du conseil régional d'Île-de-France de 1998 à 2015, prévenu puis condamné pour prise illégale d'intérêts. |
+| Dominique Le Texier | Épouse de Jean-Paul Huchon, intermittente du spectacle, employée par trois sociétés attributaires de marchés de la région. |
+| Conseil régional d'Île-de-France | Collectivité territoriale, acheteur public des marchés en cause et partie civile dans le dossier des marchés publics. |
+| Dominique Merchez | Ancien responsable des marchés à la région, relaxé en première instance. |
+| Michel Sajn | Chef d'entreprise en contrat avec le conseil régional, relaxé en première instance. |
+| Michel Giraud | Prédécesseur de Jean-Paul Huchon à la présidence de la région, condamné à quatre ans de prison avec sursis dans le dossier des marchés publics d'Île-de-France. |
+| Jean-Marc Brûlé | Élu EELV au conseil régional, dirigeant de fait de l'association Green Lotus, décédé en novembre 2023. |
+| Association Green Lotus | Bénéficiaire d'une subvention régionale de 60 000 € en 2014 pour des formations au développement durable. |
+| Paul Midy | Militant UMP à l'origine de la saisine du Conseil d'État sur les comptes de campagne régionaux. |
+
+## Décisions
+
+### Tribunal correctionnel de Paris, 11e chambre, 20 février 2007
+
+- **Demande :** Deux poursuites pour prise illégale d'intérêts : avoir facilité le recrutement de son épouse par des entreprises attributaires de marchés régionaux, et l'avoir embauchée à son cabinet à compter de 2004.
+- **Décision :** Six mois d'emprisonnement avec sursis, 60 000 € d'amende et un an d'inéligibilité sur le premier chef ; relaxe sur le second.
+- **Motifs :** La loi du 26 janvier 1984 permet à l'autorité territoriale de s'entourer librement de collaborateurs de son choix, sauf emploi fictif, et la réalité du travail de Dominique Le Texier n'a jamais été contestée.
+
+### Conseil d'État, assemblée du contentieux, 4 juillet 2011
+
+- **Demande :** Contentieux des élections régionales d'Île-de-France : la campagne d'affichage de la région était contestée comme campagne de promotion publicitaire interdite.
+- **Décision :** Privation de tout droit au remboursement des dépenses électorales, sans inéligibilité, et annulation de l'élection du 209e et dernier conseiller régional élu en mars 2010.
+- **Motifs :** La campagne a valorisé par des messages promotionnels l'action du conseil régional au lieu de diffuser de simples informations, en violation de l'article L. 52-1 du code électoral ; le caractère récurrent des campagnes antérieures est indifférent.
+
+### Tribunal correctionnel de Paris, 26 juin 2024
+
+- **Demande :** Poursuite pour prise illégale d'intérêts à propos d'une subvention de 60 000 € versée en 2014 à l'association Green Lotus.
+- **Décision :** Huit mois d'emprisonnement avec sursis, 10 000 € d'amende et un an d'inéligibilité, peine qualifiée de symbolique ; extinction de l'action publique pour Jean-Marc Brûlé.
+- **Motifs :** Le tribunal a jugé que Jean-Paul Huchon avait accompli sciemment l'acte de prise illégale d'intérêts et en avait forcément connaissance, vu son expérience politique et régionale.
+
+### Cour de cassation, chambre criminelle, 3 juin 2026
+
+- **Demande :** Pourvois contre l'arrêt de la cour d'appel de Paris du 6 mars 2025 condamnant un maire pour favoritisme et l'exploitant d'un site, avec sa société, pour recel de favoritisme à propos d'une délégation de service public.
+- **Décision :** Rejet des pourvois ; les condamnations à six mois avec sursis et 60 000 € pour le dirigeant et 100 000 € pour la société sont confirmées.
+- **Motifs :** Les demandeurs soutenaient que les juges doivent identifier la disposition précise violée ; l'arrêt attaqué jugeait suffisante la violation des principes de liberté d'accès et d'égalité de traitement des candidats.
+
+## Questions de révision
+
+<details>
+<summary>Quel texte réprime le délit de favoritisme et que prévoit-il ?</summary>
+
+L'article 432-14 du code pénal vise les personnes publiques, les élus, les agents et les sociétés d'économie mixte. Il punit le fait de procurer ou tenter de procurer à autrui un avantage injustifié par un acte contraire aux règles garantissant la liberté d'accès et l'égalité des candidats dans les marchés publics et les contrats de concession. La peine est de deux ans d'emprisonnement et 200 000 € d'amende, portée au double du produit tiré de l'infraction.
+
+</details>
+
+<details>
+<summary>Pourquoi l'affaire Huchon n'a-t-elle pas été jugée sous la qualification de favoritisme ?</summary>
+
+Les poursuites ont visé la prise illégale d'intérêts, à propos du recrutement de l'épouse de l'élu par des entreprises attributaires de marchés régionaux et de son embauche au cabinet. Le favoritisme suppose un acte contraire aux règles d'accès et d'égalité des candidats, ce qui n'était pas le reproche retenu. Dans cette affaire, Jean-Paul Huchon n'est donc pas condamné pour favoritisme.
+
+</details>
+
+<details>
+<summary>Pourquoi la relaxe sur l'embauche de son épouse au cabinet ?</summary>
+
+Une loi du 26 janvier 1984 permet à l'autorité territoriale de s'entourer librement de collaborateurs de son choix, à condition qu'il ne s'agisse pas d'un emploi fictif. La réalité du travail et les compétences professionnelles de Dominique Le Texier n'ont jamais été contestées. Le lien de parenté, à lui seul, ne suffit donc pas à caractériser le délit.
+
+</details>
+
+<details>
+<summary>Quelles ont été les conséquences de l'arrêt du Conseil d'État du 4 juillet 2011 ?</summary>
+
+Le Conseil d'État a jugé que la campagne d'affichage de la région valorisait l'action du conseil régional, en violation de l'article L. 52-1 du code électoral. Il a privé Jean-Paul Huchon de tout remboursement de ses dépenses électorales, soit 1,6 million d'euros, sans prononcer son inéligibilité. Il a également annulé l'élection du 209e et dernier conseiller régional élu en mars 2010.
+
+</details>
+
+<details>
+<summary>Qu'a décidé le tribunal correctionnel de Paris en 2024 ?</summary>
+
+Il a condamné Jean-Paul Huchon à huit mois d'emprisonnement avec sursis, 10 000 € d'amende et un an d'inéligibilité pour la subvention de 60 000 € versée en 2014 à l'association Green Lotus. Il a qualifié la peine de symbolique, l'intéressé n'étant plus élu. Il a aussi constaté l'extinction de l'action publique à l'égard de Jean-Marc Brûlé, décédé en novembre 2023.
+
+</details>
+
+<details>
+<summary>Une entreprise peut-elle être sanctionnée dans une affaire de favoritisme ?</summary>
+
+Oui, non comme auteur principal mais comme bénéficiaire, sous la qualification de recel de favoritisme, qui consiste à profiter en connaissance de cause du produit de l'infraction. Dans l'affaire jugée en 2026 à propos d'une délégation de service public, le dirigeant a été condamné à six mois avec sursis et 60 000 € d'amende, et sa société à 100 000 € d'amende. Le pourvoi formé contre cet arrêt a été rejeté.
+
+</details>
+
+## Jurisprudence
+
+- [Cour de cassation, criminelle, Chambre criminelle, 3 juin 2026, 25-82.316, Inédit (?)](<https://www.legifrance.gouv.fr/juri/id/JURITEXT000054256165>) : Un maire a été condamné pour favoritisme et l'exploitant d'un site, avec sa société, pour recel de favoritisme, à propos d'une délégation de service public prolongée par avenant. Les prévenus reprochaient aux juges de ne pas avoir identifié la règle précise violée, l'arrêt attaqué jugeant suffisante la violation des principes de liberté d'accès et d'égalité de traitement des candidats : la Cour de cassation a rejeté leur pourvoi.
+
+## Sources
+
+- [Code pénal, art. 432-14](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033611461>)
+- [Jean-Paul Huchon (Wikipédia)](<https://fr.wikipedia.org/wiki/Jean-Paul_Huchon>)
+- [Le procès des marchés publics d'Ile-de-France s'ouvre à Paris](<https://www.lemonde.fr/societe/article/2005/03/21/l-affaire-des-marches-publics-d-ile-de-france_629589_3224.html>)
+- [Jean-Paul Huchon devant le tribunal pour "prise illégale d'intérêt"](<https://www.lemonde.fr/societe/article/2007/01/09/m-huchon-devant-le-tribunal-pour-prise-illegale-d-interet_853373_3224.html>)
+- [Prise illégale d'intérêts : Huchon reconnaît "une attitude de déni"](<https://www.nouvelobs.com/societe/20081008.OBS4850/prise-illegale-d-interets-huchon-reconnait-une-attitude-de-deni.html>)
+- [Stéphane Séjourné (Wikipédia)](<https://fr.wikipedia.org/wiki/St%C3%A9phane_S%C3%A9journ%C3%A9>)
+- [Emmanuel Maurel (Wikipédia)](<https://fr.wikipedia.org/wiki/Emmanuel_Maurel>)
+- [Jean-Paul Huchon condamné à un an d'inéligibilité pour "prise illégale d'intérêts"](<https://www.lemonde.fr/societe/article/2007/02/21/jean-paul-huchon-condamne-a-un-an-d-ineligibilite-pour-prise-illegale-d-interets_869905_3224.html>)
+- [Droit électoral - Ce qu’il faut retenir de l’« arrêt Huchon »](<https://www.lagazettedescommunes.com/75854/droit-electoral-ce-qu%E2%80%99il-faut-retenir-de-l%E2%80%99%C2%AB-arret-huchon-%C2%BB/>)
+- [Jean-Paul Huchon, ancien président de la région Ile-de-France, a été condamné à huit mois de prison avec sursis pour prise illégale d’intérêts](<https://www.lemonde.fr/societe/article/2024/06/26/jean-paul-huchon-ancien-president-de-la-region-ile-de-france-a-ete-condamne-a-huit-mois-de-prison-avec-sursis-pour-prise-illegale-d-interets_6243876_3224.html>)
+- [Jean-Paul Huchon condamné à huit mois de prison avec sursis pour prise illégale d’intérêts](<https://www.leparisien.fr/faits-divers/jean-paul-huchon-condamne-a-huit-mois-de-prison-avec-sursis-pour-prise-illegale-dinterets-26-06-2024-IOWFKSP7QNAXFFD3ZTC56WCV7E.php>)
+- [L'affaire Huchon devant le Conseil d'Etat](<https://www.lemonde.fr/politique/article/2011/06/30/l-affaire-huchon-devant-le-conseil-d-etat_1543226_823448.html>)
+
+---
+
+<sub>‹ [L'affaire Angolagate : la répression pénale de la corruption et du trafic d'influence dans les ventes d'armes à l'Angola](etude-affaire-affaire-angolagate.md) · [Retour aux études de cas](README.md) · [L'affaire de l'hormone de croissance : quand l'État répond du défaut de surveillance des produits de santé](etude-affaire-affaire-de-l-hormone-de-croissance.md) ›</sub>

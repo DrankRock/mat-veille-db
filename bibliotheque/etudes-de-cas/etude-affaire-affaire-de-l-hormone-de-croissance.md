@@ -1,0 +1,274 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# L'affaire de l'hormone de croissance : quand l'État répond du défaut de surveillance des produits de santé
+
+<sub>`Étude de cas` · Responsabilité des personnes publiques · Pratique · 12 min · Affaire de l'hormone de croissance, France, 2015 · 6.6/10 au jury</sub>
+
+> Entre 1983 et 1986, des enfants traités par une hormone de croissance extraite d'hypophyses de cadavres ont été contaminés par l'agent de la maladie de Creutzfeldt-Jakob. Le volet administratif de l'affaire, illustré par l'arrêt de la cour administrative d'appel de Nantes du 19 février 2015, pose la question de la responsabilité de l'État pour faute dans la surveillance sanitaire, et de la prescription quadriennale qui menace les victimes.
+
+> [!TIP]
+> L'affaire de l'hormone de croissance montre qu'un défaut de pilotage de la surveillance sanitaire engage l'État devant le juge administratif, mais que la prescription quadriennale et la preuve médicale font peser sur les victimes l'essentiel du poids du dossier.
+
+**À retenir**
+
+- La responsabilité de l'État est recherchée sur le terrain de la faute de surveillance sanitaire, devant le juge administratif, et se heurte d'abord à la prescription quadriennale de la loi du 31 décembre 1968.
+- Le pénal et l'administratif ne se confondent pas : le code pénal punit l'homicide involontaire de trois ans et 45 000 euros d'amende, mais une relaxe pénale laisse entières les voies civiles et administratives d'indemnisation.
+- La distinction entre faute personnelle de l'agent et faute de service est décisive : des fautes d'imprudence et de négligence commises dans le cadre de la mission professionnelle n'engagent pas la responsabilité civile personnelle des intéressés.
+
+<details>
+<summary><b>Version rapide</b> · 2 min</summary>
+
+#### Le contexte et les faits
+
+L'hormone de croissance extractive, prélevée sur des hypophyses de cadavres, a été administrée à des enfants en insuffisance hormonale entre 1983 et 1985. La filière reposait sur l'association France Hypophyse pour la collecte et la répartition, et sur l'Institut Pasteur pour l'extraction. Le contrôle était éclaté entre plusieurs mains, sans pilote unique. En 1985, des scientifiques établissent que cette hormone peut transmettre la maladie de Creutzfeldt-Jakob, dégénérative et incurable. Une patiente née en 1970, traitée entre 1983 et 1986, a reçu deux lots suspectés d'être porteurs de la maladie ; elle est décédée en 1999.
+
+#### Les procédures et les décisions
+
+Une information judiciaire est ouverte à Paris en décembre 1991. En juillet 1993, plusieurs responsables sont mis en examen, dont les professeurs Jean-Claude Job et Fernand Dray. Le procès pénal s'ouvre en février 2008 : sept prévenus comparaissent pour homicides involontaires, blessures involontaires et tromperie aggravée. En janvier 2009, tous sont relaxés ; le parquet fait appel pour trois d'entre eux. Le second procès, en octobre 2010, ne concerne plus que deux prévenus et aboutit à une nouvelle relaxe en mai 2011. Parallèlement, les victimes cherchent la responsabilité de l'État devant le juge administratif. Le tribunal administratif de Rennes rejette la demande par un jugement du 31 décembre 2012, en opposant la prescription quadriennale. La cour administrative d'appel de Nantes, dans un arrêt du 19 février 2015, rappelle que le point de départ de la prescription est la date à laquelle la victime est en mesure de connaître l'origine de son dommage. Le volet civil se poursuit : la Cour de cassation, le 7 janvier 2014, annule l'arrêt de mai 2011 et renvoie le dossier ; la cour d'appel de Paris, le 25 janvier 2016, relaxe au civil Fernand Dray et Elisabeth Mugnier, relevant des fautes d'imprudence et de négligence commises dans le cadre de leur mission professionnelle. L'État décide toutefois de prendre en charge les indemnités.
+
+#### Ce qu'on en retient
+
+La responsabilité de l'État se joue devant le juge administratif sur le terrain de la faute de surveillance, et elle se heurte d'abord à la prescription quadriennale, dont le point de départ est la connaissance de l'origine du dommage. Une relaxe pénale n'éteint pas la question de l'indemnisation : d'autres voies existent, comme la responsabilité du producteur sur le fondement des produits défectueux ou le transfert des obligations de France Hypophyse à l'ONIAM. La durée est un élément du dossier : vingt-quatre ans de contentieux, deux procès et une relaxe générale.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 8 min</summary>
+
+#### Le contexte : un traitement vital, une filière sans pilote
+
+L'hormone de croissance est fabriquée par l'hypophyse et stimule la croissance des cellules ; son absence provoque un nanisme. Dans les années 1970 et 1980, le traitement n'est pas produit par synthèse : il est extrait d'hypophyses prélevées sur des cadavres. L'organisation française repose sur l'association France Hypophyse, qui collecte et répartit l'hormone, et sur l'Institut Pasteur, qui procède à l'extraction. Selon les sources, 1 698 enfants en insuffisance hormonale ont reçu ce traitement entre 1983 et 1985. Le contrôle de cette filière est éclaté entre plusieurs mains : l'ancien ministre de la Santé Bernard Kouchner explique, en janvier 1997, qu'à l'époque la santé publique n'était prise en compte par personne et qu'elle était confiée à des associations loi 1901 parapubliques. Autrement dit, avant les créations institutionnelles qu'il évoque, personne ne portait un regard d'ensemble sur la collecte, la fabrication et la distribution.
+
+#### Les faits : de la prescription médicale au décès
+
+En 1985, des scientifiques établissent que l'hormone de croissance est susceptible de transmettre la maladie de Creutzfeldt-Jakob, maladie neurologique dégénérative et incurable causée par un prion. Le 24 décembre 1992, l'Inspection générale des affaires sociales pointe un grave dysfonctionnement du dispositif de fabrication et de diffusion, ainsi que des précautions manifestement insuffisantes dans la collecte sur des cadavres. L'arrêt de la cour administrative d'appel de Nantes retrace le parcours d'une patiente née le 27 avril 1970, souffrant d'un craniopharyngiome compliqué d'un panhypopituitarisme. Elle reçoit entre 1983 et 1986 un traitement substitutif par hormone de croissance extractive. Deux lots administrés en août 1984 et février 1985, provenant de France Hypophyse, ont été suspectés d'être porteurs de la maladie de Creutzfeldt-Jakob. La patiente décède le 21 juillet 1999 au centre hospitalier universitaire de Brest. La question centrale est de savoir si ce décès résulte de la maladie de Creutzfeldt-Jakob contractée lors des injections ou d'une autre cause.
+
+#### Les questions juridiques : qui, devant quel juge, sur quel fondement
+
+Plusieurs personnes pouvaient être mises en cause : les médecins prescripteurs, l'association France Hypophyse, l'Institut Pasteur, la pharmacie centrale des hôpitaux et l'État, chargé de la surveillance sanitaire. Sur le terrain pénal, la qualification principale est l'homicide involontaire, puni de trois ans d'emprisonnement et de 45 000 euros d'amende, portés à cinq ans et 75 000 euros en cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité. La tromperie aggravée a également été retenue. Sur le terrain administratif, la victime ou ses proches demandent réparation à l'État devant le juge administratif en invoquant une faute dans la surveillance des produits de santé. Deux obstacles classiques se dressent : la prescription quadriennale, prévue par la loi du 31 décembre 1968, et la possibilité d'invoquer l'excuse d'ignorance prévue par l'article 3 de cette même loi. Sur le terrain civil, la victime peut agir contre le producteur sur le fondement du régime des produits défectueux, issu de la directive européenne du 25 juillet 1985, transposée par la loi du 19 mai 1998, qui a introduit dans le code civil les anciens articles 1386-1 à 1386-18. Ce régime est un régime de responsabilité de plein droit : la victime n'a pas à démontrer une faute, seulement la défectuosité du produit, le dommage et le lien entre les deux. Enfin, les obligations de l'association France Hypophyse nées de son rôle dans l'organisation du traitement entre 1973 et 1988 ont été transférées à l'ONIAM, qui est devenu le débiteur de ces obligations à la place de l'association.
+
+#### Les procédures : vingt-quatre ans de contentieux
+
+L'information judiciaire ouverte à Paris en décembre 1991 progresse lentement. Le 20 juillet 1993, le professeur Jean-Claude Job, le professeur Dray et trois autres personnes sont mis en examen ; à cette date, au moins dix-neuf jeunes patients sont décédés. L'instruction dure jusqu'en 2004. Le 7 juillet 2005, la chambre criminelle de la Cour de cassation valide la qualification de tromperie aggravée et les poursuites, jugeant que la tromperie est un délit clandestin par nature, de sorte que le délai de prescription ne court pas du jour des faits mais du jour de leur découverte. Le 24 janvier 2006, la première chambre civile de la Cour de cassation rejette le pourvoi contre un arrêt d'appel ayant déclaré l'Institut Pasteur responsable de la contamination : les produits ayant été mis en circulation en février 1985, la directive européenne ne s'applique pas dans le temps, et un producteur est responsable des dommages causés par son produit, y compris à l'égard des victimes par ricochet. Le procès pénal s'ouvre le 6 février 2008 devant le tribunal correctionnel de Paris : sept prévenus comparaissent pour homicides involontaires, blessures involontaires et tromperie aggravée. En janvier 2009, tous sont relaxés. Le parquet fait appel de la relaxe de trois des prévenus. Le second procès s'ouvre en octobre 2010 ; après le décès du docteur Mollet, il ne reste que deux prévenus, Fernand Dray et Elisabeth Mugnier, et la décision de mai 2011 est de nouveau une relaxe. Parallèlement, le tribunal administratif de Rennes rejette la demande de la mère de la patiente décédée par un jugement du 31 décembre 2012, en lui opposant la prescription quadriennale. Elle fait appel le 15 mars 2013 et demande à la cour administrative d'appel de Nantes de condamner l'État à lui verser 275 000 euros, avec intérêts au taux légal à compter du 16 avril 2009 et capitalisation. Le ministre soutient que la réalité de la maladie de Creutzfeldt-Jakob n'est pas établie et que l'action est prescrite, l'intéressée ayant été informée dès décembre 1993 du dispositif d'indemnisation par le médecin qui suivait sa fille. L'arrêt de la cour administrative d'appel de Nantes du 19 février 2015 est consacré à cette exception de prescription : la cour rappelle que le point de départ de la prescription est la date à laquelle la victime ou ses ayants droit est en mesure de connaître l'origine de son dommage. Le volet civil se poursuit devant la Cour de cassation, qui, le 7 janvier 2014, annule l'arrêt d'audience de mai 2011 et renvoie le dossier pour qu'il soit statué sur la responsabilité civile des personnes poursuivies. Le 25 janvier 2016, la cour d'appel de Paris rend l'épilogue : elle relaxe au civil Fernand Dray et Elisabeth Mugnier au motif que, si des fautes d'imprudence et de négligence ont été commises, elles l'ont été dans le cadre de leur mission professionnelle, de sorte que leur responsabilité civile n'était pas engagée. Les victimes ne seront donc pas indemnisées par cette voie. L'État décide toutefois de prendre en charge les indemnités, d'un montant nettement inférieur aux 10 millions d'euros réclamés par les parties civiles.
+
+#### L'analyse et les suites
+
+L'affaire montre qu'un produit de santé peut être mis en cause sans texte spécial : la victime peut chercher la faute de l'État dans sa mission de surveillance, ou la responsabilité du producteur sur le fondement civil. Ces deux voies ne se substituent pas l'une à l'autre. La responsabilité pénale et la responsabilité administrative ne visent pas les mêmes personnes et ne poursuivent pas le même but : le juge pénal prononce une peine, le juge administratif se prononce sur un préjudice. Il faut aussi distinguer la responsabilité personnelle de l'agent et celle de la collectivité : la cour d'appel de Paris a relevé des fautes d'imprudence et de négligence commises dans le cadre de la mission professionnelle, ce qui a écarté la responsabilité civile personnelle des intéressés. En droit administratif, lorsqu'une faute est commise dans le service et non détachable de lui, elle engage l'administration et non l'agent. Le dossier révèle enfin le poids des obstacles procéduraux : la prescription quadriennale, avec son point de départ fixé à la connaissance de l'origine du dommage, protège la victime ignorante mais suppose qu'elle rapporte cette ignorance ; et la preuve médicale reste difficile, le ministre soutenant que la maladie n'était pas établie tandis que la requérante invoquait les attestations des praticiens et le caractère caractéristique des symptômes. La durée est un élément du dossier en lui-même : la cour d'appel de Paris a qualifié cette procédure d'épilogue d'un scandale sanitaire éclaté en 1991 et de l'une des procédures les plus longues jamais traitées par la justice française, après vingt-quatre ans, deux procès et une relaxe générale. La première suite revendiquée par le pouvoir politique est institutionnelle : Bernard Kouchner indique avoir créé le réseau de santé publique, l'agence du médicament et l'établissement français des greffes pour que l'État joue son rôle. La seconde suite est la construction du droit de la responsabilité du fait des produits : la transposition de la directive du 25 juillet 1985 a été tardive et mouvementée, la loi du 19 mai 1998 intervenant treize ans après, après un arrêt en manquement de la Cour de justice du 13 janvier 1993 et un avis de la Commission du 28 novembre 1995 ; la France a ensuite été condamnée pour transposition incorrecte par deux arrêts du 25 avril 2002 et du 14 mars 2006, et il a fallu les lois du 9 décembre 2004 et du 5 avril 2006 pour corriger le texte. La troisième suite est financière : les obligations de France Hypophyse pour la période 1973-1988 ont été transférées à l'ONIAM, et l'État a décidé de prendre en charge les indemnités dues aux victimes, pour un montant inférieur aux demandes des familles.
+
+#### À retenir
+
+Une crise sanitaire peut naître moins d'un produit que d'une organisation sans pilote unique : ici, la collecte par une association, l'extraction par un institut, la diffusion par une pharmacie hospitalière et la surveillance par un ministère. Le rapport de l'Inspection générale des affaires sociales de 1992 parle d'un grave dysfonctionnement du dispositif et de précautions manifestement insuffisantes. La responsabilité de l'État se joue devant le juge administratif, sur le terrain de la faute de surveillance, et elle se heurte d'abord à la prescription quadriennale, dont le point de départ est la date à laquelle la victime est en mesure de connaître l'origine de son dommage. Enfin, une relaxe pénale n'éteint pas la question de l'indemnisation : d'autres voies existent, comme la responsabilité du producteur sur le fondement des produits défectueux, la responsabilité du producteur dégagée par la Cour de cassation dès 2006, et le transfert des obligations de France Hypophyse à l'ONIAM. C'est cette pluralité de voies qui donne aux victimes une chance de réparation, même après vingt-quatre ans de procédure.
+
+</details>
+
+## 1. Le contexte : un traitement vital, une filière sans pilote
+
+L'hormone de croissance est une hormone fabriquée par l'hypophyse, une glande située à la base du cerveau. Elle stimule la croissance des cellules ; quand elle manque, l'enfant ne grandit pas normalement, et on parle de nanisme. Administrer cette hormone est donc un traitement médical légitime, pas une expérimentation. Dans les années 1970 et 1980, ce traitement n'est pas encore produit par synthèse : il est extrait d'hypophyses prélevées sur des cadavres, comme le rappelle la fabrication assurée par l'Institut Pasteur.
+
+L'organisation française de cette filière repose sur une association, France Hypophyse, qui collecte et répartit l'hormone, et sur l'Institut Pasteur, qui procède à l'extraction. Selon, 1 698 enfants en insuffisance hormonale ont reçu ce traitement entre 1983 et 1985. L'arrêt de la cour administrative d'appel de Nantes décrit un cas précis : une patiente traitée entre 1983 et 1986, dont deux lots administrés en août 1984 et février 1985, provenant de France Hypophyse, ont été suspectés d'être porteurs de la maladie de Creutzfeldt-Jakob.
+
+Le contrôle de cette filière est éclaté entre plusieurs mains. L'ancien ministre de la Santé Bernard Kouchner explique, en janvier 1997, qu'à l'époque la santé publique n'était prise en compte par personne et qu'elle était confiée à des associations loi 1901 parapubliques. Il ajoute que l'État devait prendre ses responsabilités, mais autrement que de façon bureaucratique, et qu'il a créé pour cela le réseau de santé publique, l'agence du médicament et l'établissement français des greffes. Autrement dit, avant ces créations, personne ne portait un regard d'ensemble sur la collecte, la fabrication et la distribution.
+
+Ce que l'on savait, et quand, commande toute l'affaire. En 1985, des scientifiques établissent que cette hormone est susceptible de transmettre la maladie de Creutzfeldt-Jakob. Cette maladie neurologique est dégénérative et incurable ; elle est causée par un prion, une protéine infectieuse. Le 24 décembre 1992, l'Inspection générale des affaires sociales pointe un grave dysfonctionnement du dispositif de fabrication et de diffusion de l'hormone, ainsi que des précautions manifestement insuffisantes dans la collecte sur des cadavres.
+
+## 2. Les faits : de la prescription médicale au décès
+
+L'arrêt de la cour administrative d'appel de Nantes retrace le parcours d'une patiente née le 27 avril 1970. Elle souffre d'un craniopharyngiome, c'est-à-dire une tumeur développée près de l'hypophyse, compliqué d'un panhypopituitarisme, c'est-à-dire un déficit de plusieurs hormones hypophysaires. Elle reçoit entre 1983 et 1986 un traitement substitutif par hormone de croissance extractive. Deux lots administrés en août 1984 et février 1985, provenant de France Hypophyse, ont été suspectés d'être porteurs de la maladie de Creutzfeldt-Jakob.
+
+La patiente décède le 21 juillet 1999 au centre hospitalier universitaire de Brest. Elle avait subi en avril 1999 une huitième intervention destinée à traiter les suites de son craniopharyngiome. La question centrale du dossier administratif est donc de savoir si ce décès résulte de la maladie de Creutzfeldt-Jakob contractée lors des injections, ou d'une autre cause.
+
+L'alerte judiciaire vient des familles. Une information judiciaire est ouverte à Paris en décembre 1991, après la plainte de la famille d'un enfant atteint. Le même mois, les parents d'Ilyassil Benziane portent plainte avec constitution de partie civile contre X. Une information judiciaire est une enquête confiée à un juge d'instruction, qui instruit le dossier avant un éventuel procès.
+
+L'enquête progresse lentement. Le 20 juillet 1993, le professeur Jean-Claude Job, qui faisait collecter et distribuer l'hormone, est mis en examen, ainsi que le professeur Dray, ancien responsable de l'extraction à l'Institut Pasteur, et trois autres personnes. À cette date, au moins dix-neuf jeunes patients sont décédés.
+
+Les chiffres varient selon les moments et les sources, ce qui est en soi une information sur la difficulté du dossier. Selon, 1 698 enfants en insuffisance hormonale ont été traités entre 1983 et 1985 et 120 patients sont morts. Selon, la presse évoque en juin 1995 déjà 28 morts et 400 malades. Selon, environ 125 morts sont recensés parmi les 1 698 enfants traités. Selon, 115 enfants en sont décédés. Le temps d'incubation de la maladie peut dépasser trente ans, de sorte que des patients vivants restent sous la menace.
+
+## 3. Les questions juridiques : qui, devant quel juge, sur quel fondement
+
+Plusieurs personnes pouvaient être mises en cause. Les médecins qui prescrivaient le traitement, l'association France Hypophyse qui collectait et répartissait l'hormone, l'Institut Pasteur qui l'extrayait, la pharmacie centrale des hôpitaux qui la diffusait, et l'État, chargé de la surveillance sanitaire. La question de fond est de savoir où s'arrête la responsabilité de chaque acteur, et si le défaut de contrôle engage l'État lui-même.
+
+Sur le terrain pénal, la qualification principale est l'homicide involontaire. Le code pénal punit de trois ans d'emprisonnement et de 45 000 euros d'amende le fait de causer la mort d'autrui par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement. Ces peines sont portées à cinq ans d'emprisonnement et 75 000 euros d'amende en cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité. Dans ce dossier, la tromperie aggravée a également été retenue, c'est-à-dire le fait de tromper le consommateur avec une circonstance aggravante.
+
+Sur le terrain administratif, la victime ou ses proches demandent réparation à l'État devant le juge administratif, en invoquant une faute dans la surveillance des produits de santé. La procédure commence par une demande indemnitaire adressée au ministre : dans le dossier de la cour de Nantes, le ministre des affaires sociales et de la santé a refusé de condamner l'État par une décision du 23 juillet 2009. Deux obstacles classiques se dressent alors : la prescription quadriennale, prévue par la loi du 31 décembre 1968, et la possibilité d'invoquer l'excuse d'ignorance prévue par l'article 3 de cette même loi.
+
+Sur le terrain civil, la victime peut aussi agir contre le producteur du produit. Le régime français des produits défectueux vient de la directive européenne du 25 juillet 1985, transposée par la loi du 19 mai 1998, qui a introduit dans le code civil les anciens articles 1386-1 à 1386-18. Ce régime est un régime de responsabilité de plein droit : la victime n'a pas à démontrer une faute, seulement la défectuosité du produit, le dommage et le lien entre les deux. Ces voies de droit commun restent ouvertes à côté du régime spécial.
+
+Un mécanisme propre à cette affaire existe enfin : les obligations de l'association France Hypophyse nées de son rôle dans l'organisation du traitement par l'hormone de croissance extractive entre 1973 et 1988 ont été transférées à l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales. L'ONIAM est donc devenu le débiteur de ces obligations à la place de l'association.
+
+## 4. Les procédures : vingt-quatre ans de contentieux
+
+La première étape est l'information judiciaire ouverte à Paris en décembre 1991. Le rapport de l'Inspection générale des affaires sociales du 24 décembre 1992 y ajoute un constat administratif : la collecte et la diffusion de l'hormone étaient organisées de manière défaillante. En juillet 1993, plusieurs responsables sont mis en examen, dont le professeur Jean-Claude Job et le professeur Fernand Dray. L'instruction dure jusqu'en 2004, date à laquelle la juge transmet le dossier au parquet.
+
+Un premier verrou juridique est levé le 7 juillet 2005. La chambre criminelle de la Cour de cassation rend un arrêt de principe qui valide la qualification de tromperie aggravée et les poursuites engagées contre les mis en examen. La tromperie est, selon la Cour, un délit clandestin par nature : le délai de prescription ne court pas du jour où les faits ont été commis, mais du jour où ils ont été découverts. Cette solution a permis la tenue du procès et pouvait servir dans d'autres dossiers de santé publique.
+
+Le 24 janvier 2006, la première chambre civile de la Cour de cassation statue sur un autre volet, celui des héritiers d'une patiente contaminée (arrêt publié, n° 03-20.178, sur un pourvoi formé contre un arrêt d'appel). La cour d'appel avait déclaré l'Institut Pasteur responsable de la contamination et condamné celui-ci à réparation. La Cour de cassation rejette le pourvoi : les produits litigieux ayant été mis en circulation en février 1985, la directive européenne ne s'applique pas dans le temps, s'agissant d'un délai de prescription. Elle retient surtout qu'un producteur est responsable des dommages causés par son produit, y compris à l'égard des victimes par ricochet, sans distinguer selon qu'elles sont parties au contrat ou tiers.
+
+Le procès pénal s'ouvre le 6 février 2008 devant le tribunal correctionnel de Paris : sept prévenus comparaissent pour homicides involontaires, blessures involontaires et tromperie aggravée. En janvier 2009, c'est la douche froide : tous sont relaxés, alors que des peines de prison avec sursis et des amendes avaient été requises. Le parquet fait appel de la relaxe de trois des prévenus. Le second procès s'ouvre en octobre 2010 ; après le décès du docteur Mollet, il ne reste que deux prévenus, Fernand Dray et Elisabeth Mugnier, et la décision de mai 2011 est de nouveau une relaxe.
+
+Parallèlement, les victimes cherchent la responsabilité de l'État devant le juge administratif. Le tribunal administratif de Rennes rejette la demande de la mère de la patiente décédée par un jugement n° 0904674 du 31 décembre 2012, en lui opposant la prescription quadriennale. Elle fait appel le 15 mars 2013 et demande à la cour administrative d'appel de Nantes de condamner l'État à lui verser 275 000 euros, avec intérêts au taux légal à compter du 16 avril 2009 et capitalisation de ces intérêts. Le ministre, de son côté, soutient que la réalité de la maladie de Creutzfeldt-Jakob n'est pas établie et que l'action est prescrite, l'intéressée ayant été informée dès décembre 1993 du dispositif d'indemnisation par le médecin qui suivait sa fille.
+
+L'arrêt de la cour administrative d'appel de Nantes du 19 février 2015 est consacré à cette exception de prescription. La cour y rappelle que le point de départ de la prescription est la date à laquelle la victime ou ses ayants droit est en mesure de connaître l'origine de son dommage. C'est le point sensible : une mère qui ne sait pas que la maladie de sa fille vient des injections ne peut pas réclamer, et le délai de quatre ans ne commence à courir qu'au moment de cette connaissance.
+
+Le volet civil se poursuit devant la Cour de cassation, qui, le 7 janvier 2014, annule l'arrêt d'audience de mai 2011 et renvoie le dossier pour qu'il soit statué sur la responsabilité civile des personnes poursuivies. Le 25 janvier 2016, la cour d'appel de Paris rend l'épilogue : elle relaxe au civil Fernand Dray et Elisabeth Mugnier au motif que, si des fautes d'imprudence et de négligence ont été commises, elles l'ont été dans le cadre de leur mission professionnelle, de sorte que leur responsabilité civile n'était pas engagée. Les victimes ne seront donc pas indemnisées par cette voie. L'État décide toutefois de prendre en charge les indemnités, d'un montant nettement inférieur aux 10 millions d'euros réclamés par les parties civiles.
+
+## 5. L'analyse : trois responsabilités à ne pas confondre
+
+L'affaire montre qu'un produit de santé peut être mis en cause sans texte spécial : la victime peut chercher la faute de l'État dans sa mission de surveillance, ou la responsabilité du producteur sur le fondement civil. Ces deux voies ne se substituent pas l'une à l'autre. La première suppose de démontrer une carence de l'autorité publique ; la seconde repose sur la défectuosité du produit et l'existence d'un dommage.
+
+La responsabilité pénale et la responsabilité administrative ne visent pas les mêmes personnes et ne poursuivent pas le même but. Le code pénal punit une personne physique ou morale coupable d'avoir causé la mort par maladresse, imprudence ou négligence. Le juge pénal prononce une peine ; la relaxe prononcée en 2009 puis en 2011 signifie que les éléments de l'infraction n'étaient pas réunis ou que les poursuites n'ont pas abouti, et non que le dommage n'existe pas. Le juge administratif, lui, est saisi d'une demande d'indemnisation et se prononce sur le préjudice.
+
+Il faut aussi distinguer la responsabilité personnelle de l'agent et celle de la collectivité. La cour d'appel de Paris a relevé des fautes d'imprudence et de négligence, mais commises dans le cadre de la mission professionnelle, ce qui a écarté la responsabilité civile personnelle des intéressés. En droit administratif, lorsqu'une faute est commise dans le service et non détachable de lui, elle engage l'administration et non l'agent. C'est cette ligne de partage qui commande de savoir qui doit payer.
+
+Le dossier révèle enfin le poids des obstacles procéduraux. La prescription quadriennale, avec son point de départ fixé à la connaissance de l'origine du dommage, protège la victime ignorante mais suppose qu'elle rapporte cette ignorance. Et la preuve médicale reste difficile : le ministre soutenait que la maladie de Creutzfeldt-Jakob n'était pas établie en l'espèce, tandis que la requérante invoquait les attestations des praticiens ayant pris en charge sa fille et le caractère caractéristique des symptômes. L'incertitude scientifique se déplace ainsi sur la victime.
+
+La durée est un élément du dossier en lui-même. La cour d'appel de Paris a qualifié cette procédure d'épilogue d'un scandale sanitaire éclaté en 1991 et de l'une des procédures les plus longues jamais traitées par la justice française, après vingt-quatre ans, deux procès et une relaxe générale.
+
+## 6. Les suites : ce que l'affaire a changé
+
+La première suite revendiquée par le pouvoir politique est institutionnelle. Bernard Kouchner indique avoir créé le réseau de santé publique, l'agence du médicament et l'établissement français des greffes pour que l'État joue son rôle et que rien n'échappe à tout contrôle. Il explique aussi avoir préparé une loi sur le risque thérapeutique, restée dans les cartons, et avoir évalué son coût à 40 francs par famille et par an.
+
+La seconde suite est la construction du droit de la responsabilité du fait des produits. La transposition de la directive du 25 juillet 1985 a été tardive et mouvementée : la loi du 19 mai 1998 intervient treize ans après, après un arrêt en manquement de la Cour de justice du 13 janvier 1993 et un avis de la Commission du 28 novembre 1995. La France a ensuite été condamnée pour transposition incorrecte par deux arrêts du 25 avril 2002 et du 14 mars 2006, et il a fallu les lois du 9 décembre 2004 et du 5 avril 2006 pour corriger le texte. L'affaire de l'hormone de croissance fait partie des scandales sanitaires qui ont nourri cette jurisprudence.
+
+La troisième suite est financière. Les obligations de France Hypophyse pour la période 1973-1988 ont été transférées à l'ONIAM. L'État a par ailleurs décidé de prendre en charge les indemnités dues aux victimes, pour un montant inférieur aux demandes des familles. Dans la mémoire collective, les affaires de l'hormone de croissance de 1980 et 1988 figurent parmi les grandes crises de santé publique.
+
+## 7. À retenir
+
+Une crise sanitaire peut naître moins d'un produit que d'une organisation sans pilote unique : ici, la collecte par une association, l'extraction par un institut, la diffusion par une pharmacie hospitalière et la surveillance par un ministère. Le rapport de l'Inspection générale des affaires sociales de 1992 parle d'un grave dysfonctionnement du dispositif et de précautions manifestement insuffisantes.
+
+La responsabilité de l'État se joue devant le juge administratif, sur le terrain de la faute de surveillance, et elle se heurte d'abord à la prescription quadriennale. Le point de départ de ce délai est la date à laquelle la victime est en mesure de connaître l'origine de son dommage, ce qui protège celui qui ignore légitimement.
+
+Enfin, une relaxe pénale n'éteint pas la question de l'indemnisation. D'autres voies existent : la responsabilité du producteur sur le fondement des produits défectueux, la responsabilité du producteur dégagée par la Cour de cassation dès 2006, et le transfert des obligations de France Hypophyse à l'ONIAM. C'est cette pluralité de voies qui donne aux victimes une chance de réparation, même après vingt-quatre ans de procédure.
+
+## Chronologie
+
+| Date | Fait |
+| --- | --- |
+| 1983 | Une patiente née en 1970 commence un traitement substitutif par hormone de croissance extractive, qu'elle suivra jusqu'en 1986. |
+| août 1984 et février 1985 | Deux lots d'hormone provenant de France Hypophyse, suspectés d'être porteurs de la maladie de Creutzfeldt-Jakob, sont administrés à cette patiente. |
+| 1985 | Des scientifiques établissent que l'hormone de croissance extractive est susceptible de transmettre la maladie de Creutzfeldt-Jakob. |
+| décembre 1991 | Une information judiciaire est ouverte à Paris après la plainte de la famille d'un enfant atteint ; les parents d'Ilyassil Benziane portent plainte avec constitution de partie civile. |
+| 24 décembre 1992 | L'Inspection générale des affaires sociales pointe un grave dysfonctionnement du dispositif de fabrication et de diffusion de l'hormone. |
+| juillet 1993 | Le professeur Jean-Claude Job et le professeur Fernand Dray sont mis en examen avec trois autres personnes ; au moins dix-neuf jeunes patients sont alors décédés. |
+| 21 juillet 1999 | La patiente décède au centre hospitalier universitaire de Brest après une huitième intervention subie en avril 1999. |
+| 7 juillet 2005 | La chambre criminelle de la Cour de cassation valide les poursuites pour tromperie aggravée, en jugeant que ce délit est clandestin par nature et que la prescription court de sa découverte. |
+| 24 janvier 2006 | La première chambre civile de la Cour de cassation rejette le pourvoi et confirme que le producteur est responsable des dommages causés par son produit, y compris à l'égard des victimes par ricochet. |
+| 6 février 2008 | Le procès pénal s'ouvre à Paris contre sept prévenus poursuivis pour homicides involontaires et tromperie aggravée. |
+| janvier 2009 | Le tribunal correctionnel prononce une relaxe générale ; le parquet fait appel de la relaxe de trois prévenus. |
+| mai 2011 | La cour d'appel de Paris relaxe les deux derniers prévenus en vie, Fernand Dray et Elisabeth Mugnier. |
+| 31 décembre 2012 | Le tribunal administratif de Rennes rejette la demande d'indemnisation de la mère de la patiente décédée en lui opposant la prescription quadriennale. |
+| 15 mars 2013 | La mère de la patiente fait appel devant la cour administrative d'appel de Nantes et demande 275 000 euros à l'État. |
+| 7 janvier 2014 | La Cour de cassation annule l'arrêt d'audience de mai 2011 et renvoie l'examen de la responsabilité civile. |
+| 19 février 2015 | La cour administrative d'appel de Nantes statue sur l'exception de prescription quadriennale et rappelle que le délai court de la date à laquelle la victime est en mesure de connaître l'origine de son dommage. |
+| 25 janvier 2016 | La cour d'appel de Paris relaxe au civil Fernand Dray et Elisabeth Mugnier, relevant des fautes d'imprudence et de négligence commises dans le cadre de leur mission professionnelle. |
+
+## Acteurs
+
+| Qui | Rôle |
+| --- | --- |
+| France Hypophyse | Association chargée de collecter les hypophyses et de répartir l'hormone de croissance ; ses obligations pour 1973-1988 ont été transférées à l'ONIAM. |
+| Institut Pasteur | Établissement chargé de l'extraction de l'hormone à partir des hypophyses prélevées sur des cadavres. |
+| Pharmacie centrale des hôpitaux | Structure publique intervenant dans la diffusion de l'hormone. |
+| Ministère de la Santé | Autorité de surveillance sanitaire ; le ministre des affaires sociales et de la santé a refusé le 23 juillet 2009 de condamner l'État à indemniser. |
+| ONIAM | Office national d'indemnisation des accidents médicaux, devenu débiteur des obligations de France Hypophyse pour la période 1973-1988. |
+| Mme C... | Mère de la patiente décédée, requérante devant le tribunal administratif de Rennes puis la cour administrative d'appel de Nantes. |
+| Sandrine A... | Patiente traitée par hormone de croissance extractive entre 1983 et 1986, décédée le 21 juillet 1999 au CHU de Brest. |
+| Pr Jean-Claude Job | Président de France Hypophyse, mis en examen en 1993, décédé avant le jugement de janvier 2009. |
+| Pr Fernand Dray | Ancien responsable de l'extraction de l'hormone à l'Institut Pasteur, poursuivi puis relaxé au pénal et au civil. |
+| Dr Elisabeth Mugnier | Pédiatre chargée de la collecte des hypophyses, poursuivie puis relaxée au pénal et au civil. |
+| Touffik Belkhiri | Patient traité par hormone de croissance dans son enfance, qui vit avec la crainte de développer la maladie. |
+| Cour administrative d'appel de Nantes | Juridiction administrative qui a statué le 19 février 2015 sur la responsabilité de l'État et la prescription quadriennale. |
+| Cour d'appel de Paris | Juridiction qui a relaxé les prévenus en mai 2011 puis au civil le 25 janvier 2016. |
+| Cour de cassation | Chambre criminelle le 7 juillet 2005 sur la tromperie aggravée, première chambre civile le 24 janvier 2006 sur la responsabilité du producteur. |
+
+## Décisions
+
+### Cour administrative d'appel de Nantes, 3e chambre, 19 février 2015
+
+- **Demande :** Annulation du jugement du tribunal administratif de Rennes du 31 décembre 2012 et condamnation de l'État à verser 275 000 euros, avec intérêts au taux légal à compter du 16 avril 2009 et capitalisation, en réparation du décès de la fille de la requérante.
+- **Décision :** L'arrêt statue sur l'appel formé le 15 mars 2013 ; il est consacré à l'exception de prescription quadriennale opposée par le ministre et au point de départ du délai.
+- **Motifs :** La cour rappelle que le point de départ de la prescription est la date à laquelle la victime ou ses ayants droit est en mesure de connaître l'origine de son dommage. La requérante invoquait son ignorance légitime au sens de l'article 3 de la loi du 31 décembre 1968 ; le ministre soutenait au contraire qu'elle avait été informée dès décembre 1993 du dispositif d'indemnisation.
+
+### Cour d'appel de Paris, 25 janvier 2016
+
+- **Demande :** Les parties civiles demandaient à voir engagée la responsabilité civile de Fernand Dray et Elisabeth Mugnier, les deux derniers prévenus en vie, pour la contamination d'enfants par l'hormone de croissance.
+- **Décision :** Relaxe au civil des deux prévenus ; les victimes ne seront pas indemnisées par cette voie.
+- **Motifs :** La cour a relevé des fautes d'imprudence et de négligence, mais commises dans le cadre de leur mission professionnelle, ce qui exclut que leur responsabilité civile soit engagée.
+
+### Cour de cassation, chambre civile 1, 24 janvier 2006
+
+- **Demande :** Pourvoi contre un arrêt d'appel qui avait déclaré l'Institut Pasteur responsable de la contamination d'une patiente et l'avait condamné à réparation.
+- **Décision :** Rejet du pourvoi ; la responsabilité de l'Institut Pasteur est confirmée.
+- **Motifs :** Les produits ayant été mis en circulation en février 1985, la directive européenne ne s'appliquait pas dans le temps, s'agissant d'un délai de prescription. La Cour retient que tout producteur est responsable des dommages causés par son produit, y compris à l'égard des victimes par ricochet, sans distinguer contrat et tiers.
+
+### Cour de cassation, chambre criminelle, 7 juillet 2005
+
+- **Demande :** Les mis en examen contestaient les poursuites pour tromperie aggravée, en soutenant qu'elles étaient prescrites.
+- **Décision :** Arrêt de principe validant la qualification de tromperie aggravée et les poursuites.
+- **Motifs :** La tromperie est un délit clandestin par nature : le délai de prescription ne court pas de la commission des faits mais de leur découverte.
+
+## Questions de révision
+
+<details>
+<summary>Qui peut être poursuivi quand un produit de santé contaminé blesse des patients ?</summary>
+
+Plusieurs responsables peuvent être recherchés : les professionnels qui ont prescrit, collecté ou fabriqué le produit, le producteur sur le fondement civil, et l'État pour un défaut de surveillance sanitaire. Les voies pénale, civile et administrative sont distinctes et peuvent être exercées parallèlement.
+
+</details>
+
+<details>
+<summary>Que réprime exactement l'homicide involontaire ?</summary>
+
+Le code pénal punit le fait de causer la mort d'autrui par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité. La peine est de trois ans d'emprisonnement et 45 000 euros d'amende, portée à cinq ans et 75 000 euros en cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité.
+
+</details>
+
+<details>
+<summary>Qu'est-ce que la prescription quadriennale et comment joue-t-elle ici ?</summary>
+
+C'est le délai de quatre ans prévu par la loi du 31 décembre 1968, après lequel une créance sur l'État, une commune ou un établissement public n'est plus réclamable. Le point de départ est la date à laquelle la victime est en mesure de connaître l'origine de son dommage, ce qui permet d'invoquer une ignorance légitime. Cette question a été au cœur de l'arrêt de la cour administrative d'appel de Nantes du 19 février 2015.
+
+</details>
+
+<details>
+<summary>Pourquoi la relaxe pénale n'empêche-t-elle pas forcément une indemnisation ?</summary>
+
+Le juge pénal se prononce sur la culpabilité et la peine, le juge civil ou administratif sur le préjudice et sa réparation. La cour d'appel de Paris a ainsi relevé des fautes d'imprudence et de négligence tout en refusant d'engager la responsabilité civile personnelle des intéressés, car ces fautes avaient été commises dans le cadre de leur mission professionnelle.
+
+</details>
+
+<details>
+<summary>Quel régime spécial a été mis en place pour cette affaire ?</summary>
+
+Les obligations de l'association France Hypophyse nées de son rôle dans l'organisation du traitement par l'hormone de croissance extractive entre 1973 et 1988 ont été transférées à l'ONIAM. L'État a par ailleurs pris en charge les indemnités, pour un montant inférieur aux dix millions d'euros réclamés par les parties civiles.
+
+</details>
+
+<details>
+<summary>Pourquoi l'affaire a-t-elle duré si longtemps ?</summary>
+
+Le dossier a connu vingt-quatre ans de procédure, deux procès pénaux et une relaxe générale, selon la cour d'appel de Paris. La difficulté venait de la durée d'incubation de la maladie, de l'enchevêtrement des responsabilités médicales et administratives, et de questions juridiques préalables comme la prescription.
+
+</details>
+
+## Jurisprudence
+
+- [Cour Administrative d'Appel de Nantes, 3ème Chambre, 19/02/2015, 13NT00837, Inédit au recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000030281408>) : Dans l'affaire de l'hormone de croissance, la requérante reprochait au ministre des affaires sociales et de la santé d'avoir refusé, le 23 juillet 2009, de condamner l'État à réparer le décès de sa fille et demandait 275 000 euros. La cour administrative d'appel de Nantes a examiné l'exception de prescription quadriennale en rappelant que le délai court de la date à laquelle la victime est en mesure de connaître l'origine de son dommage.
+
+## Sources
+
+- [Code pénal, art. 221-6](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042647>)
+- [Hormone de croissance (Wikipédia)](<https://fr.wikipedia.org/wiki/Hormone_de_croissance>)
+- [Hormone de croissance : la Cour de cassation valide les poursuites](<https://www.lemonde.fr/societe/article/2005/07/08/hormone-de-croissance-la-cour-de-cassation-valide-les-poursuites_670770_3224.html>)
+- [Affaire de l’hormone de croissance : relaxe des deux derniers prévenus en vie](<https://www.lemonde.fr/police-justice/article/2016/01/25/epilogue-judiciaire-pour-le-scandale-de-l-hormone-de-croissance_4853122_1653578.html>)
+- [C'était quoi le scandale de l'hormone de croissance ?](<https://pharmacie-michaille.fr/cetait-quoi-le-scandale-de-lhormone-de-croissance/>)
+- [Interview de M. Bernard Kouchner, porte-parole du PRS et ancien ministre de la santé, dans "Libération" le 10 et à France 2 le 12 janvier 1997, sur l'affaire de l'hormone de croissance et notamment la commercialisation de lots contaminés d'hypophyse entr](<https://www.vie-publique.fr/discours/248400-bernard-kouchner-10011997-affaire-de-l-hormone-de-croissance>)
+- [DANS LE RETRO. Hormone de croissance : le long combat judiciaire des victimes](<https://www.leparisien.fr/faits-divers/dans-le-retro-hormone-de-croissance-le-long-combat-judiciaire-des-victimes-23-01-2016-5478969.php>)
+- [Le scandale de l'hormone de croissance](<https://www.futura-sciences.com/sante/dossiers/medecine-scandale-hormone-croissance-1042/>)
+- [Scandale de l’hormone de croissance contaminée : le combat de Touffik pour faire reconnaître son préjudice](<https://www.leparisien.fr/val-d-oise-95/scandale-de-lhormone-de-croissance-contaminee-le-combat-de-touffik-pour-faire-reconnaitre-son-prejudice-26-03-2025-LN7NEPV4SZCBXPZBUKT5SMSD4U.php>)
+- [Responsabilité du fait des produits de santé défectueux (Wikipédia)](<https://fr.wikipedia.org/wiki/Responsabilit%C3%A9_du_fait_des_produits_de_sant%C3%A9_d%C3%A9fectueux>)
+- [Cour de Cassation, Chambre civile 1, du 24 janvier 2006, 03-20.178, Publié au bulletin](<https://www.legifrance.gouv.fr/juri/id/JURITEXT000007050590/>)
+- [Liste de scandales sanitaires (Wikipédia)](<https://fr.wikipedia.org/wiki/Liste_de_scandales_sanitaires>)
+
+---
+
+<sub>‹ [L'affaire Huchon : favoritisme ou prise illégale d'intérêts dans les marchés publics de la région Île-de-France ?](etude-affaire-affaire-huchon.md) · [Retour aux études de cas](README.md) · [L'affaire du sang contaminé : la responsabilité de l'État et l'achat public de produits sanguins](etude-affaire-affaire-du-sang-contamine.md) ›</sub>

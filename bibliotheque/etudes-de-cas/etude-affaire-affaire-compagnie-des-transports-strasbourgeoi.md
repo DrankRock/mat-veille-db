@@ -1,0 +1,286 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# L'affaire de la Compagnie des transports strasbourgeois : concession, marché et responsabilités devant le juge administratif
+
+<sub>`Étude de cas` · Concessions et délégations de service public · Expert · 14 min · Affaire Compagnie des transports strasbourgeois, Strasbourg, 1985 · 8.2/10 au jury</sub>
+
+> La Compagnie des transports strasbourgeois est à la fois exploitante du réseau de tramway et de bus pour le compte de l'Eurométropole, bailleur de locaux commerciaux dans la gare et tiers à l'égard d'ouvrages publics qui ne lui appartiennent pas. Ses contentieux devant le juge administratif montrent concrètement comment se distinguent une concession, un marché public et une convention d'occupation du domaine public, et comment se répartissent les responsabilités entre maître d'ouvrage, maître d'œuvre, entreprise et exploitant.
+
+> [!TIP]
+> Concession ou marché : la question n'est pas le nom du contrat, mais qui paie et qui porte le risque.
+
+**À retenir**
+
+- La distinction concession / marché public se joue sur la rémunération et le risque, pas sur l'intitulé du contrat.
+- La CTS change de régime juridique selon la relation en cause : exploitation d'un réseau, convention d'occupation du domaine public, ou qualité de tiers à un ouvrage public.
+- L'indemnisation se partage entre plusieurs responsables et se découpe dans le temps, comme le montre le passage de 50 % à 100 % selon les périodes.
+
+<details>
+<summary><b>Version rapide</b> · 2 min</summary>
+
+#### Concession ou marché : une question de rémunération et de risque
+
+La qualification d'un contrat ne dépend pas de son titre, mais de sa substance : qui rémunère l'opérateur et qui supporte le risque d'exploitation. Dans une concession, l'opérateur se rémunère sur les usagers ou les recettes du service et assume le risque ; dans un marché public, la personne publique paie un prix sans transférer ce risque. À Strasbourg, le contrat de 1912 par lequel la ville concède à la CTS l'exploitation exclusive du réseau et la construction des futures lignes relève de la concession, tandis que les marchés d'aménagement du pôle d'échange multimodal sont des marchés publics.
+
+#### Les faits et les décisions
+
+La société L'Instant Plaisir a conclu avec la CTS une convention d'occupation du domaine public pour un local commercial dans la gare de Strasbourg. Des poussières et infiltrations sont apparues, et la société a reproché à la CTS de ne pas avoir éliminé la pollution pendant huit ans. Le tribunal administratif de Strasbourg a, par jugement du 21 avril 2016, déclaré la CTS responsable à hauteur de 50 % du préjudice d'exploitation et ordonné une expertise. Par arrêt du 30 juin 2017, la cour administrative d'appel de Nancy a réformé ce partage : elle a déclaré la CTS responsable de l'intégralité du préjudice pour la période du 1er janvier 2008 au 13 novembre 2009, et confirmé les 50 % pour la période postérieure. Le tribunal a ensuite condamné la CTS à verser 192 559 euros en réparation du préjudice d'exploitation, plus 2 401,20 euros de frais d'expertise.
+
+En parallèle, le projet d'aménagement du pôle d'échange multimodal a connu des désordres. Le tribunal administratif de Strasbourg a ordonné une expertise par jugement du 23 août 2019, en présence de Colas Nord Est, Arep, Serue Ingénierie, Thales Développement et Coopération, de l'Eurométropole et de la CTS. La CTS a fait appel pour que la responsabilité de la maîtrise d'œuvre ne soit pas écartée et réclamait 855 570,88 euros HT in solidum aux quatre sociétés.
+
+#### Ce qu'on en retient
+
+Une même société peut avoir plusieurs casquettes : la CTS est exploitante du réseau, bailleresse d'un local dans le domaine public et tiers à l'égard des ouvrages de l'Eurométropole. C'est cette qualité, et non son nom, qui détermine qui peut être poursuivi et sur quel fondement. La responsabilité indemnitaire se partage entre les acteurs et dans le temps : 50 % au tribunal, puis 100 % pour une période et 50 % pour la suivante en appel. Elle peut aussi se poursuivre sur des fondements parallèles, comme la responsabilité des constructeurs ou celle de l'Etat pour faute dans les opérations d'assiette d'un impôt.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 7 min</summary>
+
+#### Le contexte : Strasbourg et la CTS
+
+La Compagnie des transports strasbourgeois (CTS) est une société publique locale fondée en 1877 à Strasbourg. Elle exploite le réseau de transports en commun de voyageurs sur le territoire de l'Eurométropole : six lignes de tramway, un réseau de bus avec deux lignes de BHNS et douze parkings relais. En 2024, selon son rapport d'activité annuel, ce réseau a assuré en moyenne 507 000 voyages par jour, soit un peu plus de 185 millions de voyages par an. Cette taille en fait un acteur contractuel de premier plan, qui achète, exploite, loue et plaide.
+
+L'histoire de l'entreprise éclaire sa place juridique. En 1912, la ville de Strasbourg devient actionnaire majoritaire avec 51 % des parts, début du régime d'économie mixte. La ville lui concède alors un contrat exclusif d'exploitation du réseau et de construction des futures lignes, un montage de concession au sens classique. Les litiges se nouent dans deux lieux : la gare de Strasbourg et sa galerie dite de la grande verrière, où la CTS loue des locaux commerciaux, et le pôle d'échange multimodal, aménagement regroupant plusieurs modes de transport, objet de marchés publics de travaux et de maîtrise d'œuvre.
+
+#### Les faits : la convention de la gare
+
+Le 10 avril 2007, la société L'Instant Plaisir conclut avec la CTS une convention d'occupation du domaine public portant sur un local de 56 m² dans la galerie de la grande verrière de la gare de Strasbourg, destiné à un commerce de petite restauration. Une seconde convention, signée le 13 décembre 2007, porte sur une réserve de 15 m². Les redevances sont fixées à 16 744 euros par an pour le local commercial et à 1 345,50 euros par an pour la réserve.
+
+Des poussières apparaissent au 1er janvier 2008. La société locataire soutient qu'elles proviennent de l'exploitation du tramway et de la présence de la verrière, et invoque aussi des infiltrations. Elle reproche à la CTS de n'avoir pas éliminé la pollution pendant huit ans et de n'avoir procédé qu'à des travaux insuffisants. La CTS répond que la convention ne lui imposait que la mise à disposition du local, que le preneur prenait les lieux en l'état, et qu'elle a fait mesurer les poussières sans découvrir de non-conformité.
+
+#### Les décisions de justice
+
+Devant le tribunal administratif de Strasbourg, la société L'Instant Plaisir a demandé 710 000 euros en réparation de son préjudice d'exploitation. Par jugement du 21 avril 2016, le tribunal a déclaré la CTS responsable à hauteur de 50 % du préjudice et ordonné une expertise pour chiffrer ce préjudice du 1er janvier 2008 au 15 juillet 2013. Par arrêt du 30 juin 2017, la cour administrative d'appel de Nancy a réformé ce partage : elle a déclaré la CTS responsable de l'intégralité du préjudice pour la période du 1er janvier 2008 au 13 novembre 2009, et confirmé les 50 % pour la période postérieure.
+
+Le tribunal administratif de Strasbourg a ensuite, par jugement du 22 juin 2017, condamné la CTS à verser à la société L'Instant Plaisir 192 559 euros en réparation de son préjudice d'exploitation, ainsi que 2 401,20 euros au titre des frais d'expertise. Deux appels ont été enregistrés le 21 août 2017 : la société demandait que l'indemnité soit portée à 257 710,35 euros, majorée des intérêts légaux à compter du 4 octobre 2013 ; la CTS demandait l'annulation du jugement et, subsidiairement, une expertise complémentaire, en proposant de limiter une éventuelle condamnation à 50 % de la moitié du résultat net manqué, qu'elle chiffrait à 57,87 euros, ou au mieux à 3 617 euros.
+
+Sur les redevances, la CTS a saisi le tribunal administratif de Strasbourg le 8 décembre 2014 pour obtenir 24 073,82 euros au titre des redevances et charges impayées des années 2011 à 2013. Par jugement du 31 mai 2016, le tribunal a condamné la société à lui verser cette somme. En appel, la société locataire réclamait à titre reconventionnel 31 817,80 euros d'avances sur charges indûment payées et 57 448,50 euros de quote-part de redevances injustifiées ; la cour a relevé que la demande de première instance n'avait porté que sur les années 2011 à 2013, ce qui interdisait de contester en appel les montants des années antérieures.
+
+#### Le pôle d'échange multimodal et les contentieux fiscaux
+
+Le projet d'aménagement global du pôle d'échange multimodal de Strasbourg connaît des désordres : insuffisance du réseau d'évacuation des eaux en surface, défectuosité des drains, coûts supplémentaires liés au « Dampalon » et à l'éclairage, dégâts aux plâtres, à l'ancienne agence et aux câblages et appareils électriques. Un premier rapport d'expertise est déposé le 5 août 2015. La CTS estime que l'aggravation des désordres postérieure à ce rapport lui cause un préjudice propre. Les sociétés mises en cause sont Arep, Serue Ingénierie, Thales Développement et Coopération, et Colas Nord Est.
+
+Par jugement du 23 août 2019, le tribunal administratif de Strasbourg a ordonné avant dire droit une expertise contradictoire en présence de Colas Nord Est, Arep, Serue Ingénierie, Thales Développement et Coopération, de l'Eurométropole de Strasbourg et de la CTS. La mission de l'expert portait sur quatre points : dire si l'aggravation des dommages après le rapport du 5 août 2015 vient de l'inaction de la CTS, de celle des autres maîtres d'ouvrage ou d'une autre cause ; isoler les désordres constituant un préjudice propre à la CTS en sa qualité de tiers par rapport aux ouvrages de l'Eurométropole ; dire si le coût supplémentaire du « Dampalon » et de l'éclairage est imputable à la défectuosité des drains ; et évaluer le préjudice lié au remplacement des plâtres, à la remise en état de l'ancienne agence et au remplacement des câblages et appareils électriques. La CTS a fait appel les 23 octobre 2019 et 24 avril 2020 pour que la responsabilité de la maîtrise d'œuvre ne soit pas écartée et que la mission de l'expert soit élargie : elle réclamait 855 570,88 euros HT in solidum aux quatre sociétés, subsidiairement 117 198,94 euros HT aux trois sociétés de maîtrise d'œuvre, et 738 371,94 euros à Colas Nord Est.
+
+À côté de ces dossiers, la CTS a porté devant le juge administratif des litiges fiscaux. Elle a demandé le 18 décembre 2008 la restitution de 3 233 616 euros de TVA qu'elle estimait avoir collectée à tort au titre de 2002. Par jugement du 23 avril 2013, le tribunal administratif de Strasbourg a constaté qu'il n'y avait plus lieu de statuer et rejeté les conclusions relatives aux intérêts moratoires. Par arrêt du 21 avril 2015, la cour administrative d'appel de Nancy a condamné l'Etat à verser à la CTS les intérêts moratoires sur la somme de 3 233 616 euros pour la période du 23 avril 2010 au 28 mai 2010. Par décision du 20 mai 2016, le Conseil d'État a annulé les articles 1er et 2 de cet arrêt et renvoyé l'affaire à la cour. Sur la taxe professionnelle, le tribunal administratif de Montreuil a, par jugement du 27 mars 2017, condamné l'Etat à verser à la CTS 20 000 euros avec intérêts au taux légal à compter du 23 décembre 2014, en remboursement de frais de conseils.
+
+#### Analyse et suites
+
+La distinction entre concession et marché se joue sur la rémunération. Dans une concession, l'opérateur vit de l'exploitation et assume le risque de recette ; dans un marché, l'acheteur paie un prix et le titulaire n'assume pas ce risque. Le contrat de 1912 relève du premier modèle, les marchés d'aménagement du pôle d'échange multimodal du second. Le juge regarde la substance de l'opération, pas le titre du document.
+
+La même société peut porter plusieurs casquettes selon le contrat. Gestionnaire du domaine public, elle encaisse des redevances et doit délivrer un local conforme. Maître d'ouvrage ou donneur d'ordre, elle est en même temps tiers à l'égard des ouvrages appartenant à l'Eurométropole. Exploitante, elle répond des nuisances causées aux commerces qu'elle abrite. Chaque casquette commande un fondement différent : le contrat, la responsabilité pour dommages de travaux publics, ou la faute dans l'exécution d'un contrat.
+
+L'affaire montre que la responsabilité se partage et se redécoupe dans le temps. Le tribunal a d'abord retenu 50 % à la charge de la CTS, avant que la cour ne porte ce taux à 100 % pour la première période, puis ne confirme les 50 % pour la seconde, séparées par le 13 novembre 2009. Ce découpage temporel est une technique classique du contentieux indemnitaire. Enfin, l'affaire sépare les responsabilités selon la place de chacun : ce qui est reproché aux sociétés Arep, Serue Ingénierie, Thales Développement et Coopération et Colas Nord Est, c'est d'avoir mal conçu ou mal exécuté l'ouvrage, dans les rapports entre l'architecte, l'entrepreneur et le maître de l'ouvrage. La CTS, elle, se présente comme tiers par rapport aux ouvrages de l'Eurométropole et cherche à faire reconnaître un préjudice qui lui est propre.
+
+Le paysage régional des transports a évolué après les faits. La Compagnie des transports du Bas-Rhin (CTBR), créée le 1er janvier 2009, regroupe quatre entreprises ; la CTS en était l'actionnaire majoritaire, aux côtés de Transdev, Mugler et Striebig, qui détenaient chacun 13 % du capital. Le 1er septembre 2019, la CTBR est devenue une société publique locale détenue à 80 % par la région Grand Est et à 20 % par l'Eurométropole de Strasbourg. Le contentieux du pôle d'échange multimodal se poursuivait encore en 2020, cinq ans après le dépôt du premier rapport d'expertise de 2015.
+
+</details>
+
+## 1. Le contexte : Strasbourg, un réseau exploité pour le compte de la collectivité
+
+La Compagnie des transports strasbourgeois (CTS) est une société publique locale fondée en 1877 à Strasbourg. Elle a pour objet l'exploitation du réseau de transports en commun de voyageurs sur le territoire de l'Eurométropole de Strasbourg. Elle exploite les six lignes du tramway strasbourgeois, un réseau de bus dont deux lignes de BHNS (bus à haut niveau de service, un bus qui circule sur une voie dédiée), ainsi que les douze parkings relais associés, pour le compte de l'Eurométropole. En 2024, selon son rapport d'activité annuel, son réseau a assuré en moyenne 507 000 voyages par jour, soit un peu plus de 185 millions de voyages par an. Cette taille explique qu'elle soit un acteur contractuel de premier plan à Strasbourg : elle achète, elle exploite, elle loue, et elle plaide.
+
+L'histoire de l'entreprise éclaire sa place juridique. En 1912, la ville de Strasbourg devient actionnaire majoritaire de la compagnie avec 51 % des parts : c'est le début du régime d'économie mixte. La ville lui concède alors un contrat exclusif d'exploitation du réseau et de construction des futures lignes. Le montage est celui d'une concession au sens classique : la collectivité confie l'exploitation à un opérateur, qui tire ses ressources de l'exploitation du service, et la ville conserve ainsi un moyen d'intervenir directement sur le développement de l'agglomération. On comprend dès lors pourquoi les contrats de cette famille occupent une place centrale dans l'histoire juridique de la compagnie.
+
+Les litiges qui suivent se nouent dans deux lieux strasbourgeois. Le premier est la gare de Strasbourg et sa galerie dite de la grande verrière, où la CTS loue des locaux commerciaux à des exploitants. Le second est le pôle d'échange multimodal, un aménagement qui regroupe plusieurs modes de transport ; son aménagement global fait l'objet de marchés publics de travaux et de maîtrise d'œuvre, avec un maître d'ouvrage public, des maîtres d'œuvre et des entreprises. Dans les deux cas, la CTS n'est pas dans la même position : elle est bailleresse d'un côté, tiers mécontent de l'autre.
+
+## 2. Les faits
+
+Le 10 avril 2007, la société L'Instant Plaisir conclut avec la CTS une convention d'occupation du domaine public portant sur un local de 56 m² situé dans la galerie dite de la grande verrière de la gare de Strasbourg. Le local est destiné à un commerce de petite restauration, dont l'exploitation débute le 4 septembre 2007. Une seconde convention, signée le 13 décembre 2007, porte sur une réserve de 15 m² dans la même galerie. Les redevances sont fixées à 16 744 euros par an pour le local commercial, payables par échéances trimestrielles de 4 186 euros TTC hors charges, et à 1 345,50 euros par an pour la réserve, soit 336,38 euros par trimestre.
+
+Des poussières apparaissent au 1er janvier 2008, peu après l'emménagement de la société. La société locataire soutient qu'elles proviennent de l'exploitation du tramway et de la présence de la verrière, et elle invoque aussi des infiltrations. Elle reproche à la CTS de n'avoir pas éliminé la pollution pendant huit ans et de n'avoir procédé qu'à des travaux et interventions insuffisants. Elle ajoute qu'un accès à la station de tramway a été fermé en 2013. En défense, la CTS répond que la convention ne lui imposait que la mise à disposition du local, que le preneur était réputé avoir une parfaite connaissance des lieux et les prenait en l'état, et qu'elle a fait mesurer et identifier les poussières sans découvrir de non-conformité, puis pris des mesures pour limiter les nuisances.
+
+En parallèle, le projet d'aménagement global du pôle d'échange multimodal de Strasbourg connaît des désordres. Sont en cause une insuffisance du réseau d'évacuation des eaux en surface, la défectuosité des drains, des coûts supplémentaires liés au « Dampalon » et à l'éclairage, ainsi que des dégâts aux plâtres des murs, à l'ancienne agence et aux câblages et appareils électriques affectés par les infiltrations. Un premier rapport d'expertise est déposé le 5 août 2015. La CTS estime que l'aggravation des désordres postérieure à ce rapport lui cause un préjudice qui lui est propre. Les sociétés mises en cause sont Arep, Serue Ingénierie, Thales Développement et Coopération, et Colas Nord Est.
+
+À côté de ces deux dossiers, la CTS a porté devant le juge administratif des litiges fiscaux de montants élevés. Elle a demandé le 18 décembre 2008 la restitution de 3 233 616 euros de taxe sur la valeur ajoutée qu'elle estimait avoir collectée à tort au titre de l'année 2002. Elle a aussi contesté des cotisations supplémentaires de taxe professionnelle au titre de 2007 à raison de son établissement situé dans le quartier de la Kibitzenau à Strasbourg, en soutenant que les immobilisations en cause avaient déjà été imposées à raison de l'établissement de Cronenbourg. Ces contentieux ne portent pas sur la qualification des contrats, mais ils complètent le tableau : la même société attaque l'Etat tantôt comme cocontractante, tantôt comme puissance publique.
+
+## 3. Les questions juridiques
+
+La première question est celle de la qualification du contrat. Une concession de service public est un contrat par lequel une personne publique confie à un opérateur l'exploitation d'un service ; l'opérateur se rémunère de façon substantielle sur les usagers ou sur les recettes du service et supporte le risque d'exploitation. Un marché public fonctionne à l'inverse : la personne publique achète des travaux, des fournitures ou des services et paie un prix, sans transférer le risque d'exploitation au titulaire. Le juge ne s'arrête pas à l'étiquette du document : il regarde qui paie et qui porte le risque. À Strasbourg, le contrat de 1912 par lequel la ville concède à la compagnie un contrat exclusif d'exploitation du réseau et la construction des futures lignes relève de la première famille ; les marchés d'aménagement du pôle d'échange multimodal relèvent de la seconde.
+
+La deuxième question est celle du rôle exact de la CTS dans chaque dossier. Elle est exploitante du réseau pour le compte de l'Eurométropole. Elle est aussi partie à une convention d'occupation du domaine public, qui lui doit des redevances en contrepartie de la mise à disposition d'un local. Elle est encore qualifiée de tiers par rapport aux ouvrages publics qui appartiennent à l'Eurométropole de Strasbourg, ce que le juge dit explicitement. Ces trois casquettes ouvrent trois régimes différents, et donc trois façons de désigner le responsable.
+
+La troisième question est celle de l'imputabilité des dommages. Dans le dossier du pôle d'échange multimodal, il faut déterminer qui répond des désordres : la maîtrise d'œuvre, l'entreprise de travaux, ou les autres maîtres d'ouvrage. Pour les locaux de la gare, il faut déterminer si la gêne vient du tramway et de la verrière, si elle vient de la convention, ou si le comportement de la société locataire a sa part. Le juge doit donc trancher une chaîne de causalité, puis répartir la charge entre les intervenants.
+
+La quatrième question est celle du fondement, donc du régime applicable. La société L'Instant Plaisir invoque d'abord la responsabilité contractuelle de la CTS, et, à titre subsidiaire, la responsabilité sans faute pour dommages permanents de travaux publics, en se présentant comme victime d'un dommage anormal et spécial causé par le mauvais fonctionnement d'un ouvrage public. La CTS, elle, recherche la responsabilité des constructeurs dans les rapports entre l'architecte, l'entrepreneur et le maître de l'ouvrage. Sur le terrain fiscal, c'est la responsabilité de l'Etat pour faute dans les opérations d'assiette de la taxe professionnelle qui est en jeu, tandis que le dossier de la TVA roule sur les intérêts moratoires dus en cas de dégrèvement.
+
+## 4. Les procédures
+
+Devant le tribunal administratif de Strasbourg, la société L'Instant Plaisir a demandé 710 000 euros en réparation du préjudice d'exploitation subi du fait du non-respect par la CTS de ses obligations contractuelles. Par un jugement du 21 avril 2016, le tribunal a déclaré la CTS responsable à hauteur de 50 % du préjudice d'exploitation et a ordonné une expertise afin de chiffrer ce préjudice pour la période du 1er janvier 2008 au 15 juillet 2013. Le tribunal n'a donc pas tout mis à la charge de la CTS : il a retenu une part de responsabilité, ce qui suppose qu'une autre cause, ou le comportement de la victime, a contribué au dommage.
+
+Par un arrêt du 30 juin 2017, la cour administrative d'appel de Nancy a réformé ce partage. Elle a déclaré la CTS responsable de l'intégralité du préjudice d'exploitation pour la période du 1er janvier 2008 au 13 novembre 2009, et confirmé le jugement en tant qu'il fixait à 50 % la part de responsabilité incombant à la CTS pour la période postérieure au 13 novembre 2009. La CTS plaidait notamment que la convention ne lui imposait aucune obligation autre que la mise à disposition du local, que le preneur prenait les lieux en l'état, et qu'elle avait mesuré les poussières sans mettre en lumière de non-conformités. Ces arrêts de 2016 et 2017 statuaient sur une convention de 2007 : le droit applicable était celui de l'époque.
+
+Le tribunal administratif de Strasbourg a ensuite, par un jugement du 22 juin 2017, condamné la CTS à verser à la société L'Instant Plaisir 192 559 euros en réparation de son préjudice d'exploitation, ainsi que 2 401,20 euros au titre des frais d'expertise. Deux appels ont été enregistrés le 21 août 2017 : la société demandait que l'indemnité soit portée à 257 710,35 euros, majorée des intérêts légaux à compter du 4 octobre 2013 ; la CTS demandait l'annulation du jugement et, subsidiairement, une expertise complémentaire, en proposant de limiter une éventuelle condamnation à 50 % de la moitié du résultat net manqué, qu'elle chiffrait à 57,87 euros, ou au mieux à 3 617 euros. L'écart entre les sommes réclamées et celles proposées montre à quel point le chiffrage du préjudice est un enjeu à part entière.
+
+Sur les redevances, la CTS a saisi le tribunal administratif de Strasbourg le 8 décembre 2014 pour obtenir 24 073,82 euros au titre des redevances et charges impayées des années 2011 à 2013, en tenant compte d'un versement de 18 000 euros effectué le 19 septembre 2014 en application d'une ordonnance de référé provision du 22 mars 2013. Par un jugement du 31 mai 2016, le tribunal a condamné la société à lui verser cette somme. En appel, la société locataire réclamait à titre reconventionnel 31 817,80 euros d'avances sur charges indûment payées et 57 448,50 euros de quote-part de redevances injustifiées ; la cour a relevé que la demande de première instance n'avait porté que sur les années 2011 à 2013, ce qui interdisait de contester en appel les montants des années antérieures.
+
+Sur le pôle d'échange multimodal, le tribunal administratif de Strasbourg a, par un jugement du 23 août 2019, ordonné avant dire droit une expertise contradictoire en présence de l'entreprise Colas Nord Est, des sociétés Arep, Serue Ingénierie et Thales Développement et Coopération, de l'Eurométropole de Strasbourg et de la CTS. La mission de l'expert portait sur quatre points : dire si l'aggravation des dommages après le rapport du 5 août 2015 vient de l'inaction de la CTS, de celle des autres maîtres d'ouvrage ou d'une autre cause ; isoler, parmi les désordres chiffrés en 2015, ceux qui constituent un préjudice propre à la CTS en sa qualité de tiers par rapport aux ouvrages de l'Eurométropole ; dire si le coût supplémentaire du « Dampalon » et de l'éclairage est imputable à la défectuosité des drains ; et évaluer le préjudice lié au remplacement des plâtres, à la remise en état de l'ancienne agence et au remplacement des câblages et appareils électriques. La CTS a fait appel les 23 octobre 2019 et 24 avril 2020 pour que la responsabilité de la maîtrise d'œuvre ne soit pas écartée et que la mission de l'expert soit élargie : elle réclamait 855 570,88 euros HT in solidum aux quatre sociétés, subsidiairement 117 198,94 euros HT aux trois sociétés de maîtrise d'œuvre, et 738 371,94 euros à Colas Nord Est. La société Serue Ingénierie concluait au rejet et demandait 4 000 euros au titre de l'article L. 761-1 du code de justice administrative.
+
+Sur la TVA, le tribunal administratif de Strasbourg a, par un jugement du 23 avril 2013, constaté qu'il n'y avait plus lieu de statuer sur la demande de restitution et rejeté les conclusions relatives aux intérêts moratoires. Par un arrêt du 21 avril 2015, la cour administrative d'appel de Nancy a condamné l'Etat à verser à la CTS les intérêts moratoires sur la somme de 3 233 616 euros pour la période du 23 avril 2010 au 28 mai 2010. Par une décision du 20 mai 2016, le Conseil d'État a annulé les articles 1er et 2 de cet arrêt et renvoyé dans cette mesure l'affaire à la cour administrative d'appel de Nancy. L'affaire est ainsi revenue devant la cour, qui rappelle le cadre du code général des impôts et du livre des procédures fiscales sur la déduction, le remboursement et les intérêts moratoires.
+
+Sur la taxe professionnelle, le tribunal administratif de Montreuil a, par un jugement du 27 mars 2017, condamné l'Etat à verser à la CTS 20 000 euros avec intérêts au taux légal à compter du 23 décembre 2014, en remboursement des frais de conseils engagés dans les phases précontentieuses et contentieuses. La demande initiale s'élevait à 309 704 euros, ramenée en cours d'instance à 92 227 euros. Le ministre de l'action et des comptes publics a relevé appel de ce jugement, en soutenant notamment que les frais exposés au stade contentieux avaient déjà été réparés et que les frais précontentieux relevaient de la libre appréciation de la société, qui n'était pas contrainte de se faire représenter par un avocat. Par la voie de l'appel incident, la société demandait que la somme soit portée à 33 608 euros.
+
+## 5. L'analyse
+
+La distinction entre concession et marché se joue sur la rémunération. Dans une concession, l'opérateur vit de l'exploitation : ce sont les recettes du service ou les usagers qui le paient, et il assume le risque de voir la recette manquer. Dans un marché, l'acheteur paie un prix, et le titulaire n'assume pas ce risque. Le contrat de 1912, par lequel la ville concède à la compagnie l'exploitation exclusive du réseau et la construction des futures lignes, relève du premier modèle ; les marchés d'aménagement du pôle d'échange multimodal relèvent du second. Le juge regarde donc la substance de l'opération, pas le titre du document.
+
+La même société peut porter plusieurs casquettes selon le contrat. Gestionnaire du domaine public, elle encaisse des redevances d'occupation et doit délivrer un local conforme à sa destination contractuelle. Maître d'ouvrage ou donneur d'ordre d'un côté, elle est en même temps tiers à l'égard des ouvrages qui appartiennent à l'Eurométropole de Strasbourg. Exploitante enfin, elle répond des nuisances que son exploitation cause aux commerces qu'elle abrite. Chaque casquette commande un fondement différent : le contrat, la responsabilité pour dommages de travaux publics, ou la faute dans l'exécution d'un contrat.
+
+L'affaire montre aussi que la responsabilité se partage et se redécoupe dans le temps. Le tribunal a d'abord retenu 50 % de responsabilité à la charge de la CTS, avant que la cour ne porte ce taux à 100 % pour la première période, puis ne confirme les 50 % pour la seconde. La cour a donc distingué deux périodes, séparées par le 13 novembre 2009 : le comportement des parties et la cause des nuisances n'étaient pas les mêmes avant et après. Ce découpage temporel est une technique classique du contentieux indemnitaire : on recherche, pour chaque séquence, la part exacte de chaque cause.
+
+Enfin, l'affaire sépare nettement les responsabilités selon la place de chacun. Ce qui est reproché aux sociétés Arep, Serue Ingénierie, Thales Développement et Coopération et Colas Nord Est, c'est d'avoir mal conçu ou mal exécuté l'ouvrage, dans les rapports entre l'architecte, l'entrepreneur et le maître de l'ouvrage. La CTS, elle, est demanderesse à un autre titre : elle se présente comme tiers par rapport aux ouvrages de l'Eurométropole et cherche à faire reconnaître un préjudice qui lui est propre, et non un préjudice de maître d'ouvrage. On ne répond donc pas de la même chose selon que l'on est maître d'œuvre, entrepreneur, maître d'ouvrage ou simple utilisateur d'un ouvrage public.
+
+## 6. Les suites
+
+Le paysage régional des transports a évolué après les faits. La Compagnie des transports du Bas-Rhin (CTBR), créée le 1er janvier 2009, regroupe quatre entreprises ; la CTS en était l'actionnaire majoritaire, aux côtés de Transdev, Mugler et Striebig, qui détenaient chacun 13 % du capital. Le 1er septembre 2019, la CTBR est devenue une société publique locale détenue à 80 % par la région Grand Est et à 20 % par l'Eurométropole de Strasbourg. Le mouvement est donc le même que pour la CTS : l'exploitation des réseaux locaux se fait désormais par des sociétés publiques locales détenues par les collectivités.
+
+La CTS elle-même est aujourd'hui une société publique locale qui exploite le réseau de transports en commun de voyageurs sur le territoire de l'Eurométropole : six lignes de tramway, un réseau de bus avec deux lignes de BHNS et douze parkings relais. Selon son rapport d'activité annuel, ce réseau a assuré en 2024 une moyenne de 507 000 voyages par jour, un peu plus de 185 millions de voyages par an. La structure juridique de l'exploitation a donc sa propre vie, indépendamment des litiges contractuels.
+
+Le contentieux du pôle d'échange multimodal, lui, se poursuivait encore en 2020, cinq ans après le dépôt du premier rapport d'expertise de 2015. La cour administrative d'appel de Nancy était saisie d'une demande de réformation du jugement du 23 août 2019 sur l'étendue de la mission de l'expert et sur la responsabilité de la maîtrise d'œuvre. C'est une donnée pratique du contentieux de la commande publique : entre expertises successives, appels et renvois, un litige de travaux peut durer très longtemps.
+
+## 7. À retenir
+
+Concession ou marché ? La réponse ne tient pas au titre du contrat, mais à sa substance : qui rémunère l'opérateur, et qui supporte le risque d'exploitation. À Strasbourg, le contrat de 1912 par lequel la ville concède l'exploitation exclusive du réseau relève du modèle concessif, tandis que les marchés d'aménagement du pôle d'échange multimodal restent des marchés publics payés par la collectivité.
+
+Une même personne publique ou une même société change de régime selon le contrat qu'elle signe. La CTS est exploitante du réseau, bailleresse d'un local dans le domaine public et tiers à l'égard des ouvrages de l'Eurométropole. C'est cette qualité, et non son nom, qui détermine qui peut être poursuivi et sur quel fondement.
+
+Enfin, la responsabilité indemnitaire est rarement binaire. Elle se partage entre les acteurs et dans le temps : 50 % au tribunal, puis 100 % pour une période et 50 % pour la suivante en appel. Et elle se poursuit sur plusieurs fondements parallèles, qu'il s'agisse de la responsabilité des constructeurs ou de la responsabilité de l'Etat pour faute dans les opérations d'assiette d'un impôt.
+
+## Chronologie
+
+| Date | Fait |
+| --- | --- |
+| 10 avril 2007 | Convention d'occupation du domaine public entre la CTS et la société L'Instant Plaisir pour un local de 56 m² dans la galerie de la grande verrière de la gare de Strasbourg. |
+| 4 septembre 2007 | Début de l'exploitation du commerce de petite restauration dans le local. |
+| 13 décembre 2007 | Seconde convention portant sur une réserve de 15 m² dans la même galerie. |
+| 1er janvier 2008 | Apparition de poussières peu après l'emménagement de la société locataire. |
+| 18 décembre 2008 | Demande de restitution de 3 233 616 euros de TVA collectée à tort au titre de 2002. |
+| 1er janvier 2009 | Création de la Compagnie des transports du Bas-Rhin, dont la CTS est l'actionnaire majoritaire. |
+| 5 août 2015 | Dépôt du premier rapport d'expertise sur les désordres du pôle d'échange multimodal. |
+| 21 avril 2016 | Le tribunal administratif de Strasbourg déclare la CTS responsable à hauteur de 50 % du préjudice d'exploitation et ordonne une expertise. |
+| 20 mai 2016 | Le Conseil d'État annule les articles 1er et 2 de l'arrêt de la cour administrative d'appel de Nancy du 21 avril 2015 et renvoie l'affaire à la cour. |
+| 31 mai 2016 | Le tribunal administratif de Strasbourg condamne la société L'Instant Plaisir à verser 24 073,82 euros de redevances et charges à la CTS. |
+| 27 mars 2017 | Le tribunal administratif de Montreuil condamne l'Etat à verser 20 000 euros à la CTS au titre de frais de conseils. |
+| 22 juin 2017 | Le tribunal administratif de Strasbourg condamne la CTS à verser 192 559 euros de préjudice d'exploitation et 2 401,20 euros de frais d'expertise. |
+| 30 juin 2017 | La cour administrative d'appel de Nancy déclare la CTS responsable de l'intégralité du préjudice pour la période du 1er janvier 2008 au 13 novembre 2009 et maintient 50 % ensuite. |
+| 21 août 2017 | Deux appels sont enregistrés contre le jugement du 22 juin 2017, l'un par la société locataire, l'autre par la CTS. |
+| 18 avril 2018 | La cour administrative d'appel de Nancy examine les requêtes jointes relatives au préjudice d'exploitation du commerce de la gare. |
+| 23 août 2019 | Le tribunal administratif de Strasbourg ordonne une expertise contradictoire sur les désordres du pôle d'échange multimodal. |
+| 1er septembre 2019 | La Compagnie des transports du Bas-Rhin devient une société publique locale détenue à 80 % par la région Grand Est et à 20 % par l'Eurométropole de Strasbourg. |
+| 23 octobre 2019 et 24 avril 2020 | La CTS fait appel du jugement du 23 août 2019 pour contester l'exclusion de la responsabilité de la maîtrise d'œuvre et la limitation de la mission de l'expert. |
+| 13 octobre 2020 | La cour administrative d'appel de Nancy est saisie de l'affaire des désordres du pôle d'échange multimodal. |
+| 2024 | Le réseau de la CTS a assuré en moyenne 507 000 voyages par jour, un peu plus de 185 millions de voyages par an. |
+
+## Acteurs
+
+| Qui | Rôle |
+| --- | --- |
+| Compagnie des transports strasbourgeois (CTS) | Société publique locale fondée en 1877, exploitante du réseau de tramway et de bus pour le compte de l'Eurométropole de Strasbourg et partie à de nombreux litiges administratifs. |
+| Eurométropole de Strasbourg | Collectivité pour le compte de laquelle la CTS exploite le réseau et propriétaire des ouvrages publics du pôle d'échange multimodal. |
+| Ville de Strasbourg | Actionnaire majoritaire de la CTS depuis 1912 et concédante du contrat exclusif d'exploitation du réseau. |
+| Société L'Instant Plaisir (SARL) | Locataire d'un local de 56 m² dans la galerie de la grande verrière de la gare de Strasbourg, demanderesse en indemnisation contre la CTS. |
+| Société Arep | Société mise en cause au titre de la maîtrise d'œuvre du projet d'aménagement du pôle d'échange multimodal. |
+| Société Serue Ingénierie | Société de maîtrise d'œuvre mise en cause dans le dossier du pôle d'échange multimodal. |
+| Société Thales Développement et Coopération | Société mise en cause dans le dossier du pôle d'échange multimodal. |
+| Société Colas Nord Est | Entreprise de travaux mise en cause dans le dossier du pôle d'échange multimodal. |
+| Etat (ministre des transports, ministre de l'action et des comptes publics) | Défendeur dans les litiges fiscaux de la CTS et auteur de recours devant le Conseil d'État. |
+
+## Décisions
+
+### Tribunal administratif de Strasbourg, 21 avril 2016
+
+- **Demande :** La société L'Instant Plaisir demandait la condamnation de la CTS à lui verser 710 000 euros en réparation de son préjudice d'exploitation.
+- **Décision :** La CTS est déclarée responsable à hauteur de 50 % du préjudice d'exploitation, et une expertise est ordonnée pour chiffrer ce préjudice.
+- **Motifs :** Le tribunal a retenu une part seulement de responsabilité, ce qui laisse place à d'autres causes, et il a renvoyé le chiffrage à un expert.
+
+### Cour administrative d'appel de Nancy, 30 juin 2017
+
+- **Demande :** La CTS contestait la responsabilité contractuelle retenue contre elle par le jugement du 21 avril 2016.
+- **Décision :** La CTS est déclarée responsable de l'intégralité du préjudice d'exploitation pour la période du 1er janvier 2008 au 13 novembre 2009, le partage à 50 % étant confirmé pour la période postérieure.
+- **Motifs :** La cour distingue deux périodes successives, en fonction du comportement des parties et de la cause des nuisances, pour répartir la charge du dommage.
+
+### Tribunal administratif de Strasbourg, 31 mai 2016
+
+- **Demande :** La CTS demandait la condamnation de la société L'Instant Plaisir à lui verser 24 073,82 euros de redevances et charges impayées pour les années 2011 à 2013.
+- **Décision :** La société L'Instant Plaisir est condamnée à verser cette somme à la CTS.
+- **Motifs :** Les redevances d'occupation du domaine public étaient fixées par les conventions de 2007 et les impayés portaient sur les années 2011 à 2013.
+
+### Tribunal administratif de Montreuil, 27 mars 2017
+
+- **Demande :** La CTS demandait la condamnation de l'Etat à lui verser une indemnité en réparation des préjudices subis en raison des fautes commises dans les opérations d'assiette de la taxe professionnelle de 2007.
+- **Décision :** L'Etat est condamné à verser 20 000 euros avec intérêts au taux légal à compter du 23 décembre 2014, en remboursement de frais de conseils.
+- **Motifs :** Les frais engagés dans les phases précontentieuses et contentieuses ont été jugés réparables au titre de l'illégalité fautive de l'administration.
+
+### Conseil d'État, 20 mai 2016
+
+- **Demande :** Le ministre des finances et des comptes publics demandait l'annulation de l'arrêt de la cour administrative d'appel de Nancy du 21 avril 2015 en tant qu'il ordonnait le versement d'intérêts moratoires à la CTS.
+- **Décision :** Les articles 1er et 2 de l'arrêt sont annulés et l'affaire est renvoyée dans cette mesure à la cour administrative d'appel de Nancy.
+- **Motifs :** La décision rappelle le régime des demandes de remboursement de crédits de TVA, qui sont des réclamations contentieuses soumises à des conditions et délais particuliers, et le régime légal des intérêts moratoires en cas de dégrèvement.
+
+### Tribunal administratif de Strasbourg, 23 août 2019
+
+- **Demande :** La CTS demandait au juge d'ordonner une expertise sur l'aggravation des désordres depuis le rapport du 5 août 2015 et de condamner in solidum quatre sociétés à lui verser 855 570,88 euros HT.
+- **Décision :** Une expertise contradictoire est ordonnée avant dire droit, en présence des quatre sociétés, de l'Eurométropole et de la CTS, et les autres droits et moyens des parties sont réservés.
+- **Motifs :** Le tribunal veut d'abord savoir d'où vient l'aggravation, isoler le préjudice propre à la CTS en sa qualité de tiers par rapport aux ouvrages de l'Eurométropole, et chiffrer les postes contestés.
+
+## Questions de révision
+
+<details>
+<summary>Qu'est-ce qui distingue une concession de service public d'un marché public ?</summary>
+
+La réponse tient au mode de rémunération et au risque. Dans une concession, l'opérateur se rémunère sur l'exploitation du service et supporte le risque de recette ; dans un marché, la personne publique paie un prix sans transférer ce risque. Le juge regarde la substance du contrat, pas son intitulé.
+
+</details>
+
+<details>
+<summary>Pourquoi la CTS est-elle qualifiée de tiers dans le dossier du pôle d'échange multimodal ?</summary>
+
+Parce que les ouvrages publics concernés appartiennent à l'Eurométropole de Strasbourg, et non à la CTS. Le tribunal a demandé à l'expert d'isoler, parmi les désordres chiffrés en 2015, ceux qui constituent un préjudice propre à la CTS prise en cette qualité de tiers.
+
+</details>
+
+<details>
+<summary>Quel était le montant des redevances dues par la société locataire dans la gare de Strasbourg ?</summary>
+
+16 744 euros par an pour le local commercial de 56 m², payables par échéances trimestrielles de 4 186 euros TTC hors charges. S'y ajoutaient 1 345,50 euros par an pour la réserve de 15 m², soit 336,38 euros par trimestre.
+
+</details>
+
+<details>
+<summary>Comment la responsabilité de la CTS a-t-elle évolué entre 2016 et 2017 ?</summary>
+
+Le tribunal administratif de Strasbourg l'a d'abord fixée à 50 % du préjudice d'exploitation en avril 2016. En appel, la cour administrative d'appel de Nancy l'a portée à 100 % pour la période du 1er janvier 2008 au 13 novembre 2009, tout en confirmant les 50 % pour la période postérieure.
+
+</details>
+
+<details>
+<summary>Que réclamait la CTS dans l'affaire du pôle d'échange multimodal ?</summary>
+
+855 570,88 euros HT in solidum aux sociétés Arep, Serue Ingénierie, Thales Développement et Coopération et Colas Nord Est. Subsidiairement, elle demandait 117 198,94 euros HT aux trois sociétés de maîtrise d'œuvre, et 738 371,94 euros à Colas Nord Est.
+
+</details>
+
+<details>
+<summary>Sur quel fondement l'Etat a-t-il été condamné dans le litige de taxe professionnelle ?</summary>
+
+Sur le fondement de la responsabilité pour faute commise dans les opérations d'assiette de la taxe professionnelle de 2007. Le tribunal administratif de Montreuil a condamné l'Etat à verser 20 000 euros de frais de conseils, avec intérêts au taux légal à compter du 23 décembre 2014.
+
+</details>
+
+## Jurisprudence
+
+- [CAA de NANCY, 4ème chambre, 13/10/2020, 19NC03032, Inédit au recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000042427216>) : La CTS reprochait à Arep, Serue Ingénierie, Thales Développement et Coopération et Colas Nord Est les désordres du pôle d'échange multimodal et réclamait 855 570,88 euros HT in solidum ; le tribunal administratif de Strasbourg a ordonné avant dire droit une expertise en quatre points, dont la recherche du préjudice propre de la CTS en sa qualité de tiers par rapport aux ouvrages appartenant à l'Eurométropole.
+- [CAA de NANCY, 1ère chambre - formation à 3, 18/04/2018, 17NC02106-17NC02107, Inédit au recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000036820988>) : La cour administrative d'appel de Nancy a déclaré la CTS responsable de l'intégralité du préjudice d'exploitation d'un commerce de la gare pour la période du 1er janvier 2008 au 13 novembre 2009, et confirmé le partage à 50 % pour la période postérieure.
+- [CAA de NANCY, 1ère chambre - formation à 3, 30/06/2017, 16NC01872, Inédit au recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000035098843>) : La société locataire reprochait à la CTS de n'avoir pas éliminé pendant huit ans les poussières gênant son commerce et invoquait, à titre subsidiaire, la responsabilité sans faute pour dommages permanents de travaux publics ; la CTS répondait que la convention ne lui imposait que la mise à disposition du local.
+- [CAA de NANCY, 1ère chambre - formation à 3, 30/06/2017, 16NC01526, Inédit au recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000035098841>) : La CTS a obtenu la condamnation de son locataire à lui verser 24 073,82 euros de redevances et charges impayées pour 2011 à 2013 ; en appel, la cour a jugé que seules ces années pouvaient être discutées, la demande de première instance n'ayant pas porté sur les années antérieures.
+- [Cour administrative d'appel de Versailles, 1ère Chambre, 15/01/2019, 17VE01374, Inédit au recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000038028812>) : La CTS reprochait à l'Etat des fautes dans les opérations d'assiette de la taxe professionnelle 2007 ; le tribunal administratif de Montreuil a condamné l'Etat à lui verser 20 000 euros avec intérêts au taux légal, en remboursement de frais de conseils, et le ministre a fait appel de ce jugement.
+
+## Sources
+
+- [Compagnie des transports strasbourgeois (Wikipédia)](<https://fr.wikipedia.org/wiki/Compagnie_des_transports_strasbourgeois>)
+- [Compagnie des transports du Bas-Rhin (Wikipédia)](<https://fr.wikipedia.org/wiki/Compagnie_des_transports_du_Bas-Rhin>)
+
+---
+
+<sub>‹ [L'affaire Époux Bertin (CE, Section, 20 avril 1956) : le service public, critère autonome du contrat administratif](etude-affaire-affaire-epoux-bertin.md) · [Retour aux études de cas](README.md) · [Affaire SMIRGEOMES (CE, 3 octobre 2008) : les conditions du référé précontractuel](etude-affaire-affaire-smirgeomes.md) ›</sub>

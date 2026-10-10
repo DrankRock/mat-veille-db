@@ -1,0 +1,294 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# Affaire SMIRGEOMES (CE, 3 octobre 2008) : les conditions du référé précontractuel
+
+<sub>`Étude de cas` · Contentieux des contrats publics · Expert · 13 min · Affaire SMIRGEOMES, France, 2003 · 8.1/10 au jury</sub>
+
+> Un syndicat de déchets annule un appel d'offres après que le juge des référés a censuré une simple mention erronée dans l'avis de publicité. Le Conseil d'État censure à son tour ce raisonnement : désormais, le juge doit vérifier que le manquement invoqué était susceptible de léser l'entreprise qui le saisit.
+
+> [!TIP]
+> Un manquement ne fait tomber une procédure que s'il a pu léser le candidat qui s'en plaint.
+
+**À retenir**
+
+- Depuis le 3 octobre 2008, le juge du référé précontractuel doit rechercher si le manquement invoqué était susceptible de léser l'entreprise qui le saisit, même indirectement en avantageant un concurrent.
+- En l'espèce, l'annulation de toute une procédure d'appel d'offres pour une mention erronée de l'Accord sur les marchés publics a été censurée, faute d'avoir examiné cette lésion potentielle.
+- Le pourvoi incident a en revanche prospéré : l'absence de communication des motifs détaillés de rejet de l'offre, dans le délai de quinze jours, justifiait une injonction.
+
+<details>
+<summary><b>Version rapide</b> · 1 min</summary>
+
+#### L'affaire et la règle posée
+
+Le SMIRGEOMES, syndicat mixte chargé des déchets, lance en 2007 un appel d'offres pour la valorisation des métaux. La société Passenaud Recyclage présente une offre mais n'est pas retenue. Elle saisit le juge des référés précontractuels pour contester la procédure, invoquant notamment une mention erronée dans les avis d'appel public à la concurrence concernant l'Accord sur les marchés publics. Le juge des référés du tribunal administratif de Nantes annule la procédure au seul motif de cette mention erronée. Le SMIRGEOMES se pourvoit en cassation.
+
+Le Conseil d'État, dans son arrêt du 3 octobre 2008, casse cette ordonnance. Il juge que le juge des référés précontractuels doit rechercher si le manquement invoqué est susceptible d'avoir lésé le requérant ou de le léser, fût-ce indirectement en avantageant une entreprise concurrente. En annulant la procédure sans procéder à cet examen, le juge des référés a commis une erreur de droit. La décision pose une grille en deux temps : le manquement est-il de ceux que le juge doit faire respecter ? Et a-t-il pu nuire au requérant ?
+
+#### Ce qu'il faut retenir pour agir
+
+Désormais, le candidat évincé qui saisit le juge du référé précontractuel doit démontrer que le manquement qu'il invoque est susceptible de l'avoir lésé. Il ne suffit plus de constater une irrégularité, même formelle. Le juge doit vérifier ce lien de lésion, qui n'a pas à être certain mais doit être suffisamment vraisemblable. Le requérant n'a pas à prouver qu'il aurait remporté le marché sans le manquement.
+
+Les conditions de recevabilité restent : avoir un intérêt à conclure le contrat, être susceptible d'être lésé par le manquement, et agir avant la conclusion du contrat. Le juge peut alors suspendre, annuler ou ordonner la mise en conformité de la procédure. L'effet pratique est que le candidat évincé ne peut plus compter sur une liste de vices formels pour faire tomber une procédure ; il doit construire une démonstration de lésion au cas par cas.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 4 min</summary>
+
+#### Le contexte et les faits
+
+Le SMIRGEOMES est un syndicat mixte intercommunal chargé de la collecte et du traitement des déchets dans l'est de la Sarthe. En janvier 2007, il lance un appel d'offres ouvert pour un marché de services portant sur la prise en charge, le transport, le tri et la valorisation des métaux collectés dans les déchetteries, ainsi que l'élimination des refus. La société Passenaud Recyclage présente une offre, mais celle-ci n'est pas retenue.
+
+Dans les avis d'appel public à la concurrence, le syndicat mentionne que le marché est couvert par l'Accord sur les marchés publics annexé au traité instituant l'Organisation mondiale du commerce. Selon le juge des référés, cette indication était erronée. Passenaud Recyclage conteste également d'autres points, notamment l'obligation de fournir une déclaration sur l'outillage et l'équipement technique, l'imprécision des codes CPV, et demande la communication des motifs détaillés du rejet de son offre.
+
+#### La procédure devant le juge des référés
+
+Le juge des référés précontractuels du tribunal administratif de Nantes, par ordonnance du 24 avril 2007, annule la procédure de passation au motif que le syndicat a indiqué à tort que le marché était couvert par l'Accord sur les marchés publics. Il rejette en revanche la demande d'injonction de communication des motifs de rejet de l'offre. Passenaud Recyclage forme un pourvoi incident contre ce rejet.
+
+Le SMIRGEOMES se pourvoit en cassation le 9 mai 2007. L'affaire est jugée par la Section du contentieux du Conseil d'État, sous la présidence de M. Stirn, sur rapport de M. Alban de Nervaux, avec les conclusions de M. Bertrand Dacosta, commissaire du gouvernement. L'arrêt est publié au recueil Lebon.
+
+#### La décision du Conseil d'État
+
+Le Conseil d'État, dans son arrêt du 3 octobre 2008, casse l'ordonnance en tant qu'elle a annulé la procédure de passation. Il juge que le juge des référés précontractuels doit rechercher si l'entreprise qui le saisit se prévaut de manquements qui, eu égard à leur portée et au stade de la procédure auquel ils se rapportent, sont susceptibles de l'avoir lésée ou risquent de la léser, fût-ce de façon indirecte en avantageant une entreprise concurrente. En annulant la procédure sans cet examen, le juge des référés a commis une erreur de droit.
+
+La décision fournit une grille en deux temps : d'abord, le manquement invoqué est-il de ceux que le juge doit faire respecter ? Ensuite, ce manquement peut-il, par sa portée et compte tenu du stade de la procédure, avoir nui au requérant, même indirectement ? Un moyen qui ne franchit pas le second temps est écarté sans examen au fond. Le Conseil d'État précise aussi qu'une société dont la candidature a été admise et qui a présenté une offre correspondant à l'objet du marché ne peut se plaindre d'irrégularités antérieures à la sélection de son offre.
+
+Sur le pourvoi incident, le Conseil d'État annule l'ordonnance en tant qu'elle a rejeté les conclusions à fin d'injonction. L'article 83 du code des marchés publics, alors applicable, imposait au pouvoir adjudicateur de communiquer les motifs détaillés du rejet dans un délai maximal de quinze jours. Passenaud Recyclage est donc fondée à demander cette communication.
+
+#### L'analyse : ce que l'affaire change
+
+L'affaire marque le passage d'un recours objectif à un recours plus subjectif. Avant 2008, tout manquement aux règles de publicité et de mise en concurrence pouvait justifier l'annulation de la procédure, même s'il n'avait pas été commis au détriment du requérant. Après Smirgeomes, le requérant doit établir deux éléments cumulatifs : l'existence d'un manquement à une règle ou à un principe que le juge doit faire respecter, et le fait que ce manquement a pu le léser ou avantager un concurrent, même indirectement.
+
+Le lien entre le manquement et la lésion n'a pas à être certain ; il suffit qu'il soit suffisamment vraisemblable. Le juge doit motiver ce point. Il n'a pas à rechercher si le requérant a été davantage lésé que les autres candidats. Tous les manquements ne sont pas neutralisés : le juge n'intervient que pour la protection des intérêts du requérant lui-même. Lorsqu'il est manifestement exclu qu'un manquement ait eu une incidence sur le sort de ce requérant, le juge n'a pas à le sanctionner.
+
+La jurisprudence a dessiné des familles de moyens. Les irrégularités qui touchent l'objet du contrat, les caractéristiques des prestations, les critères d'appréciation des offres ou l'analyse des candidatures sont en principe susceptibles de léser le candidat. À l'inverse, des irrégularités purement formelles au stade de la publicité, sans incidence sur ces éléments, sont généralement inopérantes. Le cas du candidat dont l'offre est elle-même irrégulière est particulier : selon la jurisprudence Clear Channel de 2012, il ne peut pas être regardé comme lésé par le choix d'un candidat irrégulièrement retenu, sauf si le manquement invoqué est à l'origine de l'irrégularité de sa propre offre.
+
+#### Les suites et la portée
+
+L'ordonnance n° 2009-515 du 7 mai 2009 a remplacé l'article 24 de l'ordonnance du 6 juin 2005, sans remettre en cause le contrôle issu de Smirgeomes. Ce contrôle est devenu la clef du référé précontractuel, rendant l'issue moins prévisible pour le candidat évincé. Le droit de l'Union européenne a ensuite poussé dans l'autre sens : la Cour de justice a jugé qu'un candidat évincé conserve un intérêt légitime à recourir même lorsque son offre était irrecevable, solution reprise par le Conseil d'État en matière de référé contractuel dans l'affaire Société Clean Building. Le débat reste ouvert sur l'extension de cette solution au référé précontractuel.
+
+Le raisonnement a essaimé hors du juge administratif : le juge des référés du tribunal de commerce de Lille s'est appuyé sur Smirgeomes le 14 janvier 2010 pour rejeter la demande d'annulation d'un candidat. En 2022, une commune soutenait devant la cour administrative d'appel de Paris que le tribunal avait appliqué « la jurisprudence Smirgeomes » sans examiner si la procédure de mise en concurrence avait été dénaturée. La grille de 2008 est devenue un réflexe d'analyse, au-delà du seul référé précontractuel.
+
+</details>
+
+## 1. Le contexte
+
+Le SMIRGEOMES est un syndicat mixte intercommunal de réalisation et de gestion pour l'élimination des ordures ménagères du secteur est de la Sarthe. Son siège est fixé à Saint-Calais, dans la Sarthe. C'est un établissement public chargé d'une mission de collecte et de traitement des déchets sur l'est du département. Autrement dit, un acheteur public classique, qui passe ses marchés selon les règles de la commande publique.
+
+En janvier 2007, ce syndicat lance un appel d'offres ouvert. Un appel d'offres ouvert est une procédure dans laquelle tout opérateur économique intéressé peut remettre une offre. L'objet du marché est un service : la prise en charge, le transport, le tri et la valorisation des métaux collectés dans les déchetteries du syndicat, plus l'élimination des refus. Pour un syndicat de déchets, revendre les métaux triés est une activité ordinaire.
+
+Le référé précontractuel est la procédure d'urgence ouverte au candidat qui conteste la façon dont un contrat public est attribué. Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations de publicité et de mise en concurrence. Le point décisif est le moment : le juge est saisi avant la conclusion du contrat. Une fois le contrat signé, cette porte est fermée.
+
+Les règles applicables aux tribunaux administratifs et au Conseil d'État sont rassemblées dans le code de justice administrative. C'est donc dans ce code, et non dans le code des marchés publics, que se trouve le texte qui ouvre le référé précontractuel. La rédaction applicable en 2007 et 2008 réservait l'action aux personnes ayant un intérêt à conclure le contrat et susceptibles d'être lésées par le manquement. Le représentant de l'État dans le département pouvait aussi agir lorsque le contrat était conclu par une collectivité territoriale ou un établissement public local.
+
+Le juge ainsi saisi disposait de pouvoirs larges. Il pouvait ordonner au pouvoir adjudicateur de se conformer à ses obligations, suspendre la passation du contrat ou l'exécution d'une décision qui s'y rapporte, annuler ces décisions et supprimer les clauses ou prescriptions contraires aux obligations de publicité et de mise en concurrence. Dès sa saisine, il pouvait aussi enjoindre de différer la signature du contrat, pour une durée maximale de vingt jours. Ces pouvoirs s'exercent sur une procédure en cours, pas sur un contrat déjà formé.
+
+Le fond du droit des marchés publics repose sur trois principes : la liberté d'accès à la commande publique, l'égalité de traitement des candidats et la transparence des procédures. Ces principes servent l'efficacité de l'achat et la bonne utilisation des deniers publics. Le droit des marchés publics comporte aussi une dimension répressive, tournée vers la prévention du favoritisme et de la corruption, mais ce n'est pas le terrain de l'affaire jugée en 2008.
+
+## 2. Les faits
+
+La procédure se déroule en 2007. Le SMIRGEOMES publie les avis d'appel public à la concurrence de son marché de valorisation des métaux. La société Passenaud Recyclage présente une offre. Son offre n'est pas retenue : elle est donc le candidat évincé de l'histoire.
+
+Dans les avis d'appel public à la concurrence, le syndicat mentionne que le marché est couvert par l'Accord sur les marchés publics annexé au traité instituant l'Organisation mondiale du commerce. Selon le motif retenu par le juge des référés, cette indication était erronée. Ce seul grief a suffi à faire tomber toute la procédure de passation.
+
+Passenaud Recyclage soulevait d'autres griefs devant le juge des référés. Elle critiquait l'obligation de fournir, à l'appui de sa candidature, une déclaration indiquant l'outillage, le matériel et l'équipement technique dont le candidat dispose pour réaliser des marchés de même nature : elle la jugeait discriminatoire et disproportionnée. Elle critiquait aussi l'imprécision des codes CPV, le « vocabulaire commun des marchés », utilisés dans les avis.
+
+L'entreprise demandait enfin au juge d'enjoindre au syndicat de lui communiquer les motifs détaillés du rejet de son offre. À l'époque, l'article 83 du code des marchés publics imposait au pouvoir adjudicateur de communiquer ces motifs dans un délai maximal de quinze jours à compter de la réception d'une demande écrite. Le juge des référés a rejeté cette demande d'injonction.
+
+## 3. Les questions juridiques
+
+La première question est celle de la qualité pour agir. Le texte de l'époque limitait le référé précontractuel aux personnes qui ont un intérêt à conclure le contrat et qui sont susceptibles d'être lésées par le manquement. Une entreprise sans intérêt à obtenir le marché, ou qu'un manquement ne peut pas atteindre, n'a rien à y faire. Cette exigence figurait déjà dans la rédaction du texte, mais son application restait souple.
+
+La deuxième question porte sur la nature du manquement invocable. Le requérant doit se plaindre d'un manquement aux obligations de publicité et de mise en concurrence. Le champ est large : règles de publicité, organisation de la concurrence, et même, par exemple, incompétence de la personne publique au regard de l'objet du contrat.
+
+La troisième question, centrale ici, est celle de l'office du juge. Le juge doit-il annuler la procédure dès qu'il constate une irrégularité, même purement formelle ? Ou doit-il d'abord vérifier que cette irrégularité a pu nuire au candidat qui la soulève ? C'est exactement le choix entre un recours objectif, tourné vers la légalité de la procédure, et un recours subjectif, tourné vers la situation du requérant.
+
+La quatrième question est celle de la preuve de cette nuisance. Le requérant n'a pas à démontrer qu'il aurait gagné le marché sans le manquement. Il doit établir que le manquement était susceptible de le léser, ou risquait de le léser, fût-ce de façon indirecte, en avantageant une entreprise concurrente.
+
+Une question secondaire porte sur l'injonction de communication des motifs de rejet. Le juge des référés précontractuels peut-il ordonner au pouvoir adjudicateur de communiquer à l'entreprise évincée les motifs détaillés du rejet de son offre ? Et à quelles conditions ? Le pourvoi incident de Passenaud Recyclage oblige le Conseil d'État à répondre.
+
+Un point de vocabulaire évite la confusion : le référé précontractuel ne sert pas à obtenir une indemnité. La question posée n'est pas de savoir qui doit réparer un dommage, ni de poursuivre une personne. Le juge se prononce sur la régularité d'une procédure en cours et sur les mesures propres à y remédier, avant la signature du contrat.
+
+## 4. Procédure : l'ordonnance du juge des référés du tribunal administratif de Nantes (24 avril 2007)
+
+Le juge des référés précontractuels du tribunal administratif de Nantes statue le premier, par une ordonnance du 24 avril 2007. Il est saisi par la société Passenaud Recyclage, dont l'offre n'a pas été retenue. La société lui demande d'annuler la procédure de passation du marché et d'enjoindre au syndicat de lui communiquer les motifs de rejet de son offre.
+
+Le juge fait droit à la demande d'annulation. Il retient que le syndicat a indiqué à tort, dans les avis d'appel public à la concurrence, que le marché était couvert par l'Accord sur les marchés publics. Une mention erronée dans un avis suffit donc, dans cette lecture, à faire tomber l'ensemble de la consultation.
+
+En revanche, le juge rejette les conclusions à fin d'injonction relatives à la communication des motifs de rejet de l'offre. L'entreprise n'obtient pas les explications qu'elle réclamait. Elle contestera ce refus devant le Conseil d'État, par la voie du pourvoi incident.
+
+## 5. Procédure : le pourvoi du SMIRGEOMES et le pourvoi incident de Passenaud Recyclage
+
+Le SMIRGEOMES se pourvoit en cassation. Son pourvoi est enregistré au secrétariat du contentieux du Conseil d'État le 9 mai 2007. Il demande l'annulation de l'ordonnance en tant qu'elle a annulé la procédure de passation, le rejet de la demande présentée en première instance, et 4 000 euros au titre des frais de justice.
+
+La société Passenaud Recyclage forme un pourvoi incident. Elle demande l'annulation de la même ordonnance, mais en tant qu'elle a rejeté ses conclusions à fin d'injonction. Le Conseil d'État examine le pourvoi principal et le pourvoi incident dans une même décision.
+
+La formation de jugement est solennelle : la Section du contentieux du Conseil d'État statue sous la présidence de M. Stirn, sur le rapport de M. Alban de Nervaux, avec les conclusions de M. Bertrand Dacosta, commissaire du gouvernement. Ce magistrat présente une analyse indépendante du litige, destinée à éclairer la formation de jugement. L'arrêt est publié au recueil Lebon, ce qui signale son importance.
+
+## 6. Procédure : la décision du Conseil d'État du 3 octobre 2008
+
+Le Conseil d'État casse l'ordonnance en tant qu'elle a annulé la procédure de passation. Son raisonnement tient dans une formule devenue célèbre : il appartient au juge des référés précontractuels de rechercher si l'entreprise qui le saisit se prévaut de manquements qui, eu égard à leur portée et au stade de la procédure auquel ils se rapportent, sont susceptibles de l'avoir lésée ou risquent de la léser, fût-ce de façon indirecte en avantageant une entreprise concurrente.
+
+La conséquence est directe. En annulant la procédure au seul motif de la mention erronée de l'Accord sur les marchés publics, sans rechercher si cette irrégularité, à la supposer établie, était susceptible d'avoir lésé ou risqué de léser Passenaud Recyclage, le juge des référés a commis une erreur de droit. Il a ainsi méconnu son office.
+
+La décision fournit une grille de lecture en deux temps. Premier temps : le manquement invoqué est-il de ceux que ce juge doit faire respecter ? Second temps : ce manquement peut-il, par sa portée et compte tenu du stade de la procédure, avoir nui au requérant, même indirectement ? Un moyen qui ne franchit pas le second temps est écarté sans que son bien-fondé soit examiné.
+
+Le Conseil d'État ajoute une précision utile pour les candidats. Une société dont la candidature a été admise et qui a présenté une offre correspondant à l'objet du marché ne peut se plaindre d'être susceptible d'avoir été lésée par des irrégularités qui se rapportent à une phase de la procédure antérieure à la sélection de son offre.
+
+Sur les autres griefs de la requérante, la réponse est également instructive. Le renvoi, dans l'avis, à la rubrique relative aux délais d'introduction des recours suffit à remplir cette rubrique. Et le pouvoir adjudicateur n'est pas tenu de fixer dans les avis d'appel public à la concurrence les niveaux minimaux de capacités professionnelles, techniques et financières exigés des candidats.
+
+Sur le pourvoi incident, la solution s'inverse. L'article 83 du code des marchés publics, alors applicable, imposait au pouvoir adjudicateur de communiquer, dans un délai maximal de quinze jours, les motifs détaillés du rejet de la candidature ou de l'offre. Passenaud Recyclage est donc fondée à demander l'annulation de l'ordonnance en tant qu'elle a rejeté ses conclusions à fin d'injonction.
+
+## 7. L'analyse : ce que l'affaire change dans le raisonnement du juge
+
+L'affaire marque le passage d'un recours objectif à un recours plus subjectif. Avant 2008, tout manquement aux règles de publicité et de mise en concurrence pouvait justifier l'annulation de la procédure, même s'il n'avait pas été commis au détriment du requérant. La conception alors dominante était celle de l'arrêt Radiometer de 2005.
+
+Après Smirgeomes, le requérant doit établir deux éléments cumulatifs. D'abord, l'existence d'un manquement à une règle ou à un principe que le juge du référé doit faire respecter. Ensuite, le fait que ce manquement a pu le léser, ou a pu avantager un concurrent, même indirectement.
+
+Le lien entre le manquement et la lésion n'a pas à être certain. Il suffit qu'il soit suffisamment vraisemblable. Le juge doit motiver ce point dans sa décision. Il n'a pas non plus à rechercher si le requérant a été davantage lésé que les autres candidats : il suffit que le manquement ait pu le léser, lui.
+
+Tous les manquements ne sont pas neutralisés pour autant. Le juge n'intervient que pour la protection des intérêts du requérant lui-même. Lorsqu'il est manifestement exclu qu'un manquement ait eu une incidence quelconque sur le sort de ce requérant, le juge du référé précontractuel n'a pas à le sanctionner.
+
+La jurisprudence a dessiné des familles de moyens. Les irrégularités qui touchent l'objet du contrat, les caractéristiques des prestations, les critères d'appréciation des offres ou l'analyse des candidatures sont en principe susceptibles de léser le candidat. À l'inverse, des irrégularités purement formelles au stade de la publicité, sans incidence sur ces éléments, sont généralement inopérantes.
+
+Le cas du candidat dont l'offre est elle-même irrégulière est particulier. Selon la jurisprudence Clear Channel de 2012, il ne peut pas être regardé comme lésé par le choix d'un candidat irrégulièrement retenu, sauf lorsque le manquement qu'il invoque est justement à l'origine de l'irrégularité de sa propre offre. Son moyen est alors inopérant.
+
+Le sommaire d'une décision de 2012 énonce l'exception symétrique. Le choix de l'offre d'un candidat irrégulièrement retenu est en principe susceptible d'avoir lésé le candidat qui invoque ce manquement. L'exception joue lorsque, de l'instruction, il résulte que la candidature du requérant devait elle-même être écartée, ou que son offre ne pouvait qu'être éliminée comme inappropriée, irrégulière ou inacceptable.
+
+Reste une distinction à garder en tête. Le référé précontractuel ne juge pas des responsabilités : il ne condamne personne à réparer un préjudice et ne poursuit aucune infraction. Il constate un manquement dans une procédure en cours et ordonne des mesures avant la signature du contrat. Les contentieux de la validité du contrat, de l'indemnisation et, s'il y a lieu, le volet pénal du favoritisme sont d'autres terrains.
+
+## 8. Les suites
+
+L'affaire a été rendue dans un environnement en mouvement. L'ordonnance n° 2009-515 du 7 mai 2009, relative aux procédures de recours applicables aux contrats de la commande publique, a remplacé l'article 24 de l'ordonnance du 6 juin 2005. Cette réforme concerne les contrats pour lesquels une consultation a été engagée à partir du 1er décembre 2009.
+
+Cette réforme n'a pas remis en cause le contrôle issu de l'arrêt Smirgeomes. Ce contrôle en est même devenu la clef : il a rendu l'issue du recours moins prévisible pour le candidat évincé, puisqu'il faut apprécier au cas par cas si le manquement a pu le léser. Les check-lists de vices formels ont perdu l'essentiel de leur utilité.
+
+La jurisprudence postérieure a précisé les contours de l'exigence. Le lien entre le manquement et la lésion doit être suffisamment vraisemblable. Le juge doit expressément motiver sa décision sur ce point. Il n'a pas à comparer le degré de lésion entre les candidats.
+
+Le droit de l'Union européenne a ensuite poussé dans l'autre sens. La Cour de justice a jugé qu'un candidat évincé conserve un intérêt légitime à recourir même lorsque l'offre qu'il a présentée était irrecevable. Le Conseil d'État a repris cette solution en matière de référé contractuel, dans l'affaire Société Clean Building.
+
+La Cour a également refusé qu'une réglementation ou une jurisprudence nationale limite les moyens invocables par le candidat évincé. Le débat reste ouvert sur l'extension de cette solution au référé précontractuel. La question posée par les praticiens est donc de savoir si l'exigence de lésion posée en 2008 résistera à cette évolution.
+
+Le raisonnement a même essaimé hors du juge administratif. Le juge des référés du tribunal de commerce de Lille s'est appuyé sur Smirgeomes, le 14 janvier 2010, pour rejeter la demande d'annulation d'un candidat. La société requérante avait finalement présenté une offre complète dans les délais requis : elle ne pouvait donc pas avoir été lésée par les manquements invoqués.
+
+La référence reste vivante dans d'autres contentieux. En 2022, une commune soutenait devant la cour administrative d'appel de Paris que le tribunal avait appliqué « la jurisprudence Smirgeomes » sans examiner si la procédure de mise en concurrence avait été dénaturée. L'argument montre que la grille de 2008 est devenue un réflexe d'analyse, au-delà du seul référé précontractuel.
+
+L'histoire du syndicat, elle, continue. Le SMIRGEOMES du secteur est de la Sarthe est devenu en juin 2019 le syndicat de valorisation des ordures ménagères, le SYVALORM. Il a aussi été défendeur, en 2017 et 2018, dans un litige de sous-traitance portant sur le solde du prix de travaux de modernisation de son usine d'Ecorpain, pour 164 195,35 euros.
+
+## 9. À retenir
+
+Retenir d'abord la règle de fond. Le juge du référé précontractuel ne sanctionne pas un manquement en lui-même : il vérifie que ce manquement est susceptible d'avoir lésé ou de léser le requérant, fût-ce indirectement en avantageant un concurrent. Un moyen qui ne franchit pas ce filtre est inopérant, même s'il est bien fondé.
+
+Retenir ensuite les conditions de recevabilité. Il faut avoir un intérêt à conclure le contrat, être susceptible d'être lésé par le manquement invoqué, et agir avant la conclusion du contrat. Le juge peut alors suspendre, annuler ou ordonner la mise en conformité de la procédure.
+
+Retenir enfin l'effet pratique de l'affaire. Le candidat évincé ne peut plus compter sur une liste de vices formels pour faire tomber une procédure. Il doit construire, au cas par cas, une démonstration de lésion, en tenant compte de la portée du manquement et du stade de la procédure auquel il se rapporte.
+
+## Chronologie
+
+| Date | Fait |
+| --- | --- |
+| janvier 2007 | Le SMIRGEOMES lance un appel d'offres ouvert pour la prise en charge, le transport, le tri et la valorisation des métaux collectés dans ses déchetteries, et l'élimination des refus. |
+| 24 avril 2007 | Le juge des référés du tribunal administratif de Nantes annule la procédure de passation, au motif d'une mention erronée de l'Accord sur les marchés publics dans les avis, et rejette les conclusions à fin d'injonction de Passenaud Recyclage. |
+| 9 mai 2007 | Le SMIRGEOMES se pourvoit en cassation contre l'ordonnance du 24 avril 2007, en tant qu'elle a annulé la procédure. |
+| 3 octobre 2008 | Le Conseil d'État casse l'ordonnance en tant qu'elle annule la procédure, faute d'avoir recherché si l'irrégularité était susceptible d'avoir lésé la requérante. |
+| 3 octobre 2008 | Sur pourvoi incident, le Conseil d'État annule aussi l'ordonnance en tant qu'elle a rejeté les conclusions tendant à la communication des motifs de rejet de l'offre. |
+| 7 mai 2009 | L'ordonnance n° 2009-515 relative aux procédures de recours applicables aux contrats de la commande publique remplace l'article 24 de l'ordonnance du 6 juin 2005. |
+| juin 2019 | Le SMIRGEOMES du secteur est de la Sarthe devient le syndicat de valorisation des ordures ménagères (SYVALORM). |
+
+## Acteurs
+
+| Qui | Rôle |
+| --- | --- |
+| SMIRGEOMES (syndicat mixte intercommunal de réalisation et de gestion pour l'élimination des ordures ménagères du secteur est de la Sarthe) | Établissement public en charge de la collecte et du traitement des déchets, pouvoir adjudicateur du marché litigieux et demandeur au pourvoi en cassation. |
+| Société Passenaud Recyclage | Candidat dont l'offre n'a pas été retenue, à l'origine du référé précontractuel et auteur du pourvoi incident. |
+| Juge des référés du tribunal administratif de Nantes | Premier juge, auteur de l'ordonnance du 24 avril 2007 qui a annulé la procédure de passation. |
+| Conseil d'État, Section du contentieux | Juge de cassation, auteur de la décision du 3 octobre 2008 qui fixe l'exigence de lésion. |
+| M. Alban de Nervaux | Rapporteur de l'affaire devant le Conseil d'État. |
+| M. Bertrand Dacosta | Commissaire du gouvernement, auteur des conclusions sur l'affaire. |
+
+## Décisions
+
+### Juge des référés du tribunal administratif de Nantes, 24 avril 2007
+
+- **Demande :** Annulation de la procédure de passation du marché de valorisation des métaux et communication des motifs de rejet de l'offre de Passenaud Recyclage.
+- **Décision :** Annulation de la procédure de passation ; rejet des conclusions à fin d'injonction.
+- **Motifs :** Le juge retient que le syndicat a indiqué à tort, dans les avis d'appel public à la concurrence, que le marché était couvert par l'Accord sur les marchés publics.
+
+### Conseil d'État, Section du contentieux, 3 octobre 2008
+
+- **Demande :** Pourvoi du SMIRGEOMES contre l'ordonnance du 24 avril 2007 en tant qu'elle annule la procédure ; pourvoi incident de Passenaud Recyclage contre le rejet de ses conclusions à fin d'injonction.
+- **Décision :** Cassation de l'ordonnance en tant qu'elle a annulé la procédure de passation ; annulation également en tant qu'elle a rejeté les conclusions à fin d'injonction.
+- **Motifs :** Le juge des référés doit rechercher si le manquement invoqué est susceptible d'avoir lésé ou de léser l'entreprise requérante, fût-ce indirectement en avantageant un concurrent ; il ne peut annuler une procédure sans cet examen.
+
+### Conseil d'État, 7e et 2e sous-sections réunies, 11 avril 2012
+
+- **Demande :** Application de la jurisprudence Smirgeomes à une procédure d'attribution contestée.
+- **Décision :** Le sommaire énonce la règle applicable : le choix de l'offre d'un candidat irrégulièrement retenu est en principe susceptible d'avoir lésé le requérant.
+- **Motifs :** L'exception joue lorsque, de l'instruction, il résulte que la candidature du requérant devait elle-même être écartée, ou que son offre ne pouvait qu'être éliminée comme inappropriée, irrégulière ou inacceptable.
+
+## Questions de révision
+
+<details>
+<summary>Qui peut saisir le juge du référé précontractuel ?</summary>
+
+Les personnes qui ont un intérêt à conclure le contrat et qui sont susceptibles d'être lésées par le manquement invoqué. Le représentant de l'État dans le département peut aussi agir lorsque le contrat est conclu par une collectivité territoriale ou un établissement public local. La saisine doit intervenir avant la conclusion du contrat.
+
+</details>
+
+<details>
+<summary>Que doit démontrer le candidat évincé depuis l'arrêt Smirgeomes ?</summary>
+
+Deux choses cumulatives : l'existence d'un manquement aux obligations de publicité et de mise en concurrence, puis le fait que ce manquement était susceptible de le léser ou risquait de le léser, même indirectement en avantageant un concurrent. Le lien n'a pas à être certain, il suffit qu'il soit suffisamment vraisemblable.
+
+</details>
+
+<details>
+<summary>Le juge peut-il annuler une procédure pour une simple erreur dans l'avis de publicité ?</summary>
+
+Non, pas sans examiner l'effet de cette erreur sur la situation du requérant. C'est exactement l'erreur de droit commise par le juge des référés de Nantes et censurée le 3 octobre 2008 : il avait annulé la procédure au seul motif d'une mention erronée de l'Accord sur les marchés publics.
+
+</details>
+
+<details>
+<summary>Que se passe-t-il si l'offre du requérant était elle-même irrégulière ?</summary>
+
+Selon la jurisprudence Clear Channel de 2012, il ne peut pas être regardé comme lésé par le choix d'un candidat irrégulièrement retenu, sauf si le manquement qu'il invoque est à l'origine de l'irrégularité de sa propre offre. Son moyen est alors inopérant. Le Conseil d'État a ensuite repris la solution inverse de la Cour de justice en référé contractuel dans l'affaire Société Clean Building.
+
+</details>
+
+<details>
+<summary>L'arrêt Smirgeomes est-il toujours d'actualité ?</summary>
+
+Il reste la clef du référé précontractuel, mais il est contesté par le droit de l'Union européenne. La Cour de justice a jugé qu'un candidat évincé a un intérêt légitime à recourir même si son offre était irrecevable, et elle refuse qu'une règle nationale limite les moyens invocables. Le débat reste ouvert sur son extension au référé précontractuel.
+
+</details>
+
+<details>
+<summary>Le référé précontractuel permet-il d'obtenir une indemnité ?</summary>
+
+Non. Il sert à faire cesser un manquement avant la signature du contrat : le juge peut suspendre la procédure, annuler des décisions, supprimer des clauses ou ordonner une mise en conformité. L'indemnisation relève d'autres contentieux.
+
+</details>
+
+## Jurisprudence
+
+- [Conseil d'État, Section du Contentieux, 03/10/2008, 305420, Publié au recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000019590160>) : Le Conseil d'État reproche au juge des référés d'avoir annulé une procédure d'appel d'offres au motif d'une mention erronée de l'Accord sur les marchés publics dans les avis, sans rechercher si cette irrégularité était susceptible d'avoir lésé le candidat évincé : l'omission de cette recherche est une erreur de droit.
+- [Conseil d'État, 7ème et 2ème sous-sections réunies, 11/04/2012, 354652 (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000025678457>) : Dans le cadre de la jurisprudence Smirgeomes, le choix de l'offre d'un candidat irrégulièrement retenu est en principe susceptible de léser le candidat qui invoque ce manquement, sauf si sa propre candidature devait être écartée ou si son offre ne pouvait qu'être éliminée.
+
+## Sources
+
+- [CJA, art. L551-1](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054355491>)
+- [Conseil d'État, Section du Contentieux, 03/10/2008, 305420, Publié au recueil Lebon](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000019590160/>)
+- [Décision n° 305420 - Conseil d'État](<https://conseil-etat.fr/fr/arianeweb/CE/decision/2008-10-03/305420>)
+- [Contentieux administratif en France (Wikipédia)](<https://fr.wikipedia.org/wiki/Contentieux_administratif_en_France>)
+- [Droit des marchés publics en France (Wikipédia)](<https://fr.wikipedia.org/wiki/Droit_des_march%C3%A9s_publics_en_France>)
+- [CE, 3 octobre 2008, 305420, SMIRGEOMES, lésion](<https://www.marche-public.fr/Marches-publics/Textes/Jurisprudence/CE-305420-SMIRGEOMES-amp-refere-precontractuel.htm>)
+- [LA JURISPRUDENCE SMIRGEOMES EN MATIERE DE REFERE PRECONTRACTUEL EST-ELLE REVOLUE ? - Avocat en droit public Toulouse](<https://www.cabinetlapuelle.fr/la-jurisprudence-smirgeomes-en-matiere-de-refere-precontractuel-est-elle-revolue--_ad1396.html>)
+- [Référé précontractuel : moyens invocables - Cabinet Sellier](<https://www.sellier-avocat.com/ressources/moyens-invocables-refere-precontractuel-smirgeomes>)
+- [Référé précontractuel Un recours plus difficile pour le candidat évincé](<https://www.lemoniteur.fr/article/refere-precontractuel-un-recours-plus-difficile-pour-le-candidat-evince.1877509>)
+- [Le candidat dont l’offre était irrégulière peut se prévaloir de l’irrégularité de l’offre de l’attributaire en référé précontractuel et contractuel - SEBAN AVOCATS](<https://www.seban-associes.avocat.fr/le-candidat-dont-loffre-etait-irreguliere-peut-se-prevaloir-de-lirregularite-de-loffre-de-lattributaire-en-refere-precontractuel-et-contractuel/>)
+- [La jurisprudence Smirgeomes peut être invoquée devant le juge judiciaire](<https://www.banquedesterritoires.fr/la-jurisprudence-smirgeomes-peut-etre-invoquee-devant-le-juge-judiciaire>)
+
+---
+
+<sub>‹ [L'affaire de la Compagnie des transports strasbourgeois : concession, marché et responsabilités devant le juge administratif](etude-affaire-affaire-compagnie-des-transports-strasbourgeoi.md) · [Retour aux études de cas](README.md) · [Affaire AZF : la responsabilité de l'État pour défaut de contrôle d'une installation classée et la réparation des dommages](etude-affaire-affaire-azf.md) ›</sub>

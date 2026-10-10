@@ -1,0 +1,252 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# Affaire Auroux (CJCE, 18 janvier 2007, C-220/05) : une convention d'aménagement peut être un marché public de travaux
+
+<sub>`Étude de cas` · Droit européen des marchés · Expert · 10 min · Affaire Auroux, Roanne, 2007 · 6.5/10 au jury</sub>
+
+> En 2002, la ville de Roanne confie sans publicité ni mise en concurrence l'aménagement d'un pôle de loisirs à sa société d'économie mixte. Saisie sur renvoi du tribunal administratif de Lyon, la Cour de justice des Communautés européennes juge que ce contrat est un marché public de travaux au sens de la directive de 1993 et que sa valeur doit s'apprécier du point de vue d'un soumissionnaire potentiel.
+
+> [!TIP]
+> Une convention d'aménagement peut être un marché public de travaux, même passée entre deux pouvoirs adjudicateurs et même si la ville ne devient pas propriétaire de l'ouvrage.
+
+**À retenir**
+
+- Une convention d'aménagement conclue sans concurrence peut être requalifiée en marché public de travaux, même si la collectivité ne devient pas propriétaire de l'ouvrage \[W6\]\[W9\].
+- La valeur du marché se calcule du point de vue d'un soumissionnaire potentiel, en incluant les recettes provenant de tiers comme la vente de locaux ou d'un hôtel \[W6\]\[W9\].
+- Ni la qualité de pouvoir adjudicateur du cocontractant, ni la perspective de marchés subséquents, ni le caractère d'économie mixte de la société ne dispensent la collectivité de ses obligations \[W6\]\[W9\].
+
+<details>
+<summary><b>Version rapide</b> · 1 min</summary>
+
+#### Le contexte et le litige
+
+La ville de Roanne confie à la Société d'équipement du département de la Loire (SEDL), une société d'économie mixte locale, l'aménagement d'un pôle de loisirs. La délibération du conseil municipal du 28 octobre 2002 autorise le maire à signer une convention publique d'aménagement sans publicité ni mise en concurrence, ce que permettait alors l'article L. 300-4 du code de l'urbanisme. Jean Auroux et huit autres requérants attaquent cette délibération devant le tribunal administratif de Lyon.
+
+#### La qualification européenne
+
+La Cour de justice des Communautés européennes, saisie d'une question préjudicielle, juge qu'une convention par laquelle un pouvoir adjudicateur confie à un autre pouvoir adjudicateur la réalisation d'un ouvrage constitue un marché public de travaux au sens de la directive 93/37/CEE. Peu importe que la ville soit ou devienne propriétaire de l'ouvrage, et la qualité de pouvoir adjudicateur du cocontractant ne dispense pas de respecter les obligations de publicité et de mise en concurrence.
+
+Pour déterminer si le seuil de 5 millions d'euros est franchi, il faut retenir la valeur totale du marché du point de vue d'un soumissionnaire potentiel, en incluant non seulement les sommes versées par la ville mais aussi les recettes provenant de tiers, comme la vente des locaux commerciaux et de l'hôtel.
+
+#### Ce qu'on en retient
+
+La qualification d'un contrat ne dépend pas de l'étiquette posée par le droit national : une concession d'aménagement peut être un marché public de travaux si elle confie la réalisation d'un ouvrage répondant aux besoins de la collectivité. Le mode de calcul de la valeur est extensif et la qualité des parties ne permet pas d'échapper aux obligations de concurrence.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 3 min</summary>
+
+#### Les faits et la procédure
+
+La ville de Roanne veut aménager un pôle de loisirs dans un secteur urbain peu valorisant. Le 28 octobre 2002, le conseil municipal autorise le maire à signer avec la Société d'équipement du département de la Loire (SEDL), société d'économie mixte locale, une convention publique d'aménagement. Cette convention est conclue sans publicité ni mise en concurrence, en application de l'ancien article L. 300-4 du code de l'urbanisme issu de la loi SRU de 2000.
+
+L'opération est prévue en plusieurs tranches. La première porte sur un complexe cinématographique, des locaux commerciaux destinés à la cession et des ouvrages revenant à la ville (parc de stationnement, voies d'accès, espaces publics). Les tranches suivantes, subordonnées à des avenants, concernent d'autres locaux commerciaux et un hôtel. La mission de la SEDL est globale : acquisitions foncières, études, travaux, commercialisation, gestion et coordination.
+
+Jean Auroux et huit autres requérants demandent l'annulation de la délibération devant le tribunal administratif de Lyon. Par décision du 7 avril 2005, ce tribunal saisit la Cour de justice des Communautés européennes d'une question préjudicielle sur l'interprétation de la directive 93/37/CEE. L'avocate générale Mme J. Kokott présente ses conclusions le 15 juin 2006, conformes à la solution retenue.
+
+#### La décision de la Cour
+
+Dans son arrêt du 18 janvier 2007, la Cour répond en trois points. D'abord, une convention par laquelle un premier pouvoir adjudicateur confie à un second pouvoir adjudicateur la réalisation d'un ouvrage constitue un marché public de travaux au sens de l'article 1er, sous a), de la directive 93/37. Peu importe que le premier pouvoir adjudicateur soit ou devienne propriétaire de tout ou partie de l'ouvrage.
+
+Ensuite, pour comparer la valeur du marché au seuil de la directive, il faut retenir la valeur totale du marché du point de vue d'un soumissionnaire potentiel. Cela comprend les montants que le pouvoir adjudicateur devra payer et toutes les recettes provenant de tiers, notamment le produit de la cession des locaux commerciaux et de l'hôtel.
+
+Enfin, un pouvoir adjudicateur n'est pas dispensé de recourir aux procédures de passation de la directive au motif que, en droit national, la convention ne peut être conclue qu'avec certaines personnes morales ayant elles-mêmes la qualité de pouvoir adjudicateur. Le fait que la SEDL doive plus tard organiser ses propres marchés ne remplace pas la concurrence manquante lors de la passation initiale.
+
+#### Un exemple : la qualification et le calcul
+
+Prenons la convention de Roanne. Si l'on s'en tenait à l'étiquette nationale de « concession d'aménagement », elle échapperait aux règles de concurrence. Mais la Cour regarde la substance : la ville confie à la SEDL la réalisation d'un ouvrage répondant à ses besoins, ce qui en fait un marché public de travaux. La qualification européenne est autonome.
+
+Pour le seuil de 5 millions d'euros, il ne faut pas se limiter aux sommes versées par la ville. Il faut y ajouter les recettes que l'opérateur tirera de la vente des locaux commerciaux et de l'hôtel à des tiers. Ce mode de calcul, apprécié du point de vue d'un soumissionnaire potentiel, évite qu'un montage retienne un chiffre artificiellement bas pour passer sous le seuil.
+
+#### La portée et les enseignements
+
+L'apport principal est méthodologique : la qualification d'un contrat ne dépend pas de l'étiquette posée par le droit national. Une convention publique d'aménagement peut être un marché public de travaux. La Cour donne à la notion de travaux une fonction agrégative : dès qu'un ouvrage est confié, les prestations connexes (études, acquisitions foncières, commercialisation, coordination) suivent.
+
+La propriété de l'ouvrage devient indifférente : que la ville récupère le parc de stationnement et les voies d'accès, ou que le cinéma et l'hôtel restent à des investisseurs privés, ne change rien à la qualification. Ce qui compte, c'est que la collectivité ait commandé un ouvrage répondant à ses besoins.
+
+L'économie mixte ne crée pas de refuge. La SEDL associe des fonds privés à son capital, ce qui exclut de la traiter comme un opérateur interne à la commune. Et la qualité de pouvoir adjudicateur du cocontractant n'exempte pas son partenaire de ses obligations de publicité et de mise en concurrence.
+
+La portée dépasse les concessions d'aménagement : en appréhendant celles-ci à travers des principes transposables à toutes les formes de contrats globaux, la Cour confirme que le droit communautaire efface progressivement les frontières entre les catégories de contrats publics établies par le droit national.
+
+</details>
+
+## 1. Le contexte : Roanne, une société d'économie mixte et une loi de 2000
+
+Roanne est une commune de la Loire. Jean Auroux en a été maire de 1977 à 2001, puis conseiller municipal de 2001 à 2008. Aux élections municipales de 2001, Yves Nicolin est élu maire de Roanne. La délibération contestée dans cette affaire est prise par le conseil municipal de Roanne le 28 octobre 2002.
+
+À cette date, la ville veut aménager un pôle de loisirs dans un secteur urbain peu valorisant. Elle ne passe pas par une procédure de publicité et de mise en concurrence. Elle confie la mission à la Société d'équipement du département de la Loire, la SEDL. La SEDL est une société d'économie mixte locale, c'est-à-dire une société dont le capital associe des fonds publics et des fonds privés.
+
+Le droit français de l'époque autorisait cette façon de faire. L'ancien article L. 300-4 du code de l'urbanisme, issu de la loi « SRU » n° 2000-1208 du 13 décembre 2000, permettait de conclure une concession d'aménagement sans publicité ni mise en concurrence préalables. Une concession d'aménagement est un contrat par lequel une collectivité confie à un opérateur la conduite d'une opération d'aménagement, ici un pôle de loisirs.
+
+Face à ce droit national permissif, une directive européenne s'applique au contrat. La directive 93/37/CEE du 14 juin 1993, modifiée par la directive 97/52/CE, organise la passation des marchés publics de travaux et était applicable aux faits de l'espèce. Son sixième considérant prévoit que les marchés de travaux inférieurs à 5 millions d'euros peuvent être laissés en dehors de la concurrence organisée par la directive. Tout le litige tient donc à une question de qualification : si le contrat de Roanne est un marché public de travaux, la commune devait respecter des obligations de publicité et de transparence.
+
+## 2. Les faits
+
+Le 28 octobre 2002, le conseil municipal de Roanne autorise son maire à signer avec la SEDL un contrat visant la réalisation d'un pôle de loisirs à Roanne. Le contrat prend la forme d'une convention publique d'aménagement.
+
+L'opération est prévue en plusieurs tranches successives. La première tranche porte sur la construction d'un complexe cinématographique. À ce cinéma s'ajoutent des locaux commerciaux destinés à être cédés à des tiers. La même tranche comprend des ouvrages destinés à revenir à la ville : un parc de stationnement, des voies d'accès et des espaces publics.
+
+Les tranches suivantes portent sur des locaux commerciaux supplémentaires et sur un hôtel, eux aussi destinés à la cession. Leur réalisation n'est pas acquise au départ : elle est subordonnée à la conclusion d'avenants à la convention initiale.
+
+La SEDL ne se limite pas à construire. Sa mission est globale : acquisitions foncières, organisation d'un concours d'architecture ou d'ingénierie, études, travaux de construction, tenue de documents comptables et de gestion, recherche de fonds, commercialisation des ouvrages, gestion et coordination de l'opération, information de la commune.
+
+M. Auroux et huit autres requérants attaquent la délibération du 28 octobre 2002 devant le tribunal administratif de Lyon. La convention a été conclue sans aucune publicité ni mise en concurrence préalables. C'est précisément ce défaut de concurrence que le juge va examiner, à la lumière du droit européen.
+
+## 3. Les questions juridiques
+
+La première question est celle de la qualification. Un marché public de travaux est un contrat à titre onéreux par lequel un pouvoir adjudicateur confie à un opérateur la réalisation d'un ouvrage. Un pouvoir adjudicateur désigne l'État, les collectivités territoriales et les organismes de droit public soumis au droit des marchés publics. Il faut donc décider si la convention de Roanne entre dans cette définition.
+
+Le point délicat est que les deux parties au contrat sont des personnes publiques ou parapubliques. La SEDL a elle-même la qualité de pouvoir adjudicateur. Faut-il en déduire que le contrat échappe au droit des marchés publics, comme un contrat passé en interne ? La Cour va répondre que non.
+
+La deuxième question porte sur la valeur du contrat. Cette valeur sert à savoir si le seuil de 5 millions d'euros prévu pour les travaux est franchi. Faut-il ne compter que les sommes versées par la ville ? Ou faut-il y ajouter les recettes que l'opérateur tirera de la vente des locaux commerciaux et de l'hôtel à des tiers? Le choix du mode de calcul change le résultat.
+
+La troisième question vise l'économie mixte. La SEDL devra, pour ses propres marchés ultérieurs, appliquer à son tour les procédures de passation prévues par la directive. La commune pouvait-elle se dire dispensée pour cette raison ? La Cour répond là encore par la négative.
+
+Qui juge ? Le litige porte sur l'annulation d'un acte administratif, la délibération du conseil municipal de Roanne. Il relève donc du juge administratif, ici le tribunal administratif de Lyon. Mais la solution dépend de l'interprétation d'une directive européenne, d'où un renvoi préjudiciel : le juge national interroge la Cour de justice des Communautés européennes sur le sens du droit communautaire, sur le fondement de l'article 234 CE, avant de trancher lui-même.
+
+Reste à situer les responsabilités. Ici, aucune poursuite pénale et aucune demande d'indemnité ne sont en cause : les requérants demandent l'annulation d'une délibération. Un recours pour excès de pouvoir est un recours objectif : il ne s'agit pas de sanctionner une personne, mais de vérifier la légalité d'un acte administratif. Le débat porte donc sur la procédure de passation, pas sur la faute d'un individu.
+
+## 4. Les procédures
+
+Première étape : la délibération du 28 octobre 2002. Le conseil municipal de Roanne autorise son maire à signer avec la SEDL le contrat de réalisation du pôle de loisirs. L'acte est adopté sans que la question de la qualification européenne du contrat soit tranchée.
+
+Deuxième étape : le recours en annulation devant le tribunal administratif de Lyon. Jean Auroux et huit autres requérants demandent l'annulation de cette délibération. Leur thèse est que la convention aurait dû être précédée d'une publicité et d'une mise en concurrence.
+
+Troisième étape : la question préjudicielle. Par une décision du 7 avril 2005, le tribunal administratif de Lyon saisit la Cour de justice d'une demande de décision préjudicielle, parvenue à la Cour le 19 mai 2005. Le renvoi préjudiciel suspend le cours du litige national : la Cour interprète la directive, puis le juge français tranche l'affaire au fond.
+
+Quatrième étape : l'audience du 27 avril 2006. M. Auroux est représenté par Me J. Antoine, la commune de Roanne par Mes P. Petit et C. Xavier, et la SEDL est présente à l'instance. Les gouvernements français, lituanien, autrichien et polonais, ainsi que la Commission des Communautés européennes, ont présenté des observations.
+
+Cinquième étape : les conclusions de l'avocate générale. Mme J. Kokott, avocate générale, présente le 15 juin 2006 une opinion motivée sur l'affaire. L'avocat général est un membre de la Cour qui propose publiquement une solution avant le délibéré, sans lier les juges. En l'espèce, ses conclusions sont conformes à la solution retenue par la Cour.
+
+Sixième étape : l'arrêt du 18 janvier 2007. La Cour, en formation de première chambre, répond en trois points aux questions du juge français. Ces trois points forment le dispositif de l'arrêt.
+
+Premier point : la qualification. Une convention par laquelle un premier pouvoir adjudicateur confie à un second pouvoir adjudicateur la réalisation d'un ouvrage constitue un marché public de travaux au sens de l'article 1er, sous a), de la directive 93/37. Peu importe que le premier pouvoir adjudicateur soit ou devienne propriétaire de tout ou partie de l'ouvrage. La ville n'avait donc pas besoin de devenir propriétaire du cinéma ou de l'hôtel pour que la directive s'applique.
+
+Deuxième point : la valeur du marché. Pour la comparer au seuil de la directive, il faut retenir la valeur totale du marché de travaux du point de vue d'un soumissionnaire potentiel. Cela comprend non seulement les montants que le pouvoir adjudicateur devra payer, mais aussi toutes les recettes provenant de tiers. À Roanne, cela concerne notamment le produit de la cession des locaux commerciaux et de l'hôtel.
+
+Troisième point : la prétendue dispense. Un pouvoir adjudicateur n'est pas dispensé de recourir aux procédures de passation de la directive au motif que, en droit national, la convention ne peut être conclue qu'avec certaines personnes morales ayant elles-mêmes la qualité de pouvoir adjudicateur. Le fait que la SEDL doive plus tard organiser ses propres marchés ne remplace pas la concurrence manquante au moment de la passation initiale.
+
+Ces réponses ne règlent pas le litige : elles lient le juge national sur l'interprétation du droit communautaire. C'est au tribunal administratif de Lyon qu'il revenait de tirer les conséquences de cet arrêt sur la délibération du 28 octobre 2002 et sur la convention qu'elle autorisait.
+
+## 5. L'analyse : ce que l'affaire montre
+
+L'apport principal de l'affaire est méthodologique : la qualification d'un contrat ne dépend pas de l'étiquette posée par le droit national. Une « convention publique d'aménagement » ou une « concession d'aménagement » peut, en substance, être un marché public de travaux. C'est la réalité des prestations confiées qui commande la qualification.
+
+La Cour donne à la notion de travaux une fonction agrégative. Dès qu'un ouvrage est confié, les prestations connexes suivent : études, acquisitions foncières, commercialisation, coordination de l'opération. On ne découpe pas une mission globale en tranches pour sauver la qualification nationale et éviter la concurrence.
+
+L'arrêt assouplit également la notion de besoins précisés par le pouvoir adjudicateur. Autrement dit, la collectivité n'a pas besoin d'avoir tout défini à l'avance, dans le moindre détail technique, pour que le contrat soit un marché de travaux. Cette souplesse élargit mécaniquement le champ de la directive.
+
+La propriété de l'ouvrage devient indifférente. Que la ville récupère le parc de stationnement et les voies d'accès, ou que le cinéma et l'hôtel restent à des investisseurs privés, ne change rien à la qualification. Ce qui compte, c'est que la collectivité ait commandé un ouvrage répondant à ses besoins.
+
+Le mode de calcul de la valeur est lui aussi extensif. On se place du point de vue d'un soumissionnaire potentiel, et non du seul point de vue des dépenses publiques. Les recettes venant de tiers, comme la vente de locaux commerciaux ou d'un hôtel, entrent dans le calcul. Concrètement, cela évite qu'un montage retienne un chiffre artificiellement bas et passe sous le seuil de la directive.
+
+L'économie mixte ne crée pas de refuge. La SEDL associe des fonds privés à son capital, ce qui exclut de la traiter comme un opérateur interne à la commune, c'est-à-dire un service en régie ou une structure « in house ». Et la qualité de pouvoir adjudicateur du cocontractant n'exempte pas son partenaire de ses obligations de publicité et de mise en concurrence.
+
+L'analyse doctrinale de l'arrêt identifie trois terrains distincts : l'expansion de la notion de marché public de travaux, l'impact de l'économie mixte sur le droit communautaire des contrats, et la distinction entre marchés publics et concessions appréciée à l'aune du mode de rémunération du titulaire.
+
+Reste la question des responsabilités, souvent confondue. La responsabilité pénale suppose une infraction reprochée à une personne et sanctionnée par le juge répressif. La responsabilité administrative suppose un préjudice causé par une personne publique et réparé par le juge administratif. Ici, il n'y a ni l'une ni l'autre : les requérants demandent l'annulation d'une délibération, et le débat porte sur la légalité de la procédure de passation. La critique éventuelle vise l'acte de la commune, pas une faute personnelle d'un élu ou d'un agent.
+
+## 6. Les suites
+
+La portée de l'arrêt dépasse largement les concessions d'aménagement. L'analyse doctrinale souligne qu'en appréhendant les concessions d'aménagement à travers une série de principes transposables à toutes les formes de contrats globaux, la Cour confirme que le droit communautaire efface progressivement les frontières entre les catégories de contrats publics établies par le droit national.
+
+À l'époque, plusieurs montages restaient toutefois en dehors des obligations de publicité et de mise en concurrence nées du droit communautaire, et notamment de la directive 2004/18 du 31 mars 2004. L'article cite les autorisations d'occupation du domaine public constitutives de droits réels et les baux emphytéotiques administratifs, visés au code général des collectivités territoriales à l'article L. 1311-2. L'arrêt ne les a donc pas fait entrer, à lui seul, dans le champ de la concurrence.
+
+La jurisprudence postérieure a précisé les conditions de la qualification retenue à Roanne, notamment l'existence d'un intérêt économique direct pour le pouvoir adjudicateur. Sur le plan national, un portail juridique qui reproduit l'arrêt renvoie, parmi les textes liés, à la loi n° 2005-809 du 20 juillet 2005 relative aux concessions d'aménagement.
+
+## 7. À retenir
+
+Retenir d'abord la méthode : la qualification européenne est autonome. Un contrat baptisé « concession d'aménagement » peut être un marché public de travaux, parce qu'il confie à un opérateur la réalisation d'un ouvrage répondant aux besoins de la collectivité. L'étiquette nationale ne protège pas de la directive.
+
+Retenir ensuite le calcul. La valeur du marché s'apprécie du point de vue d'un soumissionnaire potentiel, recettes provenant de tiers comprises. C'est ce montant qui détermine si l'opération franchit le seuil de 5 millions d'euros prévu pour les travaux.
+
+Retenir enfin que la qualité des parties ne dispense de rien. Ni le fait que le cocontractant soit lui-même un pouvoir adjudicateur, ni son caractère d'économie mixte, ni la propriété publique ou privée de l'ouvrage ne permettent d'échapper aux obligations de publicité et de mise en concurrence.
+
+Le nom de l'affaire vient du requérant. Il ne faut pas la confondre avec les lois Auroux de 1982 sur le droit du travail, qui portent le nom du ministre du Travail Jean Auroux, également maire socialiste de Roanne.
+
+## Chronologie
+
+| Date | Fait |
+| --- | --- |
+| 20 mars 1977 | Jean Auroux est élu maire de Roanne. |
+| 13 décembre 2000 | La loi « SRU » n° 2000-1208 (art. 8) est à l'origine de l'ancien article L. 300-4 du code de l'urbanisme, fondement de la convention litigieuse. |
+| 2001 | Yves Nicolin est élu maire de Roanne ; Jean Auroux siège au conseil municipal jusqu'en 2008. |
+| 28 octobre 2002 | Le conseil municipal de Roanne autorise son maire à signer avec la SEDL le contrat de réalisation du pôle de loisirs. |
+| 7 avril 2005 | Le tribunal administratif de Lyon décide de saisir la Cour de justice à titre préjudiciel. |
+| 19 mai 2005 | La demande de décision préjudicielle parvient à la Cour. |
+| 20 juillet 2005 | Loi n° 2005-809 relative aux concessions d'aménagement, citée comme texte lié à l'arrêt. |
+| 27 avril 2006 | Audience devant la Cour, première chambre. |
+| 15 juin 2006 | Conclusions de l'avocate générale Mme J. Kokott, conformes à la solution retenue. |
+| 18 janvier 2007 | Arrêt de la Cour : la convention d'aménagement est un marché public de travaux. |
+| 1er septembre 2007 | Publication d'une analyse de l'arrêt dans la Revue du droit public, n° 5. |
+
+## Acteurs
+
+| Qui | Rôle |
+| --- | --- |
+| Commune de Roanne | Ville de la Loire, pouvoir adjudicateur, partie défenderesse, qui a confié l'aménagement du pôle de loisirs sans concurrence \[W3\]\[W6\]. |
+| SEDL (Société d'équipement du département de la Loire) | Société d'économie mixte locale au capital ouvert à des fonds privés, chargée de la mission globale d'aménagement du pôle de loisirs, et elle-même pouvoir adjudicateur \[W3\]\[W9\]. |
+| Jean Auroux e.a. (neuf requérants) | Requérants demandant l'annulation de la délibération du conseil municipal de Roanne du 28 octobre 2002 \[W6\]\[W12\]. |
+| Tribunal administratif de Lyon | Juridiction administrative saisie du recours en annulation, qui a posé la question préjudicielle à la Cour \[W6\]\[W12\]. |
+| Cour de justice des Communautés européennes, première chambre | Auteur de l'arrêt du 18 janvier 2007 fixant la qualification et le mode de calcul de la valeur du marché \[W6\]\[W9\]. |
+| Mme J. Kokott | Avocate générale, a présenté ses conclusions le 15 juin 2006, conformes à la solution retenue par la Cour \[W3\]\[W6\]. |
+
+## Questions de révision
+
+<details>
+<summary>Sur quel fondement juridique la ville de Roanne avait-elle conclu la convention sans mise en concurrence ?</summary>
+
+Sur l'ancien article L. 300-4 du code de l'urbanisme, issu de la loi « SRU » n° 2000-1208 du 13 décembre 2000, qui permettait de conclure une concession d'aménagement sans publicité ni mise en concurrence préalables \[W3\]. Ce fondement national n'a pas suffi à écarter la directive européenne \[W6\].
+
+</details>
+
+<details>
+<summary>Quelle est la définition européenne d'un marché public de travaux retenue dans l'arrêt ?</summary>
+
+C'est une convention par laquelle un premier pouvoir adjudicateur confie à un second pouvoir adjudicateur la réalisation d'un ouvrage, que le premier devienne ou non propriétaire de tout ou partie de cet ouvrage \[W6\]. La qualification est autonome par rapport aux catégories du droit national \[W9\].
+
+</details>
+
+<details>
+<summary>Comment se calcule la valeur du marché pour savoir si le seuil de 5 millions d'euros est franchi ?</summary>
+
+On prend la valeur totale du marché de travaux du point de vue d'un soumissionnaire potentiel \[W6\]\[W9\]. Cela inclut les montants payés par le pouvoir adjudicateur et toutes les recettes provenant de tiers, comme la cession de locaux commerciaux ou d'un hôtel \[W3\]\[W12\].
+
+</details>
+
+<details>
+<summary>La circonstance que la SEDL soit elle-même un pouvoir adjudicateur dispensait-elle la commune d'organiser la concurrence ?</summary>
+
+Non. La Cour juge qu'un pouvoir adjudicateur n'est pas dispensé des procédures de passation de la directive au motif que la convention ne pouvait, en droit national, être conclue qu'avec une personne morale ayant elle-même cette qualité et tenue d'appliquer les mêmes procédures à ses marchés subséquents \[W6\]\[W12\].
+
+</details>
+
+<details>
+<summary>Pourquoi la convention n'était-elle pas un marché « in house » ?</summary>
+
+Parce que la SEDL est une société d'économie mixte au capital de laquelle participent des fonds privés \[W9\]. L'opération ne pouvait donc pas être qualifiée d'interne, ce qui aurait permis d'écarter les obligations de concurrence \[W9\].
+
+</details>
+
+<details>
+<summary>Quel a été le rôle respectif du juge national et de la Cour de justice ?</summary>
+
+Le tribunal administratif de Lyon a saisi la Cour d'une question préjudicielle par décision du 7 avril 2005 \[W6\]. La Cour a interprété la directive le 18 janvier 2007 ; il revenait ensuite au juge national de trancher le litige au fond au vu de cette interprétation \[W6\].
+
+</details>
+
+## Sources
+
+- [Jean Auroux (Wikipédia)](<https://fr.wikipedia.org/wiki/Jean_Auroux>)
+- [CJUE, Arrêt de la Cour, Jean Auroux et autres contre Commune de Roanne., 18/01/2007, C-220/05](<https://juricaf.org/arret/CJUE-COURDEJUSTICEDELUNIONEUROPEENNE-20070118-C22005>)
+- [L’apport de l’affaire « Auroux » au droit des contrats publics d’affaires](<https://droit.cairn.info/revue-revue-du-droit-public-2007-5-page-1329?lang=fr>)
+- [CJCE, 18 janvier 2007, affaire C-220/05, Jean Auroux e.a., c/ Cne Roanne,](<https://www.marche-public.fr/Marches-publics/Textes/Jurisprudence/CJCE-C-220-05-auroux-roanne-2007-01-18.htm>)
+- [L'apport de l'affaire « Auroux » au droit des contrats publics d'affaires - La Base Lextenso +IA](<https://www.labase-lextenso.fr/revue-du-droit-public/2007-n5/l-apport-de-l-affaire-auroux-au-droit-des-contrats-publics-d-affaires-RDP2007-5-006>)
+- [EUR-Lex - 62005CJ0220 - EN](<https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:62005CJ0220>)
+- [CJUE, 1ère Chambre, Jean Auroux et autres contre Commune de Roanne, 18 janvier 2007, C-220/05 \| Pappers Justice : Toutes les décisions de justice françaises gratuites](<https://justice.pappers.fr/decision/fb0768635e90ab7ef5d3ccac23fe514e014967c7>)
+- [Lois Auroux (Wikipédia)](<https://fr.wikipedia.org/wiki/Lois_Auroux>)
+
+---
+
+<sub>‹ [L'affaire du sang contaminé : la responsabilité de l'État et l'achat public de produits sanguins](etude-affaire-affaire-du-sang-contamine.md) · [Retour aux études de cas](README.md) · [L'affaire Edmond Hervé : la responsabilité pénale d'un ancien ministre devant la Cour de justice de la République](etude-affaire-affaire-edmond-herve.md) ›</sub>

@@ -1,0 +1,327 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# L'affaire de l'amiante : la responsabilité de l'État pour carence dans la prévention des risques professionnels (CE, Assemblée, 3 mars 2004)
+
+<sub>`Étude de cas` · Responsabilité des personnes publiques · Expert · 18 min · Affaire de l'amiante, France, 2004 · 7.8/10 au jury</sub>
+
+> Quatre salariés marseillais meurent après avoir inhalé des poussières d'amiante, en 1996 et 1997. Le juge administratif juge que l'État, faute de s'être informé des dangers et d'avoir réglementé avant 1977, a commis une faute qui engage sa responsabilité envers les victimes.
+
+> [!TIP]
+> L'État répond de son inaction : ne pas chercher à connaître un risque et ne pas le réglementer est une faute qui ouvre droit à réparation devant le juge administratif.
+
+**À retenir**
+
+- Une carence prolongée de l'État dans son pouvoir de police et de réglementation est une faute qui engage sa responsabilité envers les victimes : il doit se tenir informé des dangers et arrêter les mesures les plus appropriées en l'état des connaissances scientifiques.
+- La charge de la preuve pèse largement sur l'administration : la victime produit des éléments montrant que l'action publique a été insuffisante, et c'est au ministre d'établir que la réglementation en vigueur était adaptée aux risques.
+- Responsabilité administrative et responsabilité pénale ne se confondent pas : la première indemnise et a abouti en 2004 ; la seconde exige des charges précises et s'est refermée à Jussieu par un non-lieu en février 2022.
+
+<details>
+<summary><b>Version rapide</b> · 1 min</summary>
+
+#### Une carence fautive de l'État
+
+L'amiante est un minéral fibreux dont l'inhalation provoque des maladies graves, connues dès le début du XXe siècle. Malgré cette connaissance, l'État n'a pas pris les mesures de prévention nécessaires avant 1977, alors que l'interdiction n'est intervenue qu'en 1997. Cette carence prolongée, à la fois défaut d'information et défaut d'action, a été jugée fautive par le Conseil d'État en 2004.
+
+#### La responsabilité de l'État reconnue
+
+Quatre salariés marseillais exposés à l'amiante ont vu leur responsabilité engagée. Le tribunal administratif de Marseille puis la cour administrative d'appel ont estimé que l'État avait commis une faute en ne protégeant pas les travailleurs. Le Conseil d'État, dans un arrêt du 3 mars 2004, a rejeté le pourvoi du ministre, confirmant la responsabilité de l'État pour toute la période d'exposition.
+
+#### Ce qu'il faut retenir
+
+La charge de la preuve pèse sur l'administration : la victime n'a pas à désigner le texte qui aurait dû être pris, c'est au ministre d'établir que la réglementation était adaptée. La responsabilité de l'État se cumule avec celle de l'employeur. La voie administrative a abouti, tandis que la voie pénale s'est refermée à Jussieu. L'affaire a conduit à l'interdiction de l'amiante, à un fonds d'indemnisation et à des obligations de repérage.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 2 min</summary>
+
+#### Le contexte : une nocivité connue, une réglementation tardive
+
+L'amiante est un minéral fibreux utilisé massivement dans le bâtiment pour ses qualités isolantes et réfractaires. Son inhalation provoque l'asbestose, des cancers broncho-pulmonaires et le mésothéliome. Dès 1898, un inspecteur anglais signalait les risques, et en 1906, un rapport français dénonçait la mortalité des ouvriers. En 1945, un tableau de maladies professionnelles est créé, mais il faut attendre 1977 pour les premières mesures adéquates et 1997 pour l'interdiction.
+
+#### Les faits et la procédure
+
+Quatre salariés marseillais exposés à l'amiante à partir des années 1950 sont décédés en 1996 et 1997. Leurs ayants droit ont saisi le juge administratif. Le tribunal administratif de Marseille, le 30 mai 2000, a jugé l'État responsable des conséquences dommageables des décès. La cour administrative d'appel de Marseille a confirmé le 18 octobre 2001, relevant que l'État n'établissait pas que la réglementation en vigueur permettait de parer aux dangers. Le ministre s'est pourvu en cassation.
+
+#### La décision du Conseil d'État
+
+Le Conseil d'État, statuant en Assemblée le 3 mars 2004, rejette le pourvoi du ministre. Il juge que la cour a suffisamment motivé sa décision et n'a pas méconnu les règles de preuve. La carence de l'État, double – défaut de connaissance et défaut d'action –, est constitutive d'une faute engageant sa responsabilité. La victime produit des éléments faisant regarder l'action de l'administration comme insuffisante ; il appartient alors au ministre d'établir que la législation était adaptée.
+
+#### Les suites et contentieux ultérieurs
+
+L'affaire a conduit à l'interdiction de l'amiante en 1997, à la création d'un fonds d'indemnisation en 2000, et à des obligations de repérage des bâtiments. Le contentieux indemnitaire se poursuit, notamment sur le préjudice d'anxiété et la prescription quadriennale. En 2026, le Conseil d'État a encore eu à connaître d'un pourvoi du ministre des armées sur l'indemnisation d'une ingénieure exposée. La voie pénale, elle, s'est refermée à Jussieu par un non-lieu en 2022, confirmé en 2023.
+
+#### Ce qu'il faut retenir
+
+Une carence prolongée de l'État dans son pouvoir de police et de réglementation est une faute qui engage sa responsabilité. La charge de la preuve pèse largement sur l'administration. La responsabilité de l'État se cumule avec celle de l'employeur. La voie administrative indemnise et a abouti, tandis que la voie pénale exige des charges précises et s'est refermée. L'obligation de veille et d'action pèse sur les autorités publiques.
+
+</details>
+
+## 1. Le contexte : une nocivité connue très tôt, une réglementation très tardive
+
+L'amiante est un terme désignant des minéraux à texture fibreuse, réfractaires, incombustibles, résistants à la traction et isolants électriques. Ces qualités ont conduit à l'utiliser massivement dans le bâtiment : flocages et calorifugeages sous forme friable, amiante-ciment, colles, joints, mortiers, matériaux de friction. Le danger vient de l'inhalation des fibres. Elle provoque l'asbestose, une fibrose pulmonaire, des cancers broncho-pulmonaires et le mésothéliome de la plèvre, considéré comme spécifique de l'amiante et servant de marqueur statistique.
+
+Cette dangerosité n'a jamais été un secret. Pline l'Ancien l'évoque chez les esclaves romains dès le Ier siècle. En 1898, un inspecteur en chef des usines anglais écrit dans son rapport annuel que les risques de l'amiante pour la santé sont « aisément démontrés ». En 1906, Denis Auribault, inspecteur départemental du travail à Caen, publie un rapport dénonçant la forte mortalité des ouvriers dans les filatures et les usines de tissage d'amiante. En 1945, un tableau de maladies professionnelles liées à l'amiante est créé : les employeurs ne peuvent plus prétendre ignorer les risques.
+
+Les étapes suivantes s'enchaînent lentement. En 1951, un matériau à projeter sans amiante est mis au point et un flocage sans amiante est disponible et largement utilisé en France. En 1964, la Chambre patronale de l'amiante organise à Caen le premier congrès international sur l'asbestose. En 1965, le premier cas de mésothéliome est recensé en France. En 1975, la médiatisation des polémiques entre scientifiques, tel Henri Pézerat, et lobbyistes de l'amiante, tel Marcel Valtat, s'installe. En 1976, une conférence du Centre international de recherche sur le cancer classe l'amiante comme « cancérigène avéré » pour l'homme.
+
+Et pourtant, plus d'un demi-siècle s'écoule entre les premières études de 1945 et l'interdiction de l'amiante en 1997. Les premières décisions adéquates des pouvoirs publics, en 1977-1978, ne viennent qu'après la médiatisation de 1975. Le rapport INSERM de 1997 sur l'amiante établit qu'« il n'y a pas de valeur limite au-dessous de laquelle le risque n'existe plus ». La fréquence des pathologies dépend de la durée d'exposition et de la quantité inhalée, et les cancers se matérialisent longtemps après, autour de 30 à 40 ans.
+
+Le coût de ce retard est collectif. Le désamiantage des bâtiments publics a représenté de coûteux chantiers, et la dépense n'a pas été supportée par les industriels de l'amiante mais par la collectivité publique. Selon un rapport du Sénat de 2005, l'utilisation de l'amiante est responsable de 35 000 décès survenus entre 1965 et 1995 en France, et pourrait causer de 65 000 à 100 000 décès entre 2005 et 2025-2030.
+
+Deux obligations distinctes se font face. L'employeur a une obligation générale d'assurer la sécurité et la protection de la santé des travailleurs placés sous son autorité. En parallèle, il incombe aux autorités publiques chargées de la prévention des risques professionnels de se tenir informées des dangers que peuvent courir les travailleurs, compte tenu notamment des produits et substances qu'ils manipulent ou avec lesquels ils sont en contact, et d'arrêter, en l'état des connaissances scientifiques, au besoin à l'aide d'études ou d'enquêtes complémentaires, les mesures les plus appropriées pour limiter et si possible éliminer ces dangers. C'est ce second volet que l'affaire met en jeu.
+
+## 2. Les faits : quatre salariés marseillais exposés, puis malades
+
+L'affaire part de quatre salariés marseillais exposés à l'amiante à partir des années 1950. Deux meurent d'un cancer bronchique après avoir travaillé pour Eternit : Robert Thomas, né en 1939, y a exercé son activité de 1957 à 1973, et Marc Bourdignon, de 1964 à 1971. Les deux autres victimes sont emportées par un mésothéliome malin de la plèvre : Jean-Louis Botella, né en 1958, a été employé dans les usines Atochem de Fos-sur-Mer et de Port-de-Bouc de 1982 à 1994, et Serge Xuereff a travaillé comme chaudronnier dans plusieurs entreprises, en particulier chez Sollac à Fos-sur-Mer, de 1985 à 1987.
+
+Les décès surviennent en 1996 et 1997. Les situations sont différentes par les employeurs et les périodes, mais elles partagent un point : les victimes ont manipulé ou côtoyé des matériaux amiantés à une époque où l'État n'avait pas encore produit de réglementation protectrice. C'est ce point commun que les ayants droit vont porter devant le juge administratif.
+
+Ce que le juge retient est double. D'une part, le caractère nocif des poussières d'amiante était connu depuis le début du XXe siècle et leur caractère cancérigène avait été mis en évidence dès le milieu des années 1950 : les pouvoirs publics ne pouvaient plus ignorer ces dangers. D'autre part, si les autorités avaient inscrit progressivement, à partir de 1945, les diverses pathologies invalidantes voire mortelles dues à cette exposition sur la liste des maladies professionnelles, elles n'avaient entrepris, avant 1977, aucune recherche afin d'évaluer les risques pesant sur les travailleurs, ni pris de mesures aptes à éliminer ou, tout au moins, à limiter les dangers.
+
+La carence reprochée est donc double : un défaut de connaissance et un défaut d'action. Elle ne se situe pas à une date précise mais sur une longue période, du milieu des années 1950 aux textes de 1977. La cour administrative d'appel a estimé que la responsabilité de l'État était engagée pour toute la période durant laquelle le salarié avait été exposé à des poussières d'amiante.
+
+## 3. Les questions juridiques : qui, de quoi, devant quel juge, sur quel fondement
+
+Qui pouvait être tenu responsable ? D'un côté l'État, autorité chargée de la prévention des risques professionnels et de la réglementation du travail. De l'autre l'employeur privé, tenu de sa propre obligation de sécurité envers ses salariés. Les deux responsabilités ne s'excluent pas : la société Eternit, employeur de victimes, a intérêt au maintien de l'arrêt attaqué et est intervenue devant le Conseil d'État pour le défendre.
+
+De quoi était-il reproché à l'État ? Non pas d'un acte isolé, mais d'une abstention prolongée : ne pas s'être informé des dangers, ne pas avoir arrêté les mesures de protection appropriées. Le fondement retenu est la faute. La presse de l'époque relaie une formule sans appel : « La carence de l'Etat à prendre les mesures de prévention des risques liés à l'exposition des travailleurs aux poussières d'amiante a constitué une faute, et cette faute engage la responsabilité de l'Etat. »
+
+Sur quel fondement textuel ? Le droit applicable est celui de l'époque des expositions, et non le droit d'aujourd'hui. Le juge se réfère au code du travail alors en vigueur, notamment ses articles L. 230-2, L. 231-2 et R. 232-1 et suivants, ainsi qu'au décret du 17 août 1977 relatif aux mesures particulières d'hygiène applicables dans les établissements où le personnel est exposé à l'action des poussières d'amiante. Ces références sont citées par les visas des décisions.
+
+Devant quel juge ? Le juge administratif, parce qu'il s'agit de la responsabilité de l'État en tant qu'autorité publique. Le chemin est classique : le tribunal administratif de Marseille juge le fond, la cour administrative d'appel de Marseille révise, puis le Conseil d'État statue comme juge de cassation sur le recours du ministre. Cette architecture explique que la décision finale de 2004 soit un arrêt de rejet, qui valide le raisonnement des juges du fond sans le réécrire.
+
+Une question de preuve structure tout le dossier. La victime doit-elle désigner le texte qui aurait dû être pris, ou est-ce à l'administration d'établir que sa réglementation était adaptée ? Le Conseil d'État tranche : la victime a produit des éléments de nature à faire regarder l'action de l'administration comme insuffisante au regard des risques courus durant la période considérée. Il appartient alors au ministre d'établir que la législation du travail en vigueur, notamment celle relative à l'empoussièrement sur les lieux de travail, était adaptée. Le silence de l'administration joue contre elle.
+
+## 4. Les procédures : de Marseille au Conseil d'État, puis le volet pénal
+
+Première étape : le tribunal administratif de Marseille, 30 mai 2000. Par quatre jugements, le tribunal estime que l'État est responsable des « conséquences dommageables du décès » des quatre salariés. Il souligne la carence fautive de l'État, et ordonne avant dire droit une expertise en vue de déterminer le montant du préjudice subi. Sur ce point, la responsabilité est acquise mais l'indemnisation reste à chiffrer.
+
+Deuxième étape : la cour administrative d'appel de Marseille, 18 octobre 2001. La cour confirme. Elle relève que, depuis le milieu des années 1950, les pouvoirs publics ne pouvaient plus ignorer que l'exposition aux poussières d'amiante présentait de graves dangers pour la santé des travailleurs. Elle constate que l'État n'établit pas que la réglementation alors en vigueur, notamment celle relative à l'empoussièrement sur les lieux de travail, permettait d'y parer, et qu'aucune mesure n'a été prise pour protéger les travailleurs. Elle en déduit une responsabilité de l'État pour toute la durée de l'exposition.
+
+Troisième étape : le pourvoi du ministre de l'emploi et de la solidarité. Le recours sommaire et son mémoire complémentaire sont enregistrés au secrétariat du contentieux du Conseil d'État les 18 décembre 2001 et 17 avril 2002. Le ministre soutient que l'arrêt attaqué est insuffisamment motivé : la cour n'aurait pas expliqué les raisons pour lesquelles elle retenait une faute de l'État. Il soutient aussi que la cour a méconnu les règles relatives à la charge de la preuve. À titre subsidiaire, il demande que soit déterminée la part de responsabilité incombant à l'État.
+
+Quatrième étape : Conseil d'État, Assemblée, 3 mars 2004, affaires n° 241150 et n° 241152. Le Conseil d'État rejette le recours. Il juge que la cour a indiqué avec suffisamment de précision, compte tenu des moyens et exceptions soulevés devant elle, les raisons pour lesquelles elle estimait que l'État avait commis une faute de nature à engager sa responsabilité. Il juge également qu'elle n'a pas méconnu les règles relatives à la charge de la preuve. L'appréciation des pièces du dossier par la cour est souveraine et ne peut être discutée devant le juge de cassation en l'absence de dénaturation.
+
+Le même jour, quatre arrêts sont rendus et la responsabilité de l'État dans la contamination de salariés est reconnue. Le commissaire du gouvernement avait conclu, le 20 février devant le Conseil d'État, à une « situation légale de cumul de responsabilités » et au fait que « les manquements de l'Etat à son obligation de protection et de prévention engagent directement sa responsabilité envers les victimes ». La décision a valeur de première dans l'ordre juridictionnel administratif.
+
+Un détail procédural éclaire la façon dont les deux responsabilités s'articulent. L'intervention de la société Eternit, employeur de victimes, est jugée recevable dans l'affaire n° 241152 : l'employeur a intérêt au maintien de l'arrêt attaqué, donc à ce que la condamnation de l'État soit confirmée. Elle est jugée irrecevable dans l'affaire n° 241150, les consorts concernés, à qui le recours du ministre avait été communiqué, n'ayant pas présenté de mémoire en défense. L'employeur, exposé à sa propre obligation de sécurité, avait donc intérêt à la condamnation de l'État.
+
+Cinquième étape : Conseil d'État, 3 mai 2004, n° 254961. Le comité anti-amiante Jussieu et l'Association nationale de défense des victimes de l'amiante demandaient l'annulation pour excès de pouvoir de délibérations du conseil d'administration du Fonds d'indemnisation des victimes de l'amiante en date des 21 janvier et 6 mai 2003, qui fixaient des barèmes d'indemnisation. Le Conseil d'État juge que, conformément au décret du 23 octobre 2001, ces délibérations se bornent à définir des orientations. Elles ne font pas obstacle à ce que, en fonction de la situation particulière de chaque demandeur, les autorités du fonds s'écartent des directives qui leur sont adressées. Dénuées de caractère impératif, elles ne sont pas susceptibles de recours pour excès de pouvoir.
+
+Sixième étape : le volet pénal, autour du campus parisien de Jussieu. Une enquête débute en 1996 ; elle vise l'université et plusieurs de ses anciens responsables, et Paris VI et Paris VII sont mises en examen en janvier 2005. L'information judiciaire se conclut par un non-lieu en février 2022 : trois magistrats instructeurs du pôle santé publique de Paris estiment qu'il n'existe pas de charges suffisantes pour renvoyer quiconque devant un tribunal pour blessures, homicides involontaires ou mise en danger de la vie d'autrui. Une expertise judiciaire de 2017 jugeait impossible de déduire avec précision le moment de l'exposition des salariés et celui de leur contamination, donc d'établir une responsabilité pénale.
+
+En appel, en juillet 2023, la cour d'appel de Paris confirme l'essentiel et estime l'action publique éteinte, du fait des modifications de la structure juridique des universités. La chambre criminelle de la Cour de cassation écarte ensuite le pourvoi des parties civiles et valide définitivement le non-lieu. La voie pénale se referme donc, alors que la voie administrative avait abouti près de vingt ans plus tôt.
+
+Septième étape : le contrôle du décret du 3 juin 2011 relatif à la protection de la population contre les risques sanitaires liés à une exposition à l'amiante dans les immeubles bâtis. L'association Ban Asbestos France, la fédération droit au logement et l'association Ardeva Sud Est en demandent l'annulation pour excès de pouvoir. Le Conseil d'État, dans sa décision du 26 février 2014, juge notamment que ce décret, qui a pour objet de prévoir des dispositions relatives à la protection de la santé de l'ensemble de la population contre des risques liés à l'environnement au sein de tout immeuble bâti entrant dans son champ d'application, quelle qu'en soit la destination, n'est pas au nombre des textes sur lesquels l'avis du conseil d'orientation sur les conditions de travail doit être recueilli. Les requérantes ne sont pas fondées à soutenir que la consultation de cet organisme et du Haut Conseil de la santé publique était obligatoire.
+
+Une illustration plus récente montre que le contentieux indemnitaire de l'amiante continue. Par une décision du 26 juin 2026, n° 508823, le Conseil d'État est saisi du pourvoi du ministre des armées. Mme B..., ingénieure civile de la défense, avait été employée du 1er août 1985 au 31 mars 1987 au sein de la direction des constructions navales de Cherbourg, puis du 1er août 2013 au 31 août 2016 au service logistique de la marine à Brest. Elle a demandé en février 2024 la réparation du préjudice d'anxiété qu'elle estime avoir subi du fait de son exposition à l'inhalation de poussières d'amiante. Le tribunal administratif de Rennes a condamné l'État à lui verser 3 000 euros ; le ministre conteste le point de départ de la prescription quadriennale.
+
+Le contentieux porte aussi sur l'inscription des établissements. Par un arrêt du 15 septembre 2026, n° 25NT01378, la cour administrative d'appel de Nantes examine la demande du syndicat CFDT Défense Normandie. Le syndicat avait demandé le 30 août 2022 au ministre des armées d'inscrire un ancien bâtiment dénommé « Villeroi », détruit en 2011 et situé à Cherbourg-en-Cotentin, sur la liste des établissements de construction et de réparation navales ouvrant droit à l'allocation de cessation anticipée d'activité prévue par l'article 41 de la loi du 23 décembre 1998 de financement de la sécurité sociale pour 1999. Le tribunal administratif de Caen a rejeté la demande par un jugement du 26 mars 2025 ; le syndicat a relevé appel le 21 mai 2025 et demande aussi à la cour d'enjoindre au ministre de procéder à cette inscription.
+
+Cette demande d'injonction obéit à un mécanisme général. Lorsque sa décision implique nécessairement qu'une personne morale de droit public ou un organisme de droit privé chargé de la gestion d'un service public prenne une mesure d'exécution dans un sens déterminé, la juridiction, saisie de conclusions en ce sens, prescrit par la même décision cette mesure, assortie le cas échéant d'un délai d'exécution. Elle peut aussi prescrire cette mesure d'office. Le juge ne se contente donc pas d'annuler : il peut ordonner.
+
+## 5. L'analyse : ce que l'affaire dit du pouvoir de police et de réglementation
+
+L'affaire pose une obligation de veille et d'action à la charge des autorités publiques. Elle ne se contente pas d'exiger que l'administration applique les textes existants : elle lui impose de se tenir informée des dangers et d'arrêter les mesures les plus appropriées en l'état des connaissances scientifiques, au besoin en lançant des études ou des enquêtes complémentaires. La faute n'est donc pas un acte isolé, c'est une absence prolongée. La carence constatée avant 1977, année du décret fixant des mesures particulières d'hygiène, en est l'illustration directe.
+
+La charge de la preuve est le cœur pratique du raisonnement. La victime n'a pas à désigner elle-même le décret qui aurait dû être pris. Elle produit des éléments qui font regarder l'action de l'administration comme insuffisante ; il appartient alors au ministre d'établir que la législation du travail en vigueur, notamment sur l'empoussièrement des lieux de travail, était adaptée aux risques. Ne rien produire revient à perdre. Ce renversement pratique explique pourquoi le pourvoi du ministre, fondé sur la charge de la preuve, a été rejeté.
+
+La responsabilité administrative et la responsabilité pénale ne poursuivent pas le même but. Devant le juge administratif, il s'agit d'indemniser une victime : il suffit d'établir une faute et un lien avec le dommage. Devant le juge pénal, il faut des charges suffisantes contre des personnes déterminées. À Jussieu, le non-lieu de février 2022 vient précisément de l'impossibilité de relier le dommage à des fautes imputables de manière certaine et de dater avec précision exposition et contamination. La voie administrative a abouti, la voie pénale s'est refermée.
+
+La responsabilité de l'État et celle de l'employeur se cumulent, elles ne se substituent pas l'une à l'autre. Le commissaire du gouvernement avait conclu à une « situation légale de cumul de responsabilités » et estimait que les manquements de l'État à son obligation de protection et de prévention engagent directement sa responsabilité envers les victimes. La position d'Eternit devant le Conseil d'État le confirme : l'employeur, lui-même tenu d'une obligation de sécurité, avait intérêt à ce que la condamnation de l'État soit confirmée.
+
+Reste la responsabilité personnelle des dirigeants. À Jussieu, l'enquête ouverte en 1996 visait l'université et plusieurs de ses anciens responsables, et deux établissements ont été mis en examen en janvier 2005. Mais l'action publique a été estimée éteinte en juillet 2023 du fait des modifications de la structure juridique des universités. Une personne morale peut donc échapper à la sanction pénale par un effet de droit, sans que la question de fond ait été tranchée.
+
+## 6. Les suites : indemnisation, repérage, cessation anticipée d'activité
+
+Première suite : l'interdiction. L'usage de l'amiante est interdit en France depuis 1997. Tous les bâtiments construits entre le début du XXe siècle et cette interdiction sont susceptibles d'en contenir en quantités variables. Toute opération de travaux sur un tel bâtiment doit donc donner lieu à un repérage et à une analyse des matériaux pouvant contenir de l'amiante sur toutes les parties concernées par les travaux. En cas de présence, le chantier suit un processus établi et validé à l'avance pour protéger les travailleurs, les passants, l'environnement, et pour le stockage et le retraitement des déchets amiantés.
+
+Deuxième suite : l'indemnisation. L'article 53 de la loi du 23 décembre 2000 donne au Fonds d'indemnisation des victimes de l'amiante pour mission de réparer les préjudices subis par les personnes qui ont obtenu la reconnaissance d'une maladie professionnelle occasionnée par l'amiante, ou qui ont subi un préjudice résultant directement d'une exposition à l'amiante sur le territoire de la République française, ainsi que par leurs ayants droit. Le décret du 23 octobre 2001 précise le rôle de son conseil d'administration, qui définit la politique d'indemnisation en fixant les orientations relatives aux procédures, aux conditions de reconnaissance de l'exposition, d'indemnisation et de versement des provisions.
+
+Troisième suite : la protection des occupants des bâtiments. Les articles L. 1334-12-1 à L. 1334-17 du code de la santé publique fixent le cadre dans lequel doivent être prises les mesures de protection de la population. Les propriétaires, ou à défaut les exploitants, des immeubles bâtis y font rechercher la présence d'amiante ; en cas de présence, ils font établir un diagnostic de l'état de conservation de l'amiante dans les matériaux et produits repérés et mettent en œuvre, le cas échéant, les mesures nécessaires pour contrôler et réduire l'exposition. Le décret du 3 juin 2011 est pris pour l'application de ces dispositions.
+
+Quatrième suite : la responsabilité des diagnostiqueurs. Avant toute vente, le vendeur doit faire réaliser un repérage des matériaux et produits des listes A et B de l'annexe 13-9 du code de la santé publique. Le diagnostiqueur doit procéder à une recherche systématique de l'ensemble des matériaux susceptibles de contenir de l'amiante : il ne peut limiter son intervention à un simple contrôle visuel ou à certaines parties de l'immeuble. Il doit aussi émettre des réserves sur les zones non analysées, au titre de son obligation d'information et de conseil. Sa responsabilité est engagée lorsque le diagnostic n'a pas été réalisé conformément aux normes et règles de l'art et qu'il se révèle erroné. La norme NF X 46-020 définit un matériau accessible comme celui que l'on peut atteindre par inspection visuelle directe ou après des investigations visuelles approfondies sans dégradation de l'ouvrage.
+
+Cinquième suite : la cessation anticipée d'activité. L'article 41 de la loi du 23 décembre 1998 de financement de la sécurité sociale pour 1999 ouvre une allocation de cessation anticipée d'activité aux salariés et anciens salariés des établissements de fabrication de matériaux contenant de l'amiante, de flocage et de calorifugeage à l'amiante ou de construction et de réparation navales. La condition tient au travail effectué dans un établissement figurant sur une liste établie par arrêté, pendant la période où y étaient fabriqués ou traités l'amiante ou des matériaux contenant de l'amiante. Le contentieux porte donc souvent sur une seule question : un bâtiment donné doit-il, ou non, figurer sur cette liste ?
+
+Sixième suite : le préjudice d'anxiété. Le juge administratif indemnise aujourd'hui le préjudice d'anxiété des agents publics exposés à l'amiante durant leur carrière. La difficulté pratique s'est déplacée vers la prescription : la loi du 31 décembre 1968 prévoit que sont prescrites les créances qui n'ont pas été payées dans un délai de quatre ans à partir du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis, mais la prescription ne court pas contre le créancier qui peut être légitimement regardé comme ignorant l'existence de sa créance. Le débat porte sur le point de départ : date de la dernière exposition, ou date de la dernière attestation d'exposition.
+
+## 7. À retenir
+
+Trois enseignements se dégagent. Premièrement, une carence prolongée de l'État dans l'exercice de son pouvoir de police et de réglementation est une faute qui engage sa responsabilité envers les victimes. Deuxièmement, la charge de la preuve pèse largement sur l'administration : c'est à elle d'établir que sa réglementation était adaptée aux risques connus. Troisièmement, la voie administrative et la voie pénale ne se confondent pas : la première indemnise et a abouti, la seconde exige des charges précises et s'est refermée à Jussieu.
+
+La phrase à garder en tête est la règle posée en 2004. Il incombe aux autorités publiques chargées de la prévention des risques professionnels de se tenir informées des dangers que peuvent courir les travailleurs, compte tenu des produits et substances qu'ils manipulent ou avec lesquels ils sont en contact, et d'arrêter, en l'état des connaissances scientifiques, les mesures les plus appropriées pour limiter et si possible éliminer ces dangers. C'est une obligation de veille doublée d'une obligation d'action.
+
+L'affaire a aussi une postérité concrète : un fonds d'indemnisation, des obligations de repérage dans les bâtiments, un dispositif de cessation anticipée d'activité, et une indemnisation du préjudice d'anxiété devant le juge administratif. Le contentieux n'a pas disparu : en 2026, il porte encore sur l'inscription de bâtiments sur les listes ouvrant droit à l'allocation, et sur le point de départ de la prescription quadriennale dans les demandes d'indemnisation.
+
+## Chronologie
+
+| Date | Fait |
+| --- | --- |
+| 1898 | Un inspecteur en chef des usines anglais écrit que les risques de l'amiante pour la santé sont « aisément démontrés ». |
+| 1906 | Denis Auribault, inspecteur départemental du travail à Caen, dénonce la forte mortalité des ouvriers des filatures et usines de tissage d'amiante. |
+| 1945 | Création d'un tableau de maladies professionnelles dues à l'amiante : les employeurs ne peuvent plus prétendre ignorer les risques. |
+| 1951 | Un matériau à projeter sans amiante est créé et un flocage sans amiante est largement utilisé en France. |
+| 1965 | Premier cas de mésothéliome recensé en France. |
+| 1975 | Médiatisation des polémiques entre scientifiques, tel Henri Pézerat, et lobbyistes de l'amiante, tel Marcel Valtat. |
+| 1976 | Une conférence du Centre international de recherche sur le cancer classe l'amiante comme « cancérigène avéré ». |
+| 17 août 1977 | Décret relatif aux mesures particulières d'hygiène applicables dans les établissements où le personnel est exposé aux poussières d'amiante. |
+| 1996 | Ouverture de l'enquête pénale sur le campus parisien de Jussieu. |
+| 1996-1997 | Décès des quatre salariés marseillais exposés à l'amiante. |
+| 1997 | Interdiction de l'amiante en France ; rapport INSERM sur l'amiante. |
+| 30 mai 2000 | Par quatre jugements, le tribunal administratif de Marseille déclare l'État responsable des conséquences dommageables du décès des quatre salariés. |
+| 18 octobre 2001 | La cour administrative d'appel de Marseille confirme la responsabilité de l'État. |
+| 18 décembre 2001 | Recours du ministre de l'emploi et de la solidarité devant le Conseil d'État, suivi d'un mémoire complémentaire le 17 avril 2002. |
+| 21 janvier et 6 mai 2003 | Délibérations du conseil d'administration du Fonds d'indemnisation des victimes de l'amiante fixant des barèmes d'indemnisation. |
+| 3 mars 2004 | Le Conseil d'État, statuant en Assemblée sur les affaires n° 241150 et n° 241152, rejette le recours du ministre et confirme la responsabilité de l'État. |
+| 3 mai 2004 | Le Conseil d'État juge que les délibérations du FIVA fixant des barèmes ne sont pas susceptibles de recours pour excès de pouvoir. |
+| janvier 2005 | Paris VI et Paris VII sont mises en examen dans l'enquête sur l'amiante à Jussieu. |
+| 3 juin 2011 | Décret relatif à la protection de la population contre les risques sanitaires liés à une exposition à l'amiante dans les immeubles bâtis. |
+| 26 février 2014 | Le Conseil d'État se prononce sur le recours contre le décret du 3 juin 2011, notamment sur les consultations obligatoires. |
+| février 2022 | Ordonnance de non-lieu dans l'information judiciaire sur l'amiante à Jussieu, faute de charges suffisantes. |
+| juillet 2023 | La cour d'appel de Paris estime l'action publique éteinte du fait des modifications de la structure juridique des universités. |
+| 26 mars 2025 | Le tribunal administratif de Caen rejette la demande d'inscription du bâtiment « Villeroi » sur la liste ouvrant droit à l'allocation de cessation anticipée d'activité. |
+| 26 juin 2026 | Le Conseil d'État examine le pourvoi du ministre des armées sur le point de départ de la prescription quadriennale dans une demande d'indemnisation du préjudice d'anxiété lié à l'amiante. |
+| 15 septembre 2026 | La cour administrative d'appel de Nantes examine l'appel du syndicat CFDT Défense Normandie sur l'inscription du bâtiment « Villeroi ». |
+
+## Acteurs
+
+| Qui | Rôle |
+| --- | --- |
+| L'État, ministère de l'emploi et de la solidarité | Autorité chargée de la prévention des risques professionnels et de la réglementation du travail, dont la carence avant 1977 est jugée fautive. |
+| La société Eternit | Employeur de victimes, intervenu devant le Conseil d'État pour soutenir l'arrêt condamnant l'État. |
+| Robert Thomas | Né en 1939, salarié d'Eternit de 1957 à 1973, décédé d'un cancer bronchique. |
+| Marc Bourdignon | Salarié d'Eternit de 1964 à 1971, décédé d'un cancer bronchique. |
+| Jean-Louis Botella | Né en 1958, employé des usines Atochem de Fos-sur-Mer et de Port-de-Bouc de 1982 à 1994, décédé d'un mésothéliome malin de la plèvre. |
+| Serge Xuereff | Chaudronnier, notamment chez Sollac à Fos-sur-Mer de 1985 à 1987, décédé d'un mésothéliome malin de la plèvre. |
+| Tribunal administratif de Marseille | Juge de première instance, a déclaré l'État responsable par quatre jugements du 30 mai 2000. |
+| Cour administrative d'appel de Marseille | Juge d'appel, a confirmé la responsabilité de l'État le 18 octobre 2001. |
+| Conseil d'État | Juge de cassation, a rejeté le recours du ministre le 3 mars 2004 et confirmé la responsabilité de l'État. |
+| Fonds d'indemnisation des victimes de l'amiante | Établissement chargé de réparer les préjudices des victimes de l'amiante, dont les barèmes de 2003 ne sont pas susceptibles de recours pour excès de pouvoir. |
+| Comité anti-amiante Jussieu et Association nationale de défense des victimes de l'amiante | Requérants devant le Conseil d'État contre les délibérations du FIVA en 2003. |
+| Universités Paris VI et Paris VII, puis Sorbonne-Université et Paris-Cité | Mises en examen en janvier 2005 dans l'enquête ouverte en 1996 ; l'action publique a été estimée éteinte en juillet 2023 du fait des modifications de leur structure juridique. |
+
+## Décisions
+
+### Tribunal administratif de Marseille, 30 mai 2000
+
+- **Demande :** Demandes d'indemnisation des ayants droit des quatre salariés marseillais décédés après exposition à l'amiante.
+- **Décision :** Par quatre jugements, l'État est déclaré responsable des conséquences dommageables des décès ; une expertise est ordonnée avant dire droit pour chiffrer le préjudice.
+- **Motifs :** Le tribunal retient une carence fautive de l'État dans la prévention des risques liés à l'exposition professionnelle aux poussières d'amiante.
+
+### Cour administrative d'appel de Marseille, 18 octobre 2001
+
+- **Demande :** Appel du ministre de l'emploi et de la solidarité contre les jugements du 30 mai 2000.
+- **Décision :** L'arrêt confirme la responsabilité de l'État ; le recours du ministre sera ensuite rejeté.
+- **Motifs :** Les pouvoirs publics ne pouvaient plus ignorer, depuis le milieu des années 1950, les dangers de l'exposition aux poussières d'amiante ; l'État n'établissait pas que la réglementation alors en vigueur sur l'empoussièrement des lieux de travail permettait d'y parer, et aucune mesure de protection n'avait été prise.
+
+### Conseil d'État, Assemblée, n° 241152, 3 mars 2004
+
+- **Demande :** Annulation de l'arrêt de la cour administrative d'appel de Marseille du 18 octobre 2001, et à titre subsidiaire détermination de la part de responsabilité de l'État.
+- **Décision :** Recours rejeté. La responsabilité de l'État est définitivement confirmée.
+- **Motifs :** La cour a suffisamment précisé les raisons de la faute retenue ; elle n'a pas méconnu les règles de la charge de la preuve ; l'appréciation souveraine des pièces du dossier ne peut être discutée devant le juge de cassation sans dénaturation. L'intervention de la société Eternit, employeur, est recevable.
+
+### Conseil d'État, Assemblée, n° 241150, 3 mars 2004
+
+- **Demande :** Recours du ministre de l'emploi et de la solidarité tendant à l'annulation du jugement du 30 mai 2000 et au rejet de la demande des ayants droit.
+- **Décision :** Recours rejeté. La responsabilité de l'État est confirmée.
+- **Motifs :** Mêmes motifs que pour l'affaire n° 241152 sur la motivation de l'arrêt et la charge de la preuve. L'intervention de la société Eternit est irrecevable, les consorts concernés n'ayant pas présenté de mémoire en défense.
+
+### Conseil d'État, n° 254961, 3 mai 2004
+
+- **Demande :** Annulation pour excès de pouvoir des délibérations du conseil d'administration du Fonds d'indemnisation des victimes de l'amiante des 21 janvier et 6 mai 2003 fixant des barèmes d'indemnisation.
+- **Décision :** Ces délibérations ne sont pas susceptibles de recours pour excès de pouvoir.
+- **Motifs :** Elles se bornent à définir des orientations et ne font pas obstacle à ce que les autorités du fonds s'en écartent selon la situation particulière de chaque demandeur : leur caractère n'est pas impératif.
+
+### Conseil d'État, n° 351514, 26 février 2014
+
+- **Demande :** Annulation pour excès de pouvoir du décret du 3 juin 2011 relatif à la protection de la population contre les risques sanitaires liés à une exposition à l'amiante dans les immeubles bâtis.
+- **Décision :** Les requérantes ne sont pas fondées à soutenir que la consultation du Haut Conseil de la santé publique et du conseil d'orientation sur les conditions de travail était obligatoire.
+- **Motifs :** Le décret protège la santé de l'ensemble de la population contre des risques liés à l'environnement au sein de tout immeuble bâti, quelle qu'en soit la destination : il n'est pas au nombre des textes sur lesquels l'avis du conseil d'orientation sur les conditions de travail doit être recueilli.
+
+### Cour de cassation, chambre criminelle, non précisée par la source
+
+- **Demande :** Pourvoi des parties civiles contre le non-lieu dans le dossier de l'amiante à Jussieu.
+- **Décision :** Le pourvoi est écarté et le non-lieu est définitivement validé.
+- **Motifs :** La responsabilité pénale des établissements publics universitaires héritiers de Paris VI et Paris VII ne pouvait être retenue pour des raisons de droit.
+
+### Cour administrative d'appel de Nantes, n° 25NT01378, 15 septembre 2026
+
+- **Demande :** Annulation du refus implicite du ministre des armées d'inscrire le bâtiment « Villeroi » sur la liste ouvrant droit à l'allocation de cessation anticipée d'activité, et injonction d'y procéder.
+- **Décision :** Affaire en cours d'examen par la cour, après le rejet de la demande par le tribunal administratif de Caen le 26 mars 2025.
+- **Motifs :** Le syndicat soutient que le bâtiment contenait des matériaux amiantés jusqu'à sa destruction en 2011 et se situait dans le prolongement d'un bâtiment inscrit par arrêté du 21 avril 2006 ; le ministre conclut au rejet de la requête.
+
+### Conseil d'État, n° 508823, 26 juin 2026
+
+- **Demande :** Pourvoi du ministre des armées contre le jugement du tribunal administratif de Rennes du 6 février 2025 condamnant l'État à verser 3 000 euros à Mme B... au titre de son préjudice d'anxiété.
+- **Décision :** Affaire en cours d'examen par le Conseil d'État.
+- **Motifs :** Le ministre soutient que le point de départ de la prescription quadriennale devait être fixé à la date de la dernière exposition à l'amiante de l'intéressée, et non au 1er janvier suivant sa dernière attestation d'exposition.
+
+## Questions de révision
+
+<details>
+<summary>Pourquoi l'État a-t-il été jugé responsable alors qu'il n'avait ni fabriqué ni utilisé l'amiante ?</summary>
+
+Parce qu'il incombe aux autorités publiques chargées de la prévention des risques professionnels de se tenir informées des dangers que peuvent courir les travailleurs et d'arrêter, en l'état des connaissances scientifiques, les mesures les plus appropriées pour limiter et si possible éliminer ces dangers. N'ayant entrepris avant 1977 aucune recherche pour évaluer les risques et n'ayant pris aucune mesure de protection, l'État a commis une faute qui engage sa responsabilité envers les victimes.
+
+</details>
+
+<details>
+<summary>Qui devait prouver quoi dans cette affaire ?</summary>
+
+La victime produit des éléments de nature à faire regarder l'action de l'administration comme insuffisante au regard des risques courus. Il appartient alors au ministre d'établir que la législation du travail en vigueur durant la période, notamment sur l'empoussièrement des lieux de travail, était adaptée. Son silence sur ce point joue contre lui.
+
+</details>
+
+<details>
+<summary>Quelle différence entre le volet administratif et le volet pénal de l'affaire ?</summary>
+
+Devant le juge administratif, l'État a été condamné à indemniser les ayants droit des quatre salariés marseillais pour carence fautive. Devant le juge pénal, l'information judiciaire ouverte en 1996 sur le campus de Jussieu s'est conclue par un non-lieu en février 2022, faute de charges suffisantes et parce qu'une expertise de 2017 jugeait impossible de relier le dommage à des fautes imputables de manière certaine. En juillet 2023, la cour d'appel de Paris a estimé l'action publique éteinte du fait des modifications de la structure juridique des universités.
+
+</details>
+
+<details>
+<summary>Pourquoi la société Eternit est-elle intervenue devant le Conseil d'État ?</summary>
+
+Employeur de victimes, Eternit avait intérêt au maintien de l'arrêt attaqué, c'est-à-dire à ce que la condamnation de l'État soit confirmée : elle était elle-même tenue d'une obligation de sécurité. Son intervention a été jugée recevable dans l'affaire n° 241152 et irrecevable dans l'affaire n° 241150, les consorts concernés n'ayant pas présenté de mémoire en défense.
+
+</details>
+
+<details>
+<summary>Le juge administratif peut-il ordonner à l'administration d'agir, et pas seulement annuler sa décision ?</summary>
+
+Oui. Lorsque sa décision implique nécessairement qu'une personne morale de droit public ou un organisme chargé de la gestion d'un service public prenne une mesure d'exécution dans un sens déterminé, la juridiction, saisie de conclusions en ce sens, prescrit par la même décision cette mesure, le cas échéant assortie d'un délai d'exécution, et peut aussi le faire d'office. C'est ce mécanisme qu'un syndicat invoquait dans le contentieux de l'inscription d'un bâtiment sur la liste ouvrant droit à l'allocation de cessation anticipée d'activité.
+
+</details>
+
+<details>
+<summary>Pourquoi les recours contre les barèmes du Fonds d'indemnisation des victimes de l'amiante ont-ils échoué ?</summary>
+
+Le FIVA, dont la mission de réparation résulte de la loi du 23 décembre 2000, a vu son conseil d'administration fixer par délibérations des 21 janvier et 6 mai 2003 des barèmes d'indemnisation. Le Conseil d'État a jugé que ces délibérations se bornent à définir des orientations, sans caractère impératif, et n'empêchent pas les autorités du fonds de s'en écarter selon la situation de chaque demandeur : elles ne sont donc pas susceptibles de recours pour excès de pouvoir.
+
+</details>
+
+## Jurisprudence
+
+- [CAA de NANTES, 3ème chambre, 15/09/2026, 25NT01378, Inédit au recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000054850101>) : Un syndicat demande au juge d'annuler le refus du ministre des armées d'inscrire le bâtiment « Villeroi », détruit en 2011, sur la liste ouvrant droit à l'allocation de cessation anticipée d'activité, et de lui enjoindre d'y procéder ; le tribunal administratif de Caen a rejeté la demande le 26 mars 2025 et la cour administrative d'appel de Nantes examine l'appel.
+- [Conseil d'État, 7ème chambre, 26/06/2026, 508823, Inédit au recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000054322906>) : Une ingénieure civile de la défense, exposée à l'amiante, obtient 3 000 euros du tribunal administratif de Rennes au titre de son préjudice d'anxiété ; le Conseil d'État examine le pourvoi du ministre sur le point de départ de la prescription quadriennale.
+
+## Sources
+
+- [CJA, art. L911-1](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311379>)
+- [Amiante (Wikipédia)](<https://fr.wikipedia.org/wiki/Amiante>)
+- [Affaire de l'amiante en France (Wikipédia)](<https://fr.wikipedia.org/wiki/Affaire_de_l'amiante_en_France>)
+- [Conseil d'État, Assemblée, 03/03/2004, 241152, Publié au recueil Lebon](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000008176294/>)
+- [Conseil d'Etat, Assemblée, du 3 mars 2004, 241150, publié au recueil Lebon](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000008174633/>)
+- [Amiante : la responsabilité de l'Etat reconnue dans la contamination de salariés](<https://www.lemonde.fr/archives/article/2004/03/04/amiante-la-responsabilite-de-l-etat-reconnue-dans-la-contamination-de-salaries_355439_1819218.html>)
+- [Amiante : le Conseil d'Etat confirme la responsabilité de l'Etat](<https://www.lemonde.fr/archives/article/2004/03/03/amiante-le-conseil-d-etat-confirme-la-responsabilite-de-l-etat_355358_1819218.html>)
+- [Conseil d'Etat, 1ère et 6ème sous-sections réunies, du 3 mai 2004, 254961, publié au recueil Lebon](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000008195751/>)
+- [Amiante sur le campus parisien de Jussieu: la Cour de cassation valide définitivement le non-lieu](<https://www.lexpress.fr/societe/amiante-sur-le-campus-parisien-de-jussieu-la-cour-de-cassation-valide-definitivement-le-non-lieu-4K24XEN77FDVZPQAGFYXIYMECI/>)
+- [Amiante sur le campus parisien de Jussieu : la justice confirme le non-lieu en appel](<https://www.leparisien.fr/paris-75/paris-75005/amiante-sur-le-campus-parisien-de-jussieu-la-justice-confirme-le-non-lieu-en-appel-05-07-2023-3PBGXPOQ7BFRRIYQHZHX4RHOWM.php>)
+- [Décision n° 351514 - Conseil d'État](<https://conseil-etat.fr/fr/arianeweb/CE/decision/2014-02-26/351514>)
+- [Décision Cour d'appel de Douai : RG n°22/05498](<https://www.courdecassation.fr/decision/656988a78d601c83182c18c1>)
+
+---
+
+<sub>‹ [Société Tropic Travaux Signalisation : le concurrent évincé ouvre la porte du contrat administratif](etude-affaire-affaire-societe-tropic-travaux-signalisation.md) · [Retour aux études de cas](README.md) · [L'affaire de la SEM de la Ville de Nice : quel régime pour les litiges et les contrats d'une société d'économie mixte locale ?](etude-affaire-affaire-societe-d-economie-mixte-de-la-ville-d.md) ›</sub>

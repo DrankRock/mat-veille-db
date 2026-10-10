@@ -1,0 +1,244 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# L'affaire Edmond Hervé : la responsabilité pénale d'un ancien ministre devant la Cour de justice de la République
+
+<sub>`Étude de cas` · Probité et droit pénal · Découverte · 10 min · Affaire Edmond Hervé, Rennes, 1995 · 6.4/10 au jury</sub>
+
+> Edmond Hervé, maire de Rennes de 1977 à 2008 et secrétaire d'État chargé de la Santé de 1983 à 1986, a été jugé en 1999 par la Cour de justice de la République dans l'affaire du sang contaminé. Il est condamné pour manquement à une obligation de sécurité ou de prudence, mais dispensé de peine.
+
+> [!TIP]
+> Le favoritisme se prouve par un acte contraire aux règles de mise en concurrence et un avantage injustifié ; la seule qualité d'élu ne suffit pas.
+
+**À retenir**
+
+- Edmond Hervé a été condamné en 1999 par la Cour de justice de la République pour manquement à une obligation de sécurité ou de prudence, avec dispense de peine, après avoir été acquitté sur cinq des sept chefs d'inculpation.
+- Le favoritisme (article 432-14 du code pénal) suppose un auteur qualifié, un acte contraire aux dispositions garantissant la liberté d'accès et l'égalité des candidats dans les marchés publics et les contrats de concession, et la recherche d'un avantage injustifié pour autrui.
+- Devant la Cour de justice de la République, la constitution de partie civile est exclue ; la Cour de cassation a jugé que cette exclusion ne portait pas atteinte au droit à un tribunal garanti par l'article 6 de la Convention européenne des droits de l'homme.
+
+<details>
+<summary><b>Version rapide</b> · 1 min</summary>
+
+#### L'affaire et la qualification
+
+Edmond Hervé, maire de Rennes et ancien secrétaire d'État chargé de la Santé, est renvoyé devant la Cour de justice de la République pour des faits de contamination par le virus du SIDA survenus en 1985. Il est condamné en 1999 pour manquement à une obligation de sécurité ou de prudence, une atteinte involontaire, et non pour favoritisme. Le favoritisme est un délit intentionnel défini par l'article 432-14 du code pénal, qui suppose un acte contraire aux règles de la commande publique et la volonté de procurer un avantage injustifié.
+
+#### La procédure et la décision
+
+L'action publique a été mise en mouvement par la commission des requêtes près la Cour de justice de la République. La victime, Mme Sylvie X..., a demandé à se constituer partie civile, mais l'article 13 de la loi organique du 23 novembre 1993 l'exclut devant cette juridiction. La Cour de cassation, en Assemblée plénière le 21 juin 1999, a jugé que cette exclusion ne porte pas atteinte au droit à un tribunal garanti par l'article 6 de la Convention européenne des droits de l'homme. Le 9 mars 1999, la Cour a condamné Edmond Hervé avec dispense de peine, par huit voix contre sept, et relaxé Laurent Fabius et Georgina Dufoix.
+
+#### Ce qu'on en retient
+
+L'affaire illustre la responsabilité pénale personnelle d'un ancien ministre devant une juridiction spéciale pour une atteinte involontaire. Elle ne relève pas du favoritisme, qui est un délit intentionnel et ne se présume pas. La qualité d'élu ne suffit jamais à caractériser le favoritisme : il faut un acte contraire aux règles de la commande publique et un avantage injustifié recherché pour autrui.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 2 min</summary>
+
+#### Le contexte et les faits
+
+Edmond Hervé, né en 1942, est maire de Rennes de 1977 à 2008. Il est secrétaire d'État chargé de la Santé de 1983 à 1986, période durant laquelle survient l'affaire du sang contaminé. Le point de départ est un don du sang prélevé le 13 juillet 1985 et non testé ; le 2 août 1985, Mme Sylvie X... est contaminée par le virus du SIDA lors d'une transfusion. Laurent Fabius, Georgina Dufoix et Edmond Hervé sont renvoyés devant la Cour de justice de la République.
+
+#### La qualification retenue
+
+Edmond Hervé est condamné pour manquement à une obligation de sécurité ou de prudence, une atteinte involontaire. Sur sept chefs d'inculpation, il est acquitté pour cinq et condamné pour deux. Le favoritisme, délit intentionnel défini par l'article 432-14 du code pénal, n'est pas reproché. Ce texte exige trois éléments : un auteur dépositaire de l'autorité publique ou investi d'un mandat électif, un acte contraire aux règles garantissant la liberté d'accès et l'égalité des candidats dans les marchés publics, et la volonté de procurer un avantage injustifié.
+
+#### La procédure devant la Cour de justice de la République
+
+La Cour de justice de la République, organisée par la loi organique du 23 novembre 1993, siège avec quinze magistrats : douze parlementaires et trois juges professionnels. Son article 13 exclut toute constitution de partie civile. L'action publique a été mise en mouvement par la commission des requêtes. À l'audience du 16 février 1999, l'avocat de Mme X... demande à se constituer partie civile ; le président lui rappelle l'article 13, et Mme X... est entendue comme témoin. Les demandeurs critiqueront cet enchaînement devant la Cour de cassation.
+
+#### La décision et les suites judiciaires
+
+Le 2 mars 1999, les quinze juges délibèrent. Après trois tours de vote, ils se prononcent par huit voix contre sept pour la condamnation avec dispense de peine d'Edmond Hervé, et pour la relaxe de Laurent Fabius et Georgina Dufoix. L'arrêt est rendu le 9 mars 1999. La Cour de cassation, en Assemblée plénière le 21 juin 1999, rejette le pourvoi de Mme X... : l'exclusion de la partie civile ne porte pas atteinte au droit à un tribunal garanti par l'article 6 de la Convention européenne des droits de l'homme. En 2002-2003, un non-lieu général est prononcé pour les trente personnes poursuivies dans le volet non ministériel.
+
+#### Ce qu'on en retient
+
+L'affaire Hervé est un cas de responsabilité pénale personnelle d'un ancien ministre devant une juridiction spéciale pour une atteinte involontaire. Elle ne porte pas sur le favoritisme, qui est un délit intentionnel et ne se présume pas. La qualité d'élu ne suffit jamais à caractériser le favoritisme : il faut un acte contraire aux règles de la commande publique et un avantage injustifié recherché pour autrui. La victime, elle, ne peut pas se constituer partie civile devant la Cour de justice de la République.
+
+</details>
+
+## 1. Le contexte : Rennes, un maire, un ancien ministre
+
+Edmond Hervé est né le 3 décembre 1942 à La Bouillie, dans les Côtes-du-Nord devenues Côtes-d'Armor. Militant socialiste, il devient maire de Rennes le 27 mars 1977, une semaine après la victoire de la liste d'union de la gauche au second tour des élections municipales. Cette victoire met fin à vingt-quatre ans de mandat du centriste Henri Fréville. Hervé restera à l'hôtel de ville jusqu'en 2008, soit plus de trente ans. Une étude publiée en 1995 dans Sociétés contemporaines décrit la préparation des élections municipales de cette année-là par son équipe comme celle d'une entreprise politique fragilisée cherchant à éviter une révocation par les électeurs.
+
+Avant les faits, sa carrière nationale est déjà longue. Il est ministre de la Santé du gouvernement Mauroy du 22 mai au 22 juin 1981, puis ministre délégué chargé de l'Énergie. Le 24 mars 1983, il devient secrétaire d'État auprès du ministre des Affaires sociales et de la Solidarité nationale, chargé de la Santé, fonction qu'il occupe jusqu'au 20 mars 1986, sous les gouvernements Mauroy III puis Fabius. C'est à ce poste qu'il doit gérer la difficile affaire du sang contaminé. Un portrait de 1977 rappelle qu'il était professeur de droit administratif et constitutionnel avant de se consacrer à son mandat.
+
+Pour les actes accomplis dans l'exercice de leurs fonctions, les ministres ne sont pas jugés par les tribunaux correctionnels ordinaires. La loi organique du 23 novembre 1993 organise à cet effet la Cour de justice de la République. Cette juridiction siège avec quinze magistrats : douze parlementaires et trois juges professionnels. Son article 13 exclut toute constitution de partie civile devant elle, une règle qui produira à elle seule un contentieux devant la Cour de cassation.
+
+## 2. Les faits
+
+Le point de départ du dossier est un don du sang prélevé le 13 juillet 1985 et non testé. Le 2 août 1985, Mme Sylvie X... est contaminée par le virus du SIDA à l'occasion d'une transfusion. La procédure évoque aussi la mort de Sarah A... et une incapacité de travail de plus de trois mois pour Mme X.... Laurent Fabius, alors Premier ministre, Georgina Dufoix, ministre des Affaires sociales et de la Solidarité nationale, et Edmond Hervé, secrétaire d'État à la Santé, sont renvoyés devant la Cour de justice de la République pour ces faits.
+
+Ce qui est reproché à Edmond Hervé n'est ni un détournement ni un avantage accordé à une entreprise. Il est condamné pour manquement à une obligation de sécurité ou de prudence. Sur les sept chefs d'inculpation retenus contre lui, il est acquitté pour cinq et condamné pour les deux autres. Sa défense est assurée par Me Patrick Maisonneuve, qui intervient devant la Cour avec Me Welzer.
+
+L'affaire est aussi une affaire de contexte. En septembre 1994, Le Monde décrit Edmond Hervé comme un « hôte de passage » à Paris, dont le « royaume » reste Rennes, où personne ne lui conteste son pouvoir. Cette longue exposition médiatique avant le jugement sera explicitement reprise par la Cour pour expliquer la dispense de peine.
+
+## 3. Les questions juridiques
+
+La première question est celle de la personne poursuivie : un ministre ou un ancien ministre peut être renvoyé devant la Cour de justice de la République pour des faits commis dans l'exercice de ses fonctions. Edmond Hervé était secrétaire d'État chargé de la Santé au moment de la contamination, ce qui le place dans ce régime. La Cour devant laquelle il comparaît n'est pas une juridiction ordinaire, puisqu'elle est composée majoritairement de parlementaires.
+
+La deuxième question porte sur la qualification. Ici, le reproche est un manquement à une obligation de sécurité ou de prudence, c'est-à-dire une atteinte involontaire. Le Monde, en 2003, résume cette condamnation de 1999 comme celle d'un « homicide involontaire » avec dispense de peine. Il ne s'agit donc pas d'un délit intentionnel d'atteinte à la probité.
+
+Le favoritisme, lui, est un délit intentionnel défini par l'article 432-14 du code pénal. Trois éléments doivent être réunis. D'abord un auteur : personne dépositaire de l'autorité publique, personne chargée d'une mission de service public, personne investie d'un mandat électif public, ou représentant, administrateur ou agent de l'État, d'une collectivité territoriale, d'un établissement public ou de certaines sociétés d'économie mixte, ou encore toute personne agissant pour le compte de l'une d'elles. Ensuite un acte contraire aux dispositions législatives ou réglementaires qui garantissent la liberté d'accès et l'égalité des candidats dans les marchés publics et les contrats de concession. Enfin, la volonté de procurer ou de tenter de procurer à autrui un avantage injustifié.
+
+Les peines prévues par ce texte sont de deux ans d'emprisonnement et de 200 000 € d'amende. Le montant de l'amende peut être porté au double du produit tiré de l'infraction, ce qui permet de dépasser le plafond lorsque le marché a rapporté davantage. La tentative est punie comme l'infraction elle-même, puisque le texte vise le fait de « procurer ou de tenter de procurer » l'avantage. Un maire, investi d'un mandat électif public, entre dans le champ de ce texte.
+
+Les faits de 1985 et le procès de 1999 relèvent du droit applicable à cette époque. En revanche, les qualifications et les peines décrites dans cette fiche, notamment celles de l'article 432-14 du code pénal, sont celles du texte en vigueur aujourd'hui. La comparaison entre les deux familles d'infractions doit donc rester prudente : ce n'est pas le favoritisme qui était reproché à Edmond Hervé dans l'affaire jugée en 1999.
+
+## 4. Les procédures
+
+L'action publique n'a pas été déclenchée par une victime se constituant partie civile. Elle a été mise en mouvement par la commission des requêtes près la Cour de justice de la République. Entre cette mise en mouvement et le jugement des trois anciens membres du gouvernement, cinq années se sont écoulées ; quinze ans séparent le jugement des faits eux-mêmes. Ces délais sont explicitement relevés dans la motivation de la dispense de peine.
+
+À l'audience publique du 16 février 1999, l'avocat de Mme Sylvie X..., Me Honnorat, demande à se constituer partie civile en son nom. Le président lui rappelle les termes de l'article 13 de la loi organique du 23 novembre 1993, qui exclut toute constitution de partie civile devant la Cour de justice de la République. Mme X... est ensuite entendue comme témoin, sans que la Cour ait statué sur la recevabilité de sa constitution. C'est cet enchaînement que les demandeurs critiqueront devant la Cour de cassation, en invoquant un déni de justice et une atteinte au droit à un procès équitable.
+
+Pendant les débats, la défense d'Edmond Hervé dépose le 23 février 1999 des conclusions contestant la façon dont des extraits de procès-verbaux d'audition de M. Weisselberg ont été lus à l'audience. La Cour répond que le magistrat chargé de cette lecture s'est borné à expliciter, par quelques phrases de liaison, les conditions dans lesquelles ces procès-verbaux avaient été dressés. Elle ajoute que la parole a été donnée au ministère public, aux prévenus et à leurs avocats, sans observation de fond, de sorte qu'aucune violation des droits de la défense ni de l'article 6 de la Convention européenne des droits de l'homme n'en résulte. Une autre défense déposait des conclusions le 25 février 1999 en invoquant le délai raisonnable et l'impartialité : la Cour retient qu'aucune nullité de procédure ne peut résulter en droit interne d'une méconnaissance éventuelle du délai raisonnable, et que le grief d'impartialité relève d'une demande de récusation.
+
+Le 2 mars 1999, les quinze juges se réunissent pour délibérer. Le parquet avait demandé la relaxe des trois anciens ministres, assortie d'un « blâme ». Après trois tours de vote, les juges se prononcent par huit voix contre sept en faveur de la condamnation avec dispense de peine d'Edmond Hervé, et pour la relaxe de Laurent Fabius et de Georgina Dufoix. L'arrêt est rendu à l'audience publique du mardi 9 mars 1999. Edmond Hervé dénonce alors, devant les caméras, que « la politique partisane l'a emporté sur la justice ».
+
+La dispense de peine est une faculté strictement encadrée par le code pénal. Elle n'est possible que lorsqu'il apparaît que le reclassement du coupable est acquis, que le dommage causé est réparé et que le trouble résultant de l'infraction a cessé ; elle ne s'applique qu'aux délits et contraventions. En pratique, elle n'est généralement utilisée que pour de petits délits, comme le vol à l'étalage. Dans cette affaire, la Cour ne se réfère nullement à ces conditions : elle invoque le contexte, le temps écoulé et le fait qu'Edmond Hervé n'a pu bénéficier totalement de la présomption d'innocence, ayant été soumis avant jugement à des appréciations souvent excessives. Cette motivation a suscité la consternation des organisations professionnelles de magistrats.
+
+La Cour de cassation, réunie en Assemblée plénière le 21 juin 1999, examine les pourvois formés après cet arrêt, sous le numéro 99-81.927. Deux demandeurs sont déclarés sans qualité, car étrangers à la procédure. Le pourvoi de Mme X... soutient que l'irrecevabilité de sa constitution de partie civile devant la Cour de justice de la République porterait atteinte au droit à un tribunal garanti par l'article 6 de la Convention européenne des droits de l'homme. L'Assemblée plénière répond que non : l'exclusion de la partie civile devant cette juridiction ne porte pas atteinte à ce droit.
+
+L'affaire se poursuit ensuite devant d'autres juges. Le 4 juillet 2002, la chambre de l'instruction de Paris prononce un non-lieu général au bénéfice des trente personnes poursuivies dans le volet « non ministériel » du dossier : d'anciens responsables de la transfusion, d'anciens hauts fonctionnaires, d'anciens conseillers ministériels et des médecins. Le 18 juin 2003, la Cour de cassation met définitivement fin à ces poursuites, près de vingt ans après le début de la procédure. Un troisième procès devait par ailleurs juger les médecins et les conseillers ministériels.
+
+## 5. L'analyse
+
+L'affaire Hervé n'est pas une affaire de favoritisme. Elle porte sur une atteinte involontaire à la vie et à l'intégrité d'autrui, qualifiée de manquement à une obligation de sécurité ou de prudence. Le délit de favoritisme, lui, est intentionnel : il suppose de vouloir procurer un avantage injustifié à quelqu'un par un acte contraire aux règles de la commande publique. Confondre les deux familles d'infractions ferait manquer l'essentiel : le favoritisme ne se présume pas, il se prouve.
+
+Ce que l'affaire montre en revanche, c'est le poids décisif de la qualification. Une même personne peut relever de régimes de responsabilité très différents selon la nature du reproche. Pour le favoritisme, la démonstration porte sur trois points : la qualité de l'auteur, le caractère contraire au droit de l'acte, et l'avantage injustifié recherché pour autrui. C'est cette grille que l'article 432-14 du code pénal impose au juge, et c'est elle qu'il faudrait établir dans un dossier de marchés publics.
+
+L'affaire distingue aussi nettement la responsabilité pénale personnelle et la place de la victime. Devant la Cour de justice de la République, c'est la personne du ministre qui est jugée, pour des faits commis dans l'exercice de ses fonctions. La victime, elle, ne peut pas s'y constituer partie civile : la loi organique du 23 novembre 1993 l'exclut, et la Cour de cassation a jugé que cette exclusion ne violait pas l'article 6 de la Convention européenne des droits de l'homme. Son intervention se limite donc à la parole qui lui est donnée comme témoin.
+
+Enfin, l'affaire illustre le poids des délais et de la médiatisation sur la peine. La dispense de peine a été justifiée par le fait que le condamné n'avait pu bénéficier totalement de la présomption d'innocence avant son jugement. Or le code pénal enferme cette dispense dans des conditions précises, que la Cour n'a pas examinées. La critique des magistrats porte exactement là : sur une motivation tirée du contexte plutôt que du texte.
+
+## 6. Les suites
+
+Du côté des victimes, le dossier se referme en 2003 : la Cour de cassation entérine le non-lieu général prononcé le 4 juillet 2002 pour les trente personnes poursuivies dans le volet non ministériel. L'Association française des hémophiles déplore alors que les responsabilités des contaminations ne seront jamais recherchées. Les condamnations du premier procès, dont celle d'Edmond Hervé, restent donc l'issue principale du volet ministériel.
+
+Du côté politique, Edmond Hervé poursuit sa carrière. Il annonce le 20 janvier 2007 qu'il ne briguera pas un sixième mandat aux municipales de 2008 ; Daniel Delaveau est élu maire de Rennes le 22 mars 2008. La même année, Edmond Hervé est élu sénateur d'Ille-et-Vilaine le 21 septembre 2008, mandat qu'il exerce jusqu'en 2014. En 2007, un reportage de France 3 Rennes recueille les témoignages de ses proches et de ses collaborateurs sur le maire qu'il a été.
+
+## 7. À retenir
+
+L'affaire Edmond Hervé est un cas de responsabilité pénale personnelle d'un ancien ministre devant une juridiction spéciale, pour une atteinte involontaire commise dans l'exercice de ses fonctions. Elle ne porte pas sur le favoritisme, qui est un délit intentionnel visant les atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics. Retenir les deux niveaux évite une erreur fréquente : la qualité d'élu ne suffit jamais à caractériser le favoritisme. Il faut un acte contraire aux règles de la commande publique et un avantage injustifié recherché pour autrui.
+
+## Chronologie
+
+| Date | Fait |
+| --- | --- |
+| 3 décembre 1942 | Naissance d'Edmond Hervé à La Bouillie, dans les Côtes-du-Nord. |
+| 27 mars 1977 | Edmond Hervé est élu maire de Rennes après la victoire de la liste d'union de la gauche. |
+| 22 mai 1981 | Il devient ministre de la Santé du gouvernement Mauroy I. |
+| 24 mars 1983 | Il devient secrétaire d'État auprès du ministre des Affaires sociales et de la Solidarité nationale, chargé de la Santé. |
+| 13 juillet 1985 | Un don du sang est prélevé et n'est pas testé. |
+| 2 août 1985 | Mme Sylvie X... est contaminée par le virus du SIDA lors d'une transfusion. |
+| 23 novembre 1993 | Loi organique du 23 novembre 1993, texte applicable à la procédure devant la Cour de justice de la République. |
+| 16 février 1999 | À l'audience, la constitution de partie civile de Mme X... est écartée par le rappel de l'article 13 de la loi organique. |
+| 23 février 1999 | La défense d'Edmond Hervé dépose des conclusions sur la lecture d'extraits de procès-verbaux d'audition. |
+| 2 mars 1999 | Les quinze juges votent par huit voix contre sept la condamnation avec dispense de peine d'Edmond Hervé. |
+| 9 mars 1999 | La Cour de justice de la République rend son arrêt : relaxe de Laurent Fabius et de Georgina Dufoix, condamnation sans peine d'Edmond Hervé. |
+| 21 juin 1999 | L'Assemblée plénière de la Cour de cassation statue sur les pourvois (99-81.927) et juge que l'exclusion de la partie civile devant la CJR ne viole pas l'article 6 de la Convention européenne des droits de l'homme. |
+| 4 juillet 2002 | La chambre de l'instruction de Paris prononce un non-lieu général pour les trente personnes poursuivies dans le volet non ministériel. |
+| 18 juin 2003 | La Cour de cassation met définitivement fin aux poursuites de l'affaire du sang contaminé. |
+| 20 janvier 2007 | Edmond Hervé annonce qu'il ne briguera pas de sixième mandat aux municipales de 2008. |
+| 22 mars 2008 | Daniel Delaveau est élu maire de Rennes. |
+| 21 septembre 2008 | Edmond Hervé est élu sénateur d'Ille-et-Vilaine. |
+
+## Acteurs
+
+| Qui | Rôle |
+| --- | --- |
+| Edmond Hervé | Maire de Rennes de 1977 à 2008, secrétaire d'État chargé de la Santé de 1983 à 1986, condamné en 1999 avec dispense de peine. |
+| Laurent Fabius | Premier ministre au moment des faits, relaxé par la Cour de justice de la République en 1999. |
+| Georgina Dufoix | Ministre des Affaires sociales et de la Solidarité nationale, relaxée en 1999. |
+| Cour de justice de la République | Juridiction compétente pour les ministres, composée de douze parlementaires et trois juges professionnels. |
+| Mme Sylvie X... | Victime contaminée le 2 août 1985, entendue comme témoin devant la Cour. |
+| Me Patrick Maisonneuve | Avocat d'Edmond Hervé devant la Cour de justice de la République. |
+| Commission des requêtes près la Cour de justice de la République | A mis en mouvement l'action publique contre les trois anciens ministres. |
+
+## Décisions
+
+### Cour de justice de la République, 9 mars 1999
+
+- **Demande :** Poursuites contre trois anciens ministres pour avoir notamment causé involontairement la mort de Sarah A... et une incapacité de travail de plus de trois mois à Mme X....
+- **Décision :** Relaxe de Laurent Fabius et de Georgina Dufoix ; condamnation d'Edmond Hervé pour manquement à une obligation de sécurité ou de prudence, avec dispense de peine.
+- **Motifs :** Pour Edmond Hervé, la Cour retient notamment que, n'ayant pu bénéficier totalement de la présomption d'innocence et ayant été soumis avant jugement à des appréciations souvent excessives, une dispense de peine s'imposait. Le vote a été acquis par huit voix contre sept.
+
+### Cour de cassation, Assemblée plénière, 21 juin 1999
+
+- **Demande :** Faire juger que l'irrecevabilité de la constitution de partie civile de Mme X... devant la Cour de justice de la République portait atteinte au droit à un tribunal garanti par l'article 6 de la Convention européenne des droits de l'homme.
+- **Décision :** Rejet : l'exclusion de la partie civile devant la Cour de justice de la République ne porte pas atteinte à ce droit ; deux autres demandeurs sont déclarés sans qualité car étrangers à la procédure.
+- **Motifs :** L'article 13 de la loi organique du 23 novembre 1993 exclut toute constitution de partie civile devant la Cour de justice de la République, règle que le président a rappelée à l'audience.
+
+### Chambre de l'instruction de Paris, 4 juillet 2002
+
+- **Demande :** Volet non ministériel du dossier, visant trente personnes : anciens responsables de la transfusion, hauts fonctionnaires, conseillers ministériels et médecins.
+- **Décision :** Non-lieu général, entériné par la Cour de cassation le 18 juin 2003, qui met définitivement fin aux poursuites.
+- **Motifs :** La source ne détaille pas les motifs retenus ; elle indique seulement la portée de ce non-lieu et la réaction des associations de victimes.
+
+## Questions de révision
+
+<details>
+<summary>Quelle qualification pénale a été retenue contre Edmond Hervé ?</summary>
+
+Le manquement à une obligation de sécurité ou de prudence, c'est-à-dire une atteinte involontaire, et non un délit d'atteinte à la probité. Il a été acquitté sur cinq des sept chefs d'inculpation et condamné sur les deux autres, avec dispense de peine.
+
+</details>
+
+<details>
+<summary>Quelles sont les conditions du délit de favoritisme ?</summary>
+
+L'article 432-14 du code pénal exige un auteur qualifié (dépositaire de l'autorité publique, chargé d'une mission de service public, investi d'un mandat électif, ou agent ou représentant de certaines personnes publiques), un acte contraire aux dispositions garantissant la liberté d'accès et l'égalité des candidats dans les marchés publics et les contrats de concession, et la recherche d'un avantage injustifié pour autrui.
+
+</details>
+
+<details>
+<summary>Pourquoi la victime n'a-t-elle pas pu se constituer partie civile ?</summary>
+
+L'article 13 de la loi organique du 23 novembre 1993 exclut toute constitution de partie civile devant la Cour de justice de la République. Mme X... a donc été entendue comme témoin, et la Cour de cassation a jugé que cette exclusion ne violait pas l'article 6 de la Convention européenne des droits de l'homme.
+
+</details>
+
+<details>
+<summary>Sur quoi la Cour a-t-elle fondé la dispense de peine ?</summary>
+
+Sur le contexte de l'affaire, le temps écoulé depuis les faits et le fait que le condamné n'avait pas pu bénéficier totalement de la présomption d'innocence. La Cour ne s'est pas référée aux conditions du code pénal, ce que les organisations de magistrats ont vivement critiqué.
+
+</details>
+
+<details>
+<summary>Quelle juridiction juge les ministres pour les actes commis dans l'exercice de leurs fonctions ?</summary>
+
+La Cour de justice de la République, organisée par la loi organique du 23 novembre 1993. Elle siège avec quinze magistrats : douze parlementaires et trois juges professionnels.
+
+</details>
+
+<details>
+<summary>Edmond Hervé a-t-il été condamné pour favoritisme dans les marchés publics de Rennes ?</summary>
+
+Non. Sa condamnation de 1999 porte sur un manquement à une obligation de sécurité ou de prudence dans l'affaire du sang contaminé. Le favoritisme est un délit distinct, intentionnel, défini par l'article 432-14 du code pénal.
+
+</details>
+
+## Jurisprudence
+
+- [Cour de Cassation, Assemblée plénière, du 21 juin 1999, 99-81.927, Publié au bulletin (?)](<https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071397>) : Il était reproché à la procédure d'avoir écarté Mme X... des débats sans statuer sur la recevabilité de sa constitution de partie civile devant la Cour de justice de la République. La Cour de cassation, en Assemblée plénière le 21 juin 1999, a jugé que cette irrecevabilité ne portait pas atteinte au droit à un tribunal garanti par l'article 6 de la Convention européenne des droits de l'homme, deux autres pourvois étant déclarés irrecevables car formés par des personnes étrangères à la procédure.
+
+## Sources
+
+- [Code pénal, art. 432-14](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033611461>)
+- [Edmond Hervé (Wikipédia)](<https://fr.wikipedia.org/wiki/Edmond_Herv%C3%A9>)
+- [VIDÉOS. Il y a 40 ans, Rennes basculait à gauche avec Edmond Hervé](<https://www.ouest-france.fr/bretagne/rennes-35000/videos-il-y-40-ans-rennes-basculait-gauche-avec-edmond-herve-4887770>)
+- [Retour sur le terrain. La préparation des élections municipales de 1995 par l’équipe d’Edmond Hervé, maire de Rennes](<https://www.persee.fr/doc/socco_1150-1944_1995_num_24_1_1476>)
+- [l'Ouest en mémoire - Edmond Hervé, maire de Rennes - Ina.fr](<https://fresques.ina.fr/ouest-en-memoire/fiche-media/Region00217/edmond-herve-maire-de-rennes.html>)
+- [L'affaire du sang contaminé Edmond Hervé La " vérité " du maire de Rennes](<https://www.lemonde.fr/archives/article/1994/09/30/l-affaire-du-sang-contamine-edmond-herve-la-verite-du-maire-de-rennes_3853803_1819218.html>)
+- [Affaire du sang contaminé : l'arrêt de la Cour de justice de la République](<https://www.lemonde.fr/archives/article/1999/03/10/sang-contamine-l-arret-de-la-cour-de-justice-de-la-republique_3556739_1819218.html>)
+- [Le procès du sang contaminé. La décision de la Cour de justice de la République. Déroulement des débats.](<https://www.liberation.fr/cahier-special/1999/03/10/le-proces-du-sang-contamine-la-decision-de-la-cour-de-justice-de-la-republique-deroulement-des-debat_267130/>)
+- [Vive controverse sur la dispense de peine de M. Hervé](<https://www.lemonde.fr/archives/article/1999/03/11/vive-controverse-sur-la-dispense-de-peine-de-m-herve_3557419_1819218.html>)
+- [La justice met fin à l'affaire du sang contaminé](<https://www.lemonde.fr/archives/article/2003/06/18/la-justice-met-fin-a-l-affaire-du-sang-contamine_324422_1819218.html>)
+- [Procès du sang contaminé : verdict et réactions \| INA](<https://www.ina.fr/ina-eclaire-actu/video/cac99010906/proces-du-sang-contamine-verdict-et-reactions>)
+- [Affaire du sang contaminé : la Cour de justice décide d'un non-lieu pour les trois ministres \| INA](<https://www.ina.fr/ina-eclaire-actu/video/cab99010934/affaire-du-sang-contamine-la-cour-de-justice-decide-d-un-non-lieu-pour-les-trois-ministres>)
+- [Témoignages sur le maire Edmond Hervé \| INA](<https://www.ina.fr/ina-eclaire-actu/video/rn00001499701/temoignages-sur-le-maire-edmond-herve>)
+
+---
+
+<sub>‹ [Affaire Auroux (CJCE, 18 janvier 2007, C-220/05) : une convention d'aménagement peut être un marché public de travaux](etude-affaire-affaire-auroux.md) · [Retour aux études de cas](README.md) · [L'incendie du tunnel du Mont-Blanc (24 mars 1999) : qui répond de quoi ?](etude-affaire-affaire-du-tunnel-du-mont-blanc.md) ›</sub>

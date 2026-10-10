@@ -1,0 +1,262 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# Le « 5-7 » à Saint-Laurent-du-Pont : un dancing jamais contrôlé, un maire condamné
+
+<sub>`Étude de cas` · Responsabilité des personnes publiques · Découverte · 11 min · Affaire de la catastrophe de Saint-Laurent-du-Pont, Saint-Laurent-du-Pont (Isère), 1970 · 6.9/10 au jury</sub>
+
+> Dans la nuit du 31 octobre au 1er novembre 1970, 146 jeunes meurent dans l'incendie du dancing « 5-7 » à Saint-Laurent-du-Pont, en Isère, un établissement jamais inspecté et jamais pourvu d'un certificat de conformité. En 1972, cinq personnes — dont le maire — sont condamnées pour homicide et blessures involontaires, sur fond de carence de la police municipale.
+
+> [!TIP]
+> Un pouvoir de police qui n'est pas exercé reste une faute : contrôler un établissement recevant du public, c'est le faire avant l'ouverture et périodiquement après.
+
+**À retenir**
+
+- La police municipale couvre la sécurité incendie et le bon ordre dans les lieux de grands rassemblements : ne pas l'exercer expose la commune à une action en responsabilité devant le juge administratif.
+- Le maire peut être condamné personnellement au pénal pour homicide involontaire, en même temps que les exploitants, les installateurs et le fournisseur des décors.
+- Les textes de prévention existaient dès 1954 et un arrêté de 1965 prévoyait l'essentiel : le drame vient de leur non-application à un établissement précis, pas de leur absence.
+
+<details>
+<summary><b>Version rapide</b> · 1 min</summary>
+
+#### Un dancing jamais contrôlé
+
+À Saint-Laurent-du-Pont, en Isère, trois associés ouvrent en 1970 un dancing, le « 5-7 », construit sans conformité vérifiée. Le maire ne contrôle jamais les travaux et le préfet n'envoie aucune commission de sécurité. L'établissement, très populaire, accueille chaque week-end des centaines de jeunes.
+
+Le bâtiment est un piège : décors en polyuréthane non ignifugé, installations électriques précaires, issues de secours cadenassées pour éviter les resquilleurs. Dans la nuit du 31 octobre au 1er novembre 1970, un incendie se déclare ; 146 personnes, âgées de 14 à 25 ans, meurent asphyxiées ou brûlées.
+
+#### Les responsabilités et le jugement
+
+Devant le juge pénal, cinq personnes sont poursuivies pour homicide et blessures involontaires : les exploitants, les installateurs du chauffage, le fournisseur des décors et le maire. Tous sont déclarés coupables et condamnés à des peines de prison avec sursis. Le maire, Pierre Perrin, écope de dix mois avec sursis.
+
+La responsabilité civile des exploitants est couverte par leur assurance, qui indemnise les victimes. La responsabilité administrative de la commune, elle, n'a pas été tranchée : la question était de savoir si une simple négligence de la police municipale suffisait à l'engager.
+
+#### Ce qu'on en retient
+
+Un pouvoir de police existe pour être exercé. Ne pas contrôler un établissement recevant du public, ne pas exiger de conformité, laisser fonctionner un lieu non vérifié peuvent engager la responsabilité de la commune devant le juge administratif, en plus des responsabilités individuelles devant le juge pénal.
+
+La sécurité incendie repose sur une chaîne de contrôles : visite de chantier, vérification avant ouverture, contrôles périodiques. Le drame de 1970 s'explique moins par une lacune des textes que par leur non-application à un établissement précis.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 7 min</summary>
+
+#### Le contexte : une commune rurale, un dancing neuf, un permis jamais vérifié
+
+Saint-Laurent-du-Pont est une commune d'environ 3 700 habitants, située à une vingtaine de kilomètres au nord de Grenoble. En 1967, Jean-Paul Reverdy y achète un local pour installer un dancing, le « 5-7 ». Après deux années d'activité, les voisins se plaignent des nuisances et le maire, Pierre Perrin, demande à l'exploitant de s'installer plus loin du centre-ville.
+
+Reverdy s'associe à deux amis, Gilbert Bas et Jean-Louis Herbelin, pour monter un nouveau « 5-7 ». Ils déposent le 11 juin 1969 une demande de permis de construire sur un terrain au bord de la route nationale 520, à environ deux kilomètres du centre. Ils ont déjà commencé les travaux depuis un mois. Le maire ne contrôle jamais les travaux, et le préfet n'envoie jamais de commission de sécurité.
+
+La discothèque ouvre au public le 28 mars 1970 et est inaugurée en avril 1970. Elle n'a jamais reçu de certificat de conformité et n'a jamais été inspectée pour vérifier l'application des consignes de prévention d'incendie. Pourtant, sa décoration originale et ses petites alcôves attirent des jeunes de Chambéry, d'Aix-les-Bains, de Vienne, de Lyon, de Voiron et de Grenoble.
+
+#### Les faits : une salle piégée, puis le feu
+
+Le bâtiment est un piège en puissance. Deux grands tourniquets régulent l'entrée, séparés par un muret d'un mètre cinquante. La pièce principale est décorée comme une grotte, avec une mousse modelée contre les murs, faite de polyuréthane projeté sur du grillage et fournie par l'entreprise Sheby. Ce polyuréthane n'est pas ignifugé : il est très inflammable et dégage des vapeurs toxiques en brûlant. S'y ajoutent des installations électriques précaires, des gaines de chauffage en contreplaqué et un mobilier en plastique et carton compressé.
+
+Pour une discothèque de cette taille, les réglementations imposent trois portes d'accès et deux sorties de secours. Toutes existent, sauf une porte jamais terminée, mais elles sont régulièrement fermées à clé par les gérants pour éviter que des spectateurs entrent sans payer. L'alarme était inaudible à cause de la musique.
+
+La soirée du 31 octobre au 1er novembre 1970 se déroule en présence du groupe parisien « Storm ». Vers 1 h 35, le barman aperçoit une lumière rouge à l'étage et demande aux gens de partir, mais ses cris se noient dans la musique. Une fumée jaune nappe la discothèque, la panique se répand. À 1 h 45, il n'y a déjà plus un cri ; les pompiers trouveront une soixantaine de corps formant un talus devant le tourniquet d'entrée bloqué.
+
+Le bilan est de 146 morts sur près de 200 personnes présentes. Les victimes, âgées de 14 à 25 ans, sont mortes par asphyxie ou brûlées vives. L'incendie s'était déclaré dans une loge au premier étage. L'enquête a établi que les gérants avaient menti sur de nombreux points du permis de construire et a relevé 68 infractions au code de sécurité. La cause reste inconnue, mais l'origine est vraisemblablement accidentelle, et le tribunal a rejeté l'hypothèse de l'attentat.
+
+#### Les questions juridiques : qui répond, devant quel juge, sur quel fondement ?
+
+Dès 1970, une tribune juridique posait le problème : la tragédie met en jeu des personnes privées et des collectivités publiques, et les fils de la responsabilité civile, pénale et administrative s'y entrecroisent. Devant le juge pénal, la question est de savoir qui a commis une imprudence ou une négligence ayant causé la mort ou les blessures, et répond donc d'un homicide ou de blessures involontaires. Les personnes poursuivies sont les exploitants, les installateurs du chauffage, le fournisseur des décors, mais aussi l'élu local.
+
+Devant le juge administratif, la question change de nature : c'est la commune qui serait appelée à réparer les conséquences d'une police municipale insuffisante. La police municipale a pour objet d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques, et inclut le maintien du bon ordre dans les lieux de grands rassemblements ainsi que la prévention des accidents et fléaux calamiteux, notamment les incendies. Une discothèque qui reçoit chaque week-end des centaines de jeunes entre donc pleinement dans ce champ.
+
+La difficulté propre à ce contentieux tient à la gravité de la faute exigée de l'administration. La question est de savoir si une simple négligence suffit ou s'il faut une carence plus caractérisée, alors qu'aucun contrôle n'a eu lieu, qu'aucun certificat de conformité n'a été exigé et que l'exploitation a été tolérée pendant des mois. C'est le cœur juridique du dossier, et il n'a pas été tranché par une décision administrative dans cette affaire.
+
+#### Les procédures : de la mobilisation des familles au verdict
+
+Dès le 17 novembre 1970, une mère de victime exprime publiquement son intention de retrouver les responsables. Les familles se constituent en association pour suivre le dossier judiciaire et peser sur le procès. Sur le terrain indemnitaire, la responsabilité civile des exploitants est garantie par une police d'assurance souscrite au groupe Drouot. Dès le 2 novembre 1970, la compagnie invite les familles à entrer en rapport avec son bureau régional de Grenoble. Les frais que les familles ou les autorités locales auraient à supporter sont pris en charge par l'assurance.
+
+Le volet pénal s'ouvre deux ans plus tard. Les débats se tiennent du 9 au 14 octobre devant la septième chambre du tribunal correctionnel de Lyon, présidée par M. Petit, et le jugement est rendu le 20 novembre. Les cinq inculpés sont tous déclarés coupables du délit d'homicide involontaire, de blessures involontaires et de la contravention de blessures involontaires. Le tribunal rejette définitivement l'hypothèse de l'attentat.
+
+Les peines sont toutes assorties du sursis. Gilbert Bas, unique survivant des trois associés, est condamné à deux ans d'emprisonnement avec sursis. Marcel Vinfles et son fils Joseph, qui installèrent le chauffage, écopent respectivement de quinze et treize mois avec sursis. Alfred Moskovits, président-directeur de la société Sheby, est condamné à dix mois avec sursis, et Pierre Perrin, maire de Saint-Laurent-du-Pont, à dix mois de prison avec sursis.
+
+Le jugement est très mal accueilli par les parents des victimes. Selon un récit de presse, Gilbert Bas a failli être lynché par la foule en quittant le palais de justice, et les avocats des familles dénonçaient le goût du profit et de l'argent. Le maire annonce son intention d'interjeter appel. Toujours selon ce récit, Gilbert Bas écopera finalement en appel de six mois ferme.
+
+#### L'analyse et les suites : ce que l'affaire montre des trois responsabilités
+
+L'affaire montre d'abord le contenu réel d'un pouvoir de police souvent présenté comme abstrait. La police municipale ne se limite pas à la circulation et aux troubles de voisinage : elle inclut le bon ordre dans les lieux de grands rassemblements et la prévention des accidents et fléaux calamiteux, notamment les incendies. La négligence reprochée à la commune n'est pas une erreur dans l'exercice d'un pouvoir de sanction : c'est l'absence d'exercice de ce pouvoir, faute d'avoir fait contrôler un établissement recevant du public.
+
+L'affaire distingue ensuite trois responsabilités. La responsabilité pénale est personnelle : elle vise les auteurs des fautes — exploitants, chauffagistes, fournisseur de décors, maire — et se traduit par des peines. La responsabilité civile est la charge de réparer le dommage causé aux victimes, ici portée par l'assureur des exploitants. La responsabilité administrative est celle de la collectivité publique à raison du fonctionnement de son service : elle se traduit par une indemnité versée par la commune, et non par une peine. Comprendre cette répartition est essentiel pour les victimes, car l'assureur des exploitants ne couvre pas les manquements de l'administration.
+
+Dans cette affaire, les textes de sécurité existaient déjà et une partie des manquements a été qualifiée par le juge pénal, qui a condamné les responsables à des peines de prison avec sursis. Le juge pénal a donc tranché la question de la faute individuelle. La question de la responsabilité de la commune, elle, relève d'un autre juge et d'un autre raisonnement : la carence de la police municipale, non le comportement personnel de l'élu au moment de l'infraction.
+
+Cet accident, l'un des plus meurtriers depuis la fin de la Seconde Guerre mondiale, a provoqué un choc dans l'opinion et entraîné l'application plus stricte des normes de sécurité existantes pour les établissements recevant du public, et contribué à leur renforcement. Cinquante ans plus tard, la réglementation est devenue plus précise et les contrôles systématiques et plus poussés. Une commission communale de sécurité contrôle les installations, comme le montre un reportage de 2020 tourné dans un bar de Chambéry comportant une piste de danse.
+
+La leçon n'a pas été tirée partout. En 2016, l'incendie du Cuba Libre à Rouen tue 14 personnes piégées dans la cave de ce bar transformé en piste de danse. Le drame de 1970 a aussi laissé une empreinte durable sur la commune : plus de trente ans après, la ville de Saint-Laurent-du-Pont en porte toujours les stigmates, et son identité a été durablement marquée par l'événement. Un mémorial en hommage aux 146 victimes a été inauguré en 1976 sur place.
+
+#### À retenir
+
+Un pouvoir de police existe pour être exercé. Ne pas contrôler un établissement recevant du public, ne pas exiger de conformité, laisser fonctionner un lieu non vérifié : ces carences peuvent engager la responsabilité de la commune devant le juge administratif, en plus des responsabilités individuelles devant le juge pénal. Dans cette affaire, le maire, élu, a lui-même été poursuivi et condamné personnellement.
+
+Pour la sécurité incendie d'un lieu accueillant du public, tout repose sur une chaîne de contrôles : visite de chantier, vérification avant ouverture, contrôles périodiques par la commission de sécurité. Le drame de 1970 s'explique moins par une lacune des textes que par leur non-application à un établissement précis. C'est la différence entre disposer d'un règlement et faire appliquer ce règlement.
+
+</details>
+
+## 1. Le contexte : une commune rurale, un dancing neuf, un permis jamais vérifié
+
+Saint-Laurent-du-Pont est une commune d'environ 3 700 habitants, située à une vingtaine de kilomètres au nord de Grenoble, en Isère. En 1967, Jean-Paul Reverdy y achète un local au cœur du bourg pour y installer un dancing, le « 5-7 ». Après deux années d'activité, les voisins se plaignent trop souvent des nuisances et le maire, Pierre Perrin, demande à l'exploitant d'installer son établissement plus loin du centre-ville. Le local est par ailleurs touché par un incendie survenu en dehors des heures d'activité et sans victimes. Reverdy s'associe alors à deux amis, Gilbert Bas et Jean-Louis Herbelin, pour monter un nouveau « 5-7 » ; tous les trois ont de 25 à 26 ans. Un dancing est un établissement recevant du public, c'est-à-dire un lieu où le public est admis et qui relève, à ce titre, de règles de sécurité spécifiques.
+
+Les trois associés déposent le 11 juin 1969 — deux jours avant de créer la société d'exploitation du futur dancing — une demande de permis de construire sur un terrain au bord de la route nationale 520, à environ deux kilomètres du centre de Saint-Laurent-du-Pont et de la commune limitrophe de Saint-Joseph-de-Rivière. Ils ont en réalité déjà commencé les travaux depuis un mois. Leurs idées changeant avec le temps, le lieu terminé n'a plus grand-chose à voir avec le permis de construire accordé. Le maire ne contrôle jamais les travaux, et le préfet n'envoie jamais de commission de sécurité sur place. Deux étapes classiques du contrôle d'un établissement recevant du public — la visite de chantier et la visite avant ouverture — ne sont donc jamais franchies.
+
+La discothèque est ouverte au public depuis le 28 mars 1970 et inaugurée en avril 1970. Elle n'a jamais reçu de certificat de conformité, et les autorités ne l'ont jamais inspectée pour y vérifier l'application des consignes de prévention d'incendie. C'est pourtant une attraction très populaire dès l'ouverture : sa décoration originale et ses petites alcôves attirent des jeunes de Chambéry, d'Aix-les-Bains, de Vienne, de Lyon, de Voiron et de Grenoble, et l'établissement affrète souvent des cars gratuits pour ses soirées à thème. Autrement dit, un établissement recevant du public, construit sans conformité vérifiée, fonctionnait chaque week-end avec un public nombreux.
+
+Le droit de l'époque n'était pas un désert. Selon une tribune publiée le 21 novembre 1970, l'ensemble de la réglementation applicable comprenait un décret du 13 août 1954 relatif à la protection civile contre les risques d'incendie et de panique dans les établissements recevant du public, un règlement d'application et divers arrêtés, le tout formant un volume de quatre cent cinquante pages publié par les Journaux officiels. Un arrêté de 1965 prévoyait déjà l'essentiel des obligations de sécurité. Le problème n'était donc pas l'absence de textes, mais leur application concrète à un établissement donné.
+
+## 2. Les faits : une salle piégée, puis le feu
+
+Le bâtiment est un piège en puissance. Deux grands tourniquets régulent l'entrée, séparés par un muret d'un mètre cinquante ; l'un ne fonctionne que dans le sens de l'entrée, l'autre ne laisse passer qu'une personne à la fois. La pièce principale est décorée comme une grotte, avec une mousse modelée contre les murs, faite de polyuréthane projeté sur du grillage et fournie par l'entreprise Sheby, basée à Bezons ; les murs sont en parpaing. Ce polyuréthane n'est pas ignifugé : il est très inflammable et dégage des vapeurs toxiques en brûlant. S'y ajoutent des installations électriques précaires, des gaines de chauffage en contreplaqué fabriquées par un ami et un mobilier en plastique et carton compressé.
+
+Pour une discothèque de cette taille, les réglementations françaises imposent trois portes d'accès et deux sorties de secours. Toutes existent, sauf une porte d'accès jamais terminée, mais elles sont régulièrement fermées à clé par les gérants. Les récits de presse le confirment : les issues de secours étaient cadenassées pour éviter que des spectateurs suivent le concert sans payer leur billet, et l'accès se faisait au compte-gouttes. L'alarme, elle, était inaudible à cause de la musique. Un resquilleur est une personne qui entre sans payer l'entrée : c'est la raison invoquée pour verrouiller les sorties de secours.
+
+La soirée du 31 octobre au 1er novembre 1970 se déroule en présence des « Storm », un groupe parisien à la mode, qui commence à jouer vers 22 heures ; l'entrée est au tarif de douze francs. Vers 1 h 35, le barman aperçoit une lumière rouge à l'étage et traverse la piste en demandant aux gens de partir, mais ses cris se noient dans la musique. Une fumée jaune nappe la discothèque, on respire mal, la panique se répand sur la piste de danse. À 1 h 45, il n'y a déjà plus un cri ; les pompiers trouveront le pianiste figé derrière son clavier, et devant le tourniquet d'entrée bloqué dans l'autre sens, une soixantaine de corps forment un sinistre talus.
+
+Le bilan est de 146 morts, sur près de 200 personnes présentes. Les victimes, âgées de 14 à 25 ans, sont mortes par asphyxie ou brûlées vives. L'incendie s'était déclaré dans une loge située au premier étage, et la plupart des victimes ont péri asphyxiées par la combustion des décors faits de matières plastiques et de polyesters. L'enquête a établi que les gérants avaient menti sur de nombreux points du permis de construire et a relevé 68 infractions au code de sécurité. La cause de l'incendie reste inconnue, mais son origine est vraisemblablement accidentelle, et le tribunal a définitivement rejeté l'hypothèse de l'attentat. Un journal de l'époque évoque un chauffage défectueux et 180 jeunes présents cette nuit-là.
+
+## 3. Les questions juridiques : qui répond, devant quel juge, sur quel fondement ?
+
+Dès 1970, une tribune juridique posait le problème ainsi : la tragédie met nécessairement en jeu des personnes privées et des collectivités publiques, et les fils de la responsabilité civile, de la responsabilité pénale et de la responsabilité administrative s'y entrecroisent. Comment apprécier les fautes commises selon leur nature et leur gravité ? Comment établir le lien qui les rattache à la catastrophe ? Quelles suites judiciaires ou administratives ces fautes impliquent-elles ? Ce sont exactement les trois questions du dossier.
+
+Devant le juge pénal, la question est de savoir qui a commis une imprudence ou une négligence ayant causé la mort ou les blessures, et répond donc d'un homicide ou de blessures involontaires — involontaires, c'est-à-dire sans intention de tuer ou de blesser. Les personnes poursuivies sont les exploitants du dancing, les installateurs du chauffage, le fournisseur des décors, mais aussi l'élu local. Le juge pénal a d'ailleurs défini et qualifié les fautes de chacun, et le jugement a été très mal accueilli par les parents des victimes, qui le trouvaient trop indulgent.
+
+Devant le juge administratif, la question change de nature : c'est la commune, personne publique, qui serait appelée à réparer les conséquences d'une police municipale insuffisante. La police municipale a pour objet d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques. Le texte en vigueur y range le maintien du bon ordre dans les endroits où il se fait de grands rassemblements d'hommes, tels que les spectacles, jeux, cafés et autres lieux publics. Il y ajoute le soin de prévenir, par des précautions convenables, les accidents et les fléaux calamiteux, notamment les incendies. Une discothèque qui reçoit chaque week-end des centaines de jeunes entre donc pleinement dans ce champ.
+
+Ces dispositions sont celles d'aujourd'hui : pour des faits de 1970, c'est le droit de l'époque qui s'applique, mais l'objet de la police municipale était de même nature. La difficulté propre à ce contentieux tient à la gravité de la faute exigée de l'administration. La question est de savoir si une simple négligence suffit ou s'il faut une carence plus caractérisée, alors qu'aucun contrôle n'a eu lieu, qu'aucun certificat de conformité n'a été exigé et que l'exploitation a été tolérée pendant des mois. C'est le cœur juridique du dossier, et il n'a pas été tranché par une décision administrative dans cette affaire.
+
+## 4. Les procédures : de la mobilisation des familles au verdict
+
+Dès le 17 novembre 1970, une mère de victime, membre de l'association des parents, exprime publiquement son intention de retrouver les responsables de cette catastrophe. La protestation des parents des victimes de Saint-Laurent-du-Pont fait l'objet d'articles de presse. Les familles se constituent en association pour suivre le dossier judiciaire et peser sur le procès.
+
+Sur le terrain indemnitaire, les choses vont vite. La responsabilité civile des exploitants du « 5-7 » était garantie par une police d'assurance souscrite au groupe Drouot dès l'achèvement des travaux de construction du bâtiment. Dès le lundi 2 novembre 1970, la compagnie d'assurances se fait connaître et invite les familles des victimes à entrer en rapport avec son bureau régional de Grenoble, dont l'effectif est renforcé pour la circonstance. Les pouvoirs publics font savoir qu'ils prennent en charge le coût des obsèques, mais en définitive les frais que les familles ou les autorités locales auraient à supporter sont pris en charge par l'assurance. L'assureur précise par ailleurs qu'un permis de construire ayant été délivré, il n'avait pas à intervenir pour juger si les services compétents étaient ou non en droit de l'accorder.
+
+Le volet pénal s'ouvre deux ans plus tard. Les débats se tiennent du 9 au 14 octobre devant la septième chambre du tribunal correctionnel de Lyon, présidée par M. Petit, et le jugement est rendu le 20 novembre. Les cinq inculpés sont tous déclarés coupables du délit d'homicide involontaire, de blessures involontaires et de la contravention de blessures involontaires. Le tribunal rejette définitivement l'hypothèse de l'attentat.
+
+Les peines sont toutes assorties du sursis. Le sursis est la suspension de l'exécution de la peine : elle n'est pas mise à exécution si le condamné ne commet pas de nouvelle infraction dans le délai fixé. Gilbert Bas, unique survivant des trois associés qui réalisèrent le « 5-7 », est condamné à deux ans d'emprisonnement avec sursis. Marcel Vinfles et son fils Joseph, qui installèrent le chauffage, écopent respectivement de quinze et treize mois, également avec sursis. Alfred Moskovits, président-directeur de la société Sheby de Bezons qui fournit les matériaux de décoration en mousse rigide de polyuréthane, est condamné à dix mois avec sursis, et Pierre Perrin, maire de Saint-Laurent-du-Pont, est déclaré coupable et condamné à dix mois de prison avec sursis.
+
+Le jugement est très mal accueilli par les parents des victimes. Selon un récit de presse, Gilbert Bas a failli être lynché par la foule en quittant le palais de justice, et les avocats des familles dénonçaient avant tout le goût du profit et de l'argent. Le maire annonce son intention d'interjeter appel. Toujours selon ce récit, Gilbert Bas écopera finalement en appel de six mois ferme.
+
+## 5. L'analyse : ce que l'affaire montre des trois responsabilités
+
+L'affaire montre d'abord le contenu réel d'un pouvoir de police souvent présenté comme abstrait. La police municipale ne se limite pas à la circulation et aux troubles de voisinage : elle inclut le bon ordre dans les lieux de grands rassemblements et la prévention des accidents et fléaux calamiteux, notamment les incendies. Un dancing accueillant près de 200 personnes relève donc de cette mission. La négligence reprochée à la commune n'est pas une erreur dans l'exercice d'un pouvoir de sanction : c'est l'absence d'exercice de ce pouvoir, faute d'avoir fait contrôler un établissement recevant du public.
+
+L'affaire distingue ensuite trois responsabilités. La responsabilité pénale est personnelle : elle vise les auteurs des fautes — exploitants, chauffagistes, fournisseur de décors, maire — et se traduit par des peines. La responsabilité civile est la charge de réparer le dommage causé aux victimes, ici portée par l'assureur des exploitants. La responsabilité administrative est celle de la collectivité publique à raison du fonctionnement de son service : elle se traduit par une indemnité versée par la commune, et non par une peine. Comprendre cette répartition est essentiel pour les victimes, car l'assureur des exploitants ne couvre pas les manquements de l'administration.
+
+Dans cette affaire, les textes de sécurité existaient déjà et une partie des manquements a été qualifiée par le juge pénal, qui a condamné les responsables à des peines de prison avec sursis. Le juge pénal a donc tranché la question de la faute individuelle. La question de la responsabilité de la commune, elle, relève d'un autre juge et d'un autre raisonnement : la carence de la police municipale, non le comportement personnel de l'élu au moment de l'infraction.
+
+## 6. Les suites : des normes renforcées, une mémoire durable
+
+Cet accident, l'un des plus meurtriers depuis la fin de la Seconde Guerre mondiale, a provoqué un choc dans l'opinion et entraîné l'application plus stricte des normes de sécurité existantes pour les établissements recevant du public en France, et contribué à leur renforcement. Cinquante ans plus tard, la réglementation est devenue plus précise et les contrôles systématiques et plus poussés. Une commission communale de sécurité contrôle les installations, comme le montre un reportage de 2020 tourné dans un bar de Chambéry comportant une piste de danse.
+
+La leçon n'a pas été tirée partout. En 2016, l'incendie du Cuba Libre à Rouen tue 14 personnes piégées dans la cave de ce bar transformé en piste de danse. Le drame de 1970 a aussi laissé une empreinte durable sur la commune : plus de trente ans après, la ville de Saint-Laurent-du-Pont en porte toujours les stigmates, et son identité a été durablement marquée par l'événement. Un mémorial en hommage aux 146 victimes a été inauguré en 1976 sur place.
+
+## 7. À retenir
+
+Un pouvoir de police existe pour être exercé. Ne pas contrôler un établissement recevant du public, ne pas exiger de conformité, laisser fonctionner un lieu non vérifié : ces carences peuvent engager la responsabilité de la commune devant le juge administratif, en plus des responsabilités individuelles devant le juge pénal. Dans cette affaire, le maire, élu, a lui-même été poursuivi et condamné personnellement.
+
+Pour la sécurité incendie d'un lieu accueillant du public, tout repose sur une chaîne de contrôles : visite de chantier, vérification avant ouverture, contrôles périodiques par la commission de sécurité. Le drame de 1970 s'explique moins par une lacune des textes que par leur non-application à un établissement précis. C'est la différence entre disposer d'un règlement et faire appliquer ce règlement.
+
+## Chronologie
+
+| Date | Fait |
+| --- | --- |
+| 1967 | Jean-Paul Reverdy achète un local au cœur de Saint-Laurent-du-Pont pour y installer un dancing, le « 5-7 ». |
+| 11 juin 1969 | Dépôt de la demande de permis de construire du nouveau « 5-7 », alors que les travaux ont commencé depuis un mois. |
+| 28 mars 1970 | Ouverture au public de la discothèque, qui n'obtiendra jamais de certificat de conformité. |
+| nuit du 31 octobre au 1er novembre 1970 | Incendie du « 5-7 » après le concert du groupe « Storm » : 146 morts. |
+| 2 novembre 1970 | L'assureur des exploitants se fait connaître et invite les familles à contacter son bureau régional de Grenoble. |
+| 17 novembre 1970 | Une mère de victime, membre de l'association des parents, déclare publiquement vouloir retrouver les responsables. |
+| 9 au 14 octobre 1972 | Débats devant la septième chambre du tribunal correctionnel de Lyon, présidée par M. Petit. |
+| 20 novembre 1972 | Jugement : les cinq inculpés sont déclarés coupables et condamnés à des peines de prison avec sursis. |
+| 1976 | Inauguration d'un mémorial en hommage aux 146 victimes, sur place. |
+| 2016 | Incendie du Cuba Libre à Rouen : 14 personnes meurent piégées dans la cave transformée en piste de danse. |
+
+## Acteurs
+
+| Qui | Rôle |
+| --- | --- |
+| Jean-Paul Reverdy | Premier exploitant du dancing « 5-7 », installé au cœur du bourg en 1967, à l'origine du projet de nouveau dancing. |
+| Gilbert Bas | Associé fondateur du nouveau « 5-7 », unique survivant des trois associés, condamné à deux ans de prison avec sursis. |
+| Jean-Louis Herbelin | Associé fondateur du nouveau « 5-7 » avec Reverdy et Bas. |
+| Pierre Perrin | Maire de Saint-Laurent-du-Pont, condamné à dix mois de prison avec sursis pour homicide et blessures involontaires. |
+| Marcel et Joseph Vinfles | Installateurs du chauffage, condamnés respectivement à quinze et treize mois de prison avec sursis. |
+| Alfred Moskovits | Président-directeur de la société Sheby de Bezons, fournisseur des décors en mousse de polyuréthane, condamné à dix mois avec sursis. |
+| Société Sheby (Bezons) | Entreprise ayant fourni les décors en polyuréthane projeté sur grillage. |
+| Groupe Drouot | Assureur de la responsabilité civile des exploitants du « 5-7 ». |
+| Les « Storm » | Groupe parisien à la mode qui jouait le soir de l'incendie. |
+| Association des parents des victimes | Association constituée par les familles pour suivre le dossier et porter leurs revendications. |
+
+## Décisions
+
+### Tribunal correctionnel de Lyon, septième chambre, présidé par M. Petit, 20 novembre 1972 (débats du 9 au 14 octobre)
+
+- **Demande :** Poursuites pour homicide involontaire, blessures involontaires et contravention de blessures involontaires contre cinq inculpés : les exploitants, les installateurs du chauffage, le fournisseur des décors et le maire.
+- **Décision :** Les cinq prévenus sont déclarés coupables et condamnés à des peines de prison avec sursis : deux ans pour Gilbert Bas, quinze et treize mois pour Marcel et Joseph Vinfles, dix mois pour Alfred Moskovits et dix mois pour le maire Pierre Perrin.
+- **Motifs :** Le tribunal a définitivement rejeté l'hypothèse de l'attentat et retenu la culpabilité de chacun des cinq prévenus au titre des négligences qui ont conduit au drame.
+
+## Questions de révision
+
+<details>
+<summary>Qu'est-ce qu'un établissement recevant du public ?</summary>
+
+C'est un lieu où le public est admis, comme une discothèque, soumis pour cette raison à des règles de sécurité et à des contrôles spécifiques. Le « 5-7 » en était un, mais n'a jamais été inspecté ni pourvu d'un certificat de conformité.
+
+</details>
+
+<details>
+<summary>Quelle mission de la police municipale était en cause ?</summary>
+
+Le maintien du bon ordre dans les lieux de grands rassemblements et la prévention des accidents et fléaux calamiteux, notamment les incendies. Ces deux objets figurent dans la définition légale de la police municipale, aux côtés de la sûreté et de la salubrité publiques.
+
+</details>
+
+<details>
+<summary>Qu'est-ce qui a été reproché au maire ?</summary>
+
+Il a été déclaré coupable d'homicide et de blessures involontaires et condamné à dix mois de prison avec sursis. Il n'avait jamais contrôlé les travaux du dancing et l'établissement n'avait jamais été inspecté.
+
+</details>
+
+<details>
+<summary>Pourquoi le maire est-il condamné personnellement, et pas la commune à sa place ?</summary>
+
+La responsabilité pénale est personnelle : elle vise l'auteur de la négligence, et la sanction est une peine. La commune, personne publique distincte, ne répond de sa police municipale que devant le juge administratif, sous forme d'indemnité.
+
+</details>
+
+<details>
+<summary>Qu'est-ce que le sursis ?</summary>
+
+C'est la suspension de l'exécution de la peine : elle n'est pas exécutée si le condamné ne commet pas de nouvelle infraction dans le délai fixé. Dans cette affaire, les cinq peines ont d'abord été prononcées avec sursis.
+
+</details>
+
+<details>
+<summary>Qu'a changé le drame pour les établissements recevant du public ?</summary>
+
+Il a entraîné une application plus stricte des normes de sécurité existantes et contribué à leur renforcement. Cinquante ans plus tard, la réglementation est devenue plus précise et les contrôles systématiques et plus poussés.
+
+</details>
+
+## Sources
+
+- [CGCT, art. L2212-2](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370>)
+- [Incendie du 5-7 (Wikipédia)](<https://fr.wikipedia.org/wiki/Incendie_du_5-7>)
+- [Sécurité et responsabilité](<https://www.lemonde.fr/archives/article/1970/11/21/securite-et-responsabilite_2658701_1819218.html>)
+- [Cinquantenaire de l'incendie mortel du « 5-7 » à Saint-Laurent-du-Pont \| INA](<https://www.ina.fr/ina-eclaire-actu/video/g5261062_001_003/cinquantenaire-de-l-incendie-mortel-du-5-7-a-saint-laurent-du-pont>)
+- [saint-laurent-du-pont incendie discothèque 5 7 jeunes suisse Crans-Montana](<https://www.ina.fr/ina-eclaire-actu/saint-laurent-du-pont-incendie-discotheque-5-7-jeunes-suisse-crans-montana>)
+- [L’incendie du 5-7, la nuit d’horreur de la Toussaint 1970](<https://www.leparisien.fr/faits-divers/l-incendie-du-5-7-la-nuit-d-horreur-de-la-toussaint-1970-15-09-2019-8152311.php>)
+- [LES CINQ INCULPÉS DU PROCÈS DU " 5-7 " ONT ÉTÉ CONDAMNÉS A DES PEINES DE PRISON AVEC SURSIS Le tribunal a définitivement rejeté l'hypothèse de l'attentat](<https://www.lemonde.fr/archives/article/1972/11/21/les-cinq-inculpes-du-proces-du-5-7-ont-ete-condamnes-a-des-peines-de-prison-avec-sursis-le-tribunal-a-definitivement-rejete-l-hypothese-de-l-attentat_3035212_1819218.html>)
+- [« Ça me met en colère » : après l’incendie de Crans-Montana, l’émotion de rescapés de la tragédie du 5-7 en Isère](<https://www.leparisien.fr/faits-divers/ca-me-met-en-colere-apres-lincendie-de-crans-montana-lemotion-de-rescapes-de-la-tragedie-du-5-7-en-isere-02-01-2026-RVVP4V3SAZGJRHMSYAYGVZJIEU.php>)
+- [LE JUGEMENT RENDU DANS L'AFFAIRE DU " 5-7 " a été très mal accueilli par les parents des victimes](<https://www.lemonde.fr/archives/article/1972/11/22/le-jugement-rendu-dans-l-affaire-du-5-7-a-ete-tres-mal-accueilli-par-les-parents-des-victimes_2396820_1819218.html>)
+- [1970 : déclaration de la mère d'une des victimes du « 5-7 » à Saint-Laurent-du-Pont \| INA](<https://www.ina.fr/ina-eclaire-actu/video/lxc9707184853/1970-declaration-de-la-mere-d-une-des-victimes-du-5-7-a-saint-laurent-du-pont>)
+- [UNE PROTESTATION DES PARENTS DES VICTIMES DE LA CATASTROPHE DE SAINT-LAURENT-DU-PONT.](<https://www.lemonde.fr/archives/article/1971/10/21/une-protestation-des-parents-des-victimes-de-la-catastrophe-de-saint-laurent-du-pont_2472831_1819218.html>)
+- [Le règlement des frais des obsèques et des indemnités après la catastrophe de Saint-Laurent-du-Pont](<https://www.lemonde.fr/archives/article/1970/12/24/le-reglement-des-frais-des-obseques-et-des-indemnites-apres-la-catastrophe-de-saint-laurent-du-pont_2641059_1819218.html>)
+- [Que faire des traces d'une catastrophe ? Mémoire des accidents et aménagement](<https://www.persee.fr/doc/aru_0180-930x_2004_num_95_1_2530>)
+
+---
+
+<sub>‹ [L'affaire Michel Noir : argent occulte, entreprises de travaux publics et responsabilité pénale de l'élu local (Lyon, 1986-2003)](etude-affaire-affaire-michel-noir.md) · [Retour aux études de cas](README.md) · [Affaire « commune de Vaux-en-Bugey » : le PLU annulé, le sursis obtenu, le motif d'annulation censuré](etude-affaire-affaire-commune-de-vaux-en-bugey.md) ›</sub>

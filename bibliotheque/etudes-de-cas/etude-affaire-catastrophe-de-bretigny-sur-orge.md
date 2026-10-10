@@ -1,0 +1,258 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# La catastrophe de Brétigny-sur-Orge (2013) : responsabilité de la SNCF et de RFF
+
+<sub>`Étude de cas` · Responsabilité des personnes publiques · Pratique · 10 min · Catastrophe de Brétigny-sur-Orge, Brétigny-sur-Orge (Essonne), 2013 · 7.4/10 au jury</sub>
+
+> Le 12 juillet 2013, le déraillement d'un Intercités Paris-Limoges en gare de Brétigny-sur-Orge fait sept morts et des centaines de blessés. Neuf ans plus tard, le tribunal correctionnel d'Évry condamne la SNCF, personne morale, mais relaxe SNCF Réseau et un ancien cheminot, faute d'infraction caractérisée.
+
+> [!TIP]
+> À Brétigny, c'est la carence de surveillance d'une éclisse connue depuis 2008 qui a fondé la responsabilité pénale de la SNCF, personne morale, tandis que l'agent et le gestionnaire des voies ont été relaxés faute de faute caractérisée et de lien direct avec le déraillement.
+
+**À retenir**
+
+- La SNCF, personne morale, a été condamnée pour homicides et blessures involontaires à 300 000 euros d'amende, montant supérieur aux 225 000 euros encourus en raison de son état de récidive légale.
+- La faute retenue est une carence d'organisation : une fissure détectée en 2008 dans un cœur d'appareil de voie, mal suivie pendant cinq ans, avec un lien certain avec le déraillement.
+- Pour une personne physique qui n'a pas causé directement le dommage, la loi exige une faute caractérisée ou une violation délibérée d'une obligation de sécurité : c'est ce qui a permis la relaxe du cheminot et de SNCF Réseau.
+
+<details>
+<summary><b>Version rapide</b> · 2 min</summary>
+
+#### Contexte et faits
+
+Le 12 juillet 2013, un train Intercités reliant Paris-Austerlitz à Limoges-Bénédictins déraille en gare de Brétigny-sur-Orge. Le train circulait à 137 km/h, sous la limite autorisée de 150 km/h. L'accident est causé par une éclisse qui se désolidarise et se coince dans l'aiguillage. Le bilan est de sept morts, 70 blessés dont 9 graves, et 227 personnes impliquées.
+
+Une fissure avait été détectée en 2008 dans un cœur de l'appareil de voie mis en cause. Elle a été mal suivie pendant cinq ans, alors qu'une surveillance annuelle était requise. La voie avait été inspectée huit jours avant le déraillement. Trois prévenus sont renvoyés : la SNCF (héritière de SNCF Infra), SNCF Réseau (gestionnaire des voies) et un ancien cheminot, Laurent Waton, auteur de la dernière tournée de surveillance.
+
+#### Procédure et décision
+
+Le procès s'ouvre le 25 avril 2022 et se termine le 17 juin, après huit semaines d'audience dont cinq consacrées aux débats techniques. Le tribunal correctionnel d'Évry rend son jugement le 26 octobre 2022. La SNCF est déclarée coupable d'homicides et de blessures involontaires et condamnée à 300 000 euros d'amende, dépassant les 225 000 euros encourus en raison de l'état de récidive légale. SNCF Réseau et l'ancien cheminot sont relaxés.
+
+Le tribunal retient de graves défaillances dans la surveillance de l'éclisse. Pour la présidente, cette négligence du suivi du cœur est en lien certain avec le déraillement : si les visites de contrôle avaient été correctement réalisées, l'état avarié aurait été constaté et le cœur changé. La défense de la SNCF, qui imputait l'accident à un défaut indécelable de l'acier, est écartée.
+
+#### À retenir
+
+Une personne morale peut être condamnée pour une faute d'organisation, sans qu'un geste précis lui soit reproché. La faute retenue est structurelle : une fissure connue depuis 2008, un suivi annuel non effectué, un appareil de voie non changé. La relaxe des deux autres prévenus traduit l'exigence d'un lien net entre la faute reprochée et le dommage, ainsi que d'une faute qualifiée pour les personnes physiques n'ayant pas causé directement le dommage.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 6 min</summary>
+
+#### Le contexte et les acteurs
+
+Les faits se déroulent en gare de Brétigny-sur-Orge, dans l'Essonne. Le 12 juillet 2013, un train Intercités reliant Paris-Austerlitz à Limoges-Bénédictins, le Corail n° 3657, traverse la gare à 137 km/h, en dessous de la vitesse limite autorisée de 150 km/h. Trois acteurs se retrouvent plus tard dans la même salle d'audience : la SNCF, poursuivie comme héritière pénale de SNCF Infra, l'entité chargée de la maintenance de l'infrastructure au moment des faits ; SNCF Réseau, ex-Réseau ferré de France, gestionnaire des voies ; et un ancien cheminot, Laurent Waton, dirigeant du secteur ferroviaire de Brétigny, âgé de 24 ans au moment des faits et auteur de la dernière tournée de surveillance.
+
+Ce que l'on savait avant l'accident pèse lourd dans l'affaire. Une fissure avait été détectée en 2008 dans l'un des cœurs de l'appareil de voie mis en cause. Elle a été mal suivie pendant cinq ans, alors qu'elle aurait dû faire l'objet d'une surveillance annuelle. La voie avait été inspectée huit jours seulement avant le déraillement. Le climat de travail est aussi décrit par le tribunal : banalisation de l'urgence, récurrence des aléas et désorganisation chronique, auxquelles les agents devaient s'adapter.
+
+#### Les faits et leurs conséquences
+
+À 17 h 11, le train franchit une traversée jonction double, un appareil de voie qui permet à deux voies de se croiser. Plusieurs témoins à bord ressentent un choc. Le train déraille et se sépare en deux entre les voitures 4 et 5. La locomotive et les premières voitures continuent leur course sur 400 mètres pendant le freinage d'urgence avant de s'arrêter. L'élément déclencheur est une éclisse, une grosse agrafe d'acier d'environ 30 cm qui joint deux rails. Elle se désolidarise du rail, pivote autour d'un boulon et se coince au milieu de l'aiguillage.
+
+Les conséquences mécaniques sont décrites avec précision. La voiture 4 se couche sur son flanc droit. L'arrière de la rame est dévié vers la voie 3. La voiture 6 se met en travers et fauche le quai sur plusieurs dizaines de mètres, transpercée par un longeron de la marquise. La voiture 5 finit par se coucher à son tour le long du quai de la voie 2. Le dispositif Orsec est déclenché à 17 h 23, six minutes seulement après le choc. Il faudra de longues heures à 300 pompiers pour désenclaver les victimes. Le bilan humain est de sept morts, 70 blessés dont 9 graves, et 227 personnes impliquées. Deux cent vingt voyageurs sont pris en charge en état de choc. Les victimes ont entre 19 et 82 ans.
+
+#### Les questions juridiques et la procédure
+
+La qualification principale est l'homicide involontaire. Le code pénal le définit comme le fait de causer la mort d'autrui par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement. Ce délit est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. Ces peines sont portées à cinq ans et 75 000 euros en cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité. L'article 121-3 du code pénal fixe la condition de fond : hors intention, il y a délit en cas de faute d'imprudence ou de négligence s'il est établi que l'auteur n'a pas accompli les diligences normales. Cette appréciation tient compte de la nature de ses missions, de ses fonctions, de ses compétences, ainsi que du pouvoir et des moyens dont il disposait.
+
+Le même article encadre plus strictement la responsabilité des personnes physiques qui n'ont pas causé directement le dommage. Celles qui ont créé ou contribué à créer la situation, ou qui n'ont pas pris les mesures permettant de l'éviter, ne répondent que si elles ont violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité. À défaut, il faut une faute caractérisée exposant autrui à un risque d'une particulière gravité que l'auteur ne pouvait ignorer. Trois prévenus sont renvoyés : la SNCF en tant que personne morale, SNCF Réseau et l'ancien cheminot. Le juge compétent est le tribunal correctionnel d'Évry. Les victimes s'y constituent parties civiles pour obtenir réparation de leur préjudice, et elles sont plus de deux cents à le faire.
+
+#### Le jugement et ses suites
+
+Le procès s'ouvre le 25 avril 2022 et se termine le 17 juin. Huit semaines d'audience, dont cinq consacrées aux débats techniques. Le tribunal entend aussi les témoignages de nombreuses parties civiles, dont des proches de victimes fauchées sur le quai. À l'audience, le procureur requiert la peine maximale contre la SNCF : 450 000 euros d'amende. Il retient douze fautes. Il reproche à l'entreprise d'avoir bâclé les opérations de maintenance et d'avoir banalisé l'urgence au détriment de la sécurité des usagers. En revanche, il demande la relaxe de SNCF Réseau et de l'ancien cheminot, estimant que les fautes qui leur sont reprochées ne sont pas caractérisées.
+
+Le 26 octobre 2022, le tribunal correctionnel d'Évry rend son jugement. La SNCF est déclarée coupable d'homicides et de blessures involontaires. Elle est condamnée à 300 000 euros d'amende. Ce montant dépasse les 225 000 euros encourus, en raison de l'état de récidive légale de l'entreprise. La présidente précise que la SNCF a réalisé 34,8 milliards d'euros de chiffre d'affaires en 2021. L'état de récidive n'est pas une formule d'usage : la SNCF avait été condamnée vingt-cinq fois entre novembre 1999 et le 25 janvier 2021, dont treize fois pour homicide involontaire. C'est ce passé judiciaire qui justifie le dépassement du plafond d'amende encouru.
+
+Les deux autres prévenus sont relaxés. La relaxe est prononcée faute d'infraction caractérisée en lien avec le sinistre. Pour le cheminot, le parquet lui-même ne retenait pas de lien direct entre son comportement et le déraillement. Laurent Waton était le jeune cadre de proximité qui avait effectué la dernière tournée de surveillance, huit jours avant le drame, à 24 ans. Le tribunal motive longuement la condamnation de la SNCF. Il retient de graves défaillances dans la surveillance de l'éclisse. Pour la présidente, cette négligence du suivi du cœur est en lien certain avec le déraillement. Si l'entreprise avait correctement réalisé les visites de contrôle, elle aurait constaté l'état avarié du cœur et procédé à son changement. La défense de la SNCF, qui imputait l'accident à un défaut indécelable de l'acier, est donc écartée.
+
+#### L'analyse : ce que l'affaire apprend
+
+Cette affaire montre qu'une personne morale peut être condamnée pour une faute d'organisation, sans qu'un geste précis lui soit reproché. Ce qui est sanctionné, c'est une carence durable : une fissure connue depuis 2008, un suivi annuel non effectué, un appareil de voie qui n'a pas été changé. Le jugement parle de « défaillance fatale » et de négligence du suivi du cœur en lien certain avec le déraillement. La faute retenue n'est donc pas ponctuelle, elle est structurelle. L'affaire dessine aussi la frontière entre la personne morale et la personne physique. Pour l'agent qui n'a pas causé directement le dommage, la loi exige une faute caractérisée ou une violation délibérée d'une obligation de sécurité. Le cheminot de Brétigny, qui avait fait la dernière tournée, en a bénéficié. La relaxe de SNCF Réseau traduit la même exigence d'un lien net entre la faute reprochée et le dommage constaté.
+
+Trois responsabilités doivent être distinguées. La responsabilité pénale vise l'auteur de l'infraction, se juge devant le juge répressif et aboutit à une peine ; elle suppose un élément matériel et une faute établie. La responsabilité administrative vise la réparation d'un dommage imputable au service public, sans peine, devant le juge administratif. La responsabilité personnelle de l'agent est la plus étroite des trois, parce que la loi exige de sa part une faute qualifiée. Enfin, l'affaire est une leçon de preuve technique. Cinq des huit semaines d'audience ont été consacrées aux débats techniques. Les juges ont dû trancher entre deux récits : un désassemblage soudain et imprévisible, ou un processus lent de dégradation mal surveillé. La question n'était pas de savoir ce qui s'était passé, mais pourquoi l'accident n'avait pas été évité.
+
+</details>
+
+## 1. Le contexte : le lieu, les acteurs, ce qui était connu avant
+
+Les faits se déroulent en gare de Brétigny-sur-Orge, dans l'Essonne, à 31 km au sud de Paris. Le 12 juillet 2013, un train Intercités reliant Paris-Austerlitz à Limoges-Bénédictins traverse la gare. C'est le train Corail n° 3657. Il circule à 137 km/h, en dessous de la vitesse limite autorisée sur cette voie, fixée à 150 km/h.
+
+Trois acteurs se retrouvent plus tard dans la même salle d'audience. La SNCF est poursuivie comme héritière pénale de SNCF Infra, l'entité chargée de la maintenance de l'infrastructure au moment des faits. SNCF Réseau, ex-Réseau ferré de France, est le gestionnaire des voies. Le troisième prévenu est un ancien cheminot, Laurent Waton, dirigeant du secteur ferroviaire de Brétigny, âgé de 24 ans au moment des faits et auteur de la dernière tournée de surveillance.
+
+Ce que l'on savait avant l'accident pèse lourd dans l'affaire. Une fissure avait été détectée en 2008 dans l'un des cœurs de l'appareil de voie mis en cause. Elle a été mal suivie pendant cinq ans. Cette avarie aurait dû faire l'objet d'une surveillance annuelle. De son côté, la voie avait été inspectée huit jours seulement avant le déraillement.
+
+Le climat de travail est aussi décrit par le tribunal. Il retiendra une banalisation de l'urgence, une récurrence des aléas et une désorganisation chronique, auxquelles les agents devaient s'adapter. Dès le lendemain du drame, le ministre des Transports écarte la piste humaine : « ce n'est pas un problème humain ». Le conducteur du train ne figure pas au nombre des prévenus.
+
+Un dernier élément de contexte est utile au raisonnement juridique. Le train ne roulait pas trop vite. La cause retenue est matérielle, liée à l'infrastructure, et non à la conduite ou à la signalisation. Pourtant, ce sont bien les conditions d'entretien d'un appareil de voie connu comme fragile depuis 2008 qui seront au centre du procès.
+
+Deux personnes morales aux rôles distincts se partagent l'infrastructure. La SNCF est présente comme exploitant historique et comme héritière de l'entité de maintenance. SNCF Réseau est le gestionnaire des voies, propriétaire et responsable de leur état. Cette séparation des missions, voulue par l'organisation ferroviaire, va devenir un point central du débat sur les responsabilités.
+
+## 2. Les faits, dans l'ordre
+
+À 17 h 11, le train franchit une traversée jonction double, un appareil de voie qui permet à deux voies de se croiser. Plusieurs témoins à bord ressentent un choc. Le train déraille et se sépare en deux entre les voitures 4 et 5. La locomotive et les premières voitures continuent leur course sur 400 mètres pendant le freinage d'urgence avant de s'arrêter.
+
+L'élément déclencheur est une éclisse, une grosse agrafe d'acier d'environ 30 cm qui joint deux rails. Elle se désolidarise du rail, pivote autour d'un boulon et se coince au milieu de l'aiguillage. Le président de la SNCF, Guillaume Pepy, le confirmera quelques jours plus tard : sur le dernier essieu de la 3e voiture, il y a bien une trace de choc avec l'éclisse.
+
+Les conséquences mécaniques sont décrites avec précision. La voiture 4 se couche sur son flanc droit. L'arrière de la rame est dévié vers la voie 3. La voiture 6 se met en travers et fauche le quai sur plusieurs dizaines de mètres, transpercée par un longeron de la marquise. La voiture 5 finit par se coucher à son tour le long du quai de la voie 2.
+
+Le dispositif Orsec est déclenché à 17 h 23, six minutes seulement après le choc. Il faudra de longues heures à 300 pompiers pour désenclaver les victimes. Le bilan humain est de sept morts, 70 blessés dont 9 graves, et 227 personnes impliquées. Deux cent vingt voyageurs sont pris en charge en état de choc. Les victimes ont entre 19 et 82 ans.
+
+La gare reste fermée pendant trois jours après l'accident. Le trafic de la ligne C du RER est interrompu au sud et des itinéraires de substitution sont proposés aux voyageurs. Une minute de silence est observée dans toutes les gares et tous les trains de France le 13 juillet à midi. Entre le 12 et le 24 juillet, la cellule mise en place par la SNCF et RFF reçoit six cents demandes de soutien de victimes ou de proches.
+
+Sur le plan judiciaire, l'accident ouvre immédiatement plusieurs fronts. Trois enquêtes sont lancées : celle du parquet d'Évry, celle du bureau d'enquêtes sur les accidents de transport terrestre du ministère des Transports, et une enquête interne de la SNCF. Les voies avaient été inspectées huit jours plus tôt. Le rapport du BEA-TT évoque une fissuration qui s'est développée.
+
+## 3. Les questions juridiques : qui, de quoi, devant quel juge
+
+La qualification principale est l'homicide involontaire. Le code pénal le définit comme le fait de causer la mort d'autrui par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement. Ce délit est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. Ces peines sont portées à cinq ans et 75 000 euros en cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité.
+
+L'article 121-3 du code pénal fixe la condition de fond de ces poursuites. Hors intention, il y a délit en cas de faute d'imprudence ou de négligence s'il est établi que l'auteur n'a pas accompli les diligences normales. Cette appréciation tient compte de la nature de ses missions, de ses fonctions, de ses compétences, ainsi que du pouvoir et des moyens dont il disposait. Le texte prévoit aussi que la force majeure efface toute contravention.
+
+Le même article encadre beaucoup plus strictement la responsabilité des personnes physiques qui n'ont pas causé directement le dommage. Celles qui ont créé ou contribué à créer la situation, ou qui n'ont pas pris les mesures permettant de l'éviter, ne répondent que si elles ont violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité. À défaut, il faut une faute caractérisée exposant autrui à un risque d'une particulière gravité que l'auteur ne pouvait ignorer. C'est une exigence renforcée, qui protège l'agent d'exécution contre une responsabilité automatique.
+
+Reste à savoir qui poursuivre et devant qui. Trois prévenus sont renvoyés : la SNCF en tant que personne morale, SNCF Réseau et l'ancien cheminot. Le juge compétent est le tribunal correctionnel d'Évry. Les victimes s'y constituent parties civiles pour obtenir réparation de leur préjudice, et elles sont plus de deux cents à le faire. Le procès mêle donc deux questions : la culpabilité des prévenus et l'indemnisation des victimes.
+
+La responsabilité administrative est d'une autre nature. Elle se juge devant le juge administratif, ne prononce pas de peine et sert à réparer le dommage causé par une activité ou un ouvrage public. La responsabilité pénale, elle, sanctionne un comportement interdit par la loi et aboutit à une peine. Entre les deux se situe la responsabilité personnelle de l'agent, qui suppose une faute suffisamment caractérisée au sens de l'article 121-3.
+
+## 4. Les procédures, étape par étape
+
+L'enquête prend sept années. Trois enquêtes avaient été ouvertes : celle du parquet d'Évry, celle du BEA-TT et celle de la SNCF. Le rapport du BEA-TT évoque une fissuration qui s'est développée. C'est ce travail d'expertise qui va permettre de passer de l'accident à la faute, en identifiant un défaut ancien et un suivi défaillant.
+
+Le procès s'ouvre le 25 avril 2022 et se termine le 17 juin. Huit semaines d'audience, dont cinq consacrées aux débats techniques. Le tribunal entend aussi les témoignages de nombreuses parties civiles, dont des proches de victimes fauchées sur le quai. Plus de deux cents parties civiles sont enregistrées.
+
+À l'audience, le procureur requiert la peine maximale contre la SNCF : 450 000 euros d'amende. Il retient douze fautes. Il reproche à l'entreprise d'avoir bâclé les opérations de maintenance et d'avoir banalisé l'urgence au détriment de la sécurité des usagers. En revanche, il demande la relaxe de SNCF Réseau et de l'ancien cheminot, estimant que les fautes qui leur sont reprochées ne sont pas caractérisées.
+
+Le 26 octobre 2022, le tribunal correctionnel d'Évry rend son jugement. La SNCF est déclarée coupable d'homicides et de blessures involontaires. Elle est condamnée à 300 000 euros d'amende. Ce montant dépasse les 225 000 euros encourus, en raison de l'état de récidive légale de l'entreprise. La présidente précise que la SNCF a réalisé 34,8 milliards d'euros de chiffre d'affaires en 2021.
+
+L'état de récidive n'est pas une formule d'usage. La SNCF avait été condamnée vingt-cinq fois entre novembre 1999 et le 25 janvier 2021, dont treize fois pour homicide involontaire. C'est ce passé judiciaire qui justifie le dépassement du plafond d'amende encouru. La juridiction tient donc compte de la personne morale dans son épaisseur historique, et pas seulement du fait du jour.
+
+Les deux autres prévenus sont relaxés. La relaxe est prononcée faute d'infraction caractérisée en lien avec le sinistre. Pour le cheminot, le parquet lui-même ne retenait pas de lien direct entre son comportement et le déraillement. Laurent Waton était le jeune cadre de proximité qui avait effectué la dernière tournée de surveillance, huit jours avant le drame, à 24 ans.
+
+Le tribunal motive longuement la condamnation de la SNCF. Il retient de graves défaillances dans la surveillance de l'éclisse. Pour la présidente, cette négligence du suivi du cœur est en lien certain avec le déraillement. Si l'entreprise avait correctement réalisé les visites de contrôle, elle aurait constaté l'état avarié du cœur et procédé à son changement. La défense de la SNCF, qui imputait l'accident à un défaut indécelable de l'acier, est donc écartée.
+
+Le tribunal liste ensuite les dommages et intérêts à verser aux nombreuses parties civiles. Il souligne aussi les moyens humains et financiers mis en place par la SNCF pour porter assistance et soutien aux victimes. La société pouvait faire appel de la décision. Le jugement reste ainsi une décision de première instance, susceptible de recours.
+
+## 5. L'analyse : ce que l'affaire apprend
+
+Cette affaire montre qu'une personne morale peut être condamnée pour une faute d'organisation, sans qu'un geste précis lui soit reproché. Ce qui est sanctionné, c'est une carence durable : une fissure connue depuis 2008, un suivi annuel non effectué, un appareil de voie qui n'a pas été changé. Le jugement parle de « défaillance fatale » et de négligence du suivi du cœur en lien certain avec le déraillement. La faute retenue n'est donc pas ponctuelle, elle est structurelle.
+
+L'affaire dessine aussi la frontière entre la personne morale et la personne physique. Pour l'agent qui n'a pas causé directement le dommage, la loi exige une faute caractérisée ou une violation délibérée d'une obligation de sécurité. Le cheminot de Brétigny, qui avait fait la dernière tournée, en a bénéficié. La relaxe de SNCF Réseau traduit la même exigence d'un lien net entre la faute reprochée et le dommage constaté.
+
+Trois responsabilités doivent être distinguées. La responsabilité pénale vise l'auteur de l'infraction, se juge devant le juge répressif et aboutit à une peine ; elle suppose un élément matériel et une faute établie. La responsabilité administrative vise la réparation d'un dommage imputable au service public, sans peine, devant le juge administratif. La responsabilité personnelle de l'agent est la plus étroite des trois, parce que la loi exige de sa part une faute qualifiée.
+
+Enfin, l'affaire est une leçon de preuve technique. Cinq des huit semaines d'audience ont été consacrées aux débats techniques. Les juges ont dû trancher entre deux récits : un désassemblage soudain et imprévisible, ou un processus lent de dégradation mal surveillé. La question n'était pas de savoir ce qui s'était passé, mais pourquoi l'accident n'avait pas été évité.
+
+## 6. Les suites
+
+Le jugement a été reçu comme un aboutissement par les victimes. Thierry Gomes, président de l'association Entraide et défense des victimes de la catastrophe de Brétigny, s'est déclaré « moyennement satisfait » : reconnaissant envers la condamnation de la SNCF, déçu en revanche de la relaxe de SNCF Réseau, dont il estimait la responsabilité engagée aux côtés de celle de la SNCF. Une partie des victimes considérait en effet que les deux entités travaillaient ensemble et ne pouvaient pas être dissociées.
+
+L'avocat de parties civiles, Me Alexandre Varaut, résume l'apport du jugement. La dégradation progressive de l'éclisse, détectée depuis 2008, était liée à une accumulation d'erreurs de surveillance. Il souligne le passage de la responsabilité morale qu'évoquait le président de la SNCF à une responsabilité pénale reconnue. Il évoque également des contrôles insuffisants et des documents probablement falsifiés.
+
+Sur le plan judiciaire, la société condamnée pouvait faire appel. Le tribunal a par ailleurs relevé les moyens humains et financiers déployés par l'entreprise pour l'assistance et le soutien aux victimes pendant toute la procédure. Le jugement du 26 octobre 2022 a donc clos une instruction de sept ans, tout en laissant ouverte la possibilité d'un second procès.
+
+## 7. À retenir
+
+Un accident ferroviaire de cette ampleur se juge d'abord au pénal. La SNCF a été déclarée coupable d'homicides et de blessures involontaires en tant que personne morale, et condamnée à 300 000 euros d'amende. La séparation entre l'exploitant, le gestionnaire des voies et l'agent n'a pas dilué la responsabilité : elle l'a redistribuée selon les fautes de chacun.
+
+Le fondement de la condamnation n'est pas un geste, mais une organisation. Une fissure connue depuis 2008, un suivi annuel non réalisé, un lien certain avec le déraillement : c'est cette chaîne qui a été sanctionnée. Le tribunal a écarté l'hypothèse d'un défaut imprévisible de l'acier.
+
+Deux prévenus ont été relaxés parce que la faute exigée par la loi n'était pas suffisamment caractérisée ou rattachée au dommage. Le droit pénal ne remonte pas indéfiniment la chaîne des causes : il demande un lien et une faute qualifiée. C'est toute la différence entre une responsabilité d'organisation et une responsabilité personnelle.
+
+## Chronologie
+
+| Date | Fait |
+| --- | --- |
+| 2008 | Une fissure est détectée dans l'un des cœurs de l'appareil de voie mis en cause, puis mal suivie pendant cinq ans. |
+| 2013 (huit jours avant l'accident) | La voie concernée est inspectée ; un ancien cheminot effectue la dernière tournée de surveillance. |
+| 12 juillet 2013 | À 17 h 11, l'Intercités Paris-Limoges déraille en gare de Brétigny-sur-Orge après la désolidarisation d'une éclisse : sept morts, 70 blessés dont 9 graves. |
+| 12 juillet 2013 | Le dispositif Orsec est déclenché à 17 h 23 ; la gare reste fermée trois jours et le trafic de la ligne C est interrompu au sud. |
+| 12 au 24 juillet 2013 | La cellule mise en place par la SNCF et RFF reçoit six cents demandes de soutien de victimes et de proches. |
+| 25 avril 2022 | Ouverture du procès devant le tribunal correctionnel d'Évry, huit semaines d'audience dont cinq consacrées aux débats techniques. |
+| 17 juin 2022 | Fin des débats ; le parquet a requis 450 000 euros d'amende contre la SNCF et la relaxe des deux autres prévenus. |
+| 26 octobre 2022 | La SNCF est déclarée coupable d'homicides et de blessures involontaires et condamnée à 300 000 euros d'amende ; SNCF Réseau et l'ancien cheminot sont relaxés. |
+| novembre 1999 - 25 janvier 2021 | La SNCF avait été condamnée à vingt-cinq reprises, dont treize fois pour homicide involontaire, ce qui fonde l'état de récidive légale retenu en 2022. |
+
+## Acteurs
+
+| Qui | Rôle |
+| --- | --- |
+| SNCF | Société ferroviaire exploitante, poursuivie comme héritière pénale de SNCF Infra chargée de la maintenance au moment des faits ; condamnée à 300 000 euros d'amende le 26 octobre 2022. |
+| SNCF Réseau (ex-Réseau ferré de France) | Gestionnaire des voies, poursuivi pour les mêmes faits et relaxé faute d'infraction caractérisée en lien avec le sinistre. |
+| Laurent Waton | Ancien dirigeant du secteur ferroviaire de Brétigny, 24 ans au moment des faits, auteur de la dernière tournée de surveillance huit jours avant le drame ; relaxé. |
+| Tribunal correctionnel d'Évry | Juridiction de jugement, qui a rendu le jugement du 26 octobre 2022 après huit semaines de procès. |
+| Association Entraide et défense des victimes de la catastrophe de Brétigny (EDVCB) | Association de victimes, représentée par son président Thierry Gomes, qui s'est dite moyennement satisfaite de la relaxe de SNCF Réseau. |
+| Bureau d'enquêtes sur les accidents de transport terrestre (BEA-TT) | Service du ministère des Transports chargé de l'enquête technique ; son rapport évoque une fissuration qui s'est développée. |
+
+## Décisions
+
+### Tribunal correctionnel d'Évry, 26 octobre 2022
+
+- **Demande :** Poursuite pour homicides et blessures involontaires ; le parquet avait requis 450 000 euros d'amende contre la SNCF et la relaxe de SNCF Réseau et de l'ancien cheminot.
+- **Décision :** La SNCF est déclarée coupable et condamnée à 300 000 euros d'amende, montant supérieur aux 225 000 euros encourus du fait de l'état de récidive légale ; des dommages et intérêts sont fixés pour les parties civiles.
+- **Motifs :** Le tribunal retient de graves défaillances dans la surveillance de l'éclisse : une fissure détectée en 2008 et mal suivie pendant cinq ans, dont la négligence est en lien certain avec le déraillement ; si les visites annuelles avaient été faites, l'appareil aurait été changé.
+
+### Tribunal correctionnel d'Évry, 26 octobre 2022
+
+- **Demande :** Poursuite des deux autres prévenus, SNCF Réseau et l'ancien cadre cheminot, pour les mêmes faits d'homicides et blessures involontaires.
+- **Décision :** Relaxe des deux prévenus.
+- **Motifs :** Le tribunal a retenu l'absence d'infraction caractérisée en lien avec le sinistre ; le parquet lui-même ne retenait pas de lien direct entre le comportement du cheminot et le déraillement, et les fautes reprochées au gestionnaire des voies n'étaient pas établies.
+
+## Questions de révision
+
+<details>
+<summary>Quel texte réprime l'homicide involontaire et quelles peines prévoit-il ?</summary>
+
+L'article 221-6 du code pénal le définit comme le fait de causer la mort d'autrui par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement. La peine est de trois ans d'emprisonnement et 45 000 euros d'amende, portée à cinq ans et 75 000 euros en cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité.
+
+</details>
+
+<details>
+<summary>Quelle condition l'article 121-3 pose-t-il pour la personne physique qui n'a pas causé directement le dommage ?</summary>
+
+Elle n'est responsable que si elle a violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, ou si elle a commis une faute caractérisée exposant autrui à un risque d'une particulière gravité qu'elle ne pouvait ignorer. C'est une exigence plus lourde que la simple négligence, ce qui protège l'agent d'exécution.
+
+</details>
+
+<details>
+<summary>Que reprochait-on précisément à la SNCF à Brétigny ?</summary>
+
+Le parquet lui reprochait douze fautes, un suivi défaillant de la maintenance et une banalisation de l'urgence au détriment de la sécurité. Le tribunal a retenu des défaillances dans la surveillance de l'éclisse : une fissure connue depuis 2008, un contrôle annuel non réalisé et un appareil non remplacé, en lien certain avec le déraillement.
+
+</details>
+
+<details>
+<summary>Pourquoi SNCF Réseau et l'ancien cheminot ont-ils été relaxés ?</summary>
+
+Le tribunal a considéré qu'aucune infraction caractérisée en lien avec le sinistre n'était établie à leur encontre. Pour le cheminot, le parquet lui-même ne retenait pas de lien direct entre son comportement et le déraillement. La faute qualifiée exigée par la loi faisait donc défaut.
+
+</details>
+
+<details>
+<summary>Pourquoi l'amende dépasse-t-elle le montant encouru ?</summary>
+
+La SNCF se trouvait en état de récidive légale : elle avait été condamnée vingt-cinq fois entre novembre 1999 et le 25 janvier 2021, dont treize fois pour homicide involontaire. Le tribunal a donc dépassé les 225 000 euros encourus en portant l'amende à 300 000 euros. Le chiffre d'affaires de 34,8 milliards d'euros réalisé en 2021 a été rappelé à l'audience.
+
+</details>
+
+<details>
+<summary>Quelle différence entre responsabilité pénale, administrative et personnelle dans cette affaire ?</summary>
+
+La responsabilité pénale sanctionne par une peine le comportement interdit par la loi, devant le juge répressif, et c'est la voie suivie à Évry avec plus de deux cents parties civiles. La responsabilité administrative répare un dommage imputable au service public, sans peine, devant le juge administratif. La responsabilité personnelle de l'agent est la plus étroite : elle suppose une faute caractérisée au sens de l'article 121-3 du code pénal.
+
+</details>
+
+## Sources
+
+- [Code pénal, art. 221-6](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042647>)
+- [Code pénal, art. 121-3](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208>)
+- [Accident ferroviaire de Brétigny-sur-Orge (Wikipédia)](<https://fr.wikipedia.org/wiki/Accident_ferroviaire_de_Br%C3%A9tigny-sur-Orge>)
+- [Catastrophe ferroviaire de Brétigny-sur-Orge : la SNCF condamnée pour homicides involontaires](<https://france3-regions.franceinfo.fr/paris-ile-de-france/essonne/bretigny-sur-orge/catastrophe-ferroviaire-de-bretigny-sur-orge-la-sncf-condamnee-pour-homicide-involontaire-2643068.html>)
+- [Procès de Brétigny-sur-Orge : la SNCF reconnue comme seule coupable d’homicides et blessures involontaires](<https://www.lemonde.fr/societe/article/2022/10/26/catastrophe-de-bretigny-la-sncf-reconnue-coupable-d-homicides-et-blessures-involontaires_6147388_3224.html>)
+- [Catastrophe de Brétigny-sur-Orge. La SNCF condamnée, l’ex-cheminot et SNCF Réseau relaxés](<https://www.ouest-france.fr/catastrophes/catastrophe-de-bretigny-sur-orge-condamnation-de-la-sncf-relaxe-de-l-ex-cheminot-et-de-sncf-reseau-befe8db4-54fd-11ed-9ae3-e2252c205a01>)
+- [Procès de la catastrophe de Brétigny-sur-Orge : la SNCF condamnée à 300 000 euros d'amende, l'ancien cheminot relaxé](<https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/orleans/proces-de-la-catastrophe-de-bretigny-sur-orge-la-sncf-condamnee-l-ancien-cheminot-relaxe-2643056.html>)
+- [Catastrophe de Brétigny : la SNCF déclarée coupable et condamnée à 300 000 euros d'amende](<https://www.radiofrance.fr/franceinter/catastrophe-de-bretigny-la-sncf-declaree-coupable-et-condamnee-a-300-000-euros-d-amende-9392460>)
+- [Procès de la catastrophe ferroviaire de Brétigny : la SNCF condamnée à une amende de 300 000 euros](<https://www.lemonde.fr/societe/article/2022/10/26/proces-de-la-catastrophe-ferroviaire-de-bretigny-la-sncf-condamnee-a-une-amende-de-300-000-euros_6147478_3224.html>)
+- [Catastrophe de Brétigny : «Une étape de franchie» pour les victimes, après la condamnation de la SNCF](<https://www.leparisien.fr/essonne-91/catastrophe-de-bretigny-une-etape-de-franchie-pour-les-victimes-apres-la-condamnation-de-la-sncf-26-10-2022-U7VI77AGBFEIPBDRAKAO4K2UEQ.php>)
+
+---
+
+<sub>‹ [La catastrophe de Furiani (5 mai 1992) : qui répond du défaut de contrôle de la sécurité d'une tribune ?](etude-affaire-catastrophe-de-furiani.md) · [Retour aux études de cas](README.md) · [L'affaire Fillon : emplois familiaux payés sur fonds publics et probité des élus](etude-affaire-affaire-fillon.md) ›</sub>

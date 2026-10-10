@@ -1,0 +1,288 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# L'affaire Michel Noir : argent occulte, entreprises de travaux publics et responsabilité pénale de l'élu local (Lyon, 1986-2003)
+
+<sub>`Étude de cas` · Probité et droit pénal · Expert · 11 min · Affaire Michel Noir, Lyon, 1994 · 6.9/10 au jury</sub>
+
+> Poursuivi dans l'affaire de son gendre et directeur de campagne Pierre Botton, le maire de Lyon Michel Noir est condamné en appel le 10 janvier 1996 à dix-huit mois de prison avec sursis, 200 000 francs d'amende et cinq ans d'interdiction de vote et d'éligibilité pour recel d'abus de biens sociaux. La qualification retenue n'est pas la corruption : l'affaire montre que l'élu est atteint par le circuit de l'argent versé par les entreprises, souvent des entreprises de travaux publics, sans avoir signé lui-même un marché.
+
+> [!TIP]
+> L'élu tombe par l'argent qu'il reçoit, pas seulement par l'acte qu'il signe.
+
+**À retenir**
+
+- Le circuit de l'argent, pas la signature du marché, est ce qui déclenche les poursuites contre l'élu : ici des virements occultes d'entreprises de BTP et une caisse noire chez un groupe de travaux publics.
+- Michel Noir est condamné pour recel d'abus de biens sociaux, et non pour corruption : le droit applicable était celui de l'époque, à ne pas confondre avec les articles 432-11 et 433-1 du code pénal actuels.
+- La sanction est personnelle et atteint le mandat : dix-huit mois de prison avec sursis, 200 000 francs d'amende et cinq ans d'inéligibilité en appel, plus une seconde condamnation en 2003.
+
+<details>
+<summary><b>Version rapide</b> · 1 min</summary>
+
+#### L'affaire en bref
+
+Michel Noir, maire de Lyon de 1989 à 1995, est mis en examen en mars 1993 dans le cadre de l'affaire Botton, du nom de son gendre Pierre Botton. Ce dernier a monté un système de sociétés et de facturations fictives, et a monnayé ses relations politiques auprès d'entreprises de BTP qui ont versé, de 1986 à 1991, 8,6 millions de francs sur des comptes suisses. La rupture entre le gendre et le beau-père intervient après l'élection municipale de 1989.
+
+L'information judiciaire ouverte le 13 novembre 1992 porte sur des chefs de faux et usage, banqueroute, abus de biens sociaux et complicité. Elle s'étend à 16 sociétés ; 12 personnes sont renvoyées devant le tribunal correctionnel et 11 sont déclarées coupables. Michel Noir est condamné en première instance à quinze mois de prison avec sursis, cinq ans d'inéligibilité et cinq ans d'interdiction du droit de vote ; en appel, le 10 janvier 1996, à dix-huit mois avec sursis, 200 000 francs d'amende et cinq ans d'interdiction de vote et d'éligibilité.
+
+#### Ce qu'il faut retenir
+
+La qualification retenue n'est pas la corruption mais l'abus de biens sociaux et son recel, selon le droit applicable à l'époque. La sanction est personnelle : elle frappe l'élu pour son propre comportement, et l'inéligibilité atteint son mandat. L'élu peut être condamné sans avoir signé un marché, dès lors qu'un intermédiaire fait transiter l'argent des entreprises jusqu'à lui.
+
+Le juge répressif de droit commun reste compétent pour un élu qui a aussi été ministre, si les faits relèvent de la vie privée ou d'un mandat local. La prescription du recel d'abus de biens sociaux ne commence qu'à partir du moment où l'infraction principale a pu être constatée, ce qui permet de poursuivre malgré le temps écoulé.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 5 min</summary>
+
+#### Le contexte et les faits
+
+Michel Noir, né en 1944, est député du Rhône à partir de 1978. Après un échec en 1983, il remporte en mars 1989 la primaire face au maire sortant Francisque Collomb et devient maire de Lyon, ainsi que président de la Communauté urbaine de Lyon, jusqu'en 1995. Pierre Botton, né en 1955, a repris l'entreprise familiale d'agencement de pharmacies ; il rencontre Michel Noir en 1982, devient son conseiller personnel en 1986, épouse sa fille aînée et dirige sa campagne municipale de 1989.
+
+L'ascension de Pierre Botton repose sur un montage de sociétés, des prêts bancaires et des facturations fictives. Il monnaie ses relations politiques auprès d'entreprises de BTP, qui versent de 1986 à 1991, en tout, 8,6 millions de francs (1,3 million d'euros) par virements occultes sur des comptes en Suisse. La rupture entre le gendre et le beau-père suit de peu l'élection municipale, en raison de divergences sur l'application du programme électoral ; Pierre Botton rejoint alors le clan de Jacques Chirac au RPR.
+
+Le juge Philippe Courroye mène une série d'enquêtes sur les activités financières de Pierre Botton. En mars 1993, Michel Noir est mis en examen dans le cadre de l'affaire Botton. L'information judiciaire ouverte le 13 novembre 1992 porte sur le faux et usage, la banqueroute, l'abus de biens sociaux et la complicité ; elle s'étend à 16 sociétés dirigées par le même homme d'affaires. Sur les 12 personnes renvoyées devant le tribunal correctionnel, 11 sont déclarées coupables.
+
+#### Les qualifications et la compétence du juge
+
+Aujourd'hui, l'article 432-11 du code pénal punit une personne investie d'un mandat électif public qui sollicite ou agrée, sans droit, des offres, promesses, dons, présents ou avantages quelconques, y compris pour faire obtenir des marchés. L'article 433-1 punit symétriquement celui qui propose ces avantages ou cède à la sollicitation. Les peines sont de dix ans d'emprisonnement et 1 000 000 € d'amende, portées à 2 000 000 € en bande organisée. Dans l'affaire Noir, les qualifications retenues sont autres : l'abus de biens sociaux et son recel, selon le droit de l'époque.
+
+Michel Noir a soulevé l'incompétence du juge répressif de droit commun en invoquant l'article 68-1 de la Constitution, à propos d'un repas de 12 839,40 francs réunissant des membres de son cabinet et ses collaborateurs lyonnais le 26 juillet 1986. La cour d'appel a retenu que les actes de la fonction ministérielle sont ceux ayant un rapport direct avec la conduite des affaires de l'État, à l'exclusion des comportements relevant de la vie privée ou des mandats électifs locaux. Le repas, sans lien avec les affaires de l'État, relevait de la vie privée : la juridiction répressive de droit commun était compétente.
+
+#### Les décisions de justice
+
+Le tribunal correctionnel de Lyon condamne Pierre Botton à quatre ans de prison, dont deux avec sursis, deux millions de francs d'amende et cinq ans d'interdiction de gérer ou contrôler une entreprise. Michel Noir et Michel Mouillot, maires de Lyon et de Cannes, sont condamnés chacun à quinze mois de prison avec sursis, cinq ans d'inéligibilité et cinq ans d'interdiction du droit de vote. Les attendus visent durement les élus : les infractions, bien que commises dans le cadre privé, traduisent une méconnaissance grave et délibérée de la loi, et Michel Noir ne pouvait pas ne pas avoir connaissance du paiement des cadeaux par les entreprises de Pierre Botton.
+
+La cour d'appel de Lyon rend son arrêt le 10 janvier 1996 et aggrave les peines. Pierre Botton est condamné à cinq ans d'emprisonnement, dont dix-huit mois avec sursis, et immédiatement incarcéré. Michel Noir est condamné à dix-huit mois de prison avec sursis, 200 000 francs d'amende et cinq ans d'interdiction du droit de vote et d'éligibilité. Le dossier des subventions municipales est jugé séparément : le 10 mai 1996, Michel Noir est condamné à un an de prison avec sursis et 100 000 francs d'amende, tandis que Jean-Paul Bonnet et Serge Guinchard sont relaxés.
+
+Les condamnés se pourvoient en cassation. Le 6 février 1997, la chambre criminelle examine les pourvois contre l'arrêt du 10 janvier 1996 ; un moyen porte sur l'exception d'incompétence tirée de l'immunité ministérielle, à propos du repas de 12 839,40 francs. La chambre criminelle rejette le pourvoi de Michel Noir sur la prescription du recel d'abus de biens sociaux : la prescription du recel ne commence qu'à partir de l'instant où l'abus de biens sociaux lui-même a pu être constaté. Un dernier volet se referme le 14 novembre 2003 : Michel Noir est condamné à dix-huit mois de prison avec sursis et 15 000 € d'amende pour recel d'abus de biens sociaux dans l'affaire des comptes suisses.
+
+#### Analyse et enseignements
+
+Premier enseignement : l'élu est atteint par le circuit de l'argent, pas par la signature d'un marché. Des entreprises de BTP versent des sommes occultes à un intermédiaire, ici 8,6 millions de francs de 1986 à 1991, et une caisse noire chez un groupe de travaux publics aurait servi à payer des commissions occultes. L'article 432-11 du code pénal vise précisément l'avantage reçu pour faire obtenir des « marchés » : la décision favorable n'a pas besoin d'avoir été signée par l'élu lui-même.
+
+Deuxième enseignement : la sanction pénale est personnelle. Michel Noir est condamné pour son propre comportement, à des peines de prison avec sursis et à des amendes. L'inéligibilité s'ajoute à la peine et le prive de la possibilité de se présenter : la sanction atteint son mandat autant que lui. Il faut distinguer trois responsabilités : pénale (l'auteur du comportement, peine prononcée par le juge répressif), administrative (fonctionnement du service public, annulation ou indemnisation par la collectivité) et personnelle de l'élu (ses propres intérêts).
+
+Troisième enseignement : l'appel est suspensif, et la vie politique ne s'arrête pas pendant la procédure. Après le jugement de première instance, Michel Mouillot annonce qu'il compte se représenter ; Michel Noir laisse planer le doute sur sa candidature. La procédure pénale et le calendrier électoral s'entremêlent. Enfin, la prescription ne protège pas l'auteur d'un détournement dissimulé : le point de départ du délai est reporté au moment où l'infraction a pu être constatée, et le recel suit le sort du délit dont il procède.
+
+#### Les suites
+
+Michel Noir abandonne la politique après sa condamnation en appel. En 1996, il quitte la vie politique, puis il est définitivement condamné en 2003 dans l'affaire des comptes suisses à dix-huit mois de prison avec sursis et 15 000 € d'amende. Il change ensuite de vie : il reprend ses études en 1998, prépare un doctorat de sciences de l'éducation, crée en 2000 l'entreprise Scientific Brain Training à Villeurbanne et soutient sa thèse en 2002.
+
+Pierre Botton passe 602 jours en détention, dans sept maisons d'arrêt, et œuvre ensuite à l'amélioration des conditions de détention et à la prévention de la récidive. Il crée en janvier 2010 l'association « Les Prisons du cœur ». Il est de nouveau condamné en juin 2020 à cinq ans de prison ferme, ramenés à trois ans par la cour d'appel, pour abus de biens sociaux et recel concernant les fonds de son association, et il est incarcéré du 2 juin 2020 au 12 juin 2022. L'affaire a aussi une postérité médiatique : elle inspire plusieurs films, dont La Sainte Victoire de François Favrat en 2009.
+
+</details>
+
+## 1. Le contexte : Lyon, un maire, un gendre
+
+Michel Noir est né le 19 mai 1944 dans le 2e arrondissement de Lyon. Député du Rhône à partir de 1978, il tente en mars 1983 de ravir la mairie de Lyon à Francisque Collomb et échoue de peu. En mars 1989, il affronte de nouveau le maire sortant dans une primaire opposant l'UDF et le RPR : sa victoire est totale, il remporte les neuf mairies d'arrondissement. Il est maire de Lyon de 1989 à 1995 et président de la Communauté urbaine de Lyon.
+
+Pierre Botton, né le 30 mai 1955 à Lyon, a repris l'entreprise familiale d'agencement de pharmacies. Il rencontre Michel Noir en 1982, alors député de Lyon, et mise sur lui. En mars 1986, quand Michel Noir entre au gouvernement comme ministre du Commerce extérieur, Pierre Botton devient son conseiller personnel. Il épouse sa fille aînée, Anne-Valérie, et devient en 1988 son directeur de campagne pour les municipales de 1989.
+
+L'ascension de Pierre Botton repose sur un montage de sociétés. Il y recourt à des prêts bancaires et à des facturations fictives systématiques pour se constituer un patrimoine immobilier important. Il monnaie ses relations politiques auprès d'entreprises de BTP. Celles-ci versent de 1986 à 1991, en tout, 8,6 millions de francs, soit 1,3 million d'euros, par virements occultes sur des comptes qu'il ouvre en Suisse.
+
+La rupture suit de peu l'élection municipale. À peine Michel Noir élu, de profondes divergences sur l'application du programme électoral opposent le gendre au beau-père, et Pierre Botton rejoint le clan de Jacques Chirac au RPR. Le juge Philippe Courroye mène alors une série d'enquêtes sur les activités financières de Pierre Botton. En mars 1993, Michel Noir est mis en examen dans le cadre de l'affaire Botton.
+
+## 2. Les faits
+
+Le procès donne à voir un système de cadeaux et de relations entretenues. La presse décrit des amitiés forgées à coups de cadeau astronomique et une complaisance que ces somptueux présents entraînent sans qu'il soit forcément nécessaire de réclamer. C'est tout un système d'argent et de politique qui est examiné, où la corruption n'a pas été bannie.
+
+À côté de l'argent privé, il y a l'argent public. Des subventions sont attribuées entre 1989 et 1992 aux groupes politiques municipaux et communautaires, constitués en associations « Ensemble Lyon » et « Ensemble Courly ». Jean-Paul Bonnet et Serge Guinchard, adjoints de Michel Noir, en sont les présidents et trésoriers « croisés ». Les transferts de fonds litigieux portent, au total, sur plus de 7 millions de francs.
+
+Un détail résume la porosité entre fonction ministérielle et relations privées. Le 26 juillet 1986, un repas réunit des membres du cabinet de Michel Noir et ses collaborateurs lyonnais dans un restaurant de Collonges-au-Mont-d'Or. Le montant en cause est de 12 839,40 francs. Ce repas deviendra bien plus tard un point de procédure devant la Cour de cassation.
+
+L'enquête sur les comptes suisses ouverts par Pierre Botton conduit aussi au Nigéria. Elle aurait permis de découvrir une « caisse noire » dans laquelle le groupe de travaux publics Dumez aurait puisé pour verser des commissions occultes. Le lien entre argent occulte et entreprises de travaux publics est ici explicite.
+
+Tout commence par des signalements. En mai et juin 1992, le parquet de Lyon reçoit des plaintes et des informations, émanant notamment d'un commissaire aux comptes et des services fiscaux. Après enquête, le procureur de la République de Lyon requiert le 13 novembre 1992 l'ouverture d'une information judiciaire des chefs de faux et usage, banqueroute, abus de biens sociaux et complicité. L'information s'étend à 16 sociétés dirigées par le même homme d'affaires ; 12 personnes sont renvoyées devant le tribunal correctionnel et 11 d'entre elles sont déclarées coupables.
+
+## 3. Les questions juridiques : qui répond, de quoi, devant quel juge
+
+La première question est celle de la qualification. Aujourd'hui, l'article 432-11 du code pénal punit une personne investie d'un mandat électif public qui sollicite ou agrée, sans droit, des offres, promesses, dons, présents ou avantages quelconques. La peine est de dix ans d'emprisonnement et de 1 000 000 € d'amende, portée à 2 000 000 €, ou au double du produit de l'infraction, lorsque les faits sont commis en bande organisée. Le texte vise expressément le fait de faire obtenir des « marchés » : l'avantage peut être reçu pour abuser d'une influence réelle ou supposée.
+
+L'article 433-1 est le miroir du précédent. Il punit celui qui propose sans droit ces mêmes avantages à une personne investie d'un mandat électif public, ou qui cède à sa sollicitation. Les peines sont identiques : dix ans d'emprisonnement et 1 000 000 € d'amende, portés à 2 000 000 € en bande organisée. Le droit attrape donc les deux côtés de l'échange, celui qui paie comme celui qui reçoit.
+
+Dans l'affaire Noir, les qualifications retenues sont autres. Les peines prononcées en première instance puis en appel visent l'abus de biens sociaux et son recel. Le droit applicable était celui de l'époque, et non les textes actuels sur la corruption. Ce décalage entre l'image médiatique d'une « affaire de corruption » et la qualification juridique réellement retenue est un point de méthode à garder en tête.
+
+Reste la question du juge compétent. Un ancien ministre bénéficie d'une protection pour les actes accomplis dans l'exercice de ses fonctions ministérielles. Michel Noir a soulevé l'incompétence du juge répressif de droit commun, en invoquant l'article 68-1 de la Constitution, à propos du repas de 12 839,40 francs, pour renvoyer l'affaire devant la Cour de justice de la République. La cour d'appel a retenu que les actes de la fonction ministérielle sont ceux qui ont un rapport direct avec la conduite des affaires de l'État dépendant des attributions du ministre, à l'exclusion des comportements relevant de la vie privée ou des mandats électifs locaux. Le repas ayant réuni les équipes parisiennes et lyonnaises, sans lien avec les affaires de l'État, relevait de la vie privée : la juridiction répressive de droit commun était compétente.
+
+Dernière question : le temps. La prescription empêche de poursuivre l'auteur d'une infraction passé un délai que la loi fixe à dix ans pour les crimes, trois ans pour les délits et un an pour les contraventions. Pour l'abus de biens sociaux, la Cour de cassation a jugé que, l'auteur dissimulant ses détournements, le délai ne commence qu'à partir du moment où l'infraction a été constatée dans des conditions permettant l'exercice de l'action publique. Le recel d'abus de biens sociaux étant un « délit de conséquence », sa prescription suit celle du délit principal.
+
+## 4. Les procédures
+
+L'information judiciaire ouverte le 13 novembre 1992 est la matrice du dossier. Elle porte sur le faux et usage, la banqueroute, l'abus de biens sociaux et la complicité, et s'étend à 16 sociétés. En mars 1993, le juge Philippe Courroye met Michel Noir en examen dans le cadre de l'affaire Botton. Sur les 12 personnes renvoyées devant le tribunal correctionnel, 11 sont déclarées coupables.
+
+Le tribunal correctionnel de Lyon se prononce en première instance dans l'affaire Botton. Pierre Botton est condamné à quatre ans de prison, dont deux avec sursis, à deux millions de francs d'amende et à cinq ans d'interdiction de gérer ou contrôler une entreprise ; le procureur avait réclamé quatre ans de prison ferme, et les juges disent avoir tenu compte de ses efforts pour rembourser des victimes ou des créanciers. Patrick Poivre d'Arvor écope de quinze mois de prison avec sursis et de 200 000 francs d'amende. Michel Noir et Michel Mouillot, maires de Lyon et de Cannes, sont condamnés chacun à quinze mois de prison avec sursis, cinq ans d'inéligibilité et cinq ans d'interdiction du droit de vote.
+
+Les attendus visent durement les élus. Le tribunal estime que les infractions reprochées à Michel Noir, bien que commises dans le cadre privé, traduisent une méconnaissance grave et délibérée de la loi, et qu'une telle infraction commise par un homme politique a nécessairement un retentissement civique. Pour les juges, le député-maire de Lyon ne pouvait pas ne pas avoir connaissance du paiement des cadeaux par les entreprises de Pierre Botton. Michel Mouillot, lui, est reconnu coupable d'avoir encaissé des sommes correspondant à des salaires fictifs qui lui ont été indûment versés.
+
+La cour d'appel de Lyon rend son arrêt le 10 janvier 1996 et aggrave les peines. Pierre Botton est condamné à cinq ans d'emprisonnement, dont dix-huit mois avec sursis, et il est immédiatement incarcéré. Michel Noir est condamné à dix-huit mois de prison avec sursis, 200 000 francs d'amende et cinq ans d'interdiction du droit de vote et d'éligibilité. La sanction frappe le mandat autant que la personne : condamnés à cinq ans d'inéligibilité, Michel Mouillot et Michel Noir pourraient se voir privés de leurs mandats de maire de Cannes et de député du Rhône.
+
+Le dossier des subventions municipales est jugé séparément. Les audiences se tiennent les 13 et 14 mars 1996 devant le tribunal correctionnel, et la question posée est celle de l'usage des subventions votées pour le fonctionnement des groupes politiques siégeant en mairie. Le jugement est rendu le 10 mai 1996 : Michel Noir est condamné à un an de prison avec sursis et 100 000 francs d'amende, tandis que Jean-Paul Bonnet et Serge Guinchard bénéficient d'une relaxe. Le tribunal, présidé par François Berger, consacre une quarantaine de pages à des attendus qui aboutissent à exonérer les deux adjoints de toute responsabilité.
+
+Les condamnés se pourvoient en cassation. Le 6 février 1997, la chambre criminelle examine les pourvois formés contre l'arrêt du 10 janvier 1996 ; l'un des moyens porte sur l'exception d'incompétence tirée de l'immunité ministérielle, à propos du repas de 12 839,40 francs. Un arrêt de la chambre criminelle rejette le pourvoi de Michel Noir sur la prescription du recel d'abus de biens sociaux, comme le rapporte un article du Monde daté du 8 février 1997. La solution retenue est que la prescription du recel ne commence qu'à partir de l'instant où l'abus de biens sociaux lui-même a pu être constaté.
+
+Un dernier volet se referme en 2003. Le 14 novembre 2003, le tribunal correctionnel de Lyon condamne Michel Noir à dix-huit mois de prison avec sursis et 15 000 € d'amende pour recel d'abus de biens sociaux dans l'affaire dite des comptes suisses de Pierre Botton. Les magistrats estiment qu'il a bien été le bénéficiaire d'une partie des sommes collectées par son ex-gendre avant avril 1989, date présumée de leur rupture. Pierre Botton est condamné aux mêmes peines ; sur les trois chefs d'entreprise soupçonnés d'avoir alimenté ces comptes, seul Martin Bouygues bénéficie d'une relaxe, André Kamel, PDG de Dumez Nigéria, écope de quinze mois d'emprisonnement avec sursis et 150 000 € d'amende, et Bertrand Martin, ancien PDG de CCM Sulzer, de trois mois de prison avec sursis.
+
+## 5. L'analyse
+
+Premier enseignement : l'élu est atteint par le circuit de l'argent, pas par la signature d'un marché. Des entreprises de BTP versent des sommes occultes à un intermédiaire, ici 8,6 millions de francs de 1986 à 1991, et une caisse noire chez un groupe de travaux publics aurait servi à payer des commissions occultes. L'article 432-11 du code pénal vise précisément l'avantage reçu pour faire obtenir des « marchés » : la décision favorable n'a pas besoin d'avoir été signée par l'élu lui-même.
+
+Deuxième enseignement : la sanction pénale est personnelle. Michel Noir est condamné pour son propre comportement, à des peines de prison avec sursis et à des amendes. L'inéligibilité s'ajoute à la peine et le prive de la possibilité de se présenter : la sanction atteint donc son mandat autant que lui. Elle vise la personne, non la collectivité.
+
+Troisième enseignement : il faut distinguer trois responsabilités. La responsabilité pénale vise l'auteur du comportement et se traduit par une peine prononcée par le juge répressif ; c'est elle qui joue dans cette affaire. La responsabilité administrative concerne, elle, le fonctionnement du service public et peut mener à l'annulation d'une décision ou à une indemnisation versée par la collectivité. La responsabilité personnelle de l'élu le fait répondre sur ses propres intérêts, ce qui explique que l'élu et l'homme d'affaires soient jugés dans le même dossier mais condamnés séparément.
+
+Quatrième enseignement : l'appel est suspensif, et la vie politique ne s'arrête pas pendant la procédure. Après le jugement de première instance, Michel Mouillot annonce dès sa sortie du tribunal qu'il compte se représenter. Michel Noir laisse planer le doute sur sa candidature. La procédure pénale et le calendrier électoral s'entremêlent, ce qui explique l'attention portée à ces affaires à quelques semaines des élections municipales.
+
+Cinquième enseignement : la prescription ne protège pas l'auteur d'un détournement dissimulé. Le point de départ du délai est reporté au moment où l'infraction a pu être constatée, et le recel suit le sort du délit dont il procède. Sans cette règle, le temps écoulé entre les versements occultes et leur découverte aurait suffi à éteindre les poursuites. Le pourvoi de Michel Noir sur ce point est rejeté.
+
+## 6. Les suites
+
+Michel Noir abandonne la politique après sa condamnation en appel. En 1996, il quitte la vie politique, puis il est définitivement condamné en 2003 dans l'affaire dite des comptes suisses à dix-huit mois de prison avec sursis et 15 000 € d'amende. Il change ensuite de vie : il reprend ses études en 1998, prépare un doctorat de sciences de l'éducation, crée en 2000 l'entreprise Scientific Brain Training à Villeurbanne et soutient sa thèse en 2002.
+
+Pierre Botton connaît un autre parcours. Il passe 602 jours en détention, dans sept maisons d'arrêt, et œuvre ensuite à l'amélioration des conditions de détention et à la prévention de la récidive. Il crée en janvier 2010 l'association « Les Prisons du cœur ». Il est de nouveau condamné en juin 2020 à cinq ans de prison ferme, ramenés à trois ans par la cour d'appel, pour abus de biens sociaux et recel concernant les fonds de son association, et il est incarcéré du 2 juin 2020 au 12 juin 2022.
+
+L'affaire a aussi une postérité médiatique. Elle inspire plusieurs films, dont La Sainte Victoire de François Favrat en 2009. Elle reste un cas de référence sur l'argent de la politique et sur la responsabilité personnelle des élus locaux devant le juge répressif.
+
+## 7. À retenir
+
+Un élu peut être condamné sans avoir signé un marché : il suffit qu'un intermédiaire fasse transiter l'argent des entreprises jusqu'à lui. Dans cette affaire, des entreprises de BTP versent 8,6 millions de francs sur des comptes suisses entre 1986 et 1991, et une caisse noire chez un groupe de travaux publics aurait servi à payer des commissions occultes.
+
+La qualification retenue n'est pas la corruption mais le recel d'abus de biens sociaux, et le droit appliqué était celui de l'époque. La sanction est personnelle : en appel, Michel Noir est condamné le 10 janvier 1996 à dix-huit mois de prison avec sursis, 200 000 francs d'amende et cinq ans d'interdiction de vote et d'éligibilité.
+
+Deux réflexes à garder. Le juge répressif de droit commun reste compétent pour un élu qui a aussi été ministre, dès lors que les faits relèvent de la vie privée ou d'un mandat local. Et l'avantage reçu pour obtenir un marché tombe sous l'article 432-11 du code pénal, qui vise expressément cette hypothèse.
+
+## Chronologie
+
+| Date | Fait |
+| --- | --- |
+| 1982 | Pierre Botton rencontre Michel Noir, alors député de Lyon, et mise sur sa carrière. |
+| mars 1986 | Michel Noir devient ministre du Commerce extérieur et Pierre Botton son conseiller personnel. |
+| 26 juillet 1986 | Un repas réunissant le cabinet ministériel et les collaborateurs lyonnais de Michel Noir, d'un montant de 12 839,40 francs, a lieu à Collonges-au-Mont-d'Or. |
+| 1986-1991 | Des entreprises de BTP versent 8,6 millions de francs par virements occultes sur des comptes suisses ouverts par Pierre Botton. |
+| 1988 | Pierre Botton devient directeur de campagne de Michel Noir pour les municipales. |
+| mars 1989 | Michel Noir est élu maire de Lyon et remporte les neuf mairies d'arrondissement. |
+| 1989-1992 | Des subventions sont attribuées aux groupes politiques municipaux et communautaires constitués en associations Ensemble Lyon et Ensemble Courly. |
+| mai-juin 1992 | Le parquet de Lyon reçoit des plaintes et informations, notamment d'un commissaire aux comptes et des services fiscaux. |
+| 13 novembre 1992 | Ouverture d'une information judiciaire pour faux et usage, banqueroute, abus de biens sociaux et complicité, visant 16 sociétés. |
+| mars 1993 | Michel Noir est mis en examen par le juge Philippe Courroye dans le cadre de l'affaire Botton. |
+| 1 juillet 1993 | Les relevés des comptes bancaires de Michel Noir sont transmis au parquet de Lyon, en marge de l'affaire Botton. |
+| 10 janvier 1996 | La cour d'appel de Lyon aggrave les peines : Pierre Botton est incarcéré, Michel Noir condamné à 18 mois avec sursis, 200 000 francs d'amende et 5 ans d'interdiction de vote et d'éligibilité. |
+| 13-14 mars 1996 | Le tribunal correctionnel de Lyon examine l'affaire des subventions municipales visant Michel Noir, Jean-Paul Bonnet et Serge Guinchard. |
+| 10 mai 1996 | Michel Noir est condamné à un an de prison avec sursis et 100 000 francs d'amende ; Jean-Paul Bonnet et Serge Guinchard sont relaxés. |
+| 6 février 1997 | La chambre criminelle de la Cour de cassation examine les pourvois formés contre l'arrêt du 10 janvier 1996, dont le moyen tiré de l'immunité ministérielle. |
+| 8 février 1997 | Un article du Monde rapporte le rejet du pourvoi de Michel Noir, la prescription du recel ne courant qu'à partir du moment où l'abus de biens sociaux a pu être constaté. |
+| 14 novembre 2003 | Le tribunal correctionnel de Lyon condamne Michel Noir à 18 mois de prison avec sursis et 15 000 € d'amende pour recel d'abus de biens sociaux dans l'affaire des comptes suisses. |
+
+## Acteurs
+
+| Qui | Rôle |
+| --- | --- |
+| Michel Noir | Député du Rhône, maire de Lyon de 1989 à 1995, ancien ministre du Commerce extérieur, condamné dans l'affaire Botton puis dans celle des comptes suisses. |
+| Pierre Botton | Homme d'affaires lyonnais, gendre et directeur de campagne de Michel Noir, au centre du montage de sociétés et des comptes suisses. |
+| Jean-Paul Bonnet | Adjoint de Michel Noir, président et trésorier de l'association bénéficiaire des subventions municipales, relaxé en mai 1996. |
+| Serge Guinchard | Adjoint de Michel Noir, président et trésorier de l'association bénéficiaire des subventions municipales, relaxé en mai 1996. |
+| Michel Mouillot | Maire de Cannes, co-condamné dans l'affaire Botton à quinze mois avec sursis en première instance, puis à cinq ans d'inéligibilité en appel. |
+| Patrick Poivre d'Arvor | Journaliste, condamné pour recel d'abus de biens sociaux à quinze mois de prison avec sursis et 200 000 francs d'amende. |
+| Philippe Courroye | Juge d'instruction qui met Michel Noir en examen en mars 1993 et enquête sur les activités financières de Pierre Botton. |
+| Association Ensemble Lyon | Structure constituée pour les groupes politiques municipaux, bénéficiaire de subventions entre 1989 et 1992. |
+| Association Ensemble Courly | Structure constituée pour les groupes politiques de la Communauté urbaine de Lyon, bénéficiaire de subventions. |
+| Groupe Dumez | Groupe de travaux publics dont une caisse noire au Nigéria aurait servi à verser des commissions occultes. |
+| André Kamel | PDG de Dumez Nigéria, condamné en 2003 à quinze mois d'emprisonnement avec sursis et 150 000 € d'amende. |
+| Martin Bouygues | Chef d'entreprise soupçonné d'avoir alimenté les comptes occultes, relaxé en 2003. |
+| Bertrand Martin | Ancien PDG de CCM Sulzer, condamné en 2003 à trois mois de prison avec sursis pour abus de biens sociaux. |
+| François Berger | Président du tribunal correctionnel de Lyon lors du jugement du 10 mai 1996 sur les subventions municipales. |
+
+## Décisions
+
+### Tribunal correctionnel de Lyon (affaire Botton, première instance), date non précisée par la source, avant l'arrêt d'appel du 10 janvier 1996
+
+- **Demande :** Poursuites pour abus de biens sociaux et recel ; quatre ans de prison ferme réclamés contre Pierre Botton.
+- **Décision :** Pierre Botton : quatre ans de prison dont deux avec sursis, deux millions de francs d'amende, cinq ans d'interdiction de gérer une entreprise. Patrick Poivre d'Arvor : quinze mois avec sursis et 200 000 francs d'amende. Michel Noir et Michel Mouillot : quinze mois avec sursis, cinq ans d'inéligibilité et cinq ans d'interdiction du droit de vote. Les douze prévenus sont condamnés.
+- **Motifs :** Le tribunal retient que Michel Noir ne pouvait pas ne pas avoir connaissance du paiement des cadeaux par les entreprises de Pierre Botton, et que l'infraction d'un homme politique a un retentissement civique.
+
+### Cour d'appel de Lyon, 10 janvier 1996
+
+- **Demande :** Michel Noir soulevait l'incompétence du juge répressif de droit commun à propos du repas du 26 juillet 1986, pour renvoyer l'affaire devant la Cour de justice de la République.
+- **Décision :** L'exception d'incompétence est rejetée : la juridiction répressive de droit commun est compétente pour juger le recel.
+- **Motifs :** Les actes de la fonction ministérielle sont ceux qui ont un rapport direct avec la conduite des affaires de l'État, à l'exclusion de la vie privée et des mandats électifs locaux ; ce repas relevait de la vie privée d'un ministre.
+
+### Cour d'appel de Lyon, 10 janvier 1996
+
+- **Demande :** Appel contre le jugement de première instance.
+- **Décision :** Peines aggravées : Pierre Botton, cinq ans d'emprisonnement dont dix-huit mois avec sursis et incarcération immédiate ; Michel Noir, dix-huit mois avec sursis, 200 000 francs d'amende et cinq ans d'interdiction du droit de vote et d'éligibilité ; Michel Mouillot, cinq ans d'inéligibilité ; Patrick Poivre d'Arvor, peine confirmée.
+- **Motifs :** La cour alourdit les peines prononcées en première instance ; l'arrêt place les deux maires sous la menace d'une perte de leurs mandats.
+
+### Tribunal correctionnel de Lyon, 10 mai 1996
+
+- **Demande :** Poursuites pour abus de confiance visant Michel Noir, Jean-Paul Bonnet et Serge Guinchard à propos de subventions municipales attribuées entre 1989 et 1992.
+- **Décision :** Michel Noir : un an de prison avec sursis et 100 000 francs d'amende. Jean-Paul Bonnet et Serge Guinchard : relaxe.
+- **Motifs :** Le tribunal, présidé par François Berger, consacre une quarantaine de pages d'attendus qui aboutissent à exonérer les deux adjoints de toute responsabilité.
+
+### Cour de cassation, chambre criminelle, 6 février 1997 pour l'examen des pourvois ; rejet rapporté par un article du Monde du 8 février 1997
+
+- **Demande :** Pourvoi de Michel Noir contre l'arrêt de la cour d'appel de Lyon du 10 janvier 1996, notamment sur la prescription du recel d'abus de biens sociaux.
+- **Décision :** Pourvoi rejeté : la condamnation à dix-huit mois de prison avec sursis, 200 000 francs d'amende et cinq ans d'interdiction de vote et d'éligibilité est confirmée.
+- **Motifs :** La prescription du recel ne commence qu'à partir de l'instant où l'abus de biens sociaux lui-même a pu être constaté, le recel étant un délit de conséquence du délit principal.
+
+### Tribunal correctionnel de Lyon, 14 novembre 2003
+
+- **Demande :** Poursuites pour recel d'abus de biens sociaux dans l'affaire dite des comptes suisses de Pierre Botton.
+- **Décision :** Michel Noir : dix-huit mois de prison avec sursis et 15 000 € d'amende. Pierre Botton : mêmes peines. Martin Bouygues : relaxe. André Kamel : quinze mois avec sursis et 150 000 € d'amende. Bertrand Martin : trois mois avec sursis.
+- **Motifs :** Les magistrats estiment que Michel Noir a bien été le bénéficiaire d'une partie des sommes collectées par Pierre Botton avant avril 1989, date présumée de leur rupture.
+
+## Questions de révision
+
+<details>
+<summary>Quelle qualification a été retenue contre Michel Noir dans l'affaire Botton ?</summary>
+
+Le recel d'abus de biens sociaux, et non la corruption. Il est condamné en appel le 10 janvier 1996 à dix-huit mois de prison avec sursis, 200 000 francs d'amende et cinq ans d'interdiction du droit de vote et d'éligibilité.
+
+</details>
+
+<details>
+<summary>Pourquoi le repas de 12 839,40 francs a-t-il donné lieu à un débat sur la compétence du juge ?</summary>
+
+Parce que Michel Noir avait été ministre : il soutenait que cet acte relevait de ses fonctions ministérielles et donc de la Cour de justice de la République. La cour d'appel a jugé que ce repas relevait de la vie privée et que la juridiction répressive de droit commun était compétente.
+
+</details>
+
+<details>
+<summary>Que prévoit l'article 432-11 du code pénal ?</summary>
+
+Il punit la personne investie d'un mandat électif public qui sollicite ou agrée sans droit un avantage pour accomplir un acte de sa fonction ou abuser de son influence, notamment pour faire obtenir des marchés. La peine est de dix ans d'emprisonnement et de 1 000 000 € d'amende, portée à 2 000 000 € en bande organisée.
+
+</details>
+
+<details>
+<summary>Pourquoi Michel Noir n'a-t-il pas pu se prévaloir de la prescription ?</summary>
+
+Parce que le recel d'abus de biens sociaux est un délit de conséquence : sa prescription ne court qu'à partir du moment où l'abus de biens sociaux lui-même a pu être constaté. Le pourvoi de Michel Noir est rejeté sur ce point.
+
+</details>
+
+<details>
+<summary>Quelle sanction Michel Noir a-t-il reçue en 2003 ?</summary>
+
+Le tribunal correctionnel de Lyon l'a condamné le 14 novembre 2003 à dix-huit mois de prison avec sursis et 15 000 € d'amende pour recel d'abus de biens sociaux dans l'affaire des comptes suisses. Pierre Botton est condamné aux mêmes peines.
+
+</details>
+
+## Sources
+
+- [Code pénal, art. 432-11](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042780056>)
+- [Code pénal, art. 433-1](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042780049>)
+- [Michel Noir (Wikipédia)](<https://fr.wikipedia.org/wiki/Michel_Noir>)
+- [Pierre Botton (Wikipédia)](<https://fr.wikipedia.org/wiki/Pierre_Botton>)
+- [Noir-Botton: du beau monde au procès de la corruption politico-financière - L'Humanité](<https://www.humanite.fr/-/-/noir-botton-du-beau-monde-au-proces-de-la-corruption-politico-financiere>)
+- [Michel Noir a été condamné à un an de prison avec sursis](<https://www.lemonde.fr/archives/article/1996/05/12/michel-noir-a-ete-condamne-a-un-an-de-prison-avec-sursis_3733121_1819218.html>)
+- [Cour de Cassation, Chambre criminelle, du 6 février 1997, 96-80.615, Publié au bulletin](<https://www.legifrance.gouv.fr/juri/id/JURITEXT000007066540/>)
+- [De nombreux élus lyonnais sont mis en cause au procès de Michel Noir](<https://www.lemonde.fr/archives/article/1996/03/16/de-nombreux-elus-lyonnais-sont-mis-en-cause-au-proces-de-michel-noir_3701058_1819218.html>)
+- [Les protagonistes de l'affaire Botton ont été lourdement condamnés](<https://www.lesechos.fr/1995/04/les-protagonistes-de-laffaire-botton-ont-ete-lourdement-condamnes-856026>)
+- [La prescription du recel est liée à celle de l'infraction dont il procède](<https://www.lemonde.fr/archives/article/1997/02/08/la-prescription-du-recel-est-liee-a-celle-de-l-infraction-dont-il-procede_3770930_1819218.html>)
+- [La cour d'appel de Lyon aggrave les peines de MM. Botton, Noir et Mouillot](<https://www.lemonde.fr/archives/article/1996/01/12/la-cour-d-appel-de-lyon-aggrave-les-peines-de-mm-botton-noir-et-mouillot_3699488_1819218.html>)
+- [Michel Noir condamné à 18 mois de prison avec sursis](<https://www.lemonde.fr/archives/article/2003/11/16/michel-noir-condamne-a-18-mois-de-prison-avec-sursis_4291321_1819218.html>)
+- [En marge de l'affaire Botton Les relevés des comptes bancaires de Michel Noir transmis au parquet de Lyon](<https://www.lemonde.fr/archives/article/1993/07/01/en-marge-de-l-affaire-botton-les-releves-des-comptes-bancaires-de-michel-noir-transmis-au-parquet-de-lyon_3955650_1819218.html>)
+
+---
+
+<sub>‹ [L'affaire des HLM de Paris : favoritisme et détournement de fonds publics dans la gestion d'un office HLM](etude-affaire-affaire-des-hlm-de-paris.md) · [Retour aux études de cas](README.md) · [Le « 5-7 » à Saint-Laurent-du-Pont : un dancing jamais contrôlé, un maire condamné](etude-affaire-affaire-de-la-catastrophe-de-saint-laurent-du.md) ›</sub>

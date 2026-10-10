@@ -1,0 +1,276 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# L'affaire Maurice Arreckx : corruption et marchés publics au conseil général du Var
+
+<sub>`Étude de cas` · Probité et droit pénal · Expert · 14 min · Affaire Maurice Arreckx, Toulon / Var, 1995 · 8/10 au jury</sub>
+
+> Un élu cumulant la mairie de Toulon, la présidence du conseil général du Var et un mandat de sénateur est poursuivi pour des commissions occultes versées par des entreprises attributaires de marchés publics. Relaxé du chef de corruption mais condamné pour recel, il finit sa vie avec trois ans de prison ferme pour des marchés truqués entre 1982 et 1994.
+
+> [!TIP]
+> Un élu qui encaisse des commissions occultes répond personnellement devant le juge pénal, même si la corruption elle-même n'est pas prouvée : le recel suffit.
+
+**À retenir**
+
+- Arreckx a été relaxé du chef de corruption passive en décembre 1996 mais condamné pour recel d'abus de confiance : c'est le profit de l'infraction d'autrui qui a fondé la condamnation \[W7\].
+- L'immunité parlementaire a été levée le 28 juillet 1994 par le bureau du Sénat et la Chancellerie, permettant son placement en détention provisoire le 1er août 1994 \[W6\]\[W8\].
+- Le second dossier, celui du compte « Charlot » à Genève, a abouti le 2 juin 2000 à trois ans de prison ferme et quatre millions de francs d'amende pour recel d'abus de biens sociaux et recel d'abus de confiance \[W1\]\[W4\].
+
+<details>
+<summary><b>Version rapide</b> · 1 min</summary>
+
+#### Contexte et faits
+
+Maurice Arreckx, maire de Toulon de 1959 à 1985 et président du conseil général du Var de 1985 à 1994, cumule les mandats locaux et parlementaires. Il est au cœur d'un système politico-financier dans un département où l'économie locale dépend fortement de la commande publique. L'affaire éclate après l'assassinat de la députée Yann Piat en 1994, qui l'accuse dans une lettre posthume. L'enquête révèle des marchés publics truqués et des commissions occultes, notamment pour la Maison des technologies à Toulon.
+
+Arreckx est mis en examen en 1994 pour corruption passive et recel, puis incarcéré. Un compte suisse baptisé « Charlot » est découvert, alimenté par des entreprises attributaires de marchés. En 1996, il est condamné pour recel d'abus de confiance mais relaxé de la corruption passive. En 2000, il est condamné pour recel d'abus de biens sociaux et d'abus de confiance concernant les comptes suisses. Il meurt en 2001.
+
+#### Ce qu'il faut retenir
+
+L'affaire montre que le recel permet de condamner un élu même si le pacte de corruption n'est pas prouvé : il suffit d'établir qu'il a profité d'argent provenant d'une infraction commise par les entreprises. La responsabilité pénale est personnelle et l'immunité parlementaire n'est qu'un filtre procédural, levé ici le 28 juillet 1994. Le cumul des mandats concentre le pouvoir et rend les responsabilités difficiles à démêler.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 3 min</summary>
+
+#### Le contexte : un homme fort dans un département verrouillé
+
+Maurice Arreckx, né en 1917, est maire de Toulon de 1959 à 1985, conseiller général depuis 1958, président du conseil général du Var de 1985 à 1994, député puis sénateur UDF. Le Var des années 1980 est décrit comme un département où l'économie locale passe à 80 % par l'institutionnel, avec de nombreuses petites entreprises pour qui un marché public est vital. Arreckx est lié à Jean-Louis Fargette, figure du milieu varois, et le Parti républicain domine la vie politique locale.
+
+#### Les faits : de l'assassinat de Yann Piat au compte suisse
+
+L'affaire démarre avec l'assassinat de la députée Yann Piat le 25 février 1994. Dans une lettre posthume, elle accuse Maurice Arreckx, Joseph Sercia et Jean-Louis Fargette. L'enquête met au jour le « système Arreckx ». Le 2 mars 1994, trois vice-présidents du conseil général sont interpellés. Arreckx est entendu comme témoin le 8 mars, puis battu aux cantonales le 27 mars. Le dossier central concerne la Maison des technologies, une école d'ingénieurs construite à Toulon sur commande du conseil général. Le juge engage des poursuites le 15 juillet 1994 : l'entreprise Campenon Bernard a versé une commission d'1,5 million de francs. Un compte suisse « Charlot », ouvert en 1982, est découvert avec six millions de francs, alimenté par des entreprises du BTP et de l'eau.
+
+#### Les procédures et les décisions
+
+Arreckx est sénateur ; son immunité parlementaire est levée le 28 juillet 1994. Il est écroué le 1er août 1994 après plus de six heures d'audition. Il reste détenu jusqu'au 15 mai 1995, puis sort sous caution de 2,2 millions de francs. Une nouvelle mise en examen pour recel d'abus de confiance et recel d'abus de biens sociaux intervient le 24 mars 1995. Le premier procès se tient du 14 au 18 octobre 1996 ; le 16 décembre 1996, il est condamné à deux ans de prison, un million de francs d'amende et cinq ans de privation des droits civiques pour recel d'abus de confiance, mais relaxé de la corruption passive. En appel en novembre 1997, la condamnation est confirmée ou aggravée selon les sources. Il est incarcéré du 27 avril au 28 août 1998 pour purger sa peine, puis libéré conditionnellement pour raisons de santé. Le 2 juin 2000, il est condamné à trois ans de prison ferme et quatre millions de francs d'amende pour recel d'abus de biens sociaux et recel d'abus de confiance dans l'attribution de marchés publics entre 1982 et 1994.
+
+#### Les questions juridiques : corruption et recel
+
+La corruption passive (article 432-11 du code pénal) punit l'élu qui sollicite ou agrée des avantages pour accomplir ou s'abstenir d'accomplir un acte de sa fonction. La corruption active (article 433-1) punit celui qui propose ces avantages. Les deux faces sont punissables. Le recel est le fait de détenir ou profiter du produit d'une infraction commise par un autre. Dans l'affaire Arreckx, la défense a reconnu les faits mais a soutenu que les entreprises avaient commis l'infraction au droit commercial, ce qui a conduit à retenir le recel plutôt que la corruption. La responsabilité pénale est personnelle : chaque prévenu répond de son propre comportement. L'immunité parlementaire n'est pas une impunité mais un filtre procédural.
+
+#### Ce qu'on en retient
+
+Premier enseignement : quand le pacte de corruption n'est pas prouvé, le recel devient la voie de secours. En décembre 1996, Arreckx est relaxé de la corruption passive mais condamné pour recel d'abus de confiance : il suffit d'établir qu'il a encaissé de l'argent provenant d'une infraction. Deuxième enseignement : l'argent circule par des canaux discrets, comme le compte « Charlot » à Genève, ce qui complique la reconstitution des circuits financiers. Troisième enseignement : la responsabilité pénale est personnelle, et l'immunité parlementaire est un filtre, pas un bouclier. Quatrième enseignement : le cumul des mandats concentre le pouvoir et rend les responsabilités difficiles à démêler. Enfin, le droit actuel punit la corruption de dix ans d'emprisonnement et 1 000 000 € d'amende, mais ces textes ne s'appliquaient pas aux faits jugés entre 1996 et 2000.
+
+</details>
+
+## 1. Le contexte : Toulon, le Var et un homme fort
+
+Maurice Arreckx naît le 13 décembre 1917 à Saint-Junien, en Haute-Vienne, et meurt à Toulon en mars 2001. Il est maire de Toulon de 1959 à 1985, conseiller général de Toulon depuis 1958, puis président du conseil général du Var de 1985 à 1994. Il siège aussi au Parlement : député UDF du Var de 1978 à 1981 puis d'avril à octobre 1986, sénateur UDF du Var de 1986 à 1995. Le conseil général est l'assemblée qui administre le département ; son président en est l'exécutif et suit à ce titre les marchés que le département passe et paie. Cumuler la présidence d'un conseil général et un mandat parlementaire place donc Arreckx des deux côtés de la commande publique : celui qui engage la dépense et celui que le Sénat protège.
+
+Le Var des années 1980 est décrit comme un département où l'argent circule vite. Selon une analyse de 1994, l'économie locale passe à 80 % par l'institutionnel ; l'État est le premier employeur avec 55 000 emplois, devant l'armée, puis le BTP et les services. Quelque 90 % des entreprises du Var comptent moins de dix salariés. Pour ces petites structures, un marché public départemental n'est pas un contrat parmi d'autres : c'est souvent l'activité de l'année. Le même texte rapporte la formule prêtée à Arreckx : « la justice pour tous, les faveurs pour mes amis ».
+
+Son nom est lié à un homme du milieu varois, Jean-Louis Fargette, né le 20 mai 1948 à La Valette-du-Var et abattu le 17 mars 1993 à Vallecrosia, en Italie. Fargette est un intime d'Arreckx ; chacun met ses ambitions au service de l'autre. Lors de la campagne des législatives de 1978, Arreckx le place à la tête d'une officine électorale et lui demande d'assurer la sécurité des meetings de l'UDF. Bien que fiché au grand banditisme, Fargette prononce le discours de bienvenue au Premier ministre Raymond Barre, venu soutenir les candidats UDF à Toulon. En 1980, Arreckx lui confie le CAM — le Comité d'action pour la majorité selon une source, le Comité d'action municipal selon une autre.
+
+La proximité ne s'arrête pas à la politique. Fargette paie des vacances à Maurice Arreckx, relation qui lui aurait probablement coûté une carrière nationale. Arreckx a par ailleurs confirmé l'alibi de Fargette en 1971 dans une affaire de falsification de chèque. Deux journalistes, Simon Fontvieille et Jean-Baptiste Malet, écrivent que « ensemble, l'élu et le truand règnent sur Toulon durant plus de deux décennies » et qu'ils « tissent des réseaux d'allégeance clientélistes ». Voilà le décor : une ville, un département, deux réseaux imbriqués.
+
+Politiquement, le Var est alors verrouillé. Le Parti républicain domine le département, avec deux figures de proue, Maurice Arreckx et François Léotard, et des bastions à Toulon, Fréjus, Draguignan, Saint-Raphaël, Hyères et Brignoles. Le journaliste José Lenzini décrit un homme qui accorde son soutien à tel candidat plutôt qu'à tel autre, veille à ce que l'UDF ne soit jamais menacée par le RPR et définit les grandes lignes du développement départemental. Rien, à ce stade, n'a été jugé : ce qui suit est l'histoire d'une procédure.
+
+## 2. Les faits : de l'assassinat de Yann Piat au compte suisse
+
+Tout part d'un assassinat. Le député du Var Yann Piat est tué le 25 février 1994. Dans une lettre posthume, elle accuse de sa mort Maurice Arreckx, son bras droit Joseph Sercia et Jean-Louis Fargette. En enquêtant sur ce meurtre, la justice met au jour un ensemble de pratiques politico-financières que la presse baptise le « système Arreckx ». L'affaire judiciaire naît donc d'un dossier criminel, pas d'un contrôle de gestion.
+
+Les conséquences sont immédiates. Le 2 mars 1994, trois vice-présidents du conseil général sont interpellés, avec une vingtaine de personnes connues de la justice. Maurice Arreckx est entendu le 8 mars comme simple témoin. Le 27 mars, il est battu au second tour des cantonales dans le 6e canton par la candidate du Front national — Éliane de La Brosse. Lâché par ses amis politiques, il se retrouve seul.
+
+Le dossier central est la Maison des technologies, une école d'ingénieurs construite au Champ-de-Mars, au centre de Toulon, sur commande du conseil général. Un proche conseiller d'Arreckx reconnaît les conditions dans lesquelles le chantier a été attribué. Le 15 juillet 1994, le juge d'instruction engage des poursuites : l'entreprise Campenon Bernard a versé une commission d'1,5 million de francs pour ce chantier. Une autre source retient un pot-de-vin d'un million de francs reçu pour la Maison des technologies. L'écart entre les deux montants montre à quel point la reconstitution des flux financiers est délicate.
+
+Arreckx est alors sénateur. Le juge demande la levée de son immunité parlementaire au bureau du Sénat et à la Chancellerie ; elle est accordée le 28 juillet 1994. Le bureau du Sénat autorise son éventuel placement en détention provisoire sans l'entendre. Arreckx est écroué à la prison des Baumettes, à Marseille, le 1er août 1994, après plus de six heures d'audition. Selon une source, il est mis en examen pour « corruption passive, recel d'abus de confiance et complicité » ; selon une autre, pour « corruption active, recel, abus de confiance et complicité ». Seuls trois parlementaires ont été incarcérés avant lui sous la Ve République, parmi eux Éric Boyer, impliqué dans l'affaire des marchés du conseil général qu'il présidait en août 1993 et condamné à quatre ans de prison dont trois avec sursis.
+
+Il reste détenu jusqu'au 15 mai 1995, puis sort sous une caution de 2,2 millions de francs. Une caution est une somme versée pour garantir que la personne mise en examen se présentera à son procès. Entre-temps, un second dossier est apparu : un compte ouvert à Genève en 1982, baptisé « Charlot », sur lequel six millions de francs ont été retrouvés. Arreckx en reconnaît l'existence en octobre 1994. Le compte a été alimenté par les « dons » d'entreprises ayant travaillé pour la ville de Toulon et le conseil général, dans le BTP et la distribution de l'eau. Cela lui vaut une nouvelle mise en examen le 24 mars 1995 pour recel d'abus de confiance et recel d'abus de biens sociaux.
+
+Le second procès s'ouvre en mars 2000. La défense reconnaît les faits : Arreckx a bien reçu sur un compte en Suisse des sommes estimées entre 7 et 9 millions de francs, versées par des entreprises attributaires de marchés publics dans le Var. Le 23 mars 2000, son avocat, Me Hervé Andreani, plaide devant le tribunal correctionnel de Toulon que « ce sont les entreprises qui ont commis une infraction au droit commercial » et dénonce les « dérives » de la procédure. La défense ne conteste donc pas l'encaissement : elle conteste le rattachement de la faute à l'élu plutôt qu'aux entreprises versantes.
+
+## 3. Les questions juridiques : qui répond de quoi, devant quel juge
+
+La corruption met en présence deux personnes : celui qui propose et celui qui accepte. L'article 432-11 du code pénal punit la corruption passive : le fait, pour une personne dépositaire de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif public — donc un maire, un conseiller général ou un sénateur — de solliciter ou d'agréer sans droit des offres, promesses, dons, présents ou avantages quelconques, pour accomplir ou s'abstenir d'accomplir un acte de sa fonction, ou pour abuser de son influence. La peine est de dix ans d'emprisonnement et de 1 000 000 € d'amende, montant qui peut être porté au double du produit tiré de l'infraction. En bande organisée, l'amende passe à 2 000 000 € ou au double du produit.
+
+L'article 433-1 punit l'autre côté de l'échange : le fait, pour quiconque, de proposer sans droit ces avantages à un élu ou à un agent public, pour qu'il accomplisse ou s'abstienne d'accomplir un acte de sa fonction, ou pour qu'il abuse de son influence. La même peine frappe celui qui cède à la sollicitation. Appliqué aux marchés publics, ce texte vise aussi bien l'élu qui réclame une commission que l'entreprise qui la verse. La corruption est un délit à deux faces, et les deux faces sont punissables.
+
+Les faits jugés dans l'affaire Arreckx portent sur des marchés publics truqués entre 1982 et 1994. Un principe fondamental du droit pénal veut qu'on soit jugé selon les textes en vigueur au moment des faits. Les articles 432-11 et 433-1 du code pénal, cités ici, servent donc à comprendre la logique de l'incrimination et ce que le droit punit aujourd'hui, pas à décrire les textes appliqués en 1996 ou en 2000.
+
+Le recel est le fait de détenir, conserver ou profiter du produit d'une infraction commise par un autre. C'est la qualification qui structure l'affaire : Arreckx est poursuivi pour recel d'abus de confiance et recel d'abus de biens sociaux. L'infraction d'origine est l'abus reproché aux entreprises qui ont versé l'argent. La défense l'a identifié puisqu'elle plaide que « ce sont les entreprises qui ont commis une infraction au droit commercial ». La question posée au tribunal n'est donc pas seulement « a-t-il demandé ? », mais aussi « a-t-il profité d'argent sorti irrégulièrement de sociétés ? ».
+
+Devant quel juge ? Les délits de corruption et de recel relèvent du tribunal correctionnel, ici celui de Toulon. Arreckx y comparaît aux côtés de cinq co-inculpés, des chefs d'entreprise liés à la chambre de commerce et d'industrie du Var. La responsabilité pénale est personnelle : chaque prévenu répond de son propre comportement, l'élu comme l'entrepreneur. La circonstance que l'argent ait circulé entre plusieurs mains ne dilue pas la responsabilité, elle la répartit.
+
+Un parlementaire bénéficie d'une protection de fonction, l'immunité parlementaire. Dans cette affaire, elle a obligé le juge à demander au bureau du Sénat et à la Chancellerie la levée de l'immunité de Maurice Arreckx, accordée le 28 juillet 1994. Le bureau du Sénat a autorisé son éventuel placement en détention provisoire sans l'entendre. L'immunité n'est donc pas une impunité : c'est un filtre procédural qui protège le mandat, pas les faits.
+
+Trois responsabilités différentes doivent être distinguées. La responsabilité pénale vise la personne physique et aboutit à une peine : prison, amende, privation des droits civiques ; c'est celle qui frappe Maurice Arreckx. La responsabilité administrative vise la collectivité et ses contrats, et se règle devant le juge administratif selon des règles propres aux marchés publics. La responsabilité personnelle engage le patrimoine et les droits civiques de l'élu. Dans cette affaire, ce sont des condamnations personnelles qui ont été prononcées.
+
+## 4. Les procédures, étape par étape
+
+1er août 1994 : le placement en détention provisoire. La détention provisoire est l'emprisonnement d'une personne avant son jugement. Après plus de six heures d'audition, le juge met Maurice Arreckx en examen et le conduit à la prison des Baumettes. Le bureau du Sénat avait autorisé son éventuel placement en détention provisoire sans l'entendre. Il n'est alors ni jugé, ni condamné.
+
+15 mai 1995 : la libération sous caution. Après plus de neuf mois de détention, Arreckx sort contre une caution de 2,2 millions de francs. Le dossier s'est élargi : le compte « Charlot » a entraîné une nouvelle mise en examen le 24 mars 1995 pour recel d'abus de confiance et recel d'abus de biens sociaux. À cette date, aucune décision au fond n'est intervenue.
+
+14 au 18 octobre 1996 : le premier procès. Le tribunal correctionnel de Toulon juge Maurice Arreckx avec cinq co-inculpés, des chefs d'entreprise liés à la chambre de commerce et d'industrie du Var. Le parquet requiert cinq ans de prison. Le procureur lance au prévenu qu'il est « un traître à la cause du Var », tandis qu'Arreckx se défend en soutenant n'avoir rien réclamé. À la veille de ce procès, un article de presse évoque « la chasse aux enveloppes de 500 000 francs ».
+
+16 décembre 1996 : le jugement. Arreckx est reconnu coupable de recel d'abus de confiance et condamné à deux ans de prison, un million de francs d'amende et cinq ans de privation des droits civiques. Il est en revanche relaxé de la poursuite de corruption passive. Devant les caméras, il se réjouit : « Je suis honnête. Je suis heureux que le délit de corruption soit retiré ». La relaxe sur ce chef signifie que le tribunal n'a pas retenu le pacte de corruption lui-même ; la condamnation repose sur le profit tiré de l'infraction d'autrui.
+
+Novembre 1997 : l'appel. La cour d'appel d'Aix-en-Provence statue sur le recours. Une source indique qu'elle reconnaît Maurice Arreckx coupable d'avoir reçu quelque 2 millions de francs d'une filiale de la Générale des eaux contre l'attribution du chantier de la Maison des technologies, et qu'elle le condamne à quatre ans de prison dont deux avec sursis, un million de francs d'amende et cinq ans de privation des droits civiques pour complicité et recel d'abus de confiance. Une autre présente l'arrêt comme une confirmation du jugement rendu en décembre 1996, qui le renvoie en prison. Les deux récits convergent sur un point : la condamnation tient.
+
+27 avril 1998 : le retour en prison. Maurice Arreckx est incarcéré pour purger le solde d'une peine de deux ans d'emprisonnement. Une autre source précise qu'il s'agit de l'exécution de la peine après la décision d'appel. Il sort le 28 août 1998, bénéficiant d'une libération conditionnelle pour raisons de santé. La libération conditionnelle est une sortie anticipée, sous conditions, avant la fin de la peine.
+
+2 juin 2000 : la condamnation pour les comptes suisses. Le tribunal correctionnel de Toulon condamne Maurice Arreckx à trois ans de prison ferme et quatre millions de francs d'amende pour recel d'abus de biens sociaux et recel d'abus de confiance dans l'attribution d'importants marchés publics entre 1982 et 1994. La veille du jugement, sa défense avait reconnu les faits tout en les renvoyant aux entreprises versantes. Selon une source, cette nouvelle peine est confondue avec la précédente.
+
+Mars 2001 : la mort. Maurice Arreckx meurt à Toulon en mars 2001. Il est enterré au cimetière central de Toulon auprès de ses parents, puis de son épouse en 2011. L'affaire laisse une trace médiatique durable : le 6 novembre 2001, la cour d'appel d'Aix-en-Provence juge le litige opposant l'avocat Jean Pin à la société Prisma, éditrice du magazine Gala.
+
+## 5. L'analyse : ce que l'affaire montre
+
+Premier enseignement : quand le pacte de corruption n'est pas prouvé, le recel devient la voie de secours. En décembre 1996, Arreckx est relaxé du chef de corruption passive mais condamné pour recel d'abus de confiance. Le parquet n'a donc pas eu besoin de démontrer qu'il avait réclamé l'argent : il a suffi d'établir qu'il l'avait encaissé et que cet argent provenait d'une infraction commise par les entreprises. Cette mécanique explique pourquoi la défense s'est concentrée sur la qualification de l'infraction d'origine, plaidant que le droit commercial avait été violé par les entreprises et non par l'élu.
+
+Deuxième enseignement : l'argent circule par des canaux discrets. Les commissions évoquées pour la Maison des technologies vont d'un million de francs selon une source à 1,5 million selon une autre. Le compte « Charlot », ouvert à Genève en 1982, a reçu six millions de francs de « dons » d'entreprises du BTP et de l'eau. Au procès de 2000, la défense reconnaît des sommes estimées entre 7 et 9 millions de francs reçues sur un compte en Suisse. Or reconstituer un circuit financier est beaucoup plus difficile quand l'argent passe par l'étranger.
+
+Troisième enseignement : la responsabilité pénale est personnelle. Arreckx comparaît avec cinq chefs d'entreprise co-inculpés. Chacun répond de son propre comportement. La distinction avec les autres responsabilités est nette : la responsabilité pénale aboutit à une peine personnelle, comme les deux ans de prison et la privation des droits civiques de 1996 ; la responsabilité administrative concerne la collectivité et ses contrats, devant un juge distinct ; la responsabilité personnelle engage le patrimoine et les droits civiques de l'élu.
+
+Quatrième enseignement : l'immunité parlementaire est un filtre, pas un bouclier. Il a fallu que le bureau du Sénat et la Chancellerie lèvent l'immunité d'Arreckx le 28 juillet 1994 pour qu'il puisse être placé en détention le 1er août. Une fois le filtre franchi, la procédure de droit commun reprend son cours. Le fait qu'il soit l'un des rares parlementaires incarcérés sous la Ve République montre que la protection joue réellement, sans empêcher la répression.
+
+Cinquième enseignement : le cumul des mandats concentre le pouvoir. Maurice Arreckx a été maire de Toulon, conseiller général, président du conseil général, député puis sénateur. Les marchés en cause étaient commandés par la ville de Toulon et par le conseil général qu'il présidait. Le rapprochement, dans une même personne, de la décision d'engager la dépense et du mandat parlementaire qui protège des poursuites rend les responsabilités difficiles à démêler.
+
+## 6. Les suites
+
+L'affaire a des effets politiques immédiats. Selon le récit de l'INA, elle a contribué à faciliter la victoire du Front national à Toulon aux élections municipales de 1995, en éclaboussant la municipalité UDF-PR sortante. Arreckx avait déjà été battu aux cantonales de mars 1994 et ne s'est pas représenté aux sénatoriales de 1995. Le département sort atteint dans son image : le texte évoque une atteinte qui, venant après l'affaire Médecin et avant l'affaire Mouillot, touche la région entière.
+
+L'écho médiatique de l'affaire lui a survécu. En décembre 1994, le magazine Gala consacre son numéro 81 aux « Visages de 1994 » et encadre en rouge les visages de ceux qui auraient été « emportés par la spirale des affaires ». La photographie de l'avocat Jean Pin y est publiée à la place de celle de Maurice Arreckx, l'article précisant que ce dernier a été emprisonné. La cour d'appel d'Aix-en-Provence jugera la faute rédactionnelle non contestable et indemnisera Jean Pin.
+
+## 7. À retenir
+
+Un élu local qui encaisse des commissions occultes répond personnellement devant le juge pénal, même si la corruption elle-même n'est pas retenue à son encontre. Le recel d'abus de confiance et le recel d'abus de biens sociaux permettent de le condamner en suivant l'argent plutôt qu'en prouvant le pacte. C'est le cœur de l'affaire Arreckx.
+
+L'immunité parlementaire n'empêche pas les poursuites : elle impose une levée préalable, ici accordée le 28 juillet 1994, et l'intéressé a été écroué le 1er août suivant. Le juge peut aussi tenir compte de la santé du condamné : Arreckx a bénéficié d'une libération conditionnelle pour raisons de santé en août 1998.
+
+Le droit actuel punit la corruption passive et la corruption active de dix ans d'emprisonnement et de 1 000 000 € d'amende, montant porté au double du produit de l'infraction. Ces textes ne s'appliquaient pas aux faits jugés entre 1996 et 2000, commis pour l'essentiel entre 1982 et 1994.
+
+## Chronologie
+
+| Date | Fait |
+| --- | --- |
+| 1978 | Lors de la campagne des législatives, Arreckx place Jean-Louis Fargette à la tête d'une officine électorale et lui confie la sécurité des meetings de l'UDF ; Fargette prononce le discours de bienvenue à Raymond Barre à Toulon. |
+| 1980 | Arreckx confie à Fargette le CAM, le Comité d'action pour la majorité selon une source, le Comité d'action municipal selon une autre. |
+| 1982 | Ouverture à Genève du compte baptisé « Charlot », alimenté par des dons d'entreprises travaillant pour la ville de Toulon et le conseil général. |
+| 17 mars 1993 | Jean-Louis Fargette est abattu à Vallecrosia, en Italie. |
+| 25 février 1994 | Assassinat du député du Var Yann Piat. |
+| 2 mars 1994 | Trois vice-présidents du conseil général du Var sont interpellés avec une vingtaine de personnes connues de la justice. |
+| 8 mars 1994 | Maurice Arreckx est entendu comme témoin. |
+| 27 mars 1994 | Battu au second tour des cantonales dans le 6e canton par la candidate du Front national. |
+| 15 juillet 1994 | Le juge d'instruction engage des poursuites : Campenon Bernard a versé une commission d'1,5 million de francs pour la Maison des technologies. |
+| 28 juillet 1994 | Le bureau du Sénat et la Chancellerie accordent la levée de l'immunité parlementaire d'Arreckx, permettant son éventuel placement en détention. |
+| 1 août 1994 | Maurice Arreckx est écroué à la prison des Baumettes à Marseille après plus de six heures d'audition. |
+| octobre 1994 | Arreckx reconnaît l'existence du compte suisse baptisé « Charlot ». |
+| 24 mars 1995 | Nouvelle mise en examen pour recel d'abus de confiance et recel d'abus de biens sociaux. |
+| 15 mai 1995 | Libération sous une caution de 2,2 millions de francs. |
+| 14 au 18 octobre 1996 | Procès devant le tribunal correctionnel de Toulon avec cinq co-inculpés ; le parquet requiert cinq ans de prison. |
+| 16 décembre 1996 | Condamnation à deux ans de prison, un million de francs d'amende et cinq ans de privation des droits civiques ; relaxe du chef de corruption passive. |
+| 18 novembre 1997 | Arrêt de la cour d'appel d'Aix-en-Provence : condamnation confirmée pour complicité et recel d'abus de confiance. |
+| 27 avril 1998 | Incarcération pour purger le solde d'une peine de deux ans d'emprisonnement. |
+| 28 août 1998 | Sortie de prison sous libération conditionnelle pour raisons de santé. |
+| 23 mars 2000 | Plaidoirie de la défense au procès des comptes suisses devant le tribunal correctionnel de Toulon ; les faits sont reconnus. |
+| 2 juin 2000 | Condamnation à trois ans de prison ferme et quatre millions de francs d'amende pour recel d'abus de biens sociaux et recel d'abus de confiance. |
+| mars 2001 | Mort de Maurice Arreckx à Toulon. |
+| 6 novembre 2001 | La cour d'appel d'Aix-en-Provence indemnise Jean Pin pour la publication de sa photographie à la place de celle d'Arreckx dans Gala. |
+
+## Acteurs
+
+| Qui | Rôle |
+| --- | --- |
+| Maurice Arreckx | Maire de Toulon de 1959 à 1985, président du conseil général du Var de 1985 à 1994, député puis sénateur UDF ; condamné pour recel dans deux dossiers de marchés publics. |
+| Jean-Louis Fargette | Parrain du milieu varois, intime d'Arreckx, abattu en Italie le 17 mars 1993. |
+| Yann Piat | Député du Var assassinée le 25 février 1994 ; sa lettre posthume accuse Arreckx, Joseph Sercia et Fargette de sa mort. |
+| Conseil général du Var | Collectivité qui a commandé la Maison des technologies et dont Arreckx était le président au moment des faits. |
+| Campenon Bernard | Entreprise attributaire du chantier de la Maison des technologies, accusée d'avoir versé une commission d'1,5 million de francs. |
+| Juge Thierry Roland (ou Rolland selon la source) | Juge d'instruction qui a engagé les poursuites le 15 juillet 1994 et mis Arreckx en examen. |
+| Éliane de La Brosse | Candidate du Front national qui bat Maurice Arreckx aux cantonales de mars 1994. |
+| SNC Prisma | Éditrice du magazine Gala, condamnée en 2001 pour avoir publié la photographie de l'avocat Jean Pin à la place de celle de Maurice Arreckx. |
+
+## Décisions
+
+### Tribunal correctionnel de Toulon, 16 décembre 1996
+
+- **Demande :** Poursuites pour recel d'abus de confiance et corruption passive.
+- **Décision :** Deux ans de prison, un million de francs d'amende et cinq ans de privation des droits civiques ; relaxe du chef de corruption passive.
+- **Motifs :** Arreckx est reconnu coupable de recel d'abus de confiance, c'est-à-dire d'avoir profité du produit d'une infraction commise par les entreprises versantes ; le pacte de corruption lui-même n'a pas été retenu.
+
+### Cour d'appel d'Aix-en-Provence, 18 novembre 1997
+
+- **Demande :** Appel du jugement de décembre 1996.
+- **Décision :** Condamnation à quatre ans de prison dont deux avec sursis, un million de francs d'amende et cinq ans de privation des droits civiques pour complicité et recel d'abus de confiance.
+- **Motifs :** La cour retient qu'Arreckx a reçu environ 2 millions de francs d'une filiale de la Générale des eaux contre l'attribution du chantier de la Maison des technologies.
+
+### Cour d'appel d'Aix-en-Provence, novembre 1997
+
+- **Demande :** Appel du jugement de décembre 1996.
+- **Décision :** Confirmation du jugement, suivie d'un retour en prison le 27 avril 1998 pour purger le solde de la peine.
+- **Motifs :** La cour confirme la condamnation prononcée en décembre 1996 ; l'exécution de la peine reprend ensuite.
+
+### Tribunal correctionnel de Toulon, 2 juin 2000
+
+- **Demande :** Poursuites pour recel d'abus de biens sociaux et recel d'abus de confiance dans l'attribution d'importants marchés publics entre 1982 et 1994.
+- **Décision :** Trois ans de prison ferme et quatre millions de francs d'amende ; peine confondue avec la précédente selon une source.
+- **Motifs :** Les sommes reçues sur le compte suisse, estimées entre 7 et 9 millions de francs et reconnues par la défense, provenaient d'entreprises attributaires de marchés publics dans le Var.
+
+### Cour d'appel d'Aix-en-Provence, 1re chambre civile, 6 novembre 2001
+
+- **Demande :** Jean Pin demandait réparation pour la publication de sa photographie à la place de celle de Maurice Arreckx dans le magazine Gala.
+- **Décision :** La société Prisma est condamnée à lui payer 5 000 francs de dommages-intérêts, outre 8 000 francs au titre des frais de procédure.
+- **Motifs :** La faute rédactionnelle n'était pas contestée et le doute créé sur l'identification de la personne présentée comme compromise dans des affaires suffisait à caractériser un préjudice.
+
+## Questions de révision
+
+<details>
+<summary>Sur quel fondement Maurice Arreckx a-t-il été condamné en décembre 1996, alors qu'il a été relaxé du chef de corruption ?</summary>
+
+Il a été reconnu coupable de recel d'abus de confiance : il avait profité d'argent provenant d'une infraction commise par les entreprises versantes. Le tribunal n'a donc pas eu à établir qu'il avait lui-même sollicité ou accepté un pacte de corruption.
+
+</details>
+
+<details>
+<summary>Pourquoi a-t-il fallu lever son immunité parlementaire ?</summary>
+
+Il était sénateur en exercice, ce qui obligeait le juge à demander la levée de son immunité au bureau du Sénat et à la Chancellerie. Elle a été accordée le 28 juillet 1994, ce qui a permis son placement en détention provisoire le 1er août suivant.
+
+</details>
+
+<details>
+<summary>Qu'est-ce que le recel, et pourquoi est-il central ici ?</summary>
+
+Le recel est le fait de détenir ou de profiter du produit d'une infraction commise par un autre. La défense a reconnu que l'élu avait reçu des sommes sur un compte en Suisse, tout en soutenant que l'infraction avait été commise par les entreprises : c'est cette discussion qui a structuré le procès.
+
+</details>
+
+<details>
+<summary>Quelle a été l'issue du dossier des comptes suisses ?</summary>
+
+Le 2 juin 2000, le tribunal correctionnel de Toulon l'a condamné à trois ans de prison ferme et quatre millions de francs d'amende pour recel d'abus de biens sociaux et recel d'abus de confiance dans l'attribution de marchés publics entre 1982 et 1994.
+
+</details>
+
+<details>
+<summary>Que prévoit aujourd'hui le code pénal pour la corruption d'un élu dans un marché public ?</summary>
+
+L'article 432-11 punit la corruption passive et l'article 433-1 la corruption active, de dix ans d'emprisonnement et 1 000 000 € d'amende, montant porté au double du produit de l'infraction. Ces textes ne s'appliquaient pas aux faits de l'affaire, commis pour l'essentiel entre 1982 et 1994.
+
+</details>
+
+## Jurisprudence
+
+- [Cour d'appel d'Aix-en-Provence, du 6 novembre 2001, 97-02772 (?)](<https://www.legifrance.gouv.fr/juri/id/JURITEXT000006939828>) : Jean Pin reprochait au magazine Gala d'avoir publié sa photographie à la place de celle de Maurice Arreckx dans un numéro consacré aux personnalités « emportées par la spirale des affaires » ; la cour d'appel d'Aix-en-Provence a jugé la faute rédactionnelle non contestable et lui a alloué 5 000 francs de dommages-intérêts, l'erreur d'image créant à elle seule un préjudice.
+
+## Sources
+
+- [Code pénal, art. 432-11](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042780056>)
+- [Code pénal, art. 433-1](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042780049>)
+- [Maurice Arreckx (Wikipédia)](<https://fr.wikipedia.org/wiki/Maurice_Arreckx>)
+- [Maurice Arreckx condamné](<https://fresques.ina.fr/sudorama/fiche-media/00000000107/maurice-arreckx-condamne.html>)
+- [La prédominance du PR dans le Var est bousculée par les actions judiciaires](<https://www.lesechos.fr/1995/05/la-predominance-du-pr-dans-le-var-est-bousculee-par-les-actions-judiciaires-858418>)
+- [Jean-Louis Fargette (Wikipédia)](<https://fr.wikipedia.org/wiki/Jean-Louis_Fargette>)
+- [La chute d'Arreckx](<https://www.lesechos.fr/1994/08/la-chute-darreckx-887093>)
+- [La défense de Maurice Arreckx reconnaît les faits mais dénonce les « dérives » de la procédure](<https://www.lemonde.fr/archives/article/2000/03/25/la-defense-de-maurice-arreckx-reconnait-les-faits-mais-denonce-les-derives-de-la-procedure_3614749_1819218.html>)
+- [ARRECKX condamnation \| INA](<https://www.ina.fr/ina-eclaire-actu/video/cac96083638/arreckx-condamnation>)
+- [Maurice Arreckx et la chasse aux enveloppes de 500 000 francs](<https://www.lemonde.fr/archives/article/1996/10/17/maurice-arreckx-et-la-chasse-aux-enveloppes-de-500-000-francs_3752292_1819218.html>)
+- [JUSTICE : Maurice Arreckx a été condamné pour complicité et recel d'abus de confiance.](<https://www.lemonde.fr/archives/article/1997/11/20/justice-maurice-arreckx-a-ete-condamne-pour-complicite-et-recel-d-abus-de-confiance_3804240_1819218.html>)
+- [JUSTICE : Maurice Arreckx, a été incarcéré pour purger le solde d'une peine de deux ans d'emprisonnement.](<https://www.lemonde.fr/archives/article/1998/04/29/justice-maurice-arreckx-a-ete-incarcere-pour-purger-le-solde-d-une-peine-de-deux-ans-d-emprisonnement_3648741_1819218.html>)
+- [Maurice Arreckx est condamné à trois ans de prison ferme](<https://www.lemonde.fr/archives/article/2000/06/03/maurice-arreckx-est-condamne-a-trois-ans-de-prison-ferme_3604507_1819218.html>)
+
+---
+
+<sub>‹ [Malpasset : la responsabilité sans faute du maître de l'ouvrage public (Fréjus, 1959-1976)](etude-affaire-catastrophe-de-malpasset.md) · [Retour aux études de cas](README.md) · [L'incendie du Parlement de Bretagne (1994) : responsabilité de l'État et réparation du patrimoine](etude-affaire-affaire-de-l-incendie-du-parlement-de-bretagne.md) ›</sub>

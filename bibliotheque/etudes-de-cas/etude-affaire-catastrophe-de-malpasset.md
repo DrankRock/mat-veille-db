@@ -1,0 +1,306 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# Malpasset : la responsabilité sans faute du maître de l'ouvrage public (Fréjus, 1959-1976)
+
+<sub>`Étude de cas` · Responsabilité des personnes publiques · Expert · 12 min · Catastrophe de Malpasset, Fréjus (Var), 1962 · 8/10 au jury</sub>
+
+> Dans la nuit du 2 décembre 1959, la rupture du barrage de Malpasset, ouvrage public dont le département du Var avait la garde, tue 423 personnes et fait environ 7 000 sinistrés. Le Conseil d'État juge en 1971 que ce maître d'ouvrage est responsable même sans faute envers les tiers, écarte la force majeure et met hors de cause les constructeurs : la commune de Fréjus, elle, n'est ici qu'une victime, tiers pour ses biens autres que son réseau d'eau.
+
+> [!TIP]
+> Le maître de l'ouvrage public répare sans faute les dommages causés aux tiers, sauf faute de la victime ou force majeure — et la pluie qui remplit un barrage n'est pas une force majeure.
+
+**À retenir**
+
+- Le maître d'un ouvrage public répond de plein droit des dommages causés aux tiers, même sans faute de sa part ; seule la faute de la victime ou la force majeure l'exonère.
+- La cause de la rupture étant interne au barrage (roche sous l'ouvrage), les pluies n'ont pas constitué une force majeure : elles n'ont fait que remplir l'ouvrage selon sa destination.
+- La qualité de la victime change tout : la ville de Fréjus, usager pour son réseau d'eau, n'était qu'un tiers pour ses autres biens, et n'a donc été indemnisée que pour ces derniers.
+- L'indemnité se calcule en déduisant les sommes déjà versées pour réparer le dommage, y compris les dons recueillis par souscription nationale.
+
+<details>
+<summary><b>Version rapide</b> · 1 min</summary>
+
+#### L'essentiel de l'affaire
+
+Le barrage de Malpasset, construit sur le Reyran en amont de Fréjus, était un barrage voûte destiné à alimenter en eau l'agglomération de Fréjus–Saint-Raphaël et sa plaine agricole. Le maître d'ouvrage était le conseil général du Var, qui avait confié la conception à l'ingénieur André Coyne. Les études préparatoires furent très légères et le site, un défilé de gneiss fracturé, ne convenait pas à une voûte mince. Après des travaux de 1952 à 1954, la retenue ne fut remplie que lentement et se trouvait en premier remplissage le 2 décembre 1959 lorsqu'elle rompit, libérant une lame d'eau qui dévasta la vallée et Fréjus. Le bilan humain fut très lourd : 423 morts selon le chiffre officiel, et des dégâts matériels considérables.
+
+Les victimes n'ont pas à démontrer une faute : le maître de l'ouvrage est responsable de plein droit des dommages causés aux tiers par l'ouvrage dont il a la garde. Seules la faute de la victime ou la force majeure peuvent l'exonérer. La ville de Fréjus était usager du barrage pour son réseau d'eau, mais tiers pour ses autres biens. Le Conseil d'État, par un arrêt du 28 mai 1971, a rejeté le pourvoi du département du Var et écarté la force majeure, la rupture provenant de la roche sous l'ouvrage. Un autre arrêt du 22 octobre 1971 a reconnu la ville de Fréjus tiers pour ses biens autres que le réseau d'eau. L'indemnisation devait déduire les sommes déjà versées, y compris celles issues de la souscription nationale.
+
+À retenir : la responsabilité sans faute du maître d'ouvrage public est la règle ; la pluie qui remplit un barrage n'est pas une force majeure ; la qualité de la victime (usager ou tiers) commande le régime applicable ; et l'indemnité se calcule en déduisant les secours déjà reçus.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 11 min</summary>
+
+#### Le contexte et les faits
+
+Le barrage de Malpasset est un barrage voûte construit sur le Reyran, dernier affluent rive gauche de l'Argens, en amont de Fréjus, dans le Var. Sa retenue devait assurer l'alimentation en eau de l'agglomération de Fréjus–Saint-Raphaël, des communes voisines et de leur plaine agricole. Le maître d'ouvrage, personne publique qui commande l'ouvrage et en supporte la charge, est le conseil général du Var. Il confie la conception et la maîtrise d'œuvre à l'ingénieur des ponts et chaussées André Coyne et à son bureau d'études, spécialistes des barrages-voûtes, sous le contrôle de la direction départementale du Génie rural. Le 3 août 1950, le ministère de l'Agriculture approuve la construction d'un barrage sur le Reyran, dans la zone de Malpasset ; le professeur Corroy, géologue, approuvait le site.
+
+Les études préparatoires sont décrites comme très légères. Le premier et seul géologue consulté au stade préliminaire conseille un barrage-poids implanté plus en amont ; il n'est pas écouté et n'est plus consulté. L'étude géotechnique se réduit à un levé géologique de terrain et à quelques sondages mécaniques, sans presque aucun suivi géotechnique de chantier. Or une voûte mince doit s'appuyer sur une roche très résistante, ce que le site n'offre pas. Les travaux se déroulent d'avril 1952 à décembre 1954. La retenue se remplit ensuite très lentement, parce que le Reyran est à sec la plupart du temps, que la région manque de pluie et que des lâchers d'eau réguliers limitent la montée du niveau, en raison d'expropriations qui traînent à se résoudre. Le 2 décembre 1959, le barrage vit donc son premier remplissage — la phase la plus critique de la vie d'un ouvrage hydraulique.
+
+À la fin de novembre et au début de décembre 1959, des précipitations intenses s'abattent sur le bassin versant. Le Reyran, d'ordinaire presque sec, se transforme en torrent et le niveau du lac monte brutalement. La retenue atteint brièvement sa cote maximale dans les quelques heures qui précèdent le drame. Le 2 décembre 1959 au soir, le barrage rompt, en pleine phase de premier remplissage. Une lame d'environ 50 millions de mètres cubes d'eau s'engouffre dans la vallée du Reyran. Les estimations de hauteur et de vitesse varient : une vague d'environ 40 mètres à près de 70 km/h, ou de 30 mètres filant à près de 80 km/h. Seule l'ampleur du phénomène fait l'unanimité. Fréjus est atteinte quelques minutes plus tard : la ville est submergée 21 minutes après la rupture par une eau chargée de boue. La Nationale 7 et la voie ferrée sont emportées sur plusieurs centaines de mètres, la vallée est « décapée » sur 5 km et une couche de boue de 50 cm recouvre plusieurs quartiers. En quelques secondes, 53 maisons de la vallée sont détruites, ainsi que 50 fermes, et la vague balaie des avions de la base aéronavale.
+
+Le bilan humain est l'un des plus lourds de l'histoire civile française du XXe siècle. Le nombre officiel de morts est de 423, dont beaucoup d'enfants — 151 —, avec environ 7 000 sinistrés. En 1974, on parle de 446 victimes : le décompte a varié selon les époques et les sources. Les dégâts matériels sont considérables : constructions et infrastructures détruites, fermes soufflées, terres agricoles ravagées. Les secours s'organisent sans téléphone ni électricité, sous la direction de la mairie de Fréjus. La ville redistribue plus de 100 millions de francs aux sinistrés et à la reconstruction. Une souscription nationale alimente un « fonds des sinistrés » ; neuf milliards d'anciens francs sont collectés. Ce fonds prendra une place décisive dans le contentieux de l'indemnisation, car les sommes versées seront ensuite déduites des indemnités dues.
+
+#### Les questions juridiques
+
+Première question : qui doit payer ? Les victimes n'ont pas à démontrer une faute. Le principe est posé sans détour : le maître de l'ouvrage est responsable, même en l'absence de faute, des dommages que les ouvrages publics dont il a la garde causent aux tiers, tant en raison de leur existence que de leur fonctionnement. Ici, le maître de l'ouvrage est le département du Var — non la commune de Fréjus. Deux notions commandent le raisonnement. La qualité de tiers : est tiers celui qui n'est ni usager de l'ouvrage, ni chargé de son entretien ou de sa conduite. L'exonération : le maître d'ouvrage ne se dégage qu'en établissant la faute de la victime ou un cas de force majeure. Tant que ces causes ne sont pas prouvées, la responsabilité joue automatiquement, sans qu'aucune faute soit recherchée.
+
+La ville de Fréjus illustre parfaitement cette distinction de qualités. Pour les dommages subis par son réseau de distribution d'eau, elle est usager du barrage, puisqu'elle s'y alimentait en partie ; elle avait d'ailleurs concédé ce service public à la Compagnie des eaux et de l'ozone. Pour ses autres biens — voies urbaines, monuments publics, plages, installations d'assainissement ou d'éclairage public — elle n'est qu'un tiers. Sa qualité, et donc le régime applicable, changent selon le bien atteint. Le juge compétent est le juge administratif : le litige oppose une victime à une personne publique et porte sur un ouvrage public. Les arrêts visent la loi du 28 pluviôse an VIII, texte de compétence appliqué à l'époque en matière de travaux publics. Le droit applicable était donc celui de l'époque, et non les règles actuelles : c'est une précaution de lecture indispensable pour une affaire de 1959.
+
+Dernière question, très pratique : les recours contre les intervenants. Le maître d'ouvrage peut former un appel en garantie — faire venir au procès un tiers pour qu'il supporte tout ou partie de la condamnation — contre l'État, les constructeurs, l'ingénieur concepteur, son bureau d'études ou le service du Génie rural. Il faut alors démontrer une faute de conception, d'exécution ou de surveillance, ce qui est un tout autre raisonnement que la responsabilité sans faute.
+
+#### Les procédures et décisions
+
+Le tribunal administratif de Nice est d'abord saisi par l'entreprise Bec Frères, tiers victime. Par un jugement du 20 juin 1968, il déclare le département du Var responsable des dommages subis par cette entreprise et ordonne une expertise pour les évaluer. Il rejette en revanche les appels en garantie formés par le département contre l'État, les constructeurs et le service du Génie rural. Le département conteste ce jugement devant le Conseil d'État. Le Conseil d'État, statuant en Assemblée le 28 mai 1971, rejette le pourvoi du département du Var et fixe la règle de fond : le maître de l'ouvrage est responsable même en l'absence de faute. Il écarte la force majeure, car la rupture est due à l'« expulsion » de la roche à l'aval immédiat de l'ouvrage sous la pression de l'eau retenue : la cause de la rupture ne peut donc être regardée comme extérieure au barrage. Les pluies n'ont fait que contribuer à « mettre en eau » l'ouvrage, ce qui est sa destination même. Sur les appels en garantie, aucune faute n'est relevée à la charge des constructeurs, des architectes et entrepreneurs, ni du service du Génie rural, en sa qualité de directeur des travaux.
+
+Quelques mois plus tard, le 22 octobre 1971, le Conseil d'État tranche le litige de la ville de Fréjus. Le tribunal administratif avait rejeté sa demande au motif qu'elle était usager du barrage ; l'arrêt annule ce raisonnement. La ville est bien usager pour son réseau d'eau, mais tiers pour l'ensemble de ses biens communaux autres que ce réseau : le département du Var est responsable de ces derniers, et l'affaire est renvoyée au tribunal administratif de Nice pour fixer l'indemnité. Pour le réseau de distribution d'eau, la demande est rejetée, le département établissant l'entretien normal de l'ouvrage dont il avait la garde.
+
+Vient ensuite le contentieux de masse de l'indemnisation, porté par les victimes devant le tribunal administratif de Nice, puis devant le Conseil d'État. La méthode retenue est constante : pour évaluer l'indemnité due à une victime, il faut déduire du montant du préjudice les versements déjà faits en vue de réparer les dommages causés par la catastrophe. Les sommes versées à l'aide de fonds recueillis par souscription nationale et comptabilisées au titre du fonds des sinistrés ont bien le caractère de versements destinés à cette réparation, alors même qu'elles proviennent de libéralités, c'est-à-dire de dons. La dame X..., blessée à Fréjus — une plaie profonde au cou et des contusions multiples, dont une cicatrice qui lui causait encore une certaine gêne — voit sa requête rejetée : les 3 000 F qu'elle avait reçus du fonds des sinistrés par un mandat du 10 avril 1961 couvraient les 2 000 F de préjudice corporel et les 1 000 F alloués au titre du préjudice moral. Dans un autre dossier, le Conseil d'État confirme l'évaluation à 65 000 F des préjudices d'un adjudant-chef ayant perdu son épouse et son fils mineur, dont 45 000 F au titre de la douleur morale et des troubles dans les conditions d'existence, l'intéressé conservant par ailleurs une incapacité permanente partielle de 15 %.
+
+Tous les dossiers ne se ressemblent pas. Des grands-parents réclament en vain un préjudice matériel tiré de l'aide que leur fils décédé aurait pu leur apporter : ce préjudice, disaient-ils, était seulement éventuel et ne pouvait donc pas être retenu. Pour les deux enfants orphelins, le fonds avait versé 47 097 F à chacun, plus le capital constitutif d'une rente de 2 500 F par an jusqu'à leur majorité, et leurs demandes complémentaires sont rejetées. Dans l'affaire de la dame veuve Z..., les versements reçus — 105 500 F du fonds et 3 722 F de l'Électricité de France à titre de secours immédiat et de capital-décès, soit 109 222 F — assurent une exacte réparation de la douleur morale et des troubles dans les conditions d'existence. L'indemnisation se heurte enfin à un refus politique. En 1974, un conflit ouvert entre l'État et le département du Var au sujet du paiement d'indemnités évaluées à 36 millions de francs est décrit. Le conseil général refuse de faire supporter ces dépenses aux contribuables varois et, par une délibération du 15 janvier, décide de s'opposer formellement à tout prélèvement d'office ; un décret du ministre de l'intérieur, paru au Journal officiel du 7 mars, annule cette délibération. Son président, Édouard Soldani, sénateur et maire socialiste de Draguignan, explique que « la conscience se révolte » à la pensée que les Varois, déjà éprouvés, pourraient être pénalisés à nouveau.
+
+#### L'analyse
+
+L'affaire montre d'abord la force de la responsabilité sans faute. Aucune faute n'est relevée contre le département du Var, et pourtant il est condamné. Il suffit que l'ouvrage dont il a la garde ait causé le dommage : c'est une responsabilité de plein droit, fondée sur le risque créé par l'ouvrage, et non sur une faute à établir. La victime n'a donc qu'à prouver son dommage et le lien avec l'ouvrage. La force majeure est la seule véritable porte de sortie, et elle s'est refermée. Pour exonérer le maître d'ouvrage, l'événement invoqué doit être extérieur à l'ouvrage. Or la rupture provient de la roche située sous le barrage : elle est interne à l'ouvrage lui-même. Les pluies n'ont fait que remplir le barrage, ce qui est sa fonction normale, si bien que l'argument météorologique ne pouvait pas prospérer.
+
+La qualité de la victime commande tout le reste. La ville de Fréjus gagne pour ses biens autres que son réseau d'eau et perd pour ce réseau, simplement parce qu'elle en était l'usager. Le réflexe à garder : qualifier la victime avant de raisonner, bien par bien, car une même collectivité peut être usager pour un dommage et tiers pour un autre. Sur le terrain pénal, les sources convergent vers l'absence de faute. Un arrêt de la Cour de cassation du 7 décembre 1967 conclut à l'absence de faute humaine à toutes les étapes du projet. Aucune faute n'a été établie envers les constructeurs par les différentes juridictions, la bonne qualité de la voûte et du béton a été reconnue, et la catastrophe est imputable aux déficiences des fondations. Responsabilité administrative et responsabilité pénale ne se confondent donc pas : l'une répare, l'autre sanctionne, et chacune a son juge.
+
+Enfin, la réparation ne s'ajoute pas à elle-même. Les sommes déjà reçues au titre du drame, y compris les dons d'une souscription nationale, se déduisent du préjudice : le juge ne répare pas deux fois le même dommage. C'est ce qui explique la masse de rejets dans le contentieux indemnitaire, beaucoup de victimes ayant déjà été aidées par le fonds des sinistrés. Le mot « commune » mérite ici une précision, car il est trompeur. La commune de Fréjus n'est pas maître d'ouvrage : elle est une collectivité victime, comme les particuliers. Le maître d'ouvrage est le département du Var. Mais le régime est identique pour une commune : si elle a la garde d'un ouvrage public — digue, piscine, réseau — et qu'un tiers en subit un dommage, elle est responsable sans faute, sauf faute de la victime ou force majeure. La commune de Fréjus a donc été indemnisée ici comme tiers, et non condamnée comme maître d'ouvrage.
+
+#### Les suites et à retenir
+
+La catastrophe a nourri une réforme de la sécurité des barrages. Un Comité technique permanent des barrages a été créé pour étudier les projets et contrôler l'exécution de tout ouvrage de plus de 20 m de haut, création située en 1967, en présentant l'ensemble comme une réforme de la réglementation des barrages. L'enjeu est clair : imposer des études de sous-sol suffisantes avant de construire. L'alimentation en eau de Fréjus devait être repensée. Le barrage de Saint-Cassien, sur le Biançon, est étudié et construit par EDF entre 1962 et 1965, pour pallier l'insuffisance d'alimentation du Reyran et assurer l'adduction de l'ouest des Alpes-Maritimes. De nouvelles ressources en eau ont été cherchées et le Reyran a été canalisé. Le site est devenu un lieu de mémoire. Le barrage n'a jamais été reconstruit : une partie de la voûte est encore visible et le fond de l'ancien lac est redevenu la vallée du Reyran, où la végétation a repris ses droits. La ville honore les victimes lors de cérémonies commémoratives qui se tiennent traditionnellement les 2 et 3 décembre au pied du gisant de Malpasset.
+
+Le maître d'un ouvrage public est responsable de plein droit des dommages causés aux tiers par cet ouvrage : aucune faute n'est à prouver. Il n'échappe à cette responsabilité qu'en établissant la faute de la victime ou un cas de force majeure, c'est-à-dire un événement extérieur à l'ouvrage. La pluie n'est pas une force majeure quand elle remplit un barrage : elle fait fonctionner l'ouvrage selon sa destination. C'est le raisonnement qui a fermé au département du Var la seule voie d'exonération disponible. La qualité de la victime décide du sort du litige : usager d'un côté, tiers de l'autre. Il faut la vérifier bien par bien, car une même collectivité peut cumuler les deux qualités. Et l'indemnité se calcule nette : on déduit les sommes déjà versées, même issues d'une souscription nationale.
+
+</details>
+
+## 1. Le contexte
+
+Le barrage de Malpasset est un barrage voûte construit sur le Reyran, dernier affluent rive gauche de l'Argens, en amont de Fréjus, dans le Var. Un barrage voûte est un ouvrage en béton courbé qui reporte la poussée de l'eau sur les rives rocheuses qui l'encadrent. Sa retenue devait assurer l'alimentation en eau de l'agglomération de Fréjus–Saint-Raphaël, des communes voisines et de leur plaine agricole. Selon, le lac formé s'étendait sur 4,2 km pour un volume total de 50 millions de mètres cubes, dont 25 utilisables en service normal. Le site est un défilé étroit de gneiss très fracturé, et non la gorge à roche saine qu'exige une voûte très mince.
+
+Le maître d'ouvrage — la personne publique qui commande l'ouvrage et en supporte la charge — est le conseil général du Var. Il confie la conception et la maîtrise d'œuvre à l'ingénieur des ponts et chaussées André Coyne et à son bureau d'études, spécialistes des barrages-voûtes, sous le contrôle de la direction départementale du Génie rural. Le 3 août 1950, le ministère de l'Agriculture approuve la construction d'un barrage sur le Reyran, dans la zone de Malpasset ; le professeur Corroy, géologue, approuvait le site. Retenez ce point pour tout l'exposé : le maître d'ouvrage n'est pas une commune ici, mais le département.
+
+Les études préparatoires sont décrites comme très légères. Le premier et seul géologue consulté au stade préliminaire conseille un barrage-poids implanté plus en amont ; il n'est pas écouté et n'est plus consulté. L'étude géotechnique se réduit à un levé géologique de terrain et à quelques sondages mécaniques, sans presque aucun suivi géotechnique de chantier. Or une voûte mince doit s'appuyer sur une roche très résistante, ce que le site n'offre pas.
+
+Les travaux se déroulent d'avril 1952 à décembre 1954. La retenue se remplit ensuite très lentement, parce que le Reyran est à sec la plupart du temps, que la région manque de pluie et que des lâchers d'eau réguliers limitent la montée du niveau, en raison d'expropriations qui traînent à se résoudre. Le 2 décembre 1959, le barrage vit donc son premier remplissage — la phase la plus critique de la vie d'un ouvrage hydraulique.
+
+## 2. Les faits
+
+À la fin de novembre et au début de décembre 1959, des précipitations intenses s'abattent sur le bassin versant. Le Reyran, d'ordinaire presque sec, se transforme en torrent et le niveau du lac monte brutalement. La retenue atteint brièvement sa cote maximale dans les quelques heures qui précèdent le drame.
+
+Le 2 décembre 1959 au soir, le barrage rompt. retient 21 h 13, 21 h 11, en pleine phase de premier remplissage. Une lame d'environ 50 millions de mètres cubes d'eau s'engouffre dans la vallée du Reyran. Les estimations de hauteur et de vitesse varient : décrit une vague d'environ 40 mètres à près de 70 km/h, évoque une vague de 30 mètres filant à près de 80 km/h. Seule l'ampleur du phénomène fait l'unanimité.
+
+Fréjus est atteinte quelques minutes plus tard : selon, la ville est submergée 21 minutes après la rupture par une eau chargée de boue. La Nationale 7 et la voie ferrée sont emportées sur plusieurs centaines de mètres, la vallée est « décapée » sur 5 km et une couche de boue de 50 cm recouvre plusieurs quartiers. précise qu'en quelques secondes 53 maisons de la vallée sont détruites, ainsi que 50 fermes, et que la vague balaie des avions de la base aéronavale.
+
+Le bilan humain est l'un des plus lourds de l'histoire civile française du XXe siècle. Le nombre officiel de morts est de 423, dont beaucoup d'enfants — en compte 151 —, avec environ 7 000 sinistrés., en 1974, parle de 446 victimes : le décompte a varié selon les époques et les sources. Les dégâts matériels sont considérables : constructions et infrastructures détruites, fermes soufflées, terres agricoles ravagées.
+
+Les secours s'organisent sans téléphone ni électricité, sous la direction de la mairie de Fréjus. Selon, la ville redistribue plus de 100 millions de francs aux sinistrés et à la reconstruction. Une souscription nationale alimente un « fonds des sinistrés » ; évoque neuf milliards d'anciens francs collectés. Ce fonds prendra une place décisive dans le contentieux de l'indemnisation, car les sommes versées seront ensuite déduites des indemnités dues.
+
+## 3. Les questions juridiques
+
+Première question : qui doit payer ? Les victimes n'ont pas à démontrer une faute. Le principe est posé sans détour : le maître de l'ouvrage est responsable, même en l'absence de faute, des dommages que les ouvrages publics dont il a la garde causent aux tiers, tant en raison de leur existence que de leur fonctionnement. Ici, le maître de l'ouvrage est le département du Var — non la commune de Fréjus.
+
+Deux notions commandent le raisonnement. La qualité de tiers : est tiers celui qui n'est ni usager de l'ouvrage, ni chargé de son entretien ou de sa conduite. L'exonération : le maître d'ouvrage ne se dégage qu'en établissant la faute de la victime ou un cas de force majeure. Tant que ces causes ne sont pas prouvées, la responsabilité joue automatiquement, sans qu'aucune faute soit recherchée.
+
+La ville de Fréjus illustre parfaitement cette distinction de qualités. Pour les dommages subis par son réseau de distribution d'eau, elle est usager du barrage, puisqu'elle s'y alimentait en partie ; elle avait d'ailleurs concédé ce service public à la Compagnie des eaux et de l'ozone. Pour ses autres biens — voies urbaines, monuments publics, plages, installations d'assainissement ou d'éclairage public — elle n'est qu'un tiers. Sa qualité, et donc le régime applicable, changent selon le bien atteint.
+
+Le juge compétent est le juge administratif : le litige oppose une victime à une personne publique et porte sur un ouvrage public. Les arrêts visent la loi du 28 pluviôse an VIII, texte de compétence appliqué à l'époque en matière de travaux publics. Le droit applicable était donc celui de l'époque, et non les règles actuelles : c'est une précaution de lecture indispensable pour une affaire de 1959.
+
+Dernière question, très pratique : les recours contre les intervenants. Le maître d'ouvrage peut former un appel en garantie — faire venir au procès un tiers pour qu'il supporte tout ou partie de la condamnation — contre l'État, les constructeurs, l'ingénieur concepteur, son bureau d'études ou le service du Génie rural. Il faut alors démontrer une faute de conception, d'exécution ou de surveillance, ce qui est un tout autre raisonnement que la responsabilité sans faute.
+
+## 4. Les procédures
+
+Le tribunal administratif de Nice est d'abord saisi par l'entreprise Bec Frères, tiers victime. Par un jugement du 20 juin 1968, il déclare le département du Var responsable des dommages subis par cette entreprise et ordonne une expertise pour les évaluer. Il rejette en revanche les appels en garantie formés par le département contre l'État, les constructeurs et le service du Génie rural. Le département conteste ce jugement devant le Conseil d'État.
+
+Le Conseil d'État, statuant en Assemblée le 28 mai 1971, rejette le pourvoi du département du Var et fixe la règle de fond : le maître de l'ouvrage est responsable même en l'absence de faute. Il écarte la force majeure, car la rupture est due à l'« expulsion » de la roche à l'aval immédiat de l'ouvrage sous la pression de l'eau retenue : la cause de la rupture ne peut donc être regardée comme extérieure au barrage. Les pluies n'ont fait que contribuer à « mettre en eau » l'ouvrage, ce qui est sa destination même. Sur les appels en garantie, aucune faute n'est relevée à la charge des constructeurs, des architectes et entrepreneurs, ni du service du Génie rural, en sa qualité de directeur des travaux.
+
+Quelques mois plus tard, le 22 octobre 1971, le Conseil d'État tranche le litige de la ville de Fréjus. Le tribunal administratif avait rejeté sa demande au motif qu'elle était usager du barrage ; l'arrêt annule ce raisonnement. La ville est bien usager pour son réseau d'eau, mais tiers pour l'ensemble de ses biens communaux autres que ce réseau : le département du Var est responsable de ces derniers, et l'affaire est renvoyée au tribunal administratif de Nice pour fixer l'indemnité. Pour le réseau de distribution d'eau, la demande est rejetée, le département établissant l'entretien normal de l'ouvrage dont il avait la garde.
+
+Vient ensuite le contentieux de masse de l'indemnisation, porté par les victimes devant le tribunal administratif de Nice, puis devant le Conseil d'État. La méthode retenue est constante : pour évaluer l'indemnité due à une victime, il faut déduire du montant du préjudice les versements déjà faits en vue de réparer les dommages causés par la catastrophe. Les sommes versées à l'aide de fonds recueillis par souscription nationale et comptabilisées au titre du fonds des sinistrés ont bien le caractère de versements destinés à cette réparation, alors même qu'elles proviennent de libéralités, c'est-à-dire de dons.
+
+La dame X..., blessée à Fréjus — une plaie profonde au cou et des contusions multiples, dont une cicatrice qui lui causait encore une certaine gêne — voit sa requête rejetée : les 3 000 F qu'elle avait reçus du fonds des sinistrés par un mandat du 10 avril 1961 couvraient les 2 000 F de préjudice corporel et les 1 000 F alloués au titre du préjudice moral. Dans un autre dossier, le Conseil d'État confirme l'évaluation à 65 000 F des préjudices d'un adjudant-chef ayant perdu son épouse et son fils mineur, dont 45 000 F au titre de la douleur morale et des troubles dans les conditions d'existence, l'intéressé conservant par ailleurs une incapacité permanente partielle de 15 %.
+
+Tous les dossiers ne se ressemblent pas. Des grands-parents réclament en vain un préjudice matériel tiré de l'aide que leur fils décédé aurait pu leur apporter : ce préjudice, disaient-ils, était seulement éventuel et ne pouvait donc pas être retenu. Pour les deux enfants orphelins, le fonds avait versé 47 097 F à chacun, plus le capital constitutif d'une rente de 2 500 F par an jusqu'à leur majorité, et leurs demandes complémentaires sont rejetées. Dans l'affaire de la dame veuve Z..., les versements reçus — 105 500 F du fonds et 3 722 F de l'Électricité de France à titre de secours immédiat et de capital-décès, soit 109 222 F — assurent une exacte réparation de la douleur morale et des troubles dans les conditions d'existence.
+
+L'indemnisation se heurte enfin à un refus politique. En 1974, décrit un conflit ouvert entre l'État et le département du Var au sujet du paiement d'indemnités évaluées à 36 millions de francs. Le conseil général refuse de faire supporter ces dépenses aux contribuables varois et, par une délibération du 15 janvier, décide de s'opposer formellement à tout prélèvement d'office ; un décret du ministre de l'intérieur, paru au Journal officiel du 7 mars, annule cette délibération. Son président, Édouard Soldani, sénateur et maire socialiste de Draguignan, explique que « la conscience se révolte » à la pensée que les Varois, déjà éprouvés, pourraient être pénalisés à nouveau.
+
+## 5. L'analyse
+
+L'affaire montre d'abord la force de la responsabilité sans faute. Aucune faute n'est relevée contre le département du Var, et pourtant il est condamné. Il suffit que l'ouvrage dont il a la garde ait causé le dommage : c'est une responsabilité de plein droit, fondée sur le risque créé par l'ouvrage, et non sur une faute à établir. La victime n'a donc qu'à prouver son dommage et le lien avec l'ouvrage.
+
+La force majeure est la seule véritable porte de sortie, et elle s'est refermée. Pour exonérer le maître d'ouvrage, l'événement invoqué doit être extérieur à l'ouvrage. Or la rupture provient de la roche située sous le barrage : elle est interne à l'ouvrage lui-même. Les pluies n'ont fait que remplir le barrage, ce qui est sa fonction normale, si bien que l'argument météorologique ne pouvait pas prospérer.
+
+La qualité de la victime commande tout le reste. La ville de Fréjus gagne pour ses biens autres que son réseau d'eau et perd pour ce réseau, simplement parce qu'elle en était l'usager. Le réflexe à garder : qualifier la victime avant de raisonner, bien par bien, car une même collectivité peut être usager pour un dommage et tiers pour un autre.
+
+Sur le terrain pénal, les sources convergent vers l'absence de faute. Selon, un arrêt de la Cour de cassation du 7 décembre 1967 conclut à l'absence de faute humaine à toutes les étapes du projet. indique qu'aucune faute n'a été établie envers les constructeurs par les différentes juridictions, que la bonne qualité de la voûte et du béton a été reconnue, et que la catastrophe est imputable aux déficiences des fondations. Responsabilité administrative et responsabilité pénale ne se confondent donc pas : l'une répare, l'autre sanctionne, et chacune a son juge.
+
+Enfin, la réparation ne s'ajoute pas à elle-même. Les sommes déjà reçues au titre du drame, y compris les dons d'une souscription nationale, se déduisent du préjudice : le juge ne répare pas deux fois le même dommage. C'est ce qui explique la masse de rejets dans le contentieux indemnitaire, beaucoup de victimes ayant déjà été aidées par le fonds des sinistrés.
+
+Le mot « commune » mérite ici une précision, car il est trompeur. La commune de Fréjus n'est pas maître d'ouvrage : elle est une collectivité victime, comme les particuliers. Le maître d'ouvrage est le département du Var. Mais le régime est identique pour une commune : si elle a la garde d'un ouvrage public — digue, piscine, réseau — et qu'un tiers en subit un dommage, elle est responsable sans faute, sauf faute de la victime ou force majeure. La commune de Fréjus a donc été indemnisée ici comme tiers, et non condamnée comme maître d'ouvrage.
+
+## 6. Les suites
+
+La catastrophe a nourri une réforme de la sécurité des barrages. Selon, un Comité technique permanent des barrages a été créé pour étudier les projets et contrôler l'exécution de tout ouvrage de plus de 20 m de haut, et situe cette création en 1967, en présentant l'ensemble comme une réforme de la réglementation des barrages. L'enjeu est clair : imposer des études de sous-sol suffisantes avant de construire.
+
+L'alimentation en eau de Fréjus devait être repensée. Selon, le barrage de Saint-Cassien, sur le Biançon, est étudié et construit par EDF entre 1962 et 1965, pour pallier l'insuffisance d'alimentation du Reyran et assurer l'adduction de l'ouest des Alpes-Maritimes. ajoute que de nouvelles ressources en eau ont été cherchées et que le Reyran a été canalisé.
+
+Le site est devenu un lieu de mémoire. Le barrage n'a jamais été reconstruit : une partie de la voûte est encore visible et le fond de l'ancien lac est redevenu la vallée du Reyran, où la végétation a repris ses droits. Selon, la ville honore les victimes lors de cérémonies commémoratives qui se tiennent traditionnellement les 2 et 3 décembre au pied du gisant de Malpasset.
+
+## 7. À retenir
+
+Le maître d'un ouvrage public est responsable de plein droit des dommages causés aux tiers par cet ouvrage : aucune faute n'est à prouver. Il n'échappe à cette responsabilité qu'en établissant la faute de la victime ou un cas de force majeure, c'est-à-dire un événement extérieur à l'ouvrage.
+
+La pluie n'est pas une force majeure quand elle remplit un barrage : elle fait fonctionner l'ouvrage selon sa destination. C'est le raisonnement qui a fermé au département du Var la seule voie d'exonération disponible.
+
+La qualité de la victime décide du sort du litige : usager d'un côté, tiers de l'autre. Il faut la vérifier bien par bien, car une même collectivité peut cumuler les deux qualités. Et l'indemnité se calcule nette : on déduit les sommes déjà versées, même issues d'une souscription nationale.
+
+## Chronologie
+
+| Date | Fait |
+| --- | --- |
+| 1946 | Début de l'étude d'un projet de barrage à Malpasset, sur le Reyran. |
+| 1950 | Choix du type d'ouvrage et de son emplacement. |
+| 3 août 1950 | Le ministère de l'Agriculture approuve la construction d'un barrage sur le Reyran, dans la zone de Malpasset. |
+| avril 1952 - décembre 1954 | Travaux de construction du barrage. |
+| 2 décembre 1959 | Rupture du barrage en soirée, lors de son premier remplissage ; environ 50 millions de mètres cubes d'eau déferlent dans la vallée du Reyran. |
+| 10 avril 1961 | Versement de 3 000 F à la dame X... par mandat du fonds des sinistrés de Fréjus, au titre du préjudice moral et corporel. |
+| 7 décembre 1967 | Selon \[W11\], arrêt de la Cour de cassation concluant à l'absence de faute humaine à toutes les étapes du projet. |
+| 20 juin 1968 | Le tribunal administratif de Nice déclare le département du Var responsable des dommages subis par l'entreprise Bec Frères et ordonne une expertise. |
+| 28 mai 1971 | Le Conseil d'État, en Assemblée, rejette le pourvoi du département du Var et juge le maître de l'ouvrage responsable même en l'absence de faute. |
+| 22 octobre 1971 | Le Conseil d'État reconnaît la ville de Fréjus tiers pour ses biens autres que son réseau d'eau et renvoie l'affaire au tribunal administratif de Nice pour fixer l'indemnité. |
+| 14 juin 1972 | Jugement du tribunal administratif de Nice évaluant à 65 000 F les préjudices d'un adjudant-chef, dont 45 000 F de douleur morale et troubles dans les conditions d'existence. |
+| 11 mai 1973 | Jugements du tribunal administratif de Nice rejetant les demandes des consorts X..., les versements du fonds des sinistrés couvrant les préjudices retenus. |
+| 15 janvier 1974 | Délibération du conseil général du Var s'opposant formellement à tout prélèvement d'office au titre des indemnités. |
+| 7 mars 1974 | Décret du ministre de l'intérieur, publié au Journal officiel, annulant cette délibération. |
+| 14 mars 1974 | Le Monde décrit le conflit entre l'État et le département du Var sur des indemnités évaluées à 36 millions de francs. |
+| 5 juillet 1974 | Jugement du tribunal administratif de Nice rejetant la demande des consorts Z..., les versements reçus couvrant leurs préjudices. |
+| 3 décembre 1975 | Plusieurs arrêts du Conseil d'État confirment la déduction des sommes versées par le fonds des sinistrés du montant des préjudices. |
+| 21 janvier 1976 | Le Conseil d'État rejette la requête des consorts Z..., les 109 222 F reçus assurant une exacte réparation. |
+
+## Acteurs
+
+| Qui | Rôle |
+| --- | --- |
+| Conseil général du Var | Maître d'ouvrage du barrage de Malpasset, dont il avait la garde. |
+| Ville de Fréjus | Victime de la catastrophe ; usager du barrage pour son réseau de distribution d'eau, tiers pour ses autres biens. |
+| André Coyne et son bureau d'études | Ingénieur des ponts et chaussées chargé de la conception et de la maîtrise d'œuvre du barrage. |
+| Direction départementale du Génie rural | Service assurant le contrôle des travaux, qualifié de « directeur des travaux » dans l'arrêt. |
+| Entreprise Bec Frères | Tiers victime demandeur en première instance devant le tribunal administratif de Nice. |
+| Compagnie des eaux et de l'ozone | Concessionnaire du service public de distribution d'eau de la ville de Fréjus. |
+| Fonds des sinistrés | Fonds alimenté par une souscription nationale, versant des aides qui sont ensuite déduites des indemnités. |
+| Électricité de France | A versé 3 722 F de secours immédiat et de capital-décès à la dame veuve Z... |
+| Édouard Soldani | Président du conseil général du Var, sénateur et maire socialiste de Draguignan, opposé au paiement des indemnités par le département. |
+
+## Décisions
+
+### Tribunal administratif de Nice, 20 juin 1968
+
+- **Demande :** L'entreprise Bec Frères, tiers victime, demandait réparation au département du Var.
+- **Décision :** Département déclaré responsable des dommages, expertise ordonnée pour les évaluer, appels en garantie rejetés.
+- **Motifs :** Les dommages causés par un ouvrage public à un tiers ouvrent droit à réparation ; aucune faute n'est établie contre les constructeurs et le service du Génie rural.
+
+### Conseil d'État, Assemblée, 28 mai 1971
+
+- **Demande :** Le département du Var demandait l'annulation du jugement du 20 juin 1968 et le rejet des appels en garantie qu'il avait formés.
+- **Décision :** Pourvoi rejeté : le département reste responsable envers l'entreprise Bec Frères.
+- **Motifs :** Le maître de l'ouvrage est responsable même sans faute des dommages causés aux tiers par l'ouvrage dont il a la garde ; la rupture venant de la roche sous le barrage, la cause est interne et non constitutive de force majeure.
+
+### Conseil d'État, 22 octobre 1971
+
+- **Demande :** La ville de Fréjus demandait réparation au département du Var et à l'État des dommages causés à ses biens.
+- **Décision :** Le département est déclaré responsable des dommages subis par les biens communaux autres que le réseau de distribution d'eau ; l'affaire est renvoyée au tribunal administratif de Nice pour fixer l'indemnité. La demande relative au réseau d'eau est rejetée.
+- **Motifs :** Pour son réseau d'eau, la ville est usager du barrage ; pour ses autres biens, elle est tiers. Le département établit l'entretien normal de l'ouvrage en ce qui concerne ce réseau.
+
+### Conseil d'État, 3 décembre 1975
+
+- **Demande :** La dame X..., blessée lors de la catastrophe, demandait une indemnisation complémentaire pour son préjudice corporel et moral.
+- **Décision :** Requête rejetée.
+- **Motifs :** Les 3 000 F reçus du fonds des sinistrés par un mandat du 10 avril 1961 couvrent les 2 000 F de préjudice corporel et les 1 000 F de préjudice moral retenus.
+
+### Conseil d'État, 3 décembre 1975
+
+- **Demande :** Les consorts X... demandaient réparation de préjudices matériels et moraux après la mort de proches.
+- **Décision :** Requête rejetée.
+- **Motifs :** Le préjudice matériel tiré de l'aide qu'aurait pu apporter le défunt n'est qu'éventuel ; les sommes versées par le fonds, dont 47 097 F par enfant orphelin et une rente, couvrent les préjudices.
+
+### Conseil d'État, 3 décembre 1975
+
+- **Demande :** Un adjudant-chef contestait l'évaluation de son préjudice après le décès de son épouse et de son fils mineur et les blessures subies.
+- **Décision :** Évaluation confirmée à 65 000 F, dont 45 000 F de douleur morale et troubles dans les conditions d'existence.
+- **Motifs :** Le tribunal a fait une exacte appréciation des préjudices moraux et corporels, l'intéressé conservant par ailleurs une incapacité permanente partielle de 15 %.
+
+### Conseil d'État, 21 janvier 1976
+
+- **Demande :** La dame veuve Z... et les époux Z... demandaient une indemnisation de leur douleur morale et de leurs troubles dans les conditions d'existence.
+- **Décision :** Requêtes rejetées.
+- **Motifs :** Les versements reçus, soit 105 500 F du fonds des sinistrés et 3 722 F de l'Électricité de France (109 222 F au total), assurent une exacte réparation ; le tribunal a déduit à tort un versement de 3 400 F effectué au titre de dommages matériels.
+
+## Questions de révision
+
+<details>
+<summary>Qu'est-ce que la responsabilité sans faute du maître de l'ouvrage public ?</summary>
+
+Le maître d'ouvrage répond, même sans faute, des dommages que l'ouvrage public dont il a la garde cause aux tiers, tant par son existence que par son fonctionnement. Il ne s'exonère qu'en démontrant la faute de la victime ou un cas de force majeure.
+
+</details>
+
+<details>
+<summary>Qui était maître d'ouvrage du barrage de Malpasset ?</summary>
+
+Le conseil général du Var, qui avait confié la conception et la maîtrise d'œuvre à André Coyne et à son bureau d'études. La commune de Fréjus, elle, n'était pas maître d'ouvrage : elle figure parmi les victimes.
+
+</details>
+
+<details>
+<summary>Pourquoi la force majeure a-t-elle été écartée ?</summary>
+
+Parce que la rupture provenait de la roche située sous le barrage : la cause était interne à l'ouvrage et ne pouvait donc être regardée comme extérieure. Les pluies n'ont fait que remplir le barrage, ce qui correspond à sa destination.
+
+</details>
+
+<details>
+<summary>Pourquoi la ville de Fréjus n'a-t-elle été indemnisée que pour une partie de ses dommages ?</summary>
+
+Parce que, pour son réseau de distribution d'eau, elle était usager du barrage et non tiers, et que le département établissait l'entretien normal de l'ouvrage. Pour ses autres biens, elle était tiers, et le département a été déclaré responsable.
+
+</details>
+
+<details>
+<summary>Comment l'indemnité due à une victime est-elle calculée ?</summary>
+
+On évalue le préjudice, puis on déduit toutes les sommes déjà versées pour le réparer, y compris celles provenant d'une souscription nationale : le juge ne répare pas deux fois le même dommage.
+
+</details>
+
+<details>
+<summary>Responsabilité administrative et responsabilité pénale se confondent-elles ?</summary>
+
+Non. Le Conseil d'État retient la responsabilité sans faute du département envers les victimes, tandis que, selon \[W11\], un arrêt de la Cour de cassation du 7 décembre 1967 conclut à l'absence de faute humaine et que \[W10\] indique qu'aucune faute n'a été établie envers les constructeurs.
+
+</details>
+
+## Jurisprudence
+
+- [Conseil d'Etat, 4 / 1 SSR, du 3 décembre 1975, 88943, inédit au recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000007644455>) : Conseil d'État, 3 décembre 1975, n° 88943 : la dame X..., hospitalisée après la catastrophe pour une plaie profonde au cou et des contusions, demandait réparation. Sa requête est rejetée : les 3 000 F reçus du fonds des sinistrés de Fréjus par un mandat du 10 avril 1961 couvraient les 2 000 F de préjudice corporel et les 1 000 F de préjudice moral.
+- [Conseil d'Etat, 4 / 1 SSR, du 3 décembre 1975, 92393, inédit au recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000007642866>) : Conseil d'État, 3 décembre 1975, n° 92393 : les consorts X... demandaient réparation après la mort de proches. Leur demande de préjudice matériel est rejetée, l'aide qu'aurait pu apporter le défunt n'étant qu'éventuelle. Pour les deux enfants orphelins, le fonds avait versé 47 097 F à chacun, plus le capital constitutif d'une rente de 2 500 F par an jusqu'à leur majorité, et leurs demandes complémentaires sont rejetées.
+- [Conseil d'Etat, 4 / 1 SSR, du 3 décembre 1975, 88356, mentionné aux tables du recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000007644454>) : Conseil d'État, 3 décembre 1975, n° 88356 : un adjudant-chef, ayant perdu son épouse et son fils mineur et conservant une incapacité permanente partielle de 15 %, contestait l'évaluation de son préjudice. Le Conseil d'État confirme l'évaluation à 65 000 F, dont 45 000 F au titre de la douleur morale et des troubles dans les conditions d'existence.
+- [Conseil d'Etat, 4 / 1 SSR, du 21 janvier 1976, 96544, inédit au recueil Lebon (?)](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000007656518>) : Conseil d'État, 21 janvier 1976, n° 96544 : la dame veuve Z..., qui avait perdu son mari et ses deux enfants et subi un « choc émotionnel », demandait une indemnisation complémentaire. Sa requête est rejetée : l'ensemble des versements reçus — 105 500 F du fonds des sinistrés et 3 722 F de l'Électricité de France, soit 109 222 F — assurait une exacte réparation de son préjudice.
+
+## Sources
+
+- [Barrage de Malpasset (Wikipédia)](<https://fr.wikipedia.org/wiki/Barrage_de_Malpasset>)
+- [Lac de Malpasset (Wikipédia)](<https://fr.wikipedia.org/wiki/Lac_de_Malpasset>)
+- [Barrage de Malpasset - Office de tourisme de Fréjus](<https://www.frejus.fr/decouvrir/patrimoine-historique/patrimoine-contemporain/barrage-de-malpasset/>)
+- [Rupture barrage (Malpasset) \| IHMEC : Mémoire Des Catastrophes](<https://memoiresdescatastrophes.org/catastrophe/1959-rupture-barrage-malpasset/>)
+- [Catastrophe du barrage de Malpasset le 2 décembre 1959 : Fatalité ou attentat FLN...?](<https://exode1962.fr/exode1962/en-savoir-plus/metropole/malpasset.html>)
+- [Polémique entre l'État et le département du Var Qui va indemniser les victimes de la catastrophe de Malpasset ?](<https://www.lemonde.fr/archives/article/1974/03/14/polemique-entre-l-etat-et-le-departement-du-var-qui-va-indemniser-les-victimes-de-la-catastrophe-de-malpasset_3086695_1819218.html>)
+- [Conseil d'Etat, Assemblée, du 28 mai 1971, 76216, publié au recueil Lebon](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000007643328/>)
+- [Conseil d'Etat, 4 / 1 SSR, du 22 octobre 1971, 76200, publié au recueil Lebon](<https://www.legifrance.gouv.fr/ceta/id/CETATEXT000007642963/>)
+- [LES SUITES JUDICIAIRES DE LA CATASTROPHE DE MALPASSET](<https://www.lemonde.fr/archives/article/1968/06/15/les-suites-judiciaires-de-la-catastrophe-de-malpasset_2498044_1819218.html>)
+- [Le département du Var est reconnu responsable des dommages causés par le barrage de Malpasset](<https://www.lemonde.fr/archives/article/1971/05/31/le-departement-du-var-est-reconnu-responsable-des-dommages-causes-par-le-barrage-de-malpasset_2475449_1819218.html>)
+
+---
+
+<sub>‹ [Affaire AZF : la responsabilité de l'État pour défaut de contrôle d'une installation classée et la réparation des dommages](etude-affaire-affaire-azf.md) · [Retour aux études de cas](README.md) · [L'affaire Maurice Arreckx : corruption et marchés publics au conseil général du Var](etude-affaire-affaire-maurice-arreckx.md) ›</sub>

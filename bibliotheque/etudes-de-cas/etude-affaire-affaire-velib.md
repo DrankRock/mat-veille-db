@@ -1,0 +1,162 @@
+<sub>[Accueil](../../README.md) › [Bibliothèque](../README.md) › [Études de cas](README.md)</sub>
+
+# L'affaire Vélib' : le contrôle du juge administratif sur la procédure de passation
+
+<sub>`Étude de cas` · Procédures de passation · Pratique · 13 min · Affaire Vélib', Paris, 2017 · 8.4/10 au jury</sub>
+
+> En 2017, JCDecaux, évincé de l'attribution du nouveau marché des vélos en libre-service parisiens, saisit le juge des référés précontractuel, puis conteste la validité du contrat signé avec le groupement Smoovengo : il échoue sur les deux terrains. L'affaire dessine précisément l'office du juge administratif en matière de passation, entre contrôle des obligations de publicité et de mise en concurrence et vérification des griefs allégués par une candidature évincée.
+
+> [!TIP]
+> Le juge de la passation ne juge pas si le lauréat était le meilleur choix : il vérifie si la compétition a respecté les obligations de publicité et de mise en concurrence, à condition que le grief soit établi.
+
+**À retenir**
+
+- Le référé précontractuel se saisit avant la conclusion du contrat et permet au juge de suspendre ou d'annuler la procédure en cas de manquement aux obligations de publicité et de mise en concurrence \[T1, W7\].
+- JCDecaux a été débouté deux fois : ordonnance de référé du 4 mai 2017, puis jugement du 12 octobre 2018 rejetant son recours contre la validité du contrat \[W7, W10\].
+- Les griefs doivent être prouvés : le conflit d'intérêts est écarté car non démontré et sans influence sur la procédure, et l'absence de reprise du personnel s'explique par la perte d'identité de l'entité économique, faute de transfert des vélos, totems ou stations \[W7, W9, W10\].
+
+<details>
+<summary><b>Version rapide</b> · 1 min</summary>
+
+#### Le contexte et la procédure
+
+Vélib' est un service de vélos en libre-service lancé à Paris en 2007 et exploité par JCDecaux dans le cadre d'une délégation de service public. Le contrat arrivant à échéance, le syndicat mixte compétent a lancé en 2017 une procédure de marché dite « Vélib'2 » pour prendre la suite à compter du 1er janvier 2018. JCDecaux, candidate évincée, a saisi le juge des référés précontractuel avant la signature du contrat.
+
+#### La décision du juge et les suites
+
+Par ordonnance du 4 mai 2017, le juge des référés a rejeté la requête de JCDecaux. Il a jugé que l'obligation de reprise des salariés ne devait pas figurer expressément dans les documents de la consultation et que l'absence de son coût dans l'offre attributaire ne suffisait pas à établir une irrégularité. Il a également écarté le grief d'impartialité, faute de démonstration d'une influence sur la procédure. Après la signature, JCDecaux a contesté la validité du contrat devant le tribunal administratif, qui a rejeté son recours par jugement du 12 octobre 2018.
+
+Le service a ensuite été repris en régie par le syndicat et exploité par Smoovengo dans le cadre d'un marché public de 15 ans. En juin 2025, le service comptait plus de 530 000 abonnés et 161 372 locations par jour.
+
+#### À retenir
+
+Avant la signature, le candidat évincé peut saisir le juge des référés précontractuel sur le fondement du manquement aux obligations de publicité et de mise en concurrence ; après la signature, seule la contestation de la validité du contrat est possible. Les griefs doivent être établis, et non simplement allégués : un conflit d'intérêts doit être démontré, et l'absence de reprise du personnel ne s'apprécie pas sur la seule présence du coût dans l'offre.
+
+</details>
+
+<details>
+<summary><b>Version moyenne</b> · 3 min</summary>
+
+#### Contexte et lancement de la procédure
+
+Vélib' est un système de vélos en libre-service disponible à Paris et dans d'autres villes. La première version a été lancée le 15 juillet 2007 par la mairie de Paris et exploitée entre 2007 et 2017 par JCDecaux dans le cadre d'une délégation de service public. Une délégation de service public est la convention par laquelle une collectivité confie la gestion d'un service public à un opérateur économique ; elle est soumise aux règles du code de la commande publique. Le contrat sortant arrivant à échéance, le syndicat mixte compétent a lancé une procédure de marché dite « Vélib'2 » pour prendre la suite à compter du 1er janvier 2018.
+
+La nouvelle procédure visait à étendre le service à la métropole parisienne, avec un périmètre de 18 000 vélos, 1 200 stations et 300 000 abonnés. JCDecaux a formé un groupement avec RATP International et SNCF Participations et s'est portée candidate. Le 31 mars 2017, elle a été informée que son offre n'était pas retenue et que le marché serait attribué au groupement Smoovengo, dont le mandataire est Smoove.
+
+#### Le référé précontractuel
+
+Par courriers des 31 mars et 13 avril 2017, JCDecaux a demandé des compléments d'information sur les raisons du rejet de son offre. Le 10 avril 2017, elle a déposé une requête devant le juge des référés du tribunal administratif de Paris, avant toute signature. Le référé précontractuel est ouvert à toute personne ayant vocation à exécuter le contrat et peut être saisi en cas de manquement aux obligations de publicité et de mise en concurrence ; il permet au juge de suspendre ou d'annuler la procédure.
+
+JCDecaux invoquait trois griefs principaux : l'information insuffisante des candidats évincés, l'irrégularité de l'offre attributaire au regard de la reprise des salariés de sa filiale Cyclocity, et une violation du principe d'impartialité. Sur la reprise des salariés, elle soutenait que l'article L. 1224-1 du code du travail imposait à l'attributaire de reprendre le personnel de Cyclocity, l'activité d'exploitation du réseau constituant selon elle une entité économique autonome.
+
+#### La décision du juge des référés
+
+Par ordonnance du 4 mai 2017, le juge des référés a rejeté la requête de JCDecaux. Sur la reprise des salariés, il a retenu que la loi impose à l'attributaire de reprendre les salariés si les conditions sont réunies à la date du transfert, mais n'exige pas que cette reprise soit prévue expressément dans les documents de la consultation. L'absence du coût correspondant dans l'offre attributaire ne démontre pas à elle seule une méconnaissance de l'obligation légale.
+
+Sur l'impartialité, le juge a écarté l'argument. JCDecaux faisait valoir que le frère du président de Smoove était actionnaire et consultant d'une société ayant participé à la rédaction des documents définissant les prestations attendues. Le juge a relevé que cette société n'avait pas participé au choix de l'attributaire et que l'implication personnelle du frère du président était très limitée, sans influence possible sur l'issue de la procédure.
+
+#### Le recours contre le contrat signé
+
+Après le rejet de son recours en référé, JCDecaux a contesté devant le tribunal administratif la validité du contrat conclu entre le syndicat et le groupement Smoovengo et demandé son annulation. Le tribunal a rejeté ce recours par jugement du 12 octobre 2018. Les motifs prolongent ceux de l'ordonnance : absence de conflit d'intérêts, absence d'obligation de reprise des salariés de Cyclocity faute de conservation de l'identité de l'entité économique, et absence de caractère anormalement bas de l'offre retenue.
+
+#### Analyse et suites
+
+L'affaire illustre deux moments de contrôle : avant la signature, le référé précontractuel permet de contester la procédure ; après la signature, le débat porte sur la validité du contrat. Le juge exige que les griefs soient établis et non simplement allégués : un conflit d'intérêts doit être démontré, et l'absence de reprise du personnel ne s'apprécie pas sur la seule présence du coût dans l'offre. Au fond, la reprise suppose que l'entité économique ait conservé son identité, ce qui implique le transfert d'éléments indispensables à la poursuite de l'activité.
+
+Après le rejet du recours, le syndicat a pu lancer le remplacement progressif des vélos entre octobre 2017 et mars 2018. Le mode de gestion a changé en 2018 : le service a été repris en régie par le syndicat et son exploitation confiée à Smoovengo dans le cadre d'un marché public de 15 ans. En juin 2025, le service comptait 530 456 abonnés et 161 372 locations par jour, avec un service actif sur 65 villes.
+
+</details>
+
+## 1. Le contexte : Paris, un syndicat mixte et un service de vélos en libre-service
+
+Vélib' est un système de vélos en libre-service disponible à Paris et dans les autres villes membres de l'Agence métropolitaine des mobilités partagées. Sa première version a été lancée le 15 juillet 2007 par la mairie de Paris. Elle a été exploitée entre 2007 et 2017 par le groupe JCDecaux, qui y a décliné une version parisienne de son système Cyclocity. Ce premier service fonctionnait alors dans le cadre d'une délégation de service public.
+
+Une délégation de service public est la convention par laquelle une collectivité territoriale, son groupement ou son établissement public confie la gestion d'un service public dont il a la responsabilité à un ou plusieurs opérateurs économiques. Cette convention est préparée, passée et exécutée conformément à la troisième partie du code de la commande publique. Ce cadre explique pourquoi la désignation de l'exploitant est une opération encadrée, dont la régularité peut être discutée devant le juge.
+
+Le pilotage du service est intercommunal. Le syndicat mixte Autolib' a été créé le 9 juillet 2009 et réunissait alors 19 communes, dont Paris. C'est un syndicat mixte ouvert, qui regroupe des collectivités et des établissements publics, avec pour unique compétence la mise en place du service public Autolib'. Il est devenu Autolib' Métropole en 2013. À la fin du contrat liant JCDecaux à la Ville de Paris pour le service Vélib', il a été transformé pour devenir le syndicat Autolib' et Vélib' Métropole. Ce syndicat est devenu depuis l'Agence métropolitaine des mobilités partagées.
+
+Le contrat sortant arrivait à échéance. La société Cyclocity, filiale de JCDecaux, était titulaire du service depuis 2007. Le dispositif comptait environ 20 000 vélos en circulation et 300 000 abonnés à l'année, après un déploiement entamé au début de 2009 dans une trentaine de communes de la petite couronne. Le syndicat mixte a lancé une procédure de marché dite « Vélib'2 », destinée à prendre la suite, à compter du 1er janvier 2018, du marché en vigueur depuis 2007.
+
+## 2. Les faits : un service remis en jeu, un candidat sortant évincé
+
+La nouvelle procédure avait pour objet d'étendre à la métropole parisienne le marché de vélos en libre-service jusque-là limité à Paris et aux communes limitrophes. Le périmètre en jeu portait sur 18 000 vélos, 1 200 stations et 300 000 abonnés. JCDecaux a formé un groupement avec les sociétés RATP International SA et SNCF Participations, et s'est portée candidate à l'attribution du nouveau marché.
+
+Le 31 mars 2017, JCDecaux a été informée que son offre n'était pas retenue et que le marché serait attribué au groupement Smoovengo, dont le mandataire est la société Smoove. Ce groupement réunissait Smoove SAS, Marfina SL, Indigo Infra SA et Mobivia Groupe. JCDecaux a justifié publiquement sa contestation par la défense des 315 collaborateurs participant au succès du service depuis dix ans. Elle gérait le service Vélib' depuis 2007.
+
+Par courriers des 31 mars et 13 avril 2017, JCDecaux a demandé au syndicat des éléments complémentaires sur les raisons du rejet de son offre. Le 10 avril 2017, elle a déposé une requête devant le juge des référés du tribunal administratif de Paris. L'audience s'est tenue le 25 avril 2017. L'appel d'offres a été remporté par Smoovengo en avril 2017, pour un marché courant à partir du 1er janvier 2018 et d'une durée de 15 ans. Le contrat « Vélib'2 » devait ainsi démarrer en janvier 2018 pour quinze ans et porter sur la gestion de 18 000 Vélib'.
+
+Le recours a été présenté avant toute signature, ce qui détermine la voie de droit utilisée. Le juge des référés précontractuel a rendu son ordonnance le 4 mai 2017. Ce calendrier explique l'enchaînement : information de l'éviction en mars, saisine en avril, décision du juge des référés début mai, signature ensuite possible \[W7, W8\].
+
+## 3. Les questions juridiques : qui peut agir, devant quel juge, sur quel fondement
+
+La première question est celle de la voie de droit et de son moment. Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations de publicité et de mise en concurrence auxquelles est soumise la passation par les pouvoirs adjudicateurs de contrats administratifs. Le texte vise les contrats ayant pour objet l'exécution de travaux, la livraison de fournitures ou la prestation de services, avec une contrepartie économique constituée par un prix ou un droit d'exploitation, la délégation d'un service public ou la sélection d'un actionnaire opérateur économique d'une société d'économie mixte à opération unique. Le juge est saisi avant la conclusion du contrat.
+
+La deuxième question est celle de la qualité pour agir. Le référé précontractuel peut être saisi par toute personne ayant vocation à exécuter le contrat. JCDecaux, candidate évincée et titulaire sortante par sa filiale Cyclocity, entrait dans cette catégorie. Sa saisine fait obstacle à la signature du contrat, ce qui lui donne une portée immédiate. Le juge des référés peut, sur ce fondement, suspendre ou annuler la procédure de passation en cas de violation des formalités de publicité et de mise en concurrence.
+
+La troisième question est celle des griefs invoqués par la candidature évincée. JCDecaux reprochait au syndicat d'avoir méconnu le II de l'article 99 du décret n° 2016-360 du 25 mars 2016, qui porte sur l'information des candidats évincés. Elle soutenait que l'offre du groupement attributaire était irrégulière au sens de l'article 59 du même décret, pour violation de la législation sociale relative à la reprise du personnel. Elle invoquait l'article L. 1224-1 du code du travail, qui est d'ordre public et organise la reprise des salariés d'une entité économique autonome. Elle invoquait enfin une violation du principe d'impartialité. Le droit applicable était celui en vigueur en 2017, soit notamment ce décret du 25 mars 2016.
+
+La quatrième question est celle du terrain contentieux ouvert après la signature. Une fois le contrat conclu, la saisine précontractuelle n'est plus possible. JCDecaux a alors contesté devant le tribunal administratif la validité du contrat conclu entre le syndicat et le groupement Smoovengo, et demandé son annulation \[W9, W10\]. C'est le second volet de l'affaire, porté devant le juge du contrat et non plus devant le juge des référés.
+
+## 4. Les procédures, étape par étape
+
+Première étape : le référé précontractuel devant le tribunal administratif de Paris. La requête a été enregistrée le 10 avril 2017, puis complétée par des mémoires des 14, 22 et 25 avril 2017. JCDecaux demandait d'abord au juge d'enjoindre au syndicat de lui communiquer le prix des prestations résultant de l'offre de l'attributaire, en distinguant la somme actualisée des montants forfaitaires annuels, le montant total du détail estimatif et, le cas échéant, le montant correspondant à la réutilisation d'équipements actuels. Elle demandait tous les éléments de comparaison entre son offre et l'offre retenue, notamment la composition et le dimensionnement des équipes affectées aux différentes tâches d'exploitation du service. Elle demandait enfin de suspendre la procédure, d'annuler la décision d'attribution et d'annuler la procédure de passation, avec 6 000 euros au titre des frais de justice.
+
+Le premier grief portait sur l'information due aux candidats évincés. Selon JCDecaux, les lettres reçues les 31 mars et 13 avril 2017 ne permettaient pas de connaître les raisons concrètes pour lesquelles son offre avait été rejetée et celle du groupement retenue. Pour deux critères, le pouvoir adjudicateur se serait borné à mentionner les notes attribuées aux deux candidats, sans les accompagner de commentaires portant sur les éléments de comparaison entre les offres. Manquaient également, selon elle, le montant correspondant au détail estimatif, les recettes complémentaires, le référentiel de notation utilisé et les informations sur les conditions de reprise des salariés. Elle reprochait aussi au syndicat de ne pas avoir communiqué les caractéristiques et les avantages de l'offre retenue malgré sa demande du 31 mars 2017.
+
+Le second grief portait sur la régularité de l'offre attributaire. JCDecaux soutenait que le groupement attributaire devait reprendre les salariés de sa filiale Cyclocity en application de l'article L. 1224-1 du code du travail. Elle faisait valoir que l'activité d'exploitation du réseau Vélib' constituait une entité économique autonome et que la poursuite du service dans le cadre du nouveau marché s'accompagnait du transfert d'éléments corporels ou incorporels significatifs et nécessaires à l'exercice de l'activité. L'enjeu, pour elle, était que l'offre concurrente avait été construite sans intégrer cette contrainte.
+
+L'ordonnance du 4 mai 2017 a rejeté la requête de JCDecaux demandant l'annulation de la procédure ayant abouti à l'attribution du marché au groupement Smoovengo. Sur la reprise des salariés, le juge a retenu deux considérations : la loi impose à l'attributaire de reprendre les salariés si les conditions sont réunies à la date du transfert de l'activité, mais elle n'impose pas de prévoir expressément cette reprise dans les documents de la consultation. L'offre du groupement n'intégrait pas le coût de la reprise des salariés employés par Cyclocity, ce qui n'implique pas pour autant que ce groupement méconnaîtrait l'obligation légale : aucune règle n'interdit que ces salariés, après leur éventuelle reprise, soient affectés à d'autres tâches au sein des sociétés, dans le respect de leurs contrats.
+
+Sur l'impartialité, le juge des référés a également écarté l'argument. JCDecaux faisait valoir que le frère du président de la société Smoove était l'actionnaire et le consultant d'une société ayant participé à la rédaction des documents définissant les prestations attendues des candidats. Le juge a relevé que la société en cause n'avait pas participé au choix de l'attributaire. Le frère du président de Smoove n'avait eu qu'une implication personnelle très limitée et n'avait pu exercer d'influence sur l'issue de la procédure ; il n'existait donc pas de conflit d'intérêts de nature à faire naître un doute sur l'impartialité de l'attribution.
+
+Seconde étape : le recours contre le contrat signé. Après le rejet de son recours devant le juge des référés précontractuels, JCDecaux a contesté devant le tribunal la validité du contrat conclu entre le syndicat et le groupement Smoovengo et demandé son annulation \[W9, W10\]. Le tribunal administratif de Paris a rejeté ce recours par un jugement du 12 octobre 2018.
+
+Les motifs de ce jugement prolongent ceux de l'ordonnance. Le tribunal a écarté l'existence d'un conflit d'intérêts : la société de conseil n'avait participé ni à l'élaboration du programme définitif décrivant les prestations attendues des candidats, ni à l'analyse de leurs offres, et n'avait donc pas été en mesure d'influencer l'issue de la procédure. Il a jugé que la procédure d'attribution n'avait pas méconnu d'obligation de reprise des salariés de la filiale Cyclocity au titre de l'article L. 1224-1 du code du travail : l'entité économique n'avait pas conservé son identité, faute de transfert des éléments indispensables à la poursuite de son activité, tels que les vélos, les totems ou les stations \[W10, W9\]. Il a enfin estimé que les difficultés rencontrées dans l'électrification des stations et leur impact sur le système de gestion centralisé, qui avaient nécessité un renforcement des équipes, ne suffisaient pas à établir le caractère anormalement bas de l'offre retenue \[W10, W9\].
+
+## 5. L'analyse : ce que l'affaire dit de l'office du juge
+
+L'affaire s'organise autour de deux moments de contrôle. Avant la signature, la candidature évincée dispose du référé précontractuel, dont la saisine est subordonnée à l'absence de conclusion du contrat. Ce juge peut suspendre ou annuler la procédure en cas de violation des formalités de publicité et de mise en concurrence. Après la signature, le débat se déplace vers la validité du contrat, comme l'a fait JCDecaux en 2018 \[W9, W10\].
+
+Le point de départ du contrôle est donc le manquement aux obligations de publicité et de mise en concurrence. Dans cette affaire, cela s'est traduit par l'examen de trois séries de questions : l'information donnée aux candidats évincés, la régularité de l'offre attributaire au regard des règles sociales, et l'impartialité de la procédure \[W7, W8, W10\]. Ce sont ces griefs, et non l'opportunité du choix, qui structurent le litige tel qu'il ressort des écritures et des décisions.
+
+Le juge exige que les griefs soient établis, et pas seulement allégués. L'existence d'un conflit d'intérêts a été écartée comme alléguée mais non démontrée \[W9, W10\]. Le juge a examiné le rôle réel de la société de conseil dans la procédure avant de conclure à son absence d'influence. Autrement dit, la simple existence d'un lien personnel entre un dirigeant de l'attributaire et un intervenant ne suffit pas ; il faut établir que cet intervenant a pesé sur la procédure.
+
+Sur la reprise du personnel, l'affaire donne une grille de lecture utile au candidat évincé. La reprise des salariés ne doit pas être prévue expressément dans les documents de la consultation : l'obligation pèse sur l'attributaire si les conditions sont réunies à la date du transfert. L'absence du coût correspondant dans l'offre ne démontre pas à elle seule une méconnaissance de cette obligation. Au fond, il faut établir que l'entité économique a conservé son identité, ce qui suppose le transfert d'éléments indispensables à la poursuite de l'activité ; en l'absence de transfert des vélos, des totems ou des stations, cette identité n'est pas conservée \[W9, W10\].
+
+Le contentieux de la passation ne se confond pas avec celui de l'exécution. Le même syndicat a connu un contentieux indemnitaire après la résiliation de la convention de délégation de service public conclue le 25 février 2011 pour le service Autolib'. La société Autolib' a demandé au tribunal administratif de Paris la somme de 235 503 866,45 euros en indemnisation de cette résiliation ; sa demande a été rejetée par un jugement du 12 décembre 2023. Devant la cour administrative d'appel, elle a porté sa demande principale à 235 528 363,10 euros et présenté une demande subsidiaire de 301 935 019,15 euros au titre de la responsabilité quasi-contractuelle et quasi-délictuelle. Elle y critique le motif retenu par les premiers juges, tiré de la nullité du contrat pour libéralité et de l'absence de risque du concessionnaire.
+
+Dans l'affaire Vélib', aucune responsabilité personnelle d'agent n'est en cause. Le litige oppose un pouvoir adjudicateur, un candidat évincé et un groupement attributaire autour de la régularité d'une procédure administrative et de la validité d'un contrat \[T1, W7, W10\]. Les deux recours de JCDecaux ont échoué : la procédure a été jugée régulière et le contrat validé \[W7, W10\].
+
+## 6. Les suites
+
+Après le rejet du recours en référé, le syndicat a pu lancer la procédure de remplacement progressif des vélos. Ce remplacement était prévu entre octobre 2017 et mars 2018. Le service comptait alors 300 000 abonnés, 18 000 vélos et 1 200 stations.
+
+Le mode de gestion du service a changé en 2018. Le service de vélos en libre-service, jusqu'alors géré sous forme de concession de service public, a été repris en régie par le syndicat et son exploitation confiée à la société Smovengo dans le cadre d'un marché public conclu pour une durée de 15 ans, de 2018 à 2032. Après la résiliation du service de location de voitures en autopartage en 2018, le syndicat ne gère plus que les conséquences contentieuses et opérationnelles de la fin du contrat avec la société Autolib'. La résolution de ce contentieux a impacté sa situation financière.
+
+Le service a depuis retrouvé une ampleur importante. En juin 2025, il compte 530 456 abonnés pour 161 372 locations par jour, avec un service actif sur 65 villes. La chambre régionale des comptes d'Île-de-France relève, dans une publication du 15 octobre 2025, plus de 1 480 stations dont un millier à Paris, réparties dans 64 collectivités de la Métropole du Grand Paris, un parc de près de 20 000 vélos et 780 000 utilisateurs annuels, dont 470 000 abonnés. Elle rappelle aussi que le syndicat ne gère plus que les conséquences de la fin du contrat avec Autolib'.
+
+## 7. À retenir
+
+La contestation d'une passation repose sur un texte précis : le manquement aux obligations de publicité et de mise en concurrence, invoqué devant le juge des référés avant la conclusion du contrat. Ce juge peut suspendre ou annuler la procédure. Le référé précontractuel est ouvert à toute personne ayant vocation à exécuter le contrat, et sa saisine fait obstacle à la signature.
+
+Un candidat évincé ne gagne pas en invoquant un grief de principe. Il doit établir les faits qu'il avance : le conflit d'intérêts allégué n'a pas été retenu faute d'être démontré \[W9, W10\]. Sur la reprise du personnel, l'obligation ne figure pas nécessairement dans les documents de la consultation et l'absence de son coût dans l'offre ne suffit pas à établir une irrégularité. Au fond, la reprise suppose que l'entité économique ait conservé son identité, donc que les éléments indispensables aient été transférés \[W9, W10\].
+
+Le calendrier commande la stratégie. Avant la signature, la voie est précontractuelle ; après, elle se ferme et le débat porte sur la validité du contrat \[T1, W9, W10\]. Dans l'affaire Vélib', JCDecaux a parcouru les deux voies et a été rejeté sur les deux \[W7, W10\]. Le contentieux indemnitaire lié à la fin de l'Autolib', porté par l'exploitant sortant pour 235 503 866,45 euros devant le tribunal, relève d'une tout autre logique.
+
+## Sources
+
+- [CJA, art. L551-1](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054355491>)
+- [CGCT, art. L1411-1](<https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037739236>)
+- [Vélib' Métropole (Wikipédia)](<https://fr.wikipedia.org/wiki/V%C3%A9lib'_M%C3%A9tropole>)
+- [Autolib' (Paris) (Wikipédia)](<https://fr.wikipedia.org/wiki/Autolib'_(Paris)>)
+- [VELIB’ : Le juge des référés du Tribunal administratif de Paris confirme l’attribution au groupement Smoovengo du nouveau marché de vélos en libre-service « Vélib’ ». - Tribunal administratif de Paris](<https://paris.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/velib-le-juge-des-referes-du-tribunal-administratif-de-paris-confirme-l-attribution-au-groupement-smoovengo-du-nouveau-marche-de-velos-en-libre>)
+- [VELIB’ : Le Tribunal administratif de Paris confirme l’attribution au groupement Smoovengo du nouveau marché de vélos en libre-service « Vélib’ ». - Tribunal administratif de Paris](<https://paris.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/velib-le-tribunal-administratif-de-paris-confirme-l-attribution-au-groupement-smoovengo-du-nouveau-marche-de-velos-en-libre-service-velib>)
+- [Vélib' : le tribunal administratif rejette le recours de JCDecaux](<https://www.leparisien.fr/economie/recours-rejete-jcdecaux-a-definitivement-perdu-la-bataille-du-velib-04-05-2017-6916953.php>)
+- [Tribunal administratif de Paris, 4 mai 2017, n° 1706139 \| Doctrine](<https://www.doctrine.fr/d/TA/Paris/2017/F2930EE88D36E00A6BB887>)
+- [Vélib' : le groupement JCDecaux/SNCF/RATP dépose un recours après sa non-sélection](<https://www.leparisien.fr/archives/velib-jcdecaux-depose-un-recours-apres-sa-non-selection-11-04-2017-6843966.php>)
+- [Vélib’ : le syndicat mixte gagne son contentieux contre JC Decaux sur la passation du marché conclu en 2017 avec Smovengo](<https://blog.landot-avocats.net/2018/10/12/velib-le-syndicat-mixte-gagne-son-contentieux-contre-jc-decaux-sur-la-passation-du-marche-conclu-en-2017-avec-smovengo/>)
+- [Syndicat mixte Autolib’ Vélib’ Métropole (Paris)](<https://www.ccomptes.fr/fr/publications/syndicat-mixte-autolib-velib-metropole-paris>)
+
+---
+
+<sub>‹ [L'affaire Société des granits porphyroïdes des Vosges (CE, 31 juillet 1912) : le critère de la clause exorbitante du droit commun](etude-affaire-affaire-societe-des-granits-porphyroides-des-v.md) · [Retour aux études de cas](README.md) · [Xynthia à La Faute-sur-Mer : le maire devant le juge pénal, la commune et l'État devant le juge administratif](etude-affaire-affaire-xynthia.md) ›</sub>
