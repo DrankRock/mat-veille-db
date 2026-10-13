@@ -1,16 +1,22 @@
 # Mat-Veille
 
-<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 13 octobre 2026 à 02:09</sub>
+<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 14 octobre 2026 à 01:20</sub>
 
-## [Mardi 13 octobre 2026](veille/2026-10/2026-10-13.md)
+## [Mercredi 14 octobre 2026](veille/2026-10/2026-10-14.md)
 
-<sub>Dernière édition · 1 actu sur 35 contenus examinés</sub>
+<sub>Dernière édition · 2 actus sur 35 contenus examinés</sub>
 
-### [Critère social d'attribution : le Conseil d'État valide un sous-critère pondéré à 4 %](veille/2026-10/2026-10-13/critere-social-d-attribution-le-conseil-d-etat-valide-un-sou.md)
+### [Commande publique : l'AAP entre au Conseil national de la commande publique](veille/2026-10/2026-10-14/commande-publique-l-aap-entre-au-conseil-national-de-la-comm.md)
 
-<sub>`Achats` · Principes · **Toutes les caisses** · Landot & associés · 9.5/10</sub>
+<sub>`Achats` `Droit (perso)` · Procédures · Association des Acheteurs Publics · 7/10</sub>
 
-Le Conseil d'État juge qu'un critère social peut servir à attribuer un marché s'il est en lien direct avec les conditions d'exécution, et il relève sa faible pondération pour écarter tout effet discriminatoire.
+Un arrêté du 2 octobre 2026, annexé au code de la commande publique, désigne l'Association des Acheteurs Publics comme membre du collège de la commande publique locale (Comité des partenaires). Aucune obligation nouvelle pour les acheteurs.
+
+### [Le Conseil national de la commande publique fixe son règlement intérieur](veille/2026-10/2026-10-14/le-conseil-national-de-la-commande-publique-fixe-son-regleme.md)
+
+<sub>`Achats` `Droit (perso)` · Procédures · economie.gouv.fr · 6.3/10</sub>
+
+Le Conseil national de la commande publique (CNCP) a adopté son règlement intérieur et son programme de travail, selon le titre publié par economie.gouv.fr. Le détail de ces deux documents n'est pas accessible dans la source.
 
 ## À lire dans la bibliothèque
 
@@ -30,16 +36,16 @@ Le marché public est un contrat par lequel une personne publique achète des tr
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [mar. 13 oct.](veille/2026-10/2026-10-13.md) | 1 | [Critère social d'attribution : le Conseil d'État valide un sous-critère pondéré à 4 %](veille/2026-10/2026-10-13/critere-social-d-attribution-le-conseil-d-etat-valide-un-sou.md) |
 | [lun. 12 oct.](veille/2026-10/2026-10-12.md) | — | <sub>Rien de nouveau</sub> |
 | [dim. 11 oct.](veille/2026-10/2026-10-11.md) | 1 | [Commande publique : notation, sous-critères et exécution, les leçons de septembre 2026](veille/2026-10/2026-10-11/commande-publique-notation-sous-criteres-et-execution-les-le.md) |
 | [sam. 10 oct.](veille/2026-10/2026-10-10.md) | — | <sub>Rien de nouveau</sub> |
 | [ven. 9 oct.](veille/2026-10/2026-10-09.md) | 5 | [Clause de révision absente : marché valide, pénalités réduites de 50 %](veille/2026-10/2026-10-09/clause-de-revision-absente-marche-valide-penalites-reduites.md) |
 | [jeu. 8 oct.](veille/2026-10/2026-10-08.md) | 2 | [Ouverture des marchés publics aux PME : le contenu de la source n'est pas exploitable](veille/2026-10/2026-10-08/ouverture-des-marches-publics-aux-pme-le-contenu-de-la-sourc.md) |
 | [mer. 7 oct.](veille/2026-10/2026-10-07.md) | 2 | [GTB, télérelève, EMS : la source récupérée ne contient aucun article exploitable](veille/2026-10/2026-10-07/gtb-telereleve-ems-la-source-recuperee-ne-contient-aucun-art.md) |
-| [mar. 6 oct.](veille/2026-10/2026-10-06.md) | 2 | [Achat durable : le CGDD fait un premier point d'étape sur les obligations environnementales](veille/2026-10/2026-10-06/achat-durable-le-cgdd-fait-un-premier-point-d-etape-sur-les.md) |
 
 ## Parcourir
 
-- **[Toutes les éditions](veille/README.md)** · 15 éditions, 41 actus, rangées par mois
-- **[Par pôle](poles/README.md)** · [Achats](poles/achats.md) (14) · [Budget](poles/budget.md) (4) · [Patrimoine](poles/patrimoine.md) (3) · [Travaux & maintenance](poles/travaux.md) (4) · [EM2I](poles/em2i.md) (1) · [Droit (perso)](poles/droit.md) (3)
+- **[Toutes les éditions](veille/README.md)** · 16 éditions, 43 actus, rangées par mois
+- **[Par pôle](poles/README.md)** · [Achats](poles/achats.md) (16) · [Budget](poles/budget.md) (4) · [Patrimoine](poles/patrimoine.md) (3) · [Travaux & maintenance](poles/travaux.md) (4) · [EM2I](poles/em2i.md) (1) · [Droit (perso)](poles/droit.md) (5)
 - **[Bibliothèque](bibliotheque/README.md)** · [49 études de cas](bibliotheque/etudes-de-cas/README.md) · [1 fiche](bibliotheque/fiches/README.md) · [0 article](bibliotheque/articles/README.md)

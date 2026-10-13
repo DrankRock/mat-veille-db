@@ -2,7 +2,12 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 13 éditions · 40 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 14 éditions · 42 actus</sub>
+
+## [Mercredi 14 octobre 2026](2026-10-14.md)
+
+- [Commande publique : l'AAP entre au Conseil national de la commande publique](2026-10-14/commande-publique-l-aap-entre-au-conseil-national-de-la-comm.md) <sub>· `Achats` `Droit (perso)` · Procédures · Association des Acheteurs Publics · 7/10</sub>
+- [Le Conseil national de la commande publique fixe son règlement intérieur](2026-10-14/le-conseil-national-de-la-commande-publique-fixe-son-regleme.md) <sub>· `Achats` `Droit (perso)` · Procédures · economie.gouv.fr · 6.3/10</sub>
 
 ## [Mardi 13 octobre 2026](2026-10-13.md)
 

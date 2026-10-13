@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>15 éditions · 41 actus depuis le 28 septembre 2026</sub>
+<sub>16 éditions · 43 actus depuis le 28 septembre 2026</sub>
 
 ## [Octobre 2026](2026-10/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [mer. 14 oct.](2026-10/2026-10-14.md) | 2 | [Commande publique : l'AAP entre au Conseil national de la commande publique](2026-10/2026-10-14/commande-publique-l-aap-entre-au-conseil-national-de-la-comm.md) |
 | [mar. 13 oct.](2026-10/2026-10-13.md) | 1 | [Critère social d'attribution : le Conseil d'État valide un sous-critère pondéré à 4 %](2026-10/2026-10-13/critere-social-d-attribution-le-conseil-d-etat-valide-un-sou.md) |
 | [lun. 12 oct.](2026-10/2026-10-12.md) | — | <sub>Rien de nouveau</sub> |
 | [dim. 11 oct.](2026-10/2026-10-11.md) | 1 | [Commande publique : notation, sous-critères et exécution, les leçons de septembre 2026](2026-10/2026-10-11/commande-publique-notation-sous-criteres-et-execution-les-le.md) |

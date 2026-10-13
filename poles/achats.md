@@ -2,12 +2,14 @@
 
 # Achats
 
-<sub>14 actus · priorité haute</sub>
+<sub>16 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Octobre 2026
 
+- **mer. 14 oct.** · [Commande publique : l'AAP entre au Conseil national de la commande publique](../veille/2026-10/2026-10-14/commande-publique-l-aap-entre-au-conseil-national-de-la-comm.md) <sub>· Procédures · 7/10</sub>
+- **mer. 14 oct.** · [Le Conseil national de la commande publique fixe son règlement intérieur](../veille/2026-10/2026-10-14/le-conseil-national-de-la-commande-publique-fixe-son-regleme.md) <sub>· Procédures · 6.3/10</sub>
 - **mar. 13 oct.** · [Critère social d'attribution : le Conseil d'État valide un sous-critère pondéré à 4 %](../veille/2026-10/2026-10-13/critere-social-d-attribution-le-conseil-d-etat-valide-un-sou.md) <sub>· Principes · **Toutes les caisses** · 9.5/10</sub>
 - **dim. 11 oct.** · [Commande publique : notation, sous-critères et exécution, les leçons de septembre 2026](../veille/2026-10/2026-10-11/commande-publique-notation-sous-criteres-et-execution-les-le.md) <sub>· Jurisprudence · **Utile CPAM** · 7.3/10</sub>
 - **ven. 9 oct.** · [Clause de révision absente : marché valide, pénalités réduites de 50 %](../veille/2026-10/2026-10-09/clause-de-revision-absente-marche-valide-penalites-reduites.md) <sub>· Exécution des marchés · **Utile CPAM** · 8/10</sub>
