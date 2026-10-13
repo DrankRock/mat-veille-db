@@ -4,7 +4,7 @@
 
 | Pôle | Actus | Dernière |
 | --- | --- | --- |
-| [Achats](achats.md) | 13 | dim. 11 oct. · [Commande publique : notation, sous-critères et exécution, les leçons de septembre 2026](../veille/2026-10/2026-10-11/commande-publique-notation-sous-criteres-et-execution-les-le.md) |
+| [Achats](achats.md) | 14 | mar. 13 oct. · [Critère social d'attribution : le Conseil d'État valide un sous-critère pondéré à 4 %](../veille/2026-10/2026-10-13/critere-social-d-attribution-le-conseil-d-etat-valide-un-sou.md) |
 | [Budget](budget.md) | 4 | ven. 9 oct. · [Clause de révision absente : marché valide, pénalités réduites de 50 %](../veille/2026-10/2026-10-09/clause-de-revision-absente-marche-valide-penalites-reduites.md) |
 | [Patrimoine](patrimoine.md) | 3 | mer. 7 oct. · [GTB, télérelève, EMS : la source récupérée ne contient aucun article exploitable](../veille/2026-10/2026-10-07/gtb-telereleve-ems-la-source-recuperee-ne-contient-aucun-art.md) |
 | [Travaux & maintenance](travaux.md) | 4 | ven. 9 oct. · [FDES et marchés publics : comment intégrer ces fiches dans vos consultations](../veille/2026-10/2026-10-09/fdes-et-marches-publics-comment-integrer-ces-fiches-dans-vos.md) |

@@ -2,7 +2,11 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 12 éditions · 39 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 13 éditions · 40 actus</sub>
+
+## [Mardi 13 octobre 2026](2026-10-13.md)
+
+- [Critère social d'attribution : le Conseil d'État valide un sous-critère pondéré à 4 %](2026-10-13/critere-social-d-attribution-le-conseil-d-etat-valide-un-sou.md) <sub>· `Achats` · Principes · **Toutes les caisses** · Landot & associés · 9.5/10</sub>
 
 ## [Lundi 12 octobre 2026](2026-10-12.md)
 
