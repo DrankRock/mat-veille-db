@@ -52,8 +52,9 @@ Aucune application immédiate n'est prévue. Le règlement entrerait en vigueur 
 | Source | Article | Date |
 | --- | --- | --- |
 | **Landot & associés** | [Lire l'original](<https://blog.landot-avocats.net/2026/10/04/commande-publique-la-commission-europeenne-propose-un-reglement-unique-et-directement-applicable-video-et-article/>) | 4 oct. |
+| Landot & associés | [Commande publique : la Commission européenne propose un règlement unique et directement applicable \[VIDEO et article\]](<https://blog.landot-avocats.net/2026/10/14/commande-publique-la-commission-europeenne-propose-un-reglement-unique-et-directement-applicable-video-et-article-2/>) | 14 oct. |
 
-<sub>Source unique · 1 source</sub>
+<sub>Source unique · 2 sources</sub>
 
 <sub>Mots-clés : public procurement act, règlement unique, directives 2014, commission européenne, passation</sub>
 

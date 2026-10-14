@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>16 éditions · 43 actus depuis le 28 septembre 2026</sub>
+<sub>17 éditions · 47 actus depuis le 28 septembre 2026</sub>
 
 ## [Octobre 2026](2026-10/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [jeu. 15 oct.](2026-10/2026-10-15.md) | 4 | [Espaces verts : la DAE publie une fiche pour intégrer l'environnement aux marchés](2026-10/2026-10-15/espaces-verts-la-dae-publie-une-fiche-pour-integrer-l-enviro.md) |
 | [mer. 14 oct.](2026-10/2026-10-14.md) | 2 | [Commande publique : l'AAP entre au Conseil national de la commande publique](2026-10/2026-10-14/commande-publique-l-aap-entre-au-conseil-national-de-la-comm.md) |
 | [mar. 13 oct.](2026-10/2026-10-13.md) | 1 | [Critère social d'attribution : le Conseil d'État valide un sous-critère pondéré à 4 %](2026-10/2026-10-13/critere-social-d-attribution-le-conseil-d-etat-valide-un-sou.md) |
 | [lun. 12 oct.](2026-10/2026-10-12.md) | — | <sub>Rien de nouveau</sub> |

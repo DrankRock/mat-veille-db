@@ -2,7 +2,14 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 14 éditions · 42 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 15 éditions · 46 actus</sub>
+
+## [Jeudi 15 octobre 2026](2026-10-15.md)
+
+- [Espaces verts : la DAE publie une fiche pour intégrer l'environnement aux marchés](2026-10-15/espaces-verts-la-dae-publie-une-fiche-pour-integrer-l-enviro.md) <sub>· `Achats` `Travaux & maintenance` · Achat durable · **Utile CPAM** · Landot & associés · 8/10</sub>
+- [Clauses d'insertion : l'État renforce l'accompagnement de ses acheteurs](2026-10-15/clauses-d-insertion-l-etat-renforce-l-accompagnement-de-ses.md) <sub>· `Achats` · Achat durable · Landot & associés · 7/10</sub>
+- [Quasi-régie : en cas de doute sur le seuil de 80 %, regarder tout le groupe](2026-10-15/quasi-regie-en-cas-de-doute-sur-le-seuil-de-80-regarder-tout.md) <sub>· `Achats` `Droit (perso)` · Jurisprudence · Landot & associés · 7/10</sub>
+- [Pompes à chaleur et réseaux de chaleur : des marchés publics facilités jusqu'à fin 2026](2026-10-15/pompes-a-chaleur-et-reseaux-de-chaleur-des-marches-publics-f.md) <sub>· `Achats` `Patrimoine` · Procédures · **Utile CPAM** · Ordre des architectes · 6.3/10</sub>
 
 ## [Mercredi 14 octobre 2026](2026-10-14.md)
 
