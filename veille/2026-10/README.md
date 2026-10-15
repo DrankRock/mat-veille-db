@@ -2,7 +2,12 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 15 éditions · 46 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 16 éditions · 48 actus</sub>
+
+## [Vendredi 16 octobre 2026](2026-10-16.md)
+
+- [Entreprises adaptées : l'État précise le calcul du montant modulé des EATT](2026-10-16/entreprises-adaptees-l-etat-precise-le-calcul-du-montant-mod.md) <sub>· `Achats` `Budget` · Achat durable · **Toutes les caisses** · BO Santé – Protection sociale – Solidarités · 9/10</sub>
+- [DMP et Mon espace santé : arrêts de travail et certificats AT/MP déposés automatiquement](2026-10-16/dmp-et-mon-espace-sante-arrets-de-travail-et-certificats-at.md) <sub>· `EM2I` · Dématérialisation · **Toutes les caisses** · ameli.fr Médecins (Isère) · 8.3/10</sub>
 
 ## [Jeudi 15 octobre 2026](2026-10-15.md)
 

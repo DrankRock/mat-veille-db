@@ -2,12 +2,13 @@
 
 # Budget
 
-<sub>4 actus · priorité haute</sub>
+<sub>5 actus · priorité haute</sub>
 
 > Budget de gestion administrative de la caisse et sa comptabilité : LFSS, convention d'objectifs et de gestion, normes comptables des organismes de sécurité sociale (CNoCP), agence comptable, contrôle interne, certification des comptes, facturation électronique (Chorus Pro), délais de paiement, révision des prix.
 
 ## Octobre 2026
 
+- **ven. 16 oct.** · [Entreprises adaptées : l'État précise le calcul du montant modulé des EATT](../veille/2026-10/2026-10-16/entreprises-adaptees-l-etat-precise-le-calcul-du-montant-mod.md) <sub>· Achat durable · **Toutes les caisses** · 9/10</sub>
 - **ven. 9 oct.** · [Clause de révision absente : marché valide, pénalités réduites de 50 %](../veille/2026-10/2026-10-09/clause-de-revision-absente-marche-valide-penalites-reduites.md) <sub>· Exécution des marchés · **Utile CPAM** · 8/10</sub>
 - **ven. 9 oct.** · [Facturation électronique : l'article annoncé n'a pas pu être récupéré](../veille/2026-10/2026-10-09/facturation-electronique-l-article-annonce-n-a-pas-pu-etre-r.md) <sub>· Facturation & paiement · **Utile CPAM** · 6.3/10</sub>
 - **mer. 7 oct.** · [Facturation électronique : la question des DAF quand la « PA » ne facture pas](../veille/2026-10/2026-10-07/facturation-electronique-la-question-des-daf-quand-la-pa-ne.md) <sub>· Facturation & paiement · **Utile CPAM** · 6.3/10</sub>
