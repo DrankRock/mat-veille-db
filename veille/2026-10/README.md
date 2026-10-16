@@ -2,7 +2,11 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 16 éditions · 48 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 17 éditions · 49 actus</sub>
+
+## [Samedi 17 octobre 2026](2026-10-17.md)
+
+- [Délais de paiement : aucun contenu exploitable, la source n'a pas pu être lue](2026-10-17/delais-de-paiement-aucun-contenu-exploitable-la-source-n-a-p.md) <sub>· `Budget` `Achats` · Facturation & paiement · **Utile CPAM** · Le Figaro · 6.3/10</sub>
 
 ## [Vendredi 16 octobre 2026](2026-10-16.md)
 
