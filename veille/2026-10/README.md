@@ -2,7 +2,11 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 17 éditions · 49 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 18 éditions · 49 actus</sub>
+
+## [Dimanche 18 octobre 2026](2026-10-18.md)
+
+<sub>Rien de nouveau ce soir.</sub>
 
 ## [Samedi 17 octobre 2026](2026-10-17.md)
 

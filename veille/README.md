@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>19 éditions · 50 actus depuis le 28 septembre 2026</sub>
+<sub>20 éditions · 50 actus depuis le 28 septembre 2026</sub>
 
 ## [Octobre 2026](2026-10/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [dim. 18 oct.](2026-10/2026-10-18.md) | — | <sub>Rien de nouveau</sub> |
 | [sam. 17 oct.](2026-10/2026-10-17.md) | 1 | [Délais de paiement : aucun contenu exploitable, la source n'a pas pu être lue](2026-10/2026-10-17/delais-de-paiement-aucun-contenu-exploitable-la-source-n-a-p.md) |
 | [ven. 16 oct.](2026-10/2026-10-16.md) | 2 | [Entreprises adaptées : l'État précise le calcul du montant modulé des EATT](2026-10/2026-10-16/entreprises-adaptees-l-etat-precise-le-calcul-du-montant-mod.md) |
 | [jeu. 15 oct.](2026-10/2026-10-15.md) | 4 | [Espaces verts : la DAE publie une fiche pour intégrer l'environnement aux marchés](2026-10/2026-10-15/espaces-verts-la-dae-publie-une-fiche-pour-integrer-l-enviro.md) |
