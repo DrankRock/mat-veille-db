@@ -61,8 +61,9 @@ Enfin, si le lien fourni continue de renvoyer vers un écran de consentement, co
 | --- | --- | --- |
 | **Kohen Avocats** | [Lire l'original](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMixgFBVV95cUxQVFlqTEtSTGxOZjZNanVRb01MdW5XcWh6RWRFY3lia0p1Q2RKUmpTX3hiSGptS2tWRFJHRHNRQWpuRFNHeG14N0t0XzJsQi01VnVpMnNvNWRwMTctUzg4dkpTOVp5MmFGbDBfOGZHdHVPQlo5YXZGN1B4eS0wYUJvYzhSY1Q1OVlib25MXzI3dFRjNUlsNGdOOHBoaHBXdFozbHlnS2dobFVVSEJNcGFrQkZ4QndzX01EQVM0b3pKTG9weHpYTVE?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 8 oct. |
 | MoneyVox | [Facturation électronique obligatoire : à quelle date risque-t-on vraiment une amende ?](<https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMTJRdEUwbFhfSmRVZHNINkR1Nm83THNiMERLSzdqUEdJdzlrTm56SjZTeHNuWU9CSkpnM3RKMFhFbUxMVmV5eGZLQzZXYTdqeDlzeHJndnhSWXp3bHQxOWxyTDFROGZmdjV5aV9fMlJ2LVE0cW1UbWpwLVI5TXZ0MnpWTS12Qm82bHdLZGpGR1NpMVpicHNNWmtWZmVtcHl3R1M0UzNvZUJVVDBvUmtiVzM5YXdWbmE1elRaUjI1Q0lHMlh6THNCbVRaeGlmTmJM?oc=5>) | 25 sept. |
+| Compta Online | [Facture électronique obligatoire : calendrier 2026-2027](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMid0FVX3lxTFBkZzNfY0dnUjJvbHFZU0hsOU1oNjZ2NDliQ1VYbXZZU1Y4ek1wY0piSVhGbjJHaFZnUmU3T2tqMWhyWW5xaHJSbklZLVVaOEJSUW1iUmVQUkFWU2xMbE1kcGE5TEwzR01vLXVGVkxmYVh3bFp6Z0Z3?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 14 oct. |
 
-<sub>Recoupé · 2 sources</sub>
+<sub>Recoupé · 3 sources</sub>
 
 <sub>Mots-clés : facturation électronique, obligation, amende, impayés</sub>
 

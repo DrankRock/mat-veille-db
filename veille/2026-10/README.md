@@ -2,7 +2,12 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 18 éditions · 49 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 19 éditions · 51 actus</sub>
+
+## [Lundi 19 octobre 2026](2026-10-19.md)
+
+- [Énergie : audit et management de l'énergie, de nouveaux seuils dès octobre 2026](2026-10-19/energie-audit-et-management-de-l-energie-de-nouveaux-seuils.md) <sub>· `Patrimoine` · Immobilier & énergie · **Utile CPAM** · Observatoire de l'immobilier durable · 7/10</sub>
+- [Retard de chantier et force majeure : source inaccessible, pas d'article possible](2026-10-19/retard-de-chantier-et-force-majeure-source-inaccessible-pas.md) <sub>· `Travaux & maintenance` `Achats` · Exécution des marchés · Kohen Avocats · 6.3/10</sub>
 
 ## [Dimanche 18 octobre 2026](2026-10-18.md)
 

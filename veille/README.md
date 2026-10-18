@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>20 éditions · 50 actus depuis le 28 septembre 2026</sub>
+<sub>21 éditions · 52 actus depuis le 28 septembre 2026</sub>
 
 ## [Octobre 2026](2026-10/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [lun. 19 oct.](2026-10/2026-10-19.md) | 2 | [Énergie : audit et management de l'énergie, de nouveaux seuils dès octobre 2026](2026-10/2026-10-19/energie-audit-et-management-de-l-energie-de-nouveaux-seuils.md) |
 | [dim. 18 oct.](2026-10/2026-10-18.md) | — | <sub>Rien de nouveau</sub> |
 | [sam. 17 oct.](2026-10/2026-10-17.md) | 1 | [Délais de paiement : aucun contenu exploitable, la source n'a pas pu être lue](2026-10/2026-10-17/delais-de-paiement-aucun-contenu-exploitable-la-source-n-a-p.md) |
 | [ven. 16 oct.](2026-10/2026-10-16.md) | 2 | [Entreprises adaptées : l'État précise le calcul du montant modulé des EATT](2026-10/2026-10-16/entreprises-adaptees-l-etat-precise-le-calcul-du-montant-mod.md) |

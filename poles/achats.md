@@ -2,12 +2,13 @@
 
 # Achats
 
-<sub>22 actus · priorité haute</sub>
+<sub>23 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Octobre 2026
 
+- **lun. 19 oct.** · [Retard de chantier et force majeure : source inaccessible, pas d'article possible](../veille/2026-10/2026-10-19/retard-de-chantier-et-force-majeure-source-inaccessible-pas.md) <sub>· Exécution des marchés · 6.3/10</sub>
 - **sam. 17 oct.** · [Délais de paiement : aucun contenu exploitable, la source n'a pas pu être lue](../veille/2026-10/2026-10-17/delais-de-paiement-aucun-contenu-exploitable-la-source-n-a-p.md) <sub>· Facturation & paiement · **Utile CPAM** · 6.3/10</sub>
 - **ven. 16 oct.** · [Entreprises adaptées : l'État précise le calcul du montant modulé des EATT](../veille/2026-10/2026-10-16/entreprises-adaptees-l-etat-precise-le-calcul-du-montant-mod.md) <sub>· Achat durable · **Toutes les caisses** · 9/10</sub>
 - **jeu. 15 oct.** · [Espaces verts : la DAE publie une fiche pour intégrer l'environnement aux marchés](../veille/2026-10/2026-10-15/espaces-verts-la-dae-publie-une-fiche-pour-integrer-l-enviro.md) <sub>· Achat durable · **Utile CPAM** · 8/10</sub>
