@@ -2,7 +2,11 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 19 éditions · 51 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 20 éditions · 52 actus</sub>
+
+## [Mardi 20 octobre 2026](2026-10-20.md)
+
+- [La commission des marchés de l'UCANSS est suspendue jusqu'au 2 novembre 2026](2026-10-20/la-commission-des-marches-de-l-ucanss-est-suspendue-jusqu-au.md) <sub>· `Achats` `Budget` · Procédures · **Toutes les caisses** · Journal officiel (Légifrance) · 12/10</sub>
 
 ## [Lundi 19 octobre 2026](2026-10-19.md)
 

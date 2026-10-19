@@ -30,6 +30,9 @@ Ce n'est qu'après examen de ces explications, et si elles ne permettent pas de 
 | Source | Article | Date |
 | --- | --- | --- |
 | **Conseil d'État — ArianeWeb** | [Lire l'original](<https://www.conseil-etat.fr>) | 24 sept. |
+| Landot & associés | [Offre anormalement basse : un prix très bas ne suffit pas à éliminer un candidat !](<https://blog.landot-avocats.net/2026/10/19/offre-anormalement-basse-un-prix-tres-bas-ne-suffit-pas-a-eliminer-un-candidat/>) | 19 oct. |
+
+<sub>Recoupé · 2 sources</sub>
 
 ---
 
