@@ -2,12 +2,13 @@
 
 # Budget
 
-<sub>7 actus · priorité haute</sub>
+<sub>8 actus · priorité haute</sub>
 
 > Budget de gestion administrative de la caisse et sa comptabilité : LFSS, convention d'objectifs et de gestion, normes comptables des organismes de sécurité sociale (CNoCP), agence comptable, contrôle interne, certification des comptes, facturation électronique (Chorus Pro), délais de paiement, révision des prix.
 
 ## Octobre 2026
 
+- **mer. 21 oct.** · [Complémentaire santé : les pouvoirs publics reprennent la main sur le contrat géant](../veille/2026-10/2026-10-21/complementaire-sante-les-pouvoirs-publics-reprennent-la-main.md) <sub>· Santé & protection sociale · **Toutes les caisses** · 6.8/10</sub>
 - **mar. 20 oct.** · [La commission des marchés de l'UCANSS est suspendue jusqu'au 2 novembre 2026](../veille/2026-10/2026-10-20/la-commission-des-marches-de-l-ucanss-est-suspendue-jusqu-au.md) <sub>· Procédures · **Toutes les caisses** · 12/10</sub>
 - **sam. 17 oct.** · [Délais de paiement : aucun contenu exploitable, la source n'a pas pu être lue](../veille/2026-10/2026-10-17/delais-de-paiement-aucun-contenu-exploitable-la-source-n-a-p.md) <sub>· Facturation & paiement · **Utile CPAM** · 6.3/10</sub>
 - **ven. 16 oct.** · [Entreprises adaptées : l'État précise le calcul du montant modulé des EATT](../veille/2026-10/2026-10-16/entreprises-adaptees-l-etat-precise-le-calcul-du-montant-mod.md) <sub>· Achat durable · **Toutes les caisses** · 9/10</sub>

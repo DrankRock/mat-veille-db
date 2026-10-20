@@ -2,7 +2,11 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 20 éditions · 52 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 21 éditions · 53 actus</sub>
+
+## [Mercredi 21 octobre 2026](2026-10-21.md)
+
+- [Complémentaire santé : les pouvoirs publics reprennent la main sur le contrat géant](2026-10-21/complementaire-sante-les-pouvoirs-publics-reprennent-la-main.md) <sub>· `Achats` `Budget` · Santé & protection sociale · **Toutes les caisses** · Les Echos · 6.8/10</sub>
 
 ## [Mardi 20 octobre 2026](2026-10-20.md)
 

@@ -2,12 +2,13 @@
 
 # Achats
 
-<sub>24 actus · priorité haute</sub>
+<sub>25 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Octobre 2026
 
+- **mer. 21 oct.** · [Complémentaire santé : les pouvoirs publics reprennent la main sur le contrat géant](../veille/2026-10/2026-10-21/complementaire-sante-les-pouvoirs-publics-reprennent-la-main.md) <sub>· Santé & protection sociale · **Toutes les caisses** · 6.8/10</sub>
 - **mar. 20 oct.** · [La commission des marchés de l'UCANSS est suspendue jusqu'au 2 novembre 2026](../veille/2026-10/2026-10-20/la-commission-des-marches-de-l-ucanss-est-suspendue-jusqu-au.md) <sub>· Procédures · **Toutes les caisses** · 12/10</sub>
 - **lun. 19 oct.** · [Retard de chantier et force majeure : source inaccessible, pas d'article possible](../veille/2026-10/2026-10-19/retard-de-chantier-et-force-majeure-source-inaccessible-pas.md) <sub>· Exécution des marchés · 6.3/10</sub>
 - **sam. 17 oct.** · [Délais de paiement : aucun contenu exploitable, la source n'a pas pu être lue](../veille/2026-10/2026-10-17/delais-de-paiement-aucun-contenu-exploitable-la-source-n-a-p.md) <sub>· Facturation & paiement · **Utile CPAM** · 6.3/10</sub>

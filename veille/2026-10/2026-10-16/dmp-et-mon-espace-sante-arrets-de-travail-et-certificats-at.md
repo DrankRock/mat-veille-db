@@ -66,8 +66,9 @@ Les deux évolutions annoncées pour 2026 n'ont pas de date. Une prochaine actua
 | Source | Article | Date |
 | --- | --- | --- |
 | **ameli.fr Médecins (Isère)** | [Lire l'original](<https://www.ameli.fr/medecin/actualites/alimentation-du-dmp-et-de-mon-espace-sante-amelipro-evolue>) | 14 oct. |
+| ameli.fr Médecins (Isère) · officielle | [Alimentation du DMP et de Mon espace santé : amelipro évolue](<https://www.ameli.fr/exercice-coordonne/actualites/alimentation-du-dmp-et-de-mon-espace-sante-amelipro-evolue>) | 19 oct. |
 
-<sub>Source officielle · 1 source</sub>
+<sub>Source officielle · 2 sources</sub>
 
 <sub>Mots-clés : amelipro, dmp, mon espace santé, arrêt de travail, dématérialisation</sub>
 
