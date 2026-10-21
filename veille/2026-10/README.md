@@ -2,7 +2,14 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 21 éditions · 53 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 22 éditions · 57 actus</sub>
+
+## [Jeudi 22 octobre 2026](2026-10-22.md)
+
+- [Seuils de dispense : le Conseil d'État valide le relèvement à 60 000 et 100 000 €](2026-10-22/seuils-de-dispense-le-conseil-d-etat-valide-le-relevement-a.md) <sub>· `Achats` · Procédures · **Toutes les caisses** · Landot & associés · 9.5/10</sub>
+- [Recouvrement des créances commerciales : un décret touche la procédure judiciaire](2026-10-22/recouvrement-des-creances-commerciales-un-decret-touche-la-p.md) <sub>· `Budget` · Facturation & paiement · Journal officiel (Légifrance) · 7.5/10</sub>
+- [Comptes-rendus de chantier : la RFGP invite à clarifier qui certifie quoi](2026-10-22/comptes-rendus-de-chantier-la-rfgp-invite-a-clarifier-qui-ce.md) <sub>· `Travaux & maintenance` `Budget` · Exécution des marchés · **Toutes les caisses** · Landot & associés · 7.5/10</sub>
+- [Diffusion de presse : la CAA de Lyon requalifie les conventions en marchés publics](2026-10-22/diffusion-de-presse-la-caa-de-lyon-requalifie-les-convention.md) <sub>· `Achats` · Jurisprudence · Landot & associés · 7/10</sub>
 
 ## [Mercredi 21 octobre 2026](2026-10-21.md)
 

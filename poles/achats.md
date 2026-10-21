@@ -2,12 +2,14 @@
 
 # Achats
 
-<sub>25 actus · priorité haute</sub>
+<sub>27 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Octobre 2026
 
+- **jeu. 22 oct.** · [Seuils de dispense : le Conseil d'État valide le relèvement à 60 000 et 100 000 €](../veille/2026-10/2026-10-22/seuils-de-dispense-le-conseil-d-etat-valide-le-relevement-a.md) <sub>· Procédures · **Toutes les caisses** · 9.5/10</sub>
+- **jeu. 22 oct.** · [Diffusion de presse : la CAA de Lyon requalifie les conventions en marchés publics](../veille/2026-10/2026-10-22/diffusion-de-presse-la-caa-de-lyon-requalifie-les-convention.md) <sub>· Jurisprudence · 7/10</sub>
 - **mer. 21 oct.** · [Complémentaire santé : les pouvoirs publics reprennent la main sur le contrat géant](../veille/2026-10/2026-10-21/complementaire-sante-les-pouvoirs-publics-reprennent-la-main.md) <sub>· Santé & protection sociale · **Toutes les caisses** · 6.8/10</sub>
 - **mar. 20 oct.** · [La commission des marchés de l'UCANSS est suspendue jusqu'au 2 novembre 2026](../veille/2026-10/2026-10-20/la-commission-des-marches-de-l-ucanss-est-suspendue-jusqu-au.md) <sub>· Procédures · **Toutes les caisses** · 12/10</sub>
 - **lun. 19 oct.** · [Retard de chantier et force majeure : source inaccessible, pas d'article possible](../veille/2026-10/2026-10-19/retard-de-chantier-et-force-majeure-source-inaccessible-pas.md) <sub>· Exécution des marchés · 6.3/10</sub>
