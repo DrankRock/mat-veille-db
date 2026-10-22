@@ -2,7 +2,12 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 22 éditions · 57 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 23 éditions · 59 actus</sub>
+
+## [Vendredi 23 octobre 2026](2026-10-23.md)
+
+- [Conflit d'intérêts : écarter l'AMO après coup ne sauve pas toujours la procédure](2026-10-23/conflit-d-interets-ecarter-l-amo-apres-coup-ne-sauve-pas-tou.md) <sub>· `Achats` `Droit (perso)` · Jurisprudence · **Utile CPAM** · Landot & associés · 8/10</sub>
+- [Acomptes de marchés publics : imputation d'abord sur le principal (source incomplète)](2026-10-23/acomptes-de-marches-publics-imputation-d-abord-sur-le-princi.md) <sub>· `Budget` `Achats` · Exécution des marchés · **Utile CPAM** · L'officiel des métiers · 6.3/10</sub>
 
 ## [Jeudi 22 octobre 2026](2026-10-22.md)
 

@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>24 éditions · 58 actus depuis le 28 septembre 2026</sub>
+<sub>25 éditions · 60 actus depuis le 28 septembre 2026</sub>
 
 ## [Octobre 2026](2026-10/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [ven. 23 oct.](2026-10/2026-10-23.md) | 2 | [Conflit d'intérêts : écarter l'AMO après coup ne sauve pas toujours la procédure](2026-10/2026-10-23/conflit-d-interets-ecarter-l-amo-apres-coup-ne-sauve-pas-tou.md) |
 | [jeu. 22 oct.](2026-10/2026-10-22.md) | 4 | [Seuils de dispense : le Conseil d'État valide le relèvement à 60 000 et 100 000 €](2026-10/2026-10-22/seuils-de-dispense-le-conseil-d-etat-valide-le-relevement-a.md) |
 | [mer. 21 oct.](2026-10/2026-10-21.md) | 1 | [Complémentaire santé : les pouvoirs publics reprennent la main sur le contrat géant](2026-10/2026-10-21/complementaire-sante-les-pouvoirs-publics-reprennent-la-main.md) |
 | [mar. 20 oct.](2026-10/2026-10-20.md) | 1 | [La commission des marchés de l'UCANSS est suspendue jusqu'au 2 novembre 2026](2026-10/2026-10-20/la-commission-des-marches-de-l-ucanss-est-suspendue-jusqu-au.md) |

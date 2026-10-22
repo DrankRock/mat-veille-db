@@ -2,12 +2,13 @@
 
 # Budget
 
-<sub>10 actus · priorité haute</sub>
+<sub>11 actus · priorité haute</sub>
 
 > Budget de gestion administrative de la caisse et sa comptabilité : LFSS, convention d'objectifs et de gestion, normes comptables des organismes de sécurité sociale (CNoCP), agence comptable, contrôle interne, certification des comptes, facturation électronique (Chorus Pro), délais de paiement, révision des prix.
 
 ## Octobre 2026
 
+- **ven. 23 oct.** · [Acomptes de marchés publics : imputation d'abord sur le principal (source incomplète)](../veille/2026-10/2026-10-23/acomptes-de-marches-publics-imputation-d-abord-sur-le-princi.md) <sub>· Exécution des marchés · **Utile CPAM** · 6.3/10</sub>
 - **jeu. 22 oct.** · [Recouvrement des créances commerciales : un décret touche la procédure judiciaire](../veille/2026-10/2026-10-22/recouvrement-des-creances-commerciales-un-decret-touche-la-p.md) <sub>· Facturation & paiement · 7.5/10</sub>
 - **jeu. 22 oct.** · [Comptes-rendus de chantier : la RFGP invite à clarifier qui certifie quoi](../veille/2026-10/2026-10-22/comptes-rendus-de-chantier-la-rfgp-invite-a-clarifier-qui-ce.md) <sub>· Exécution des marchés · **Toutes les caisses** · 7.5/10</sub>
 - **mer. 21 oct.** · [Complémentaire santé : les pouvoirs publics reprennent la main sur le contrat géant](../veille/2026-10/2026-10-21/complementaire-sante-les-pouvoirs-publics-reprennent-la-main.md) <sub>· Santé & protection sociale · **Toutes les caisses** · 6.8/10</sub>
