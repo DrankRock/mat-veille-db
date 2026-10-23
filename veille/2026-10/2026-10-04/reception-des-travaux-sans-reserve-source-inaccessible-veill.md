@@ -23,8 +23,9 @@ Seul le titre d'origine est lisible. Il annonce un sujet : la réception des tra
 | Source | Article | Date |
 | --- | --- | --- |
 | **Kohen Avocats** | [Lire l'original](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjVtRDBpRU51cjg3VXA5QkZ2VzRWeUhiVnFyNFQwSjYxc3V5bzhabXlIYmx4bVlEcVR2TFRWMUdabDNRRWRaWXNmcE9SZk9tVWVheURXQnlrbTZaTzVSUFdzUTBUb2NodnNmcll4YlR5MVVhRHB0c2pvRDZWWWJqbXB1N0xzVGVJYVB0UXZLMUt1VVRIT3R3M3hUXzhTa1Z3dzhKTGtR?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 2 oct. |
+| Kohen Avocats | [Travaux de réparation après la tempête à Paris : réceptionner avec réserves, retenir 5 % et faire reprendre les malfaçons (2026)](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2ZPZTNSYS03UXBBa0FhZG15MmJteXBLQ1ZLUGpIWjlzd3hlTjJuQkdvNFRyektScUZaaWJBNjBzUWFfQU4yeTJid20zcHRwaTktck82NjJ3bk8zUlF4RDdPVlp3ZFN5QkpSUGJKd2JPS29FZ2NJYktkVmFEUkFydS1ZSVlER3FPSVBJY29pRlZhQjNmVlBUd21MeFptUnM?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 23 oct. |
 
-<sub>Source unique · 1 source</sub>
+<sub>Source unique · 2 sources</sub>
 
 <sub>Mots-clés : réception travaux, réserves, garanties légales, cass civ 3</sub>
 

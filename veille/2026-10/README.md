@@ -2,7 +2,12 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 23 éditions · 59 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 24 éditions · 61 actus</sub>
+
+## [Samedi 24 octobre 2026](2026-10-24.md)
+
+- [Congé supplémentaire de naissance : un formulaire en ligne remplace le fichier Excel](2026-10-24/conge-supplementaire-de-naissance-un-formulaire-en-ligne-rem.md) <sub>· `EM2I` · Fournitures & imprimés · **Toutes les caisses** · ameli.fr Médecins (Isère) · 8.3/10</sub>
+- [Source inexploitable : page de cookies, pas l'article sur la facturation électronique](2026-10-24/source-inexploitable-page-de-cookies-pas-l-article-sur-la-fa.md) <sub>· `Budget` · Facturation & paiement · **Utile CPAM** · Les Echos · 6.3/10</sub>
 
 ## [Vendredi 23 octobre 2026](2026-10-23.md)
 

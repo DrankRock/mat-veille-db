@@ -71,8 +71,9 @@ Restent ouvertes les questions que le source n'aborde pas : comment documenter l
 | --- | --- | --- |
 | **Landot & associés** | [Lire l'original](<https://blog.landot-avocats.net/2026/10/21/marches-publics-le-conseil-detat-valide-le-relevement-des-seuils-de-dispense/>) | 21 oct. |
 | Landot & associés | [Marchés publics : le Conseil d’État valide le relèvement des seuils de dispense](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMivAFBVV95cUxOVHV2ZkV6dVF5aDkwVERlZ3ppUEJXQTFKQkpkcDBTcUwxRWtsalVMRVNHXzRNSS1SRWdYaVQydW13M1RyTWpRWEhQOG9VRXFCM3QyNnVFVlI2RUlQb0ZNY2NfRGVxU1JxNnlTRVJmd2dlMFlpbk5kOF80QmZZWGZJSFd1VTVmb2ZJdEdHZ1lLX1c3cWFpQnpLMGRsS0cxMGloRlU0WExGb2dVUUJ1ZlcwWlFsc3UySDViLTJ4TNIBwgFBVV95cUxPRXZrTV9mWEdHVkxWUGh1YXJpdjRfOWlNem1oYzdqRktfT1h2c2xtWHNXQUY3ZmVpM0xMa2FNdzl4Y1RmZDJOd2lWOEFkVUJ3eXJWQUhLOUVXbkJjN0VJX2k3SlY1UEpRcXRmUkFBT3ZldEtuMHhzUlNOQ2E4U0pHbVVkSzBWRzF6MFhHRVJrTElNWVJ2MGh4M1hwb1RKSmgtTm1PT0N6Y1dsSXJFcml1TXhLS29lMDFfdGJSNVRHQ2xPZw?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 21 oct. |
+| Le Moniteur | [Marchés publics : le Conseil d’Etat valide les seuils de dispense de publicité et de mise en concurrence préalables fixés en décembre 2025](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMisgJBVV95cUxPZ2p0SkZxVVROOHpZeVd6TDdJc2ZvZVEtNk1iME1yZ0VrM1dWX2ZFSUFWMGdXUF9LeWVicXNOOTg4eGVtQW9ZQTMwaE1PY0RBenBhR2VVaDljeVRVYnJyZkJ1cEt6RVVTaWJQUVBSekdnNHJPVHIyc3dIb24yMlFSM0VWWjFaUHA5Nko5Z3hCRUg2aE5MRnlKRlFzVDM2U3d5RVo5NW5HTTJOQm5RTTBfV01IakdZX2dRUWhscFhGaEdoMnZKU2R0Wjg5QnJoY0hJUFh2SlJuQ1kxakVFaE1JUl81eFAzRjctdXlKV283SFN3MkkzVVpxay14VkI0NkZESVhmekluYjdqcHNKQ0doZDBKLU1UQVRMZUxpd1FNa1pMWjZCOUwzckJaVW9iaGZDVWc?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 22 oct. |
 
-<sub>Source unique · 2 sources</sub>
+<sub>Recoupé · 3 sources</sub>
 
 <sub>Mots-clés : conseil d'état, 513188, seuils de dispense, décrets 29 décembre 2025, principes de la commande publique</sub>
 
