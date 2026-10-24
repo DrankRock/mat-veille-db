@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>26 éditions · 62 actus depuis le 28 septembre 2026</sub>
+<sub>27 éditions · 63 actus depuis le 28 septembre 2026</sub>
 
 ## [Octobre 2026](2026-10/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [dim. 25 oct.](2026-10/2026-10-25.md) | 1 | [Prévoyance des agents territoriaux : marché de six ans et rapport annuel](2026-10/2026-10-25/prevoyance-des-agents-territoriaux-marche-de-six-ans-et-rapp.md) |
 | [sam. 24 oct.](2026-10/2026-10-24.md) | 2 | [Congé supplémentaire de naissance : un formulaire en ligne remplace le fichier Excel](2026-10/2026-10-24/conge-supplementaire-de-naissance-un-formulaire-en-ligne-rem.md) |
 | [ven. 23 oct.](2026-10/2026-10-23.md) | 2 | [Conflit d'intérêts : écarter l'AMO après coup ne sauve pas toujours la procédure](2026-10/2026-10-23/conflit-d-interets-ecarter-l-amo-apres-coup-ne-sauve-pas-tou.md) |
 | [jeu. 22 oct.](2026-10/2026-10-22.md) | 4 | [Seuils de dispense : le Conseil d'État valide le relèvement à 60 000 et 100 000 €](2026-10/2026-10-22/seuils-de-dispense-le-conseil-d-etat-valide-le-relevement-a.md) |

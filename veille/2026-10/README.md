@@ -2,7 +2,11 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 24 éditions · 61 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 25 éditions · 62 actus</sub>
+
+## [Dimanche 25 octobre 2026](2026-10-25.md)
+
+- [Prévoyance des agents territoriaux : marché de six ans et rapport annuel](2026-10-25/prevoyance-des-agents-territoriaux-marche-de-six-ans-et-rapp.md) <sub>· `Achats` · Procédures · Journal officiel (Légifrance) · 8.5/10</sub>
 
 ## [Samedi 24 octobre 2026](2026-10-24.md)
 

@@ -2,12 +2,13 @@
 
 # Achats
 
-<sub>29 actus · priorité haute</sub>
+<sub>30 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Octobre 2026
 
+- **dim. 25 oct.** · [Prévoyance des agents territoriaux : marché de six ans et rapport annuel](../veille/2026-10/2026-10-25/prevoyance-des-agents-territoriaux-marche-de-six-ans-et-rapp.md) <sub>· Procédures · 8.5/10</sub>
 - **ven. 23 oct.** · [Conflit d'intérêts : écarter l'AMO après coup ne sauve pas toujours la procédure](../veille/2026-10/2026-10-23/conflit-d-interets-ecarter-l-amo-apres-coup-ne-sauve-pas-tou.md) <sub>· Jurisprudence · **Utile CPAM** · 8/10</sub>
 - **ven. 23 oct.** · [Acomptes de marchés publics : imputation d'abord sur le principal (source incomplète)](../veille/2026-10/2026-10-23/acomptes-de-marches-publics-imputation-d-abord-sur-le-princi.md) <sub>· Exécution des marchés · **Utile CPAM** · 6.3/10</sub>
 - **jeu. 22 oct.** · [Seuils de dispense : le Conseil d'État valide le relèvement à 60 000 et 100 000 €](../veille/2026-10/2026-10-22/seuils-de-dispense-le-conseil-d-etat-valide-le-relevement-a.md) <sub>· Procédures · **Toutes les caisses** · 9.5/10</sub>
