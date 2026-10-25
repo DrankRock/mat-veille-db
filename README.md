@@ -1,6 +1,6 @@
 # Mat-Veille
 
-<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 25 octobre 2026 à 01:18</sub>
+<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 26 octobre 2026 à 00:00</sub>
 
 ## [Dimanche 25 octobre 2026](veille/2026-10/2026-10-25.md)
 
@@ -14,11 +14,11 @@ Un décret organise la souscription des contrats collectifs de prévoyance des a
 
 ## À lire dans la bibliothèque
 
-**Étude de cas** · [L'affaire du Mediator : Servier devant le juge pénal, l'État devant le juge administratif](bibliotheque/etudes-de-cas/etude-affaire-affaire-du-mediator.md)
+**Étude de cas** · [L'affaire du sang contaminé : la responsabilité de l'État et l'achat public de produits sanguins](bibliotheque/etudes-de-cas/etude-affaire-affaire-du-sang-contamine.md)
 
-<sub>Achat public en santé et protection sociale · Pratique · **Utile CPAM** · 17 min</sub>
+<sub>Achat public en santé et protection sociale · Pratique · **Utile CPAM** · 13 min</sub>
 
-Le benfluorex, vendu sous le nom de Mediator de 1976 à 2009, a exposé plusieurs millions de patients à des valvulopathies et à une hypertension artérielle pulmonaire. Le laboratoire Servier a été condamné au pénal pour tromperie aggravée et homicides involontaires, tandis que la responsabilité de l'État était recherchée devant le juge administratif pour carence de la police sanitaire, avec un partage de charge entre l'État et le laboratoire.
+En 1991, la presse révèle que le Centre national de transfusion sanguine a distribué des produits sanguins contaminés par le VIH à des hémophiles. L'affaire montre comment l'État a été jugé responsable d'une faute simple dans le contrôle sanitaire, comment des médecins et des ministres ont été poursuivis devant des juges différents, et pourquoi la responsabilité du fournisseur de produits sanguins est une obligation de sécurité de résultat.
 
 **Fiche** · [Qu'est-ce qu'un marché public ? Définition légale et principes fondateurs](bibliotheque/fiches/fiche-definition-marche-public.md)
 
