@@ -2,7 +2,14 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 25 éditions · 62 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 26 éditions · 66 actus</sub>
+
+## [Mardi 27 octobre 2026](2026-10-27.md)
+
+- [Amelipro fermé par précaution : une faille PHP, retour au papier pour les démarches](2026-10-27/amelipro-ferme-par-precaution-une-faille-php-retour-au-papie.md) <sub>· `EM2I` · Dématérialisation · **Toutes les caisses** · ameli.fr Médecins (Isère) · 8.3/10</sub>
+- [Marché achevé avec facture impayée : plus de modification possible (CJUE)](2026-10-27/marche-acheve-avec-facture-impayee-plus-de-modification-poss.md) <sub>· `Achats` `Budget` · Exécution des marchés · **Utile CPAM** · Landot & associés · 8/10</sub>
+- [Retenue de garantie : le lien fourni ne contient aucun texte juridique exploitable](2026-10-27/retenue-de-garantie-le-lien-fourni-ne-contient-aucun-texte-j.md) <sub>· `Travaux & maintenance` `Achats` · Exécution des marchés · Kohen Avocats · 6.3/10</sub>
+- [Facture électronique : 10 questions sur le démarrage de la réforme (source non récupérée)](2026-10-27/facture-electronique-10-questions-sur-le-demarrage-de-la-ref.md) <sub>· `Budget` · Facturation & paiement · **Utile CPAM** · Compta Online · 6.3/10</sub>
 
 ## [Dimanche 25 octobre 2026](2026-10-25.md)
 

@@ -2,12 +2,14 @@
 
 # Achats
 
-<sub>30 actus · priorité haute</sub>
+<sub>32 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Octobre 2026
 
+- **mar. 27 oct.** · [Marché achevé avec facture impayée : plus de modification possible (CJUE)](../veille/2026-10/2026-10-27/marche-acheve-avec-facture-impayee-plus-de-modification-poss.md) <sub>· Exécution des marchés · **Utile CPAM** · 8/10</sub>
+- **mar. 27 oct.** · [Retenue de garantie : le lien fourni ne contient aucun texte juridique exploitable](../veille/2026-10/2026-10-27/retenue-de-garantie-le-lien-fourni-ne-contient-aucun-texte-j.md) <sub>· Exécution des marchés · 6.3/10</sub>
 - **dim. 25 oct.** · [Prévoyance des agents territoriaux : marché de six ans et rapport annuel](../veille/2026-10/2026-10-25/prevoyance-des-agents-territoriaux-marche-de-six-ans-et-rapp.md) <sub>· Procédures · 8.5/10</sub>
 - **ven. 23 oct.** · [Conflit d'intérêts : écarter l'AMO après coup ne sauve pas toujours la procédure](../veille/2026-10/2026-10-23/conflit-d-interets-ecarter-l-amo-apres-coup-ne-sauve-pas-tou.md) <sub>· Jurisprudence · **Utile CPAM** · 8/10</sub>
 - **ven. 23 oct.** · [Acomptes de marchés publics : imputation d'abord sur le principal (source incomplète)](../veille/2026-10/2026-10-23/acomptes-de-marches-publics-imputation-d-abord-sur-le-princi.md) <sub>· Exécution des marchés · **Utile CPAM** · 6.3/10</sub>

@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>27 éditions · 63 actus depuis le 28 septembre 2026</sub>
+<sub>28 éditions · 67 actus depuis le 28 septembre 2026</sub>
 
 ## [Octobre 2026](2026-10/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [mar. 27 oct.](2026-10/2026-10-27.md) | 4 | [Amelipro fermé par précaution : une faille PHP, retour au papier pour les démarches](2026-10/2026-10-27/amelipro-ferme-par-precaution-une-faille-php-retour-au-papie.md) |
 | [dim. 25 oct.](2026-10/2026-10-25.md) | 1 | [Prévoyance des agents territoriaux : marché de six ans et rapport annuel](2026-10/2026-10-25/prevoyance-des-agents-territoriaux-marche-de-six-ans-et-rapp.md) |
 | [sam. 24 oct.](2026-10/2026-10-24.md) | 2 | [Congé supplémentaire de naissance : un formulaire en ligne remplace le fichier Excel](2026-10/2026-10-24/conge-supplementaire-de-naissance-un-formulaire-en-ligne-rem.md) |
 | [ven. 23 oct.](2026-10/2026-10-23.md) | 2 | [Conflit d'intérêts : écarter l'AMO après coup ne sauve pas toujours la procédure](2026-10/2026-10-23/conflit-d-interets-ecarter-l-amo-apres-coup-ne-sauve-pas-tou.md) |
