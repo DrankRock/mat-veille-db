@@ -2,12 +2,13 @@
 
 # Achats
 
-<sub>32 actus · priorité haute</sub>
+<sub>33 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Octobre 2026
 
+- **mer. 28 oct.** · [CNCP : composition et fonctionnement fixés par un arrêté](../veille/2026-10/2026-10-28/cncp-composition-et-fonctionnement-fixes-par-un-arrete.md) <sub>· Procédures · 7/10</sub>
 - **mar. 27 oct.** · [Marché achevé avec facture impayée : plus de modification possible (CJUE)](../veille/2026-10/2026-10-27/marche-acheve-avec-facture-impayee-plus-de-modification-poss.md) <sub>· Exécution des marchés · **Utile CPAM** · 8/10</sub>
 - **mar. 27 oct.** · [Retenue de garantie : le lien fourni ne contient aucun texte juridique exploitable](../veille/2026-10/2026-10-27/retenue-de-garantie-le-lien-fourni-ne-contient-aucun-texte-j.md) <sub>· Exécution des marchés · 6.3/10</sub>
 - **dim. 25 oct.** · [Prévoyance des agents territoriaux : marché de six ans et rapport annuel](../veille/2026-10/2026-10-25/prevoyance-des-agents-territoriaux-marche-de-six-ans-et-rapp.md) <sub>· Procédures · 8.5/10</sub>

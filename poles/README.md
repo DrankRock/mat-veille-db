@@ -4,7 +4,7 @@
 
 | Pôle | Actus | Dernière |
 | --- | --- | --- |
-| [Achats](achats.md) | 32 | mar. 27 oct. · [Marché achevé avec facture impayée : plus de modification possible (CJUE)](../veille/2026-10/2026-10-27/marche-acheve-avec-facture-impayee-plus-de-modification-poss.md) |
+| [Achats](achats.md) | 33 | mer. 28 oct. · [CNCP : composition et fonctionnement fixés par un arrêté](../veille/2026-10/2026-10-28/cncp-composition-et-fonctionnement-fixes-par-un-arrete.md) |
 | [Budget](budget.md) | 14 | mar. 27 oct. · [Marché achevé avec facture impayée : plus de modification possible (CJUE)](../veille/2026-10/2026-10-27/marche-acheve-avec-facture-impayee-plus-de-modification-poss.md) |
 | [Patrimoine](patrimoine.md) | 5 | lun. 19 oct. · [Énergie : audit et management de l'énergie, de nouveaux seuils dès octobre 2026](../veille/2026-10/2026-10-19/energie-audit-et-management-de-l-energie-de-nouveaux-seuils.md) |
 | [Travaux & maintenance](travaux.md) | 8 | mar. 27 oct. · [Retenue de garantie : le lien fourni ne contient aucun texte juridique exploitable](../veille/2026-10/2026-10-27/retenue-de-garantie-le-lien-fourni-ne-contient-aucun-texte-j.md) |

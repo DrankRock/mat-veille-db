@@ -2,7 +2,11 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 26 éditions · 66 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 27 éditions · 67 actus</sub>
+
+## [Mercredi 28 octobre 2026](2026-10-28.md)
+
+- [CNCP : composition et fonctionnement fixés par un arrêté](2026-10-28/cncp-composition-et-fonctionnement-fixes-par-un-arrete.md) <sub>· `Achats` · Procédures · Legibase Commande publique · 7/10</sub>
 
 ## [Mardi 27 octobre 2026](2026-10-27.md)
 
