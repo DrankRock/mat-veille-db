@@ -70,6 +70,9 @@ En pratique : ne rien modifier dans vos procédures sur la base de cette seule d
 | Source | Article | Date |
 | --- | --- | --- |
 | **Presse (Google News)** | [Lire l'original](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMisgFBVV95cUxOazJFTWowd3k5dFhPZXdTQmxtbTVENUpuaWVyb2ZoZmFGaUFCZ3lWdXllTGR4bjBIRXJFdlVaUlpQcHVmLU9xOHdCd2cyYUl2WnVlc3ZLcjFNN2VTVk1laUU4U2FNNVZJVXdZWGtnVmFIS05NTlYwSkdJb1BXSndXeVJqWDNXTHFKa2lQLTVUSjdoUGk4NlVyZkpqRVZqeFFCY0lPV09ETkw2YXJfTkowaXNR?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 2 oct. |
+| EFE Droit des contrats publics | [le gouvernement envisage de renforcer la transparence et la performance des centrales d’achat public – Le blog du droit des contrats publics](<https://droit-des-contrats-publics.efe.fr/2026/10/28/commande-publique-le-gouvernement-envisage-de-renforcer-la-transparence-et-la-performance-des-centrales-dachat-public/>) | 28 oct. |
+
+<sub>Recoupé · 2 sources</sub>
 
 ---
 

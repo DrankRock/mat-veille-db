@@ -2,7 +2,11 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 27 éditions · 67 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 28 éditions · 68 actus</sub>
+
+## [Jeudi 29 octobre 2026](2026-10-29.md)
+
+- [Facturation électronique 2027 : article inaccessible, contenu non vérifiable](2026-10-29/facturation-electronique-2027-article-inaccessible-contenu-n.md) <sub>· `Budget` `Achats` · Facturation & paiement · **Utile CPAM** · LEPTIDIGITAL · 6.3/10</sub>
 
 ## [Mercredi 28 octobre 2026](2026-10-28.md)
 

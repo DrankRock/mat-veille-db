@@ -23,8 +23,9 @@ En pratique, il n'y a rien à retenir pour un acheteur public à ce stade. La r�
 | Source | Article | Date |
 | --- | --- | --- |
 | **Kohen Avocats** | [Lire l'original](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWNTSS14NGV0cXM5Um5wZ213SEc1UXNyc3BfSDhEUERsekRBUlA1N3lmQ0t3Ymx4dmN2MTE4NWxUNVFIdkhJTlo1dXNuNWMxSlA3bHNTaVU4SzRQUl9nLUpWdGlGZGtoYXp0aDNZa2o2alBLLVpJWVNwbDFIcl9tT185VUxOYndKVXdzbU00ek1KaWpQbURwdmJhT3VEelFHa0NucDZkVHZJenlTdWxoMTVBNEdEclJu?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 26 oct. |
+| Kohen Avocats | [Retenue de garantie sur travaux : qui récupère les 5 % quand l'entrepreneur est en redressement judiciaire](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMisAFBVV95cUxPc3dDZXFzam9zT3gyYThaZ3NZSmJkdnVnSG9pRjVKdUpjMXktQk1pTVpoOHkweHFMS2oxU0w2eHp6dmYwRHBNU2FURFNQZkFob1ZrNGxzT1ZZWXM4cEpZSkt0Z0pzNUNoRk5UeDN1dmhfV0M1eV9zb3B1ZDFzZ0xRdXNIaS0xTmE1dzVidEpUdTJXMmQ3WFd6c0t2bzRzdlVaX0NrOXZucXN1TmhBeTRTcQ?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 28 oct. |
 
-<sub>Source unique · 1 source</sub>
+<sub>Source unique · 2 sources</sub>
 
 <sub>Mots-clés : retenue de garantie, réception, opposition, travaux, restitution</sub>
 

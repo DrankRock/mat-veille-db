@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>29 éditions · 68 actus depuis le 28 septembre 2026</sub>
+<sub>30 éditions · 69 actus depuis le 28 septembre 2026</sub>
 
 ## [Octobre 2026](2026-10/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [jeu. 29 oct.](2026-10/2026-10-29.md) | 1 | [Facturation électronique 2027 : article inaccessible, contenu non vérifiable](2026-10/2026-10-29/facturation-electronique-2027-article-inaccessible-contenu-n.md) |
 | [mer. 28 oct.](2026-10/2026-10-28.md) | 1 | [CNCP : composition et fonctionnement fixés par un arrêté](2026-10/2026-10-28/cncp-composition-et-fonctionnement-fixes-par-un-arrete.md) |
 | [mar. 27 oct.](2026-10/2026-10-27.md) | 4 | [Amelipro fermé par précaution : une faille PHP, retour au papier pour les démarches](2026-10/2026-10-27/amelipro-ferme-par-precaution-une-faille-php-retour-au-papie.md) |
 | [dim. 25 oct.](2026-10/2026-10-25.md) | 1 | [Prévoyance des agents territoriaux : marché de six ans et rapport annuel](2026-10/2026-10-25/prevoyance-des-agents-territoriaux-marche-de-six-ans-et-rapp.md) |
