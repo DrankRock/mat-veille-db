@@ -2,7 +2,11 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 29 éditions · 69 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 30 éditions · 70 actus</sub>
+
+## [Samedi 31 octobre 2026](2026-10-31.md)
+
+- [Le maître d'œuvre doit calculer l'actualisation des prix si le CCAG Travaux lui est opposable](2026-10-31/le-maitre-d-uvre-doit-calculer-l-actualisation-des-prix-si-l.md) <sub>· `Travaux & maintenance` `Achats` · Exécution des marchés · Association des Acheteurs Publics · 7/10</sub>
 
 ## [Vendredi 30 octobre 2026](2026-10-30.md)
 

@@ -2,12 +2,13 @@
 
 # Achats
 
-<sub>34 actus · priorité haute</sub>
+<sub>35 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Octobre 2026
 
+- **sam. 31 oct.** · [Le maître d'œuvre doit calculer l'actualisation des prix si le CCAG Travaux lui est opposable](../veille/2026-10/2026-10-31/le-maitre-d-uvre-doit-calculer-l-actualisation-des-prix-si-l.md) <sub>· Exécution des marchés · 7/10</sub>
 - **jeu. 29 oct.** · [Facturation électronique 2027 : article inaccessible, contenu non vérifiable](../veille/2026-10/2026-10-29/facturation-electronique-2027-article-inaccessible-contenu-n.md) <sub>· Facturation & paiement · **Utile CPAM** · 6.3/10</sub>
 - **mer. 28 oct.** · [CNCP : composition et fonctionnement fixés par un arrêté](../veille/2026-10/2026-10-28/cncp-composition-et-fonctionnement-fixes-par-un-arrete.md) <sub>· Procédures · 7/10</sub>
 - **mar. 27 oct.** · [Marché achevé avec facture impayée : plus de modification possible (CJUE)](../veille/2026-10/2026-10-27/marche-acheve-avec-facture-impayee-plus-de-modification-poss.md) <sub>· Exécution des marchés · **Utile CPAM** · 8/10</sub>

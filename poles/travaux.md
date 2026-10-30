@@ -2,12 +2,13 @@
 
 # Travaux & maintenance
 
-<sub>9 actus · priorité haute</sub>
+<sub>10 actus · priorité haute</sub>
 
 > Marchés de travaux et de maintenance des bâtiments, suivis avec la direction : CCAG travaux, réception des travaux, garanties, maintenance multitechnique, contrôles réglementaires, sécurité incendie, amiante, indices BT.
 
 ## Octobre 2026
 
+- **sam. 31 oct.** · [Le maître d'œuvre doit calculer l'actualisation des prix si le CCAG Travaux lui est opposable](../veille/2026-10/2026-10-31/le-maitre-d-uvre-doit-calculer-l-actualisation-des-prix-si-l.md) <sub>· Exécution des marchés · 7/10</sub>
 - **ven. 30 oct.** · [Amiante avant travaux : le RAT reste une obligation, rappel de l'INRS](../veille/2026-10/2026-10-30/amiante-avant-travaux-le-rat-reste-une-obligation-rappel-de.md) <sub>· Travaux & maintenance · **Utile CPAM** · 6.3/10</sub>
 - **mar. 27 oct.** · [Retenue de garantie : le lien fourni ne contient aucun texte juridique exploitable](../veille/2026-10/2026-10-27/retenue-de-garantie-le-lien-fourni-ne-contient-aucun-texte-j.md) <sub>· Exécution des marchés · 6.3/10</sub>
 - **jeu. 22 oct.** · [Comptes-rendus de chantier : la RFGP invite à clarifier qui certifie quoi](../veille/2026-10/2026-10-22/comptes-rendus-de-chantier-la-rfgp-invite-a-clarifier-qui-ce.md) <sub>· Exécution des marchés · **Toutes les caisses** · 7.5/10</sub>

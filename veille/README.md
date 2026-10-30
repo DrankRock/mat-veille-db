@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>31 éditions · 70 actus depuis le 28 septembre 2026</sub>
+<sub>32 éditions · 71 actus depuis le 28 septembre 2026</sub>
 
 ## [Octobre 2026](2026-10/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [sam. 31 oct.](2026-10/2026-10-31.md) | 1 | [Le maître d'œuvre doit calculer l'actualisation des prix si le CCAG Travaux lui est opposable](2026-10/2026-10-31/le-maitre-d-uvre-doit-calculer-l-actualisation-des-prix-si-l.md) |
 | [ven. 30 oct.](2026-10/2026-10-30.md) | 1 | [Amiante avant travaux : le RAT reste une obligation, rappel de l'INRS](2026-10/2026-10-30/amiante-avant-travaux-le-rat-reste-une-obligation-rappel-de.md) |
 | [jeu. 29 oct.](2026-10/2026-10-29.md) | 1 | [Facturation électronique 2027 : article inaccessible, contenu non vérifiable](2026-10/2026-10-29/facturation-electronique-2027-article-inaccessible-contenu-n.md) |
 | [mer. 28 oct.](2026-10/2026-10-28.md) | 1 | [CNCP : composition et fonctionnement fixés par un arrêté](2026-10/2026-10-28/cncp-composition-et-fonctionnement-fixes-par-un-arrete.md) |
