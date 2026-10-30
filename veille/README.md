@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>30 éditions · 69 actus depuis le 28 septembre 2026</sub>
+<sub>31 éditions · 70 actus depuis le 28 septembre 2026</sub>
 
 ## [Octobre 2026](2026-10/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [ven. 30 oct.](2026-10/2026-10-30.md) | 1 | [Amiante avant travaux : le RAT reste une obligation, rappel de l'INRS](2026-10/2026-10-30/amiante-avant-travaux-le-rat-reste-une-obligation-rappel-de.md) |
 | [jeu. 29 oct.](2026-10/2026-10-29.md) | 1 | [Facturation électronique 2027 : article inaccessible, contenu non vérifiable](2026-10/2026-10-29/facturation-electronique-2027-article-inaccessible-contenu-n.md) |
 | [mer. 28 oct.](2026-10/2026-10-28.md) | 1 | [CNCP : composition et fonctionnement fixés par un arrêté](2026-10/2026-10-28/cncp-composition-et-fonctionnement-fixes-par-un-arrete.md) |
 | [mar. 27 oct.](2026-10/2026-10-27.md) | 4 | [Amelipro fermé par précaution : une faille PHP, retour au papier pour les démarches](2026-10/2026-10-27/amelipro-ferme-par-precaution-une-faille-php-retour-au-papie.md) |

@@ -2,7 +2,11 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 28 éditions · 68 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 29 éditions · 69 actus</sub>
+
+## [Vendredi 30 octobre 2026](2026-10-30.md)
+
+- [Amiante avant travaux : le RAT reste une obligation, rappel de l'INRS](2026-10-30/amiante-avant-travaux-le-rat-reste-une-obligation-rappel-de.md) <sub>· `Travaux & maintenance` `Patrimoine` · Travaux & maintenance · **Utile CPAM** · Batiactu · 6.3/10</sub>
 
 ## [Jeudi 29 octobre 2026](2026-10-29.md)
 
