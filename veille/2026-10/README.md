@@ -2,7 +2,7 @@
 
 # Octobre 2026
 
-<sub>‹ [Septembre 2026](../2026-09/README.md) · 30 éditions · 70 actus</sub>
+<sub>‹ [Septembre 2026](../2026-09/README.md) · 30 éditions · 70 actus · [Novembre 2026](../2026-11/README.md) ›</sub>
 
 ## [Samedi 31 octobre 2026](2026-10-31.md)
 

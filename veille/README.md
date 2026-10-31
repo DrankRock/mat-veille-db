@@ -2,7 +2,13 @@
 
 # Toutes les éditions
 
-<sub>32 éditions · 71 actus depuis le 28 septembre 2026</sub>
+<sub>33 éditions · 72 actus depuis le 28 septembre 2026</sub>
+
+## [Novembre 2026](2026-11/README.md)
+
+| Jour | Actus | À la une |
+| --- | --- | --- |
+| [dim. 1er nov.](2026-11/2026-11-01.md) | 1 | [Réforme ViDA : la page source est inaccessible, l'article reste à écrire](2026-11/2026-11-01/reforme-vida-la-page-source-est-inaccessible-l-article-reste.md) |
 
 ## [Octobre 2026](2026-10/README.md)
 

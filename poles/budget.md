@@ -2,9 +2,13 @@
 
 # Budget
 
-<sub>15 actus · priorité haute</sub>
+<sub>16 actus · priorité haute</sub>
 
 > Budget de gestion administrative de la caisse et sa comptabilité : LFSS, convention d'objectifs et de gestion, normes comptables des organismes de sécurité sociale (CNoCP), agence comptable, contrôle interne, certification des comptes, facturation électronique (Chorus Pro), délais de paiement, révision des prix.
+
+## Novembre 2026
+
+- **dim. 1er nov.** · [Réforme ViDA : la page source est inaccessible, l'article reste à écrire](../veille/2026-11/2026-11-01/reforme-vida-la-page-source-est-inaccessible-l-article-reste.md) <sub>· Facturation & paiement · **Utile CPAM** · 6.3/10</sub>
 
 ## Octobre 2026
 
