@@ -2,7 +2,11 @@
 
 # Novembre 2026
 
-<sub>‹ [Octobre 2026](../2026-10/README.md) · 1 édition · 1 actu</sub>
+<sub>‹ [Octobre 2026](../2026-10/README.md) · 2 éditions · 1 actu</sub>
+
+## [Mardi 3 novembre 2026](2026-11-03.md)
+
+<sub>Rien de nouveau ce soir.</sub>
 
 ## [Dimanche 1er novembre 2026](2026-11-01.md)
 
