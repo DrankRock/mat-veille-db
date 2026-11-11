@@ -2,12 +2,19 @@
 
 # Toutes les éditions
 
-<sub>34 éditions · 72 actus depuis le 28 septembre 2026</sub>
+<sub>41 éditions · 80 actus depuis le 28 septembre 2026</sub>
 
 ## [Novembre 2026](2026-11/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [jeu. 12 nov.](2026-11/2026-11-12.md) | — | <sub>Rien de nouveau</sub> |
+| [mer. 11 nov.](2026-11/2026-11-11.md) | 2 | [Réduction générale dégressive : calcul dérogatoire lié au salaire minimum professionnel](2026-11/2026-11-11/reduction-generale-degressive-calcul-derogatoire-lie-au-sala.md) |
+| [mar. 10 nov.](2026-11/2026-11-10.md) | — | <sub>Rien de nouveau</sub> |
+| [lun. 9 nov.](2026-11/2026-11-09.md) | 4 | [Énergie : un guide de 100 actions pour réduire les consommations sans travaux](2026-11/2026-11-09/energie-un-guide-de-100-actions-pour-reduire-les-consommatio.md) |
+| [dim. 8 nov.](2026-11/2026-11-08.md) | — | <sub>Rien de nouveau</sub> |
+| [sam. 7 nov.](2026-11/2026-11-07.md) | — | <sub>Rien de nouveau</sub> |
+| [ven. 6 nov.](2026-11/2026-11-06.md) | 2 | [GTSMS : adhésion obligatoire pour certains ESMS publics, échéance 2028](2026-11/2026-11-06/gtsms-adhesion-obligatoire-pour-certains-esms-publics-echean.md) |
 | [mar. 3 nov.](2026-11/2026-11-03.md) | — | <sub>Rien de nouveau</sub> |
 | [dim. 1er nov.](2026-11/2026-11-01.md) | 1 | [Réforme ViDA : la page source est inaccessible, l'article reste à écrire](2026-11/2026-11-01/reforme-vida-la-page-source-est-inaccessible-l-article-reste.md) |
 

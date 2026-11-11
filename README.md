@@ -1,8 +1,8 @@
 # Mat-Veille
 
-<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 3 novembre 2026 à 00:08</sub>
+<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 12 novembre 2026 à 00:09</sub>
 
-## [Mardi 3 novembre 2026](veille/2026-11/2026-11-03.md)
+## [Jeudi 12 novembre 2026](veille/2026-11/2026-11-12.md)
 
 <sub>Dernière édition sur 33 contenus examinés</sub>
 
@@ -11,11 +11,11 @@
 
 ## À lire dans la bibliothèque
 
-**Étude de cas** · [L'affaire Vélib' : le contrôle du juge administratif sur la procédure de passation](bibliotheque/etudes-de-cas/etude-affaire-affaire-velib.md)
+**Étude de cas** · [L'affaire Société des granits porphyroïdes des Vosges (CE, 31 juillet 1912) : le critère de la clause exorbitante du droit commun](bibliotheque/etudes-de-cas/etude-affaire-affaire-societe-des-granits-porphyroides-des-v.md)
 
-<sub>Procédures de passation · Pratique · 13 min</sub>
+<sub>Histoire de la commande publique · Pratique · 10 min</sub>
 
-En 2017, JCDecaux, évincé de l'attribution du nouveau marché des vélos en libre-service parisiens, saisit le juge des référés précontractuel, puis conteste la validité du contrat signé avec le groupement Smoovengo : il échoue sur les deux terrains. L'affaire dessine précisément l'office du juge administratif en matière de passation, entre contrôle des obligations de publicité et de mise en concurrence et vérification des griefs allégués par une candidature évincée.
+La ville de Lille avait acheté des pavés à une société privée ; le maire a retenu des pénalités de retard et la société a demandé au Conseil d'État d'annuler ces décisions. Le Conseil d'État rejette la requête : un marché de pures fournitures, conclu selon les règles des contrats entre particuliers, ne relève pas du juge administratif. L'affaire fait naître le critère de la clause exorbitante du droit commun.
 
 **Fiche** · [Qu'est-ce qu'un marché public ? Définition légale et principes fondateurs](bibliotheque/fiches/fiche-definition-marche-public.md)
 
@@ -27,16 +27,16 @@ Le marché public est un contrat par lequel une personne publique achète des tr
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
-| [dim. 1er nov.](veille/2026-11/2026-11-01.md) | 1 | [Réforme ViDA : la page source est inaccessible, l'article reste à écrire](veille/2026-11/2026-11-01/reforme-vida-la-page-source-est-inaccessible-l-article-reste.md) |
-| [sam. 31 oct.](veille/2026-10/2026-10-31.md) | 1 | [Le maître d'œuvre doit calculer l'actualisation des prix si le CCAG Travaux lui est opposable](veille/2026-10/2026-10-31/le-maitre-d-uvre-doit-calculer-l-actualisation-des-prix-si-l.md) |
-| [ven. 30 oct.](veille/2026-10/2026-10-30.md) | 1 | [Amiante avant travaux : le RAT reste une obligation, rappel de l'INRS](veille/2026-10/2026-10-30/amiante-avant-travaux-le-rat-reste-une-obligation-rappel-de.md) |
-| [jeu. 29 oct.](veille/2026-10/2026-10-29.md) | 1 | [Facturation électronique 2027 : article inaccessible, contenu non vérifiable](veille/2026-10/2026-10-29/facturation-electronique-2027-article-inaccessible-contenu-n.md) |
-| [mer. 28 oct.](veille/2026-10/2026-10-28.md) | 1 | [CNCP : composition et fonctionnement fixés par un arrêté](veille/2026-10/2026-10-28/cncp-composition-et-fonctionnement-fixes-par-un-arrete.md) |
-| [mar. 27 oct.](veille/2026-10/2026-10-27.md) | 4 | [Amelipro fermé par précaution : une faille PHP, retour au papier pour les démarches](veille/2026-10/2026-10-27/amelipro-ferme-par-precaution-une-faille-php-retour-au-papie.md) |
-| [dim. 25 oct.](veille/2026-10/2026-10-25.md) | 1 | [Prévoyance des agents territoriaux : marché de six ans et rapport annuel](veille/2026-10/2026-10-25/prevoyance-des-agents-territoriaux-marche-de-six-ans-et-rapp.md) |
+| [mer. 11 nov.](veille/2026-11/2026-11-11.md) | 2 | [Réduction générale dégressive : calcul dérogatoire lié au salaire minimum professionnel](veille/2026-11/2026-11-11/reduction-generale-degressive-calcul-derogatoire-lie-au-sala.md) |
+| [mar. 10 nov.](veille/2026-11/2026-11-10.md) | — | <sub>Rien de nouveau</sub> |
+| [lun. 9 nov.](veille/2026-11/2026-11-09.md) | 4 | [Énergie : un guide de 100 actions pour réduire les consommations sans travaux](veille/2026-11/2026-11-09/energie-un-guide-de-100-actions-pour-reduire-les-consommatio.md) |
+| [dim. 8 nov.](veille/2026-11/2026-11-08.md) | — | <sub>Rien de nouveau</sub> |
+| [sam. 7 nov.](veille/2026-11/2026-11-07.md) | — | <sub>Rien de nouveau</sub> |
+| [ven. 6 nov.](veille/2026-11/2026-11-06.md) | 2 | [GTSMS : adhésion obligatoire pour certains ESMS publics, échéance 2028](veille/2026-11/2026-11-06/gtsms-adhesion-obligatoire-pour-certains-esms-publics-echean.md) |
+| [mar. 3 nov.](veille/2026-11/2026-11-03.md) | — | <sub>Rien de nouveau</sub> |
 
 ## Parcourir
 
-- **[Toutes les éditions](veille/README.md)** · 34 éditions, 72 actus, rangées par mois
-- **[Par pôle](poles/README.md)** · [Achats](poles/achats.md) (35) · [Budget](poles/budget.md) (16) · [Patrimoine](poles/patrimoine.md) (6) · [Travaux & maintenance](poles/travaux.md) (10) · [EM2I](poles/em2i.md) (4) · [Droit (perso)](poles/droit.md) (7)
+- **[Toutes les éditions](veille/README.md)** · 41 éditions, 80 actus, rangées par mois
+- **[Par pôle](poles/README.md)** · [Achats](poles/achats.md) (37) · [Budget](poles/budget.md) (21) · [Patrimoine](poles/patrimoine.md) (8) · [Travaux & maintenance](poles/travaux.md) (12) · [EM2I](poles/em2i.md) (4) · [Droit (perso)](poles/droit.md) (7)
 - **[Bibliothèque](bibliotheque/README.md)** · [49 études de cas](bibliotheque/etudes-de-cas/README.md) · [1 fiche](bibliotheque/fiches/README.md) · [0 article](bibliotheque/articles/README.md)

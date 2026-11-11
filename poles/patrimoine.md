@@ -2,9 +2,14 @@
 
 # Patrimoine
 
-<sub>6 actus · priorité haute</sub>
+<sub>8 actus · priorité haute</sub>
 
 > Gestion du parc immobilier de la caisse : schéma directeur immobilier, acquisitions, cessions, baux, réduction des surfaces, décret tertiaire et OPERAT, décret BACS, accessibilité, énergie des bâtiments.
+
+## Novembre 2026
+
+- **lun. 9 nov.** · [Énergie : un guide de 100 actions pour réduire les consommations sans travaux](../veille/2026-11/2026-11-09/energie-un-guide-de-100-actions-pour-reduire-les-consommatio.md) <sub>· Immobilier & énergie · **Utile CPAM** · 8.8/10</sub>
+- **lun. 9 nov.** · [Source inaccessible : pas de veille possible sur décret tertiaire et bail commercial](../veille/2026-11/2026-11-09/source-inaccessible-pas-de-veille-possible-sur-decret-tertia.md) <sub>· Immobilier & énergie · **Utile CPAM** · 7.3/10</sub>
 
 ## Octobre 2026
 
