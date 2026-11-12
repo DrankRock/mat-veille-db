@@ -31,8 +31,9 @@ Ce n'est qu'après examen de ces explications, et si elles ne permettent pas de 
 | --- | --- | --- |
 | **Conseil d'État — ArianeWeb** | [Lire l'original](<https://www.conseil-etat.fr>) | 24 sept. |
 | Landot & associés | [Offre anormalement basse : un prix très bas ne suffit pas à éliminer un candidat !](<https://blog.landot-avocats.net/2026/10/19/offre-anormalement-basse-un-prix-tres-bas-ne-suffit-pas-a-eliminer-un-candidat/>) | 19 oct. |
+| Le Moniteur | [Marchés publics : des prix beaucoup plus bas que ceux des autres candidats ne suffisent pas à caractériser une offre anormalement basse](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMixAJBVV95cUxQYWVrVnhid3dlWWVmcDZFTUFTUEFFZHhPZk42OHh6ckFyQlJsUHJGZTFMNHRPNE5OdTBvUTZ3NFVDMEVqX0hFa1o2N05uTUFiNFhQZlVTelhMb3F2LTRIZE5DcmFESm04MW9FdHgwak1EdTIzNDVqTklfZUNYU0RnYm9WLTY5VUQ2TWhPa2diaHYtRi1seXI2MXoyRjNISGVJOXprUDZTM3NRTnJia2I4WldqOHdoTEdEZ1M1OHBqRGdQRGJQSkVzbGI5aURZUDZiUHlsZVFoUngyUXdwS3NMNlQwd3p1ckpuRWhfSHhNYW9LOUJhSkdtTTFlWDc0blN0b25WSFBBUVdEYTN5ZGwwZzQ4YVc2ekdJZDVFc1plWmxPZzdDTnUzblhmTkVfUGQ0U0ZrVFNRb2lQNVNrVENNVTVTN2c?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 12 nov. |
 
-<sub>Recoupé · 2 sources</sub>
+<sub>Recoupé · 3 sources</sub>
 
 ---
 

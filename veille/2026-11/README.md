@@ -2,7 +2,12 @@
 
 # Novembre 2026
 
-<sub>‹ [Octobre 2026](../2026-10/README.md) · 9 éditions · 9 actus</sub>
+<sub>‹ [Octobre 2026](../2026-10/README.md) · 10 éditions · 11 actus</sub>
+
+## [Vendredi 13 novembre 2026](2026-11-13.md)
+
+- [Référé précontractuel signé : rejet sauf défaut de publicité et de stand still](2026-11-13/refere-precontractuel-signe-rejet-sauf-defaut-de-publicite-e.md) <sub>· `Achats` · Procédures · Landot & associés · 8/10</sub>
+- [Marché d'avocat : sous-traiter le contentieux à des non-avocats fait perdre l'exemption](2026-11-13/marche-d-avocat-sous-traiter-le-contentieux-a-des-non-avocat.md) <sub>· `Achats` `Droit (perso)` · Procédures · Landot & associés · 7/10</sub>
 
 ## [Jeudi 12 novembre 2026](2026-11-12.md)
 

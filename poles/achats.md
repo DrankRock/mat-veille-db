@@ -2,12 +2,14 @@
 
 # Achats
 
-<sub>37 actus · priorité haute</sub>
+<sub>39 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Novembre 2026
 
+- **ven. 13 nov.** · [Référé précontractuel signé : rejet sauf défaut de publicité et de stand still](../veille/2026-11/2026-11-13/refere-precontractuel-signe-rejet-sauf-defaut-de-publicite-e.md) <sub>· Procédures · 8/10</sub>
+- **ven. 13 nov.** · [Marché d'avocat : sous-traiter le contentieux à des non-avocats fait perdre l'exemption](../veille/2026-11/2026-11-13/marche-d-avocat-sous-traiter-le-contentieux-a-des-non-avocat.md) <sub>· Procédures · 7/10</sub>
 - **lun. 9 nov.** · [UniHA et l'Anap lancent un marché de managers de transition](../veille/2026-11/2026-11-09/uniha-et-l-anap-lancent-un-marche-de-managers-de-transition.md) <sub>· Centrales d'achat · **Utile CPAM** · 7.8/10</sub>
 - **ven. 6 nov.** · [GTSMS : adhésion obligatoire pour certains ESMS publics, échéance 2028](../veille/2026-11/2026-11-06/gtsms-adhesion-obligatoire-pour-certains-esms-publics-echean.md) <sub>· Santé & protection sociale · **Toutes les caisses** · 9/10</sub>
 

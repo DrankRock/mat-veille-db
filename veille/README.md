@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>41 éditions · 80 actus depuis le 28 septembre 2026</sub>
+<sub>42 éditions · 82 actus depuis le 28 septembre 2026</sub>
 
 ## [Novembre 2026](2026-11/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [ven. 13 nov.](2026-11/2026-11-13.md) | 2 | [Référé précontractuel signé : rejet sauf défaut de publicité et de stand still](2026-11/2026-11-13/refere-precontractuel-signe-rejet-sauf-defaut-de-publicite-e.md) |
 | [jeu. 12 nov.](2026-11/2026-11-12.md) | — | <sub>Rien de nouveau</sub> |
 | [mer. 11 nov.](2026-11/2026-11-11.md) | 2 | [Réduction générale dégressive : calcul dérogatoire lié au salaire minimum professionnel](2026-11/2026-11-11/reduction-generale-degressive-calcul-derogatoire-lie-au-sala.md) |
 | [mar. 10 nov.](2026-11/2026-11-10.md) | — | <sub>Rien de nouveau</sub> |

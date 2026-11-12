@@ -2,9 +2,13 @@
 
 # Droit (perso)
 
-<sub>7 actus · priorité perso</sub>
+<sub>8 actus · priorité perso</sub>
 
 > Droit public et jurisprudence sans effet pratique direct pour un pôle : intérêt personnel de la lectrice.
+
+## Novembre 2026
+
+- **ven. 13 nov.** · [Marché d'avocat : sous-traiter le contentieux à des non-avocats fait perdre l'exemption](../veille/2026-11/2026-11-13/marche-d-avocat-sous-traiter-le-contentieux-a-des-non-avocat.md) <sub>· Procédures · 7/10</sub>
 
 ## Octobre 2026
 

@@ -55,8 +55,9 @@ Aucune application immédiate n'est prévue. Le règlement entrerait en vigueur 
 | Landot & associés | [Commande publique : la Commission européenne propose un règlement unique et directement applicable \[VIDEO et article\]](<https://blog.landot-avocats.net/2026/10/14/commande-publique-la-commission-europeenne-propose-un-reglement-unique-et-directement-applicable-video-et-article-2/>) | 14 oct. |
 | Landot & associés | [Commande publique : la Commission européenne propose un règlement unique et directement applicable \[VIDEO et article\]](<https://blog.landot-avocats.net/2026/10/26/commande-publique-la-commission-europeenne-propose-un-reglement-unique-et-directement-applicable-video-et-article-3/>) | 26 oct. |
 | Legibase Commande publique | [(1/4) Proposition de règlement européen sur les marchés publics – Vers une passation plus simple et plus stratégique](<https://commande-publique.collectivites.legibase.fr/actualites/veille-juridique/14-proposition-de-reglement-europeen-sur-les-marches-publics-vers-une>) | 10 nov. |
+| Legibase Commande publique | [(2/4) Proposition de règlement européen sur les marchés publics – Des procédures de passation repensées, entre incertitudes et nouvelles rigidités](<https://commande-publique.collectivites.legibase.fr/actualites/veille-juridique/24-proposition-de-reglement-europeen-sur-les-marches-publics-des>) | 12 nov. |
 
-<sub>Recoupé · 4 sources</sub>
+<sub>Recoupé · 5 sources</sub>
 
 <sub>Mots-clés : public procurement act, règlement unique, directives 2014, commission européenne, passation</sub>
 
