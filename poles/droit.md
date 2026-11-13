@@ -2,12 +2,13 @@
 
 # Droit (perso)
 
-<sub>8 actus · priorité perso</sub>
+<sub>9 actus · priorité perso</sub>
 
 > Droit public et jurisprudence sans effet pratique direct pour un pôle : intérêt personnel de la lectrice.
 
 ## Novembre 2026
 
+- **sam. 14 nov.** · [Marché public ou subvention : une décision du Conseil d'État annoncée](../veille/2026-11/2026-11-14/marche-public-ou-subvention-une-decision-du-conseil-d-etat-a.md) <sub>· Jurisprudence · 6.3/10</sub>
 - **ven. 13 nov.** · [Marché d'avocat : sous-traiter le contentieux à des non-avocats fait perdre l'exemption](../veille/2026-11/2026-11-13/marche-d-avocat-sous-traiter-le-contentieux-a-des-non-avocat.md) <sub>· Procédures · 7/10</sub>
 
 ## Octobre 2026

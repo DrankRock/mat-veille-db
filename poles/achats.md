@@ -2,12 +2,14 @@
 
 # Achats
 
-<sub>39 actus · priorité haute</sub>
+<sub>41 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Novembre 2026
 
+- **sam. 14 nov.** · [Critère environnemental mal défini : le TA de Grenoble censure la consultation](../veille/2026-11/2026-11-14/critere-environnemental-mal-defini-le-ta-de-grenoble-censure.md) <sub>· Achat durable · **Utile CPAM** · 8/10</sub>
+- **sam. 14 nov.** · [Marché public ou subvention : une décision du Conseil d'État annoncée](../veille/2026-11/2026-11-14/marche-public-ou-subvention-une-decision-du-conseil-d-etat-a.md) <sub>· Jurisprudence · 6.3/10</sub>
 - **ven. 13 nov.** · [Référé précontractuel signé : rejet sauf défaut de publicité et de stand still](../veille/2026-11/2026-11-13/refere-precontractuel-signe-rejet-sauf-defaut-de-publicite-e.md) <sub>· Procédures · 8/10</sub>
 - **ven. 13 nov.** · [Marché d'avocat : sous-traiter le contentieux à des non-avocats fait perdre l'exemption](../veille/2026-11/2026-11-13/marche-d-avocat-sous-traiter-le-contentieux-a-des-non-avocat.md) <sub>· Procédures · 7/10</sub>
 - **lun. 9 nov.** · [UniHA et l'Anap lancent un marché de managers de transition](../veille/2026-11/2026-11-09/uniha-et-l-anap-lancent-un-marche-de-managers-de-transition.md) <sub>· Centrales d'achat · **Utile CPAM** · 7.8/10</sub>

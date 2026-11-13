@@ -2,7 +2,12 @@
 
 # Novembre 2026
 
-<sub>‹ [Octobre 2026](../2026-10/README.md) · 10 éditions · 11 actus</sub>
+<sub>‹ [Octobre 2026](../2026-10/README.md) · 11 éditions · 13 actus</sub>
+
+## [Samedi 14 novembre 2026](2026-11-14.md)
+
+- [Critère environnemental mal défini : le TA de Grenoble censure la consultation](2026-11-14/critere-environnemental-mal-defini-le-ta-de-grenoble-censure.md) <sub>· `Achats` · Achat durable · **Utile CPAM** · Landot & associés · 8/10</sub>
+- [Marché public ou subvention : une décision du Conseil d'État annoncée](2026-11-14/marche-public-ou-subvention-une-decision-du-conseil-d-etat-a.md) <sub>· `Achats` `Droit (perso)` · Jurisprudence · La Gazette des Communes · 6.3/10</sub>
 
 ## [Vendredi 13 novembre 2026](2026-11-13.md)
 

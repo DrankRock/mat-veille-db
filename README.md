@@ -1,30 +1,30 @@
 # Mat-Veille
 
-<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 13 novembre 2026 à 00:09</sub>
+<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 14 novembre 2026 à 00:09</sub>
 
-## [Vendredi 13 novembre 2026](veille/2026-11/2026-11-13.md)
+## [Samedi 14 novembre 2026](veille/2026-11/2026-11-14.md)
 
-<sub>Dernière édition · 2 actus sur 26 contenus examinés</sub>
+<sub>Dernière édition · 2 actus sur 38 contenus examinés</sub>
 
-### [Référé précontractuel signé : rejet sauf défaut de publicité et de stand still](veille/2026-11/2026-11-13/refere-precontractuel-signe-rejet-sauf-defaut-de-publicite-e.md)
+### [Critère environnemental mal défini : le TA de Grenoble censure la consultation](veille/2026-11/2026-11-14/critere-environnemental-mal-defini-le-ta-de-grenoble-censure.md)
 
-<sub>`Achats` · Procédures · Landot & associés · 8/10</sub>
+<sub>`Achats` · Achat durable · **Utile CPAM** · Landot & associés · 8/10</sub>
 
-Le candidat évincé qui saisit le juge après la signature voit son recours écarté, sauf si l'acheteur n'a pas publié son intention de conclure ni attendu le délai légal.
+Le tribunal administratif de Grenoble juge qu'un critère environnemental trop vague, non explicité dans le dossier de consultation, ne permet pas d'évaluer objectivement les offres.
 
-### [Marché d'avocat : sous-traiter le contentieux à des non-avocats fait perdre l'exemption](veille/2026-11/2026-11-13/marche-d-avocat-sous-traiter-le-contentieux-a-des-non-avocat.md)
+### [Marché public ou subvention : une décision du Conseil d'État annoncée](veille/2026-11/2026-11-14/marche-public-ou-subvention-une-decision-du-conseil-d-etat-a.md)
 
-<sub>`Achats` `Droit (perso)` · Procédures · Landot & associés · 7/10</sub>
+<sub>`Achats` `Droit (perso)` · Jurisprudence · La Gazette des Communes · 6.3/10</sub>
 
-Le juge des référés du Conseil d'État juge qu'un marché d'avocat dont l'essentiel est sous-traité à une société sans avocat ne bénéficie plus de la dispense de publicité du Code de la commande publique.
+La Gazette des Communes annonce une décision du Conseil d'État sur la différence entre marché public et subvention. Le contenu de l'article n'a pas pu être récupéré : le sens et la portée de la décision ne sont pas connus ici.
 
 ## À lire dans la bibliothèque
 
-**Étude de cas** · [L'affaire Vélib' : le contrôle du juge administratif sur la procédure de passation](bibliotheque/etudes-de-cas/etude-affaire-affaire-velib.md)
+**Étude de cas** · [L'affaire du Mediator : Servier devant le juge pénal, l'État devant le juge administratif](bibliotheque/etudes-de-cas/etude-affaire-affaire-du-mediator.md)
 
-<sub>Procédures de passation · Pratique · 13 min</sub>
+<sub>Achat public en santé et protection sociale · Pratique · **Utile CPAM** · 17 min</sub>
 
-En 2017, JCDecaux, évincé de l'attribution du nouveau marché des vélos en libre-service parisiens, saisit le juge des référés précontractuel, puis conteste la validité du contrat signé avec le groupement Smoovengo : il échoue sur les deux terrains. L'affaire dessine précisément l'office du juge administratif en matière de passation, entre contrôle des obligations de publicité et de mise en concurrence et vérification des griefs allégués par une candidature évincée.
+Le benfluorex, vendu sous le nom de Mediator de 1976 à 2009, a exposé plusieurs millions de patients à des valvulopathies et à une hypertension artérielle pulmonaire. Le laboratoire Servier a été condamné au pénal pour tromperie aggravée et homicides involontaires, tandis que la responsabilité de l'État était recherchée devant le juge administratif pour carence de la police sanitaire, avec un partage de charge entre l'État et le laboratoire.
 
 **Fiche** · [Qu'est-ce qu'un marché public ? Définition légale et principes fondateurs](bibliotheque/fiches/fiche-definition-marche-public.md)
 
@@ -36,16 +36,16 @@ Le marché public est un contrat par lequel une personne publique achète des tr
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [ven. 13 nov.](veille/2026-11/2026-11-13.md) | 2 | [Référé précontractuel signé : rejet sauf défaut de publicité et de stand still](veille/2026-11/2026-11-13/refere-precontractuel-signe-rejet-sauf-defaut-de-publicite-e.md) |
 | [jeu. 12 nov.](veille/2026-11/2026-11-12.md) | — | <sub>Rien de nouveau</sub> |
 | [mer. 11 nov.](veille/2026-11/2026-11-11.md) | 2 | [Réduction générale dégressive : calcul dérogatoire lié au salaire minimum professionnel](veille/2026-11/2026-11-11/reduction-generale-degressive-calcul-derogatoire-lie-au-sala.md) |
 | [mar. 10 nov.](veille/2026-11/2026-11-10.md) | — | <sub>Rien de nouveau</sub> |
 | [lun. 9 nov.](veille/2026-11/2026-11-09.md) | 4 | [Énergie : un guide de 100 actions pour réduire les consommations sans travaux](veille/2026-11/2026-11-09/energie-un-guide-de-100-actions-pour-reduire-les-consommatio.md) |
 | [dim. 8 nov.](veille/2026-11/2026-11-08.md) | — | <sub>Rien de nouveau</sub> |
 | [sam. 7 nov.](veille/2026-11/2026-11-07.md) | — | <sub>Rien de nouveau</sub> |
-| [ven. 6 nov.](veille/2026-11/2026-11-06.md) | 2 | [GTSMS : adhésion obligatoire pour certains ESMS publics, échéance 2028](veille/2026-11/2026-11-06/gtsms-adhesion-obligatoire-pour-certains-esms-publics-echean.md) |
 
 ## Parcourir
 
-- **[Toutes les éditions](veille/README.md)** · 42 éditions, 82 actus, rangées par mois
-- **[Par pôle](poles/README.md)** · [Achats](poles/achats.md) (39) · [Budget](poles/budget.md) (21) · [Patrimoine](poles/patrimoine.md) (8) · [Travaux & maintenance](poles/travaux.md) (12) · [EM2I](poles/em2i.md) (4) · [Droit (perso)](poles/droit.md) (8)
+- **[Toutes les éditions](veille/README.md)** · 43 éditions, 84 actus, rangées par mois
+- **[Par pôle](poles/README.md)** · [Achats](poles/achats.md) (41) · [Budget](poles/budget.md) (21) · [Patrimoine](poles/patrimoine.md) (8) · [Travaux & maintenance](poles/travaux.md) (12) · [EM2I](poles/em2i.md) (4) · [Droit (perso)](poles/droit.md) (9)
 - **[Bibliothèque](bibliotheque/README.md)** · [49 études de cas](bibliotheque/etudes-de-cas/README.md) · [1 fiche](bibliotheque/fiches/README.md) · [0 article](bibliotheque/articles/README.md)
