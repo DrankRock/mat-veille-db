@@ -1,30 +1,21 @@
 # Mat-Veille
 
-<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 14 novembre 2026 à 00:09</sub>
+<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 15 novembre 2026 à 00:06</sub>
 
-## [Samedi 14 novembre 2026](veille/2026-11/2026-11-14.md)
+## [Dimanche 15 novembre 2026](veille/2026-11/2026-11-15.md)
 
-<sub>Dernière édition · 2 actus sur 38 contenus examinés</sub>
+<sub>Dernière édition sur 33 contenus examinés</sub>
 
-### [Critère environnemental mal défini : le TA de Grenoble censure la consultation](veille/2026-11/2026-11-14/critere-environnemental-mal-defini-le-ta-de-grenoble-censure.md)
-
-<sub>`Achats` · Achat durable · **Utile CPAM** · Landot & associés · 8/10</sub>
-
-Le tribunal administratif de Grenoble juge qu'un critère environnemental trop vague, non explicité dans le dossier de consultation, ne permet pas d'évaluer objectivement les offres.
-
-### [Marché public ou subvention : une décision du Conseil d'État annoncée](veille/2026-11/2026-11-14/marche-public-ou-subvention-une-decision-du-conseil-d-etat-a.md)
-
-<sub>`Achats` `Droit (perso)` · Jurisprudence · La Gazette des Communes · 6.3/10</sub>
-
-La Gazette des Communes annonce une décision du Conseil d'État sur la différence entre marché public et subvention. Le contenu de l'article n'a pas pu être récupéré : le sens et la portée de la décision ne sont pas connus ici.
+> [!NOTE]
+> Rien de nouveau ce soir (33 contenus examinés).
 
 ## À lire dans la bibliothèque
 
-**Étude de cas** · [L'affaire du Mediator : Servier devant le juge pénal, l'État devant le juge administratif](bibliotheque/etudes-de-cas/etude-affaire-affaire-du-mediator.md)
+**Étude de cas** · [L'affaire du sang contaminé : la responsabilité de l'État et l'achat public de produits sanguins](bibliotheque/etudes-de-cas/etude-affaire-affaire-du-sang-contamine.md)
 
-<sub>Achat public en santé et protection sociale · Pratique · **Utile CPAM** · 17 min</sub>
+<sub>Achat public en santé et protection sociale · Pratique · **Utile CPAM** · 13 min</sub>
 
-Le benfluorex, vendu sous le nom de Mediator de 1976 à 2009, a exposé plusieurs millions de patients à des valvulopathies et à une hypertension artérielle pulmonaire. Le laboratoire Servier a été condamné au pénal pour tromperie aggravée et homicides involontaires, tandis que la responsabilité de l'État était recherchée devant le juge administratif pour carence de la police sanitaire, avec un partage de charge entre l'État et le laboratoire.
+En 1991, la presse révèle que le Centre national de transfusion sanguine a distribué des produits sanguins contaminés par le VIH à des hémophiles. L'affaire montre comment l'État a été jugé responsable d'une faute simple dans le contrôle sanitaire, comment des médecins et des ministres ont été poursuivis devant des juges différents, et pourquoi la responsabilité du fournisseur de produits sanguins est une obligation de sécurité de résultat.
 
 **Fiche** · [Qu'est-ce qu'un marché public ? Définition légale et principes fondateurs](bibliotheque/fiches/fiche-definition-marche-public.md)
 
@@ -36,16 +27,16 @@ Le marché public est un contrat par lequel une personne publique achète des tr
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [sam. 14 nov.](veille/2026-11/2026-11-14.md) | 2 | [Critère environnemental mal défini : le TA de Grenoble censure la consultation](veille/2026-11/2026-11-14/critere-environnemental-mal-defini-le-ta-de-grenoble-censure.md) |
 | [ven. 13 nov.](veille/2026-11/2026-11-13.md) | 2 | [Référé précontractuel signé : rejet sauf défaut de publicité et de stand still](veille/2026-11/2026-11-13/refere-precontractuel-signe-rejet-sauf-defaut-de-publicite-e.md) |
 | [jeu. 12 nov.](veille/2026-11/2026-11-12.md) | — | <sub>Rien de nouveau</sub> |
 | [mer. 11 nov.](veille/2026-11/2026-11-11.md) | 2 | [Réduction générale dégressive : calcul dérogatoire lié au salaire minimum professionnel](veille/2026-11/2026-11-11/reduction-generale-degressive-calcul-derogatoire-lie-au-sala.md) |
 | [mar. 10 nov.](veille/2026-11/2026-11-10.md) | — | <sub>Rien de nouveau</sub> |
 | [lun. 9 nov.](veille/2026-11/2026-11-09.md) | 4 | [Énergie : un guide de 100 actions pour réduire les consommations sans travaux](veille/2026-11/2026-11-09/energie-un-guide-de-100-actions-pour-reduire-les-consommatio.md) |
 | [dim. 8 nov.](veille/2026-11/2026-11-08.md) | — | <sub>Rien de nouveau</sub> |
-| [sam. 7 nov.](veille/2026-11/2026-11-07.md) | — | <sub>Rien de nouveau</sub> |
 
 ## Parcourir
 
-- **[Toutes les éditions](veille/README.md)** · 43 éditions, 84 actus, rangées par mois
+- **[Toutes les éditions](veille/README.md)** · 44 éditions, 84 actus, rangées par mois
 - **[Par pôle](poles/README.md)** · [Achats](poles/achats.md) (41) · [Budget](poles/budget.md) (21) · [Patrimoine](poles/patrimoine.md) (8) · [Travaux & maintenance](poles/travaux.md) (12) · [EM2I](poles/em2i.md) (4) · [Droit (perso)](poles/droit.md) (9)
 - **[Bibliothèque](bibliotheque/README.md)** · [49 études de cas](bibliotheque/etudes-de-cas/README.md) · [1 fiche](bibliotheque/fiches/README.md) · [0 article](bibliotheque/articles/README.md)
