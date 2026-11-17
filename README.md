@@ -1,6 +1,6 @@
 # Mat-Veille
 
-<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 17 novembre 2026 à 00:00</sub>
+<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 18 novembre 2026 à 00:00</sub>
 
 ## [Dimanche 15 novembre 2026](veille/2026-11/2026-11-15.md)
 
@@ -11,11 +11,11 @@
 
 ## À lire dans la bibliothèque
 
-**Étude de cas** · [L'affaire Société des granits porphyroïdes des Vosges (CE, 31 juillet 1912) : le critère de la clause exorbitante du droit commun](bibliotheque/etudes-de-cas/etude-affaire-affaire-societe-des-granits-porphyroides-des-v.md)
+**Étude de cas** · [L'affaire Vélib' : le contrôle du juge administratif sur la procédure de passation](bibliotheque/etudes-de-cas/etude-affaire-affaire-velib.md)
 
-<sub>Histoire de la commande publique · Pratique · 10 min</sub>
+<sub>Procédures de passation · Pratique · 13 min</sub>
 
-La ville de Lille avait acheté des pavés à une société privée ; le maire a retenu des pénalités de retard et la société a demandé au Conseil d'État d'annuler ces décisions. Le Conseil d'État rejette la requête : un marché de pures fournitures, conclu selon les règles des contrats entre particuliers, ne relève pas du juge administratif. L'affaire fait naître le critère de la clause exorbitante du droit commun.
+En 2017, JCDecaux, évincé de l'attribution du nouveau marché des vélos en libre-service parisiens, saisit le juge des référés précontractuel, puis conteste la validité du contrat signé avec le groupement Smoovengo : il échoue sur les deux terrains. L'affaire dessine précisément l'office du juge administratif en matière de passation, entre contrôle des obligations de publicité et de mise en concurrence et vérification des griefs allégués par une candidature évincée.
 
 **Fiche** · [Qu'est-ce qu'un marché public ? Définition légale et principes fondateurs](bibliotheque/fiches/fiche-definition-marche-public.md)
 
