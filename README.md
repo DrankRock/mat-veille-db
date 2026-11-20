@@ -1,6 +1,6 @@
 # Mat-Veille
 
-<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 20 novembre 2026 à 00:00</sub>
+<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 21 novembre 2026 à 00:00</sub>
 
 ## [Dimanche 15 novembre 2026](veille/2026-11/2026-11-15.md)
 
@@ -11,11 +11,11 @@
 
 ## À lire dans la bibliothèque
 
-**Étude de cas** · [L'affaire du sang contaminé : la responsabilité de l'État et l'achat public de produits sanguins](bibliotheque/etudes-de-cas/etude-affaire-affaire-du-sang-contamine.md)
+**Étude de cas** · [Affaire du Département de Tarn-et-Garonne (CE, Assemblée, 4 avril 2014) : qualifier le contrat, puis trouver qui peut l'attaquer](bibliotheque/etudes-de-cas/etude-affaire-affaire-du-departement-de-tarn-et-garonne.md)
 
-<sub>Achat public en santé et protection sociale · Pratique · **Utile CPAM** · 13 min</sub>
+<sub>Concessions et délégations de service public · Expert · 8 min</sub>
 
-En 1991, la presse révèle que le Centre national de transfusion sanguine a distribué des produits sanguins contaminés par le VIH à des hémophiles. L'affaire montre comment l'État a été jugé responsable d'une faute simple dans le contrôle sanitaire, comment des médecins et des ministres ont été poursuivis devant des juges différents, et pourquoi la responsabilité du fournisseur de produits sanguins est une obligation de sécurité de résultat.
+Un conseiller général attaque la délibération autorisant un marché de location de véhicules signé par son département ; la voie de droit classique des tiers se révèle inadaptée et le Conseil d'État en construit une nouvelle, ouverte à tout tiers lésé. L'affaire rappelle qu'avant de chercher qui peut attaquer un contrat, il faut le qualifier : marché public ou délégation de service public.
 
 **Fiche** · [Qu'est-ce qu'un marché public ? Définition légale et principes fondateurs](bibliotheque/fiches/fiche-definition-marche-public.md)
 
