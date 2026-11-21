@@ -1,6 +1,6 @@
 # Mat-Veille
 
-<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 21 novembre 2026 à 00:00</sub>
+<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 22 novembre 2026 à 00:00</sub>
 
 ## [Dimanche 15 novembre 2026](veille/2026-11/2026-11-15.md)
 
@@ -11,11 +11,11 @@
 
 ## À lire dans la bibliothèque
 
-**Étude de cas** · [Affaire du Département de Tarn-et-Garonne (CE, Assemblée, 4 avril 2014) : qualifier le contrat, puis trouver qui peut l'attaquer](bibliotheque/etudes-de-cas/etude-affaire-affaire-du-departement-de-tarn-et-garonne.md)
+**Étude de cas** · [L'affaire Société des granits porphyroïdes des Vosges (CE, 31 juillet 1912) : le critère de la clause exorbitante du droit commun](bibliotheque/etudes-de-cas/etude-affaire-affaire-societe-des-granits-porphyroides-des-v.md)
 
-<sub>Concessions et délégations de service public · Expert · 8 min</sub>
+<sub>Histoire de la commande publique · Pratique · 10 min</sub>
 
-Un conseiller général attaque la délibération autorisant un marché de location de véhicules signé par son département ; la voie de droit classique des tiers se révèle inadaptée et le Conseil d'État en construit une nouvelle, ouverte à tout tiers lésé. L'affaire rappelle qu'avant de chercher qui peut attaquer un contrat, il faut le qualifier : marché public ou délégation de service public.
+La ville de Lille avait acheté des pavés à une société privée ; le maire a retenu des pénalités de retard et la société a demandé au Conseil d'État d'annuler ces décisions. Le Conseil d'État rejette la requête : un marché de pures fournitures, conclu selon les règles des contrats entre particuliers, ne relève pas du juge administratif. L'affaire fait naître le critère de la clause exorbitante du droit commun.
 
 **Fiche** · [Qu'est-ce qu'un marché public ? Définition légale et principes fondateurs](bibliotheque/fiches/fiche-definition-marche-public.md)
 
