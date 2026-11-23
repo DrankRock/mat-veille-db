@@ -1,6 +1,6 @@
 # Mat-Veille
 
-<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 23 novembre 2026 à 00:00</sub>
+<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 24 novembre 2026 à 00:00</sub>
 
 ## [Dimanche 15 novembre 2026](veille/2026-11/2026-11-15.md)
 
@@ -11,11 +11,11 @@
 
 ## À lire dans la bibliothèque
 
-**Étude de cas** · [L'affaire Vélib' : le contrôle du juge administratif sur la procédure de passation](bibliotheque/etudes-de-cas/etude-affaire-affaire-velib.md)
+**Étude de cas** · [L'affaire du Mediator : Servier devant le juge pénal, l'État devant le juge administratif](bibliotheque/etudes-de-cas/etude-affaire-affaire-du-mediator.md)
 
-<sub>Procédures de passation · Pratique · 13 min</sub>
+<sub>Achat public en santé et protection sociale · Pratique · **Utile CPAM** · 17 min</sub>
 
-En 2017, JCDecaux, évincé de l'attribution du nouveau marché des vélos en libre-service parisiens, saisit le juge des référés précontractuel, puis conteste la validité du contrat signé avec le groupement Smoovengo : il échoue sur les deux terrains. L'affaire dessine précisément l'office du juge administratif en matière de passation, entre contrôle des obligations de publicité et de mise en concurrence et vérification des griefs allégués par une candidature évincée.
+Le benfluorex, vendu sous le nom de Mediator de 1976 à 2009, a exposé plusieurs millions de patients à des valvulopathies et à une hypertension artérielle pulmonaire. Le laboratoire Servier a été condamné au pénal pour tromperie aggravée et homicides involontaires, tandis que la responsabilité de l'État était recherchée devant le juge administratif pour carence de la police sanitaire, avec un partage de charge entre l'État et le laboratoire.
 
 **Fiche** · [Qu'est-ce qu'un marché public ? Définition légale et principes fondateurs](bibliotheque/fiches/fiche-definition-marche-public.md)
 
