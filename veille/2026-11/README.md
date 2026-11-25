@@ -2,7 +2,14 @@
 
 # Novembre 2026
 
-<sub>‹ [Octobre 2026](../2026-10/README.md) · 13 éditions · 16 actus</sub>
+<sub>‹ [Octobre 2026](../2026-10/README.md) · 14 éditions · 20 actus</sub>
+
+## [Jeudi 26 novembre 2026](2026-11-26.md)
+
+- [Pénalités : le délai de réclamation de l'article 37 du CCAG-FCS ne s'oppose pas au titulaire](2026-11-26/penalites-le-delai-de-reclamation-de-l-article-37-du-ccag-fc.md) <sub>· `Achats` `Budget` · Exécution des marchés · **Toutes les caisses** · Landot & associés · 8.5/10</sub>
+- [Médiation : le Conseil d'État restreindrait son contrôle à la disproportion manifeste](2026-11-26/mediation-le-conseil-d-etat-restreindrait-son-controle-a-la.md) <sub>· `Achats` `Droit (perso)` · Jurisprudence · La Lettre du Cadre Territorial · 6.3/10</sub>
+- [CCAG Travaux : pénalités de retard au 1/3 000, plafond de 10 %](2026-11-26/ccag-travaux-penalites-de-retard-au-1-3-000-plafond-de-10.md) <sub>· `Travaux & maintenance` `Achats` · Exécution des marchés · Reda KOHEN · 6.3/10</sub>
+- [Réclamation en marché public : le contenu de la source n'a pas pu être récupéré](2026-11-26/reclamation-en-marche-public-le-contenu-de-la-source-n-a-pas.md) <sub>· `Achats` `Budget` · Exécution des marchés · La Gazette des Communes · 6.3/10</sub>
 
 ## [Mercredi 25 novembre 2026](2026-11-25.md)
 

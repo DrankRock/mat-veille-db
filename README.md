@@ -1,28 +1,34 @@
 # Mat-Veille
 
-<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 25 novembre 2026 à 22:22</sub>
+<sub>Veille commande publique · CPAM de l'Isère · mise à jour le 26 novembre 2026 à 00:12</sub>
 
-## [Mercredi 25 novembre 2026](veille/2026-11/2026-11-25.md)
+## [Jeudi 26 novembre 2026](veille/2026-11/2026-11-26.md)
 
-<sub>Dernière édition · 3 actus sur 81 contenus examinés</sub>
+<sub>Dernière édition · 4 actus sur 34 contenus examinés</sub>
 
-### [Décret simplification : le renvoi aux marchés modifié au code de l'action sociale](veille/2026-11/2026-11-25/decret-simplification-le-renvoi-aux-marches-modifie-au-code.md)
+### [Pénalités : le délai de réclamation de l'article 37 du CCAG-FCS ne s'oppose pas au titulaire](veille/2026-11/2026-11-26/penalites-le-delai-de-reclamation-de-l-article-37-du-ccag-fc.md)
 
-<sub>`Achats` `Droit (perso)` · Procédures · Journal officiel (Légifrance) · 8.5/10</sub>
+<sub>`Achats` `Budget` · Exécution des marchés · **Toutes les caisses** · Landot & associés · 8.5/10</sub>
 
-Le décret de simplification du 24 novembre 2026 réécrit une phrase de l'article R. 123-21 du code de l'action sociale et des familles, qui listait des marchés passés en procédure adaptée.
+Le Conseil d'État juge que le mémoire de réclamation sous deux mois de l'article 37 du CCAG-FCS ne s'applique pas quand l'acheteur inflige une pénalité en cours d'exécution.
 
-### [Commande publique : l'ingénierie privée dénonce la concurrence des opérateurs publics](veille/2026-11/2026-11-25/commande-publique-l-ingenierie-privee-denonce-la-concurrence.md)
+### [Médiation : le Conseil d'État restreindrait son contrôle à la disproportion manifeste](veille/2026-11/2026-11-26/mediation-le-conseil-d-etat-restreindrait-son-controle-a-la.md)
 
-<sub>`Achats` · Procédures · Batiactu · 6.3/10</sub>
+<sub>`Achats` `Droit (perso)` · Jurisprudence · La Lettre du Cadre Territorial · 6.3/10</sub>
 
-Le baromètre 2026 de la Fédération Cinov montre que les bureaux d'études et cabinets de conseil vivent de la commande publique, mais se disent gênés par la concurrence d'opérateurs publics et parapublics.
+Un titre de La Lettre du Cadre Territorial annonce un arrêt du Conseil d'État limitant le contrôle du juge sur les sommes allouées en médiation. Le corps de l'article n'était pas accessible.
 
-### [Décompte général travaux : article impossible, contenu source non récupéré](veille/2026-11/2026-11-25/decompte-general-travaux-article-impossible-contenu-source-n.md)
+### [CCAG Travaux : pénalités de retard au 1/3 000, plafond de 10 %](veille/2026-11/2026-11-26/ccag-travaux-penalites-de-retard-au-1-3-000-plafond-de-10.md)
 
-<sub>`Travaux & maintenance` `Budget` · Exécution des marchés · Reda KOHEN · 6.3/10</sub>
+<sub>`Travaux & maintenance` `Achats` · Exécution des marchés · Reda KOHEN · 6.3/10</sub>
 
-Le lien fourni renvoie vers une page de consentement aux cookies Google, pas vers l'article annoncé. Aucun contenu juridique exploitable : pas de veille possible sur ce sujet pour l'instant.
+Un article annonce un point sur les pénalités de retard du CCAG Travaux (calcul au 1/3 000, plafond de 10 %, contestation par l'entreprise). Le contenu détaillé n'a pas pu être récupéré.
+
+### [Réclamation en marché public : le contenu de la source n'a pas pu être récupéré](veille/2026-11/2026-11-26/reclamation-en-marche-public-le-contenu-de-la-source-n-a-pas.md)
+
+<sub>`Achats` `Budget` · Exécution des marchés · La Gazette des Communes · 6.3/10</sub>
+
+La page transmise ne contient qu'un écran de consentement aux cookies de Google. Aucune information juridique exploitable n'a pu en être extraite.
 
 ## À lire dans la bibliothèque
 
@@ -42,16 +48,16 @@ Le marché public est un contrat par lequel une personne publique achète des tr
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [mer. 25 nov.](veille/2026-11/2026-11-25.md) | 3 | [Décret simplification : le renvoi aux marchés modifié au code de l'action sociale](veille/2026-11/2026-11-25/decret-simplification-le-renvoi-aux-marches-modifie-au-code.md) |
 | [dim. 15 nov.](veille/2026-11/2026-11-15.md) | — | <sub>Rien de nouveau</sub> |
 | [sam. 14 nov.](veille/2026-11/2026-11-14.md) | 2 | [Critère environnemental mal défini : le TA de Grenoble censure la consultation](veille/2026-11/2026-11-14/critere-environnemental-mal-defini-le-ta-de-grenoble-censure.md) |
 | [ven. 13 nov.](veille/2026-11/2026-11-13.md) | 2 | [Référé précontractuel signé : rejet sauf défaut de publicité et de stand still](veille/2026-11/2026-11-13/refere-precontractuel-signe-rejet-sauf-defaut-de-publicite-e.md) |
 | [jeu. 12 nov.](veille/2026-11/2026-11-12.md) | — | <sub>Rien de nouveau</sub> |
 | [mer. 11 nov.](veille/2026-11/2026-11-11.md) | 2 | [Réduction générale dégressive : calcul dérogatoire lié au salaire minimum professionnel](veille/2026-11/2026-11-11/reduction-generale-degressive-calcul-derogatoire-lie-au-sala.md) |
 | [mar. 10 nov.](veille/2026-11/2026-11-10.md) | — | <sub>Rien de nouveau</sub> |
-| [lun. 9 nov.](veille/2026-11/2026-11-09.md) | 4 | [Énergie : un guide de 100 actions pour réduire les consommations sans travaux](veille/2026-11/2026-11-09/energie-un-guide-de-100-actions-pour-reduire-les-consommatio.md) |
 
 ## Parcourir
 
-- **[Toutes les éditions](veille/README.md)** · 45 éditions, 87 actus, rangées par mois
-- **[Par pôle](poles/README.md)** · [Achats](poles/achats.md) (43) · [Budget](poles/budget.md) (22) · [Patrimoine](poles/patrimoine.md) (8) · [Travaux & maintenance](poles/travaux.md) (13) · [EM2I](poles/em2i.md) (4) · [Droit (perso)](poles/droit.md) (10)
+- **[Toutes les éditions](veille/README.md)** · 46 éditions, 91 actus, rangées par mois
+- **[Par pôle](poles/README.md)** · [Achats](poles/achats.md) (47) · [Budget](poles/budget.md) (24) · [Patrimoine](poles/patrimoine.md) (8) · [Travaux & maintenance](poles/travaux.md) (14) · [EM2I](poles/em2i.md) (4) · [Droit (perso)](poles/droit.md) (11)
 - **[Bibliothèque](bibliotheque/README.md)** · [49 études de cas](bibliotheque/etudes-de-cas/README.md) · [1 fiche](bibliotheque/fiches/README.md) · [0 article](bibliotheque/articles/README.md)

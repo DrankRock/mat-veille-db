@@ -2,12 +2,13 @@
 
 # Droit (perso)
 
-<sub>10 actus · priorité perso</sub>
+<sub>11 actus · priorité perso</sub>
 
 > Droit public et jurisprudence sans effet pratique direct pour un pôle : intérêt personnel de la lectrice.
 
 ## Novembre 2026
 
+- **jeu. 26 nov.** · [Médiation : le Conseil d'État restreindrait son contrôle à la disproportion manifeste](../veille/2026-11/2026-11-26/mediation-le-conseil-d-etat-restreindrait-son-controle-a-la.md) <sub>· Jurisprudence · 6.3/10</sub>
 - **mer. 25 nov.** · [Décret simplification : le renvoi aux marchés modifié au code de l'action sociale](../veille/2026-11/2026-11-25/decret-simplification-le-renvoi-aux-marches-modifie-au-code.md) <sub>· Procédures · 8.5/10</sub>
 - **sam. 14 nov.** · [Marché public ou subvention : une décision du Conseil d'État annoncée](../veille/2026-11/2026-11-14/marche-public-ou-subvention-une-decision-du-conseil-d-etat-a.md) <sub>· Jurisprudence · 6.3/10</sub>
 - **ven. 13 nov.** · [Marché d'avocat : sous-traiter le contentieux à des non-avocats fait perdre l'exemption](../veille/2026-11/2026-11-13/marche-d-avocat-sous-traiter-le-contentieux-a-des-non-avocat.md) <sub>· Procédures · 7/10</sub>

@@ -2,12 +2,13 @@
 
 # Travaux & maintenance
 
-<sub>13 actus · priorité haute</sub>
+<sub>14 actus · priorité haute</sub>
 
 > Marchés de travaux et de maintenance des bâtiments, suivis avec la direction : CCAG travaux, réception des travaux, garanties, maintenance multitechnique, contrôles réglementaires, sécurité incendie, amiante, indices BT.
 
 ## Novembre 2026
 
+- **jeu. 26 nov.** · [CCAG Travaux : pénalités de retard au 1/3 000, plafond de 10 %](../veille/2026-11/2026-11-26/ccag-travaux-penalites-de-retard-au-1-3-000-plafond-de-10.md) <sub>· Exécution des marchés · 6.3/10</sub>
 - **mer. 25 nov.** · [Décompte général travaux : article impossible, contenu source non récupéré](../veille/2026-11/2026-11-25/decompte-general-travaux-article-impossible-contenu-source-n.md) <sub>· Exécution des marchés · 6.3/10</sub>
 - **lun. 9 nov.** · [Énergie : un guide de 100 actions pour réduire les consommations sans travaux](../veille/2026-11/2026-11-09/energie-un-guide-de-100-actions-pour-reduire-les-consommatio.md) <sub>· Immobilier & énergie · **Utile CPAM** · 8.8/10</sub>
 - **lun. 9 nov.** · [Source inaccessible : pas de veille possible sur décret tertiaire et bail commercial](../veille/2026-11/2026-11-09/source-inaccessible-pas-de-veille-possible-sur-decret-tertia.md) <sub>· Immobilier & énergie · **Utile CPAM** · 7.3/10</sub>

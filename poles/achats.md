@@ -2,12 +2,16 @@
 
 # Achats
 
-<sub>43 actus · priorité haute</sub>
+<sub>47 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Novembre 2026
 
+- **jeu. 26 nov.** · [Pénalités : le délai de réclamation de l'article 37 du CCAG-FCS ne s'oppose pas au titulaire](../veille/2026-11/2026-11-26/penalites-le-delai-de-reclamation-de-l-article-37-du-ccag-fc.md) <sub>· Exécution des marchés · **Toutes les caisses** · 8.5/10</sub>
+- **jeu. 26 nov.** · [Médiation : le Conseil d'État restreindrait son contrôle à la disproportion manifeste](../veille/2026-11/2026-11-26/mediation-le-conseil-d-etat-restreindrait-son-controle-a-la.md) <sub>· Jurisprudence · 6.3/10</sub>
+- **jeu. 26 nov.** · [CCAG Travaux : pénalités de retard au 1/3 000, plafond de 10 %](../veille/2026-11/2026-11-26/ccag-travaux-penalites-de-retard-au-1-3-000-plafond-de-10.md) <sub>· Exécution des marchés · 6.3/10</sub>
+- **jeu. 26 nov.** · [Réclamation en marché public : le contenu de la source n'a pas pu être récupéré](../veille/2026-11/2026-11-26/reclamation-en-marche-public-le-contenu-de-la-source-n-a-pas.md) <sub>· Exécution des marchés · 6.3/10</sub>
 - **mer. 25 nov.** · [Décret simplification : le renvoi aux marchés modifié au code de l'action sociale](../veille/2026-11/2026-11-25/decret-simplification-le-renvoi-aux-marches-modifie-au-code.md) <sub>· Procédures · 8.5/10</sub>
 - **mer. 25 nov.** · [Commande publique : l'ingénierie privée dénonce la concurrence des opérateurs publics](../veille/2026-11/2026-11-25/commande-publique-l-ingenierie-privee-denonce-la-concurrence.md) <sub>· Procédures · 6.3/10</sub>
 - **sam. 14 nov.** · [Critère environnemental mal défini : le TA de Grenoble censure la consultation](../veille/2026-11/2026-11-14/critere-environnemental-mal-defini-le-ta-de-grenoble-censure.md) <sub>· Achat durable · **Utile CPAM** · 8/10</sub>
