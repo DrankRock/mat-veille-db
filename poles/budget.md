@@ -2,12 +2,13 @@
 
 # Budget
 
-<sub>21 actus · priorité haute</sub>
+<sub>22 actus · priorité haute</sub>
 
 > Budget de gestion administrative de la caisse et sa comptabilité : LFSS, convention d'objectifs et de gestion, normes comptables des organismes de sécurité sociale (CNoCP), agence comptable, contrôle interne, certification des comptes, facturation électronique (Chorus Pro), délais de paiement, révision des prix.
 
 ## Novembre 2026
 
+- **mer. 25 nov.** · [Décompte général travaux : article impossible, contenu source non récupéré](../veille/2026-11/2026-11-25/decompte-general-travaux-article-impossible-contenu-source-n.md) <sub>· Exécution des marchés · 6.3/10</sub>
 - **mer. 11 nov.** · [Réduction générale dégressive : calcul dérogatoire lié au salaire minimum professionnel](../veille/2026-11/2026-11-11/reduction-generale-degressive-calcul-derogatoire-lie-au-sala.md) <sub>· Santé & protection sociale · **Toutes les caisses** · 8/10</sub>
 - **mer. 11 nov.** · [Facture électronique : un titre évoque une gratuité jusqu'à 75 factures](../veille/2026-11/2026-11-11/facture-electronique-un-titre-evoque-une-gratuite-jusqu-a-75.md) <sub>· Facturation & paiement · **Utile CPAM** · 6.3/10</sub>
 - **lun. 9 nov.** · [Facturation électronique : article du Parisien inaccessible, aucun contenu exploitable](../veille/2026-11/2026-11-09/facturation-electronique-article-du-parisien-inaccessible-au.md) <sub>· Facturation & paiement · **Utile CPAM** · 6.3/10</sub>

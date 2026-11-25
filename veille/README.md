@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>44 éditions · 84 actus depuis le 28 septembre 2026</sub>
+<sub>45 éditions · 87 actus depuis le 28 septembre 2026</sub>
 
 ## [Novembre 2026](2026-11/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [mer. 25 nov.](2026-11/2026-11-25.md) | 3 | [Décret simplification : le renvoi aux marchés modifié au code de l'action sociale](2026-11/2026-11-25/decret-simplification-le-renvoi-aux-marches-modifie-au-code.md) |
 | [dim. 15 nov.](2026-11/2026-11-15.md) | — | <sub>Rien de nouveau</sub> |
 | [sam. 14 nov.](2026-11/2026-11-14.md) | 2 | [Critère environnemental mal défini : le TA de Grenoble censure la consultation](2026-11/2026-11-14/critere-environnemental-mal-defini-le-ta-de-grenoble-censure.md) |
 | [ven. 13 nov.](2026-11/2026-11-13.md) | 2 | [Référé précontractuel signé : rejet sauf défaut de publicité et de stand still](2026-11/2026-11-13/refere-precontractuel-signe-rejet-sauf-defaut-de-publicite-e.md) |

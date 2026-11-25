@@ -2,7 +2,13 @@
 
 # Novembre 2026
 
-<sub>‹ [Octobre 2026](../2026-10/README.md) · 12 éditions · 13 actus</sub>
+<sub>‹ [Octobre 2026](../2026-10/README.md) · 13 éditions · 16 actus</sub>
+
+## [Mercredi 25 novembre 2026](2026-11-25.md)
+
+- [Décret simplification : le renvoi aux marchés modifié au code de l'action sociale](2026-11-25/decret-simplification-le-renvoi-aux-marches-modifie-au-code.md) <sub>· `Achats` `Droit (perso)` · Procédures · Journal officiel (Légifrance) · 8.5/10</sub>
+- [Commande publique : l'ingénierie privée dénonce la concurrence des opérateurs publics](2026-11-25/commande-publique-l-ingenierie-privee-denonce-la-concurrence.md) <sub>· `Achats` · Procédures · Batiactu · 6.3/10</sub>
+- [Décompte général travaux : article impossible, contenu source non récupéré](2026-11-25/decompte-general-travaux-article-impossible-contenu-source-n.md) <sub>· `Travaux & maintenance` `Budget` · Exécution des marchés · Reda KOHEN · 6.3/10</sub>
 
 ## [Dimanche 15 novembre 2026](2026-11-15.md)
 

@@ -2,12 +2,14 @@
 
 # Achats
 
-<sub>41 actus · priorité haute</sub>
+<sub>43 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Novembre 2026
 
+- **mer. 25 nov.** · [Décret simplification : le renvoi aux marchés modifié au code de l'action sociale](../veille/2026-11/2026-11-25/decret-simplification-le-renvoi-aux-marches-modifie-au-code.md) <sub>· Procédures · 8.5/10</sub>
+- **mer. 25 nov.** · [Commande publique : l'ingénierie privée dénonce la concurrence des opérateurs publics](../veille/2026-11/2026-11-25/commande-publique-l-ingenierie-privee-denonce-la-concurrence.md) <sub>· Procédures · 6.3/10</sub>
 - **sam. 14 nov.** · [Critère environnemental mal défini : le TA de Grenoble censure la consultation](../veille/2026-11/2026-11-14/critere-environnemental-mal-defini-le-ta-de-grenoble-censure.md) <sub>· Achat durable · **Utile CPAM** · 8/10</sub>
 - **sam. 14 nov.** · [Marché public ou subvention : une décision du Conseil d'État annoncée](../veille/2026-11/2026-11-14/marche-public-ou-subvention-une-decision-du-conseil-d-etat-a.md) <sub>· Jurisprudence · 6.3/10</sub>
 - **ven. 13 nov.** · [Référé précontractuel signé : rejet sauf défaut de publicité et de stand still](../veille/2026-11/2026-11-13/refere-precontractuel-signe-rejet-sauf-defaut-de-publicite-e.md) <sub>· Procédures · 8/10</sub>
