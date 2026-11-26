@@ -2,7 +2,11 @@
 
 # Novembre 2026
 
-<sub>‹ [Octobre 2026](../2026-10/README.md) · 14 éditions · 20 actus</sub>
+<sub>‹ [Octobre 2026](../2026-10/README.md) · 15 éditions · 21 actus</sub>
+
+## [Vendredi 27 novembre 2026](2026-11-27.md)
+
+- [Facturation électronique public-privé : source inaccessible, à vérifier avant diffusion](2026-11-27/facturation-electronique-public-prive-source-inaccessible-a.md) <sub>· `Budget` `Achats` · Facturation & paiement · **Toutes les caisses** · Acteurs Publics · 8.8/10</sub>
 
 ## [Jeudi 26 novembre 2026](2026-11-26.md)
 

@@ -2,12 +2,13 @@
 
 # Achats
 
-<sub>47 actus · priorité haute</sub>
+<sub>48 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Novembre 2026
 
+- **ven. 27 nov.** · [Facturation électronique public-privé : source inaccessible, à vérifier avant diffusion](../veille/2026-11/2026-11-27/facturation-electronique-public-prive-source-inaccessible-a.md) <sub>· Facturation & paiement · **Toutes les caisses** · 8.8/10</sub>
 - **jeu. 26 nov.** · [Pénalités : le délai de réclamation de l'article 37 du CCAG-FCS ne s'oppose pas au titulaire](../veille/2026-11/2026-11-26/penalites-le-delai-de-reclamation-de-l-article-37-du-ccag-fc.md) <sub>· Exécution des marchés · **Toutes les caisses** · 8.5/10</sub>
 - **jeu. 26 nov.** · [Médiation : le Conseil d'État restreindrait son contrôle à la disproportion manifeste](../veille/2026-11/2026-11-26/mediation-le-conseil-d-etat-restreindrait-son-controle-a-la.md) <sub>· Jurisprudence · 6.3/10</sub>
 - **jeu. 26 nov.** · [CCAG Travaux : pénalités de retard au 1/3 000, plafond de 10 %](../veille/2026-11/2026-11-26/ccag-travaux-penalites-de-retard-au-1-3-000-plafond-de-10.md) <sub>· Exécution des marchés · 6.3/10</sub>
