@@ -70,8 +70,10 @@ Autre inconnue : la source ne dit pas si la fédération demande une évolution 
 | Source | Article | Date |
 | --- | --- | --- |
 | **Batiactu** | [Lire l'original](<https://www.batiactu.com/edito/marches-publics-entreprises-ingenierie-deplorent-concurrence-75943.php>) | 24 nov. |
+| Batiactu | [Syntec Ingénierie alerte sur une baisse de la commande publique](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVBHQjhVWjBVNlNNdGw2ODlXdDB1WGVNdFpRM1FCQmVJaFNiZHRrZk9Wa0NCcHFtU2FkaG5FcUZ0eC12QnI4czU0X2Y1N085OUZzRC00V2Q5SVY2WEU1RUlJd3V6aklGRlNidk5CQk5oN2pvYm9zUFV0RlNOUmFfQ2FLU1dHUG83WUxIUjNOMXgwaS1WOXd2SWd3?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 23 nov. |
+| Batiactu | [Marchés publics : les entreprises de l'ingénierie déplorent une concurrence déséquilibrée](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVFWQjFHVG9IeDJrMkhqR3ZmWFRVb3JPcV96a3BKejBVOElZQ2xwOXV1UDFxSzMwcUF2dkxMcXBDclh4RTU1TzljU21HR1owWThqZzBPc0dtUl9QSkJVTzNqbTRFTUpLWmVrSFVuNU9iYjR2QkNNQlpUeFJlR00xaGZyMkYtcXl2UDVySXJPTzZyT2tzc2RpdWYxdnN3am9Zd2w4?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 24 nov. |
 
-<sub>Source unique · 1 source</sub>
+<sub>Source unique · 3 sources</sub>
 
 <sub>Mots-clés : cinov, ingénierie, accès commande publique, baromètre, concurrence</sub>
 

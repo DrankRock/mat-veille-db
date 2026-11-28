@@ -2,7 +2,15 @@
 
 # Novembre 2026
 
-<sub>‹ [Octobre 2026](../2026-10/README.md) · 15 éditions · 21 actus</sub>
+<sub>‹ [Octobre 2026](../2026-10/README.md) · 16 éditions · 26 actus</sub>
+
+## [Samedi 28 novembre 2026](2026-11-28.md)
+
+- [Versement forfaitaire à l'Acoss : une décision publiée au Journal officiel](2026-11-28/versement-forfaitaire-a-l-acoss-une-decision-publiee-au-jour.md) <sub>· `Budget` · Budget & comptabilité · **Toutes les caisses** · Journal officiel (Légifrance) · 9/10</sub>
+- [Un décret crée l'autorité de référence de l'IA et du numérique de l'Etat](2026-11-28/un-decret-cree-l-autorite-de-reference-de-l-ia-et-du-numeriq.md) <sub>· `Achats` `Droit (perso)` · Dématérialisation · Journal officiel (Légifrance) · 7.5/10</sub>
+- [IA en santé : un guide CNIL-HAS en 11 fiches, de l'achat à la fin de vie du système](2026-11-28/ia-en-sante-un-guide-cnil-has-en-11-fiches-de-l-achat-a-la-f.md) <sub>· `Achats` `Droit (perso)` · Santé & protection sociale · **Toutes les caisses** · Landot & associés · 7.5/10</sub>
+- [Arrêt de chantier : article inaccessible, aucune veille possible](2026-11-28/arret-de-chantier-article-inaccessible-aucune-veille-possibl.md) <sub>· `Travaux & maintenance` · Exécution des marchés · **Utile CPAM** · Reda KOHEN · 6.3/10</sub>
+- [Source inaccessible : page de consentement Google, aucun contenu juridique exploitable](2026-11-28/source-inaccessible-page-de-consentement-google-aucun-conten.md) <sub>· `Travaux & maintenance` `Achats` · Exécution des marchés · **Utile CPAM** · Reda KOHEN · 6.3/10</sub>
 
 ## [Vendredi 27 novembre 2026](2026-11-27.md)
 

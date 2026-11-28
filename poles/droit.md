@@ -2,12 +2,14 @@
 
 # Droit (perso)
 
-<sub>11 actus · priorité perso</sub>
+<sub>13 actus · priorité perso</sub>
 
 > Droit public et jurisprudence sans effet pratique direct pour un pôle : intérêt personnel de la lectrice.
 
 ## Novembre 2026
 
+- **sam. 28 nov.** · [Un décret crée l'autorité de référence de l'IA et du numérique de l'Etat](../veille/2026-11/2026-11-28/un-decret-cree-l-autorite-de-reference-de-l-ia-et-du-numeriq.md) <sub>· Dématérialisation · 7.5/10</sub>
+- **sam. 28 nov.** · [IA en santé : un guide CNIL-HAS en 11 fiches, de l'achat à la fin de vie du système](../veille/2026-11/2026-11-28/ia-en-sante-un-guide-cnil-has-en-11-fiches-de-l-achat-a-la-f.md) <sub>· Santé & protection sociale · **Toutes les caisses** · 7.5/10</sub>
 - **jeu. 26 nov.** · [Médiation : le Conseil d'État restreindrait son contrôle à la disproportion manifeste](../veille/2026-11/2026-11-26/mediation-le-conseil-d-etat-restreindrait-son-controle-a-la.md) <sub>· Jurisprudence · 6.3/10</sub>
 - **mer. 25 nov.** · [Décret simplification : le renvoi aux marchés modifié au code de l'action sociale](../veille/2026-11/2026-11-25/decret-simplification-le-renvoi-aux-marches-modifie-au-code.md) <sub>· Procédures · 8.5/10</sub>
 - **sam. 14 nov.** · [Marché public ou subvention : une décision du Conseil d'État annoncée](../veille/2026-11/2026-11-14/marche-public-ou-subvention-une-decision-du-conseil-d-etat-a.md) <sub>· Jurisprudence · 6.3/10</sub>

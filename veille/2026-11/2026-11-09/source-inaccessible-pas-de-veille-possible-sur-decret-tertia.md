@@ -25,8 +25,9 @@ Aucun point de vigilance juridique ne peut être tiré de cette page. Le seul co
 | Source | Article | Date |
 | --- | --- | --- |
 | **Kohen Avocats** | [Lire l'original](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX3Z2Z2xLbUswWkVERzFvZzMyaC1FQzJ5WU1scWFOZy1rUnNmM21POURCQm85X0t1SzdIelphWVlVZzJLc2MwOTNNT2laaTg0MzdiRUlEcFllbzZ6X1pzX2FwOUx4VHhBNWI3aFBDSzhVek8yOUw1ZTAwVEtXM193NGI0djNfTGpROFhUREZjSVB4dDRXSUcyWEFicl9EUTZTMF9XM2s5eDRIS1RQOE1IZUhVbmNpMjBFYkNkVVV2WTN1a0lFTHRVeU5aYkVmNUdn?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 8 nov. |
+| DigiTechnologie | [Décret tertiaire : l’audit énergétique est-il obligatoire ?](<https://consent.google.com/m?continue=https://news.google.com/rss/articles/CBMiigFBVV95cUxPeUhxbDdyVnJMS3JJbkZpV045ZWlPQXJSVHdpWXZKRGZfWFRCTktyOUNwRFFSSnhMcEtjdmo5YzQ0akZRY1UxMGZrSGhJYklZVnMwdHJ2eDhMY3N6d1E2RXJwOVdma3RNbGJuMDZucWlDMk9rdF9oa1BjRUhWLXFLYTcyNS1sX2tzemc?oc%3D5&gl=FR&m=0&pc=n&cm=2&hl=fr&src=1>) | 27 nov. |
 
-<sub>Source unique · 1 source</sub>
+<sub>Recoupé · 2 sources</sub>
 
 <sub>Mots-clés : décret tertiaire, operat, bail commercial, travaux, valeur locative</sub>
 

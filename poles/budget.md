@@ -2,12 +2,13 @@
 
 # Budget
 
-<sub>25 actus · priorité haute</sub>
+<sub>26 actus · priorité haute</sub>
 
 > Budget de gestion administrative de la caisse et sa comptabilité : LFSS, convention d'objectifs et de gestion, normes comptables des organismes de sécurité sociale (CNoCP), agence comptable, contrôle interne, certification des comptes, facturation électronique (Chorus Pro), délais de paiement, révision des prix.
 
 ## Novembre 2026
 
+- **sam. 28 nov.** · [Versement forfaitaire à l'Acoss : une décision publiée au Journal officiel](../veille/2026-11/2026-11-28/versement-forfaitaire-a-l-acoss-une-decision-publiee-au-jour.md) <sub>· Budget & comptabilité · **Toutes les caisses** · 9/10</sub>
 - **ven. 27 nov.** · [Facturation électronique public-privé : source inaccessible, à vérifier avant diffusion](../veille/2026-11/2026-11-27/facturation-electronique-public-prive-source-inaccessible-a.md) <sub>· Facturation & paiement · **Toutes les caisses** · 8.8/10</sub>
 - **jeu. 26 nov.** · [Pénalités : le délai de réclamation de l'article 37 du CCAG-FCS ne s'oppose pas au titulaire](../veille/2026-11/2026-11-26/penalites-le-delai-de-reclamation-de-l-article-37-du-ccag-fc.md) <sub>· Exécution des marchés · **Toutes les caisses** · 8.5/10</sub>
 - **jeu. 26 nov.** · [Réclamation en marché public : le contenu de la source n'a pas pu être récupéré](../veille/2026-11/2026-11-26/reclamation-en-marche-public-le-contenu-de-la-source-n-a-pas.md) <sub>· Exécution des marchés · 6.3/10</sub>

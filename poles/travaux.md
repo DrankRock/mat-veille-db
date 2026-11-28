@@ -2,12 +2,14 @@
 
 # Travaux & maintenance
 
-<sub>14 actus · priorité haute</sub>
+<sub>16 actus · priorité haute</sub>
 
 > Marchés de travaux et de maintenance des bâtiments, suivis avec la direction : CCAG travaux, réception des travaux, garanties, maintenance multitechnique, contrôles réglementaires, sécurité incendie, amiante, indices BT.
 
 ## Novembre 2026
 
+- **sam. 28 nov.** · [Arrêt de chantier : article inaccessible, aucune veille possible](../veille/2026-11/2026-11-28/arret-de-chantier-article-inaccessible-aucune-veille-possibl.md) <sub>· Exécution des marchés · **Utile CPAM** · 6.3/10</sub>
+- **sam. 28 nov.** · [Source inaccessible : page de consentement Google, aucun contenu juridique exploitable](../veille/2026-11/2026-11-28/source-inaccessible-page-de-consentement-google-aucun-conten.md) <sub>· Exécution des marchés · **Utile CPAM** · 6.3/10</sub>
 - **jeu. 26 nov.** · [CCAG Travaux : pénalités de retard au 1/3 000, plafond de 10 %](../veille/2026-11/2026-11-26/ccag-travaux-penalites-de-retard-au-1-3-000-plafond-de-10.md) <sub>· Exécution des marchés · 6.3/10</sub>
 - **mer. 25 nov.** · [Décompte général travaux : article impossible, contenu source non récupéré](../veille/2026-11/2026-11-25/decompte-general-travaux-article-impossible-contenu-source-n.md) <sub>· Exécution des marchés · 6.3/10</sub>
 - **lun. 9 nov.** · [Énergie : un guide de 100 actions pour réduire les consommations sans travaux](../veille/2026-11/2026-11-09/energie-un-guide-de-100-actions-pour-reduire-les-consommatio.md) <sub>· Immobilier & énergie · **Utile CPAM** · 8.8/10</sub>

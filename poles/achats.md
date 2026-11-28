@@ -2,12 +2,15 @@
 
 # Achats
 
-<sub>48 actus · priorité haute</sub>
+<sub>51 actus · priorité haute</sub>
 
 > Passation et stratégie d'achat de la caisse : procédures, seuils, mutualisation avec l'Ucanss, l'UGAP ou les caisses de la région, clauses sociales et environnementales, relation fournisseurs.
 
 ## Novembre 2026
 
+- **sam. 28 nov.** · [Un décret crée l'autorité de référence de l'IA et du numérique de l'Etat](../veille/2026-11/2026-11-28/un-decret-cree-l-autorite-de-reference-de-l-ia-et-du-numeriq.md) <sub>· Dématérialisation · 7.5/10</sub>
+- **sam. 28 nov.** · [IA en santé : un guide CNIL-HAS en 11 fiches, de l'achat à la fin de vie du système](../veille/2026-11/2026-11-28/ia-en-sante-un-guide-cnil-has-en-11-fiches-de-l-achat-a-la-f.md) <sub>· Santé & protection sociale · **Toutes les caisses** · 7.5/10</sub>
+- **sam. 28 nov.** · [Source inaccessible : page de consentement Google, aucun contenu juridique exploitable](../veille/2026-11/2026-11-28/source-inaccessible-page-de-consentement-google-aucun-conten.md) <sub>· Exécution des marchés · **Utile CPAM** · 6.3/10</sub>
 - **ven. 27 nov.** · [Facturation électronique public-privé : source inaccessible, à vérifier avant diffusion](../veille/2026-11/2026-11-27/facturation-electronique-public-prive-source-inaccessible-a.md) <sub>· Facturation & paiement · **Toutes les caisses** · 8.8/10</sub>
 - **jeu. 26 nov.** · [Pénalités : le délai de réclamation de l'article 37 du CCAG-FCS ne s'oppose pas au titulaire](../veille/2026-11/2026-11-26/penalites-le-delai-de-reclamation-de-l-article-37-du-ccag-fc.md) <sub>· Exécution des marchés · **Toutes les caisses** · 8.5/10</sub>
 - **jeu. 26 nov.** · [Médiation : le Conseil d'État restreindrait son contrôle à la disproportion manifeste](../veille/2026-11/2026-11-26/mediation-le-conseil-d-etat-restreindrait-son-controle-a-la.md) <sub>· Jurisprudence · 6.3/10</sub>

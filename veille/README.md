@@ -2,12 +2,13 @@
 
 # Toutes les éditions
 
-<sub>47 éditions · 92 actus depuis le 28 septembre 2026</sub>
+<sub>48 éditions · 97 actus depuis le 28 septembre 2026</sub>
 
 ## [Novembre 2026](2026-11/README.md)
 
 | Jour | Actus | À la une |
 | --- | --- | --- |
+| [sam. 28 nov.](2026-11/2026-11-28.md) | 5 | [Versement forfaitaire à l'Acoss : une décision publiée au Journal officiel](2026-11/2026-11-28/versement-forfaitaire-a-l-acoss-une-decision-publiee-au-jour.md) |
 | [ven. 27 nov.](2026-11/2026-11-27.md) | 1 | [Facturation électronique public-privé : source inaccessible, à vérifier avant diffusion](2026-11/2026-11-27/facturation-electronique-public-prive-source-inaccessible-a.md) |
 | [jeu. 26 nov.](2026-11/2026-11-26.md) | 4 | [Pénalités : le délai de réclamation de l'article 37 du CCAG-FCS ne s'oppose pas au titulaire](2026-11/2026-11-26/penalites-le-delai-de-reclamation-de-l-article-37-du-ccag-fc.md) |
 | [mer. 25 nov.](2026-11/2026-11-25.md) | 3 | [Décret simplification : le renvoi aux marchés modifié au code de l'action sociale](2026-11/2026-11-25/decret-simplification-le-renvoi-aux-marches-modifie-au-code.md) |
